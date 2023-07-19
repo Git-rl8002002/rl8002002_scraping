@@ -1,0 +1,17 @@
+2023-04-04 04:09:49 , tech , watchOS 10 將有重大更新？彭博：用戶介面有顯著提升 , https://technews.tw/2023/04/03/watchos-10/
+2023-04-04 04:24:40 , tech , 6,000 元還沒入帳免緊張，數位部：「失敗」再重新登記就好 , https://technews.tw/2023/04/02/moda-6000-2/
+2023-04-04 07:47:30 , tech , CNN：拼多多 App 監控手機，專家稱前所未見 , https://technews.tw/2023/04/04/cnn-pinduoduo-app/
+2023-04-04 07:49:02 , tech , 台灣開搶國外半導體人才，向全球前 500 大頂尖大學招手 , https://technews.tw/2023/04/04/taiwan-is-robbing-foreign-semiconductor-talents/
+2023-04-04 09:56:32 , tech , 俄軍轟炸、網路攻擊、撤離伺服器、貨幣貶值，看烏克蘭銀行如何面對戰爭衝擊 , https://finance.technews.tw/2023/04/04/how-ukraine-banks-face-to-war/
+2023-04-04 10:41:45 , tech , 中國製造業漸漸復甦，為何仍難以重回「世界工廠」地位？ , https://technews.tw/2023/04/04/chinas-factory-activity-stuns-with-fastest-growth-in-a-decade/
+2023-04-04 10:53:45 , tech , Google Assistant 人事大地震！Bard AI 融入或取代 Google 助理 , https://technews.tw/2023/04/04/bard-ai-will-integrate-or-replace-the-google-assistant-application-field/
+2023-04-04 10:56:46 , tech , 馬斯克用柴犬圖案取代「推特鳥」，狗狗幣大漲 20％ , https://technews.tw/2023/04/04/twitter-bird-to-shiba-inu/
+2023-04-04 11:53:43 , tech , 為什麼美國人離不開中國 App？中國公司「刺繡」策略擄獲西方 Z 世代 , https://finance.technews.tw/2023/04/04/why-americans-can-not-do-without-chinese-apps/
+2023-04-04 12:32:32 , tech , GPT-4 老闆：AI 可能會殺死人類，已經出現我們無法解釋的推理能力 , https://technews.tw/2023/04/04/gpt-4-ai-reasoning-ability/
+2023-04-04 12:32:42 , tech , 量子位 , https://technews.tw/author/qbitai/
+2023-04-04 12:34:04 , tech , 台積電法說會 4/20 登場，聚焦全球布局等 4 大議題 , https://finance.technews.tw/2023/04/04/tsmc-corporate-briefing/
+2023-04-04 14:53:40 , tech , 普發現金來了，學者：消費國旅雙管齊下拚內需 , https://finance.technews.tw/2023/04/04/universal-cash-travel-tw/
+2023-04-04 16:32:37 , tech , 馬斯克用柴犬圖案取代「Twitter 鳥」，狗狗幣大漲 20％ , https://technews.tw/2023/04/04/twitter-bird-to-shiba-inu/
+2023-04-04 17:19:17 , tech , GPT-4 老闆：AI 可能會殺死人類，已經出現無法解釋的推理能力 , https://technews.tw/2023/04/04/gpt-4-ai-reasoning-ability/
+2023-04-04 17:41:43 , tech , 新型 3D 混凝土列印技術「Shell Wall」，牆壁減輕 70% , https://technews.tw/2023/04/04/new-3dcp/
+2023-04-04 18:23:31 , tech , 從廢棄太陽能板提取「奈米矽」，材料重回乾淨能源產業鏈 , https://technews.tw/2023/04/04/recycle-solar-panels/

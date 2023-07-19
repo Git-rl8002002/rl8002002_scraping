@@ -1,0 +1,64 @@
+2023-02-24 07:53:15 , tech , 2023 年全球固網寬頻市場發展趨勢 , https://technews.tw/2023/02/24/landline-market-development-trend/
+2023-02-24 08:02:14 , tech , 生成式 AI、電動車帶旺四大族群！台股科技基金三個月飆 6% 以上 , https://finance.technews.tw/2023/02/24/technology-fund/
+2023-02-24 08:11:14 , tech , 馬斯克宣布 Twitter 變開源，演算法原始碼下週公開 , https://technews.tw/2023/02/24/elon-musk-says-twitter-will-open-source-its-algorithm-next-week-after-supporting-the-idea-for-months/
+2023-02-24 08:23:14 , tech , 全球搶搭聊天機器人熱潮，台灣供應鏈能沾 AI 光？ , https://technews.tw/2023/02/24/taiwan-supply-chain-benefits-from-ai-development/
+2023-02-24 08:24:46 , tech , 抗生素抗藥性沒時間了！《巴斯德法案》為什麼被當作唯一解方？ , https://technews.tw/2023/02/24/pasteur-act/
+2023-02-24 08:26:06 , tech , 微軟收購動視暴雪還剩最後一關 , https://finance.technews.tw/2023/02/24/microsofts-acquisition-of-activision-blizzard-has-the-last-hurdle-left/
+2023-02-24 08:35:16 , tech , ChatGPT 低成本再現流程開源！任意單張消費級顯卡可體驗，顯存需求低至 1.62GB , https://technews.tw/2023/02/24/chatgpts-low-cost-recurrence-process-is-open-source/
+2023-02-24 08:52:32 , tech , 比摸骨還神奇！全新仿生手指一摸就能畫出人／物體內構造 , https://technews.tw/2023/02/24/this-bionic-finger-uses-touch-to-see-inside-human-tissue-electronics/
+2023-02-24 08:53:13 , tech , 金管會解除 4 大救市措施，國安基金暫無退場規劃 , https://technews.tw/2023/02/24/taiwan-stocks-4-major-rescue-measures-exited/
+2023-02-24 08:53:23 , tech , 生技醫療將成下一個兆元產業！法人：相關類股已有顯著成長 , https://technews.tw/2023/02/24/the-next-trillion-dollar-industry/
+2023-02-24 08:55:55 , tech , 歐洲碳價每公噸首度破 100 歐元，經部：台廠衝擊有限 , https://technews.tw/2023/02/24/european-carbon-price/
+2023-02-24 09:00:08 , tech , 台商 PCB 製造去年營收創高，今年估回穩拚成長 , https://technews.tw/2023/02/24/taiwans-pcb-manufacturing-hit-record-high-last-year/
+2023-02-24 09:04:54 , tech , 半導體展開庫存去化，1 月工業生產指數年減二成連 5 黑 , https://technews.tw/2023/02/24/semiconductor-expansion-destocking/
+2023-02-24 09:11:05 , tech , 童子賢：科技業景氣上半年灰色黯淡，到夏天逐漸明朗 , https://finance.technews.tw/2023/02/24/technology-industry-boom-in-the-first-half-of-the-year/
+2023-02-24 09:29:04 , tech , 日媒：台積電計畫建第二間熊本廠，投資額超過 1 兆日圓 , https://technews.tw/2023/02/24/tsmc-second-japan-plant/
+2023-02-24 09:30:35 , tech , 高盛：Fed 今年肯定不降息，會軟著陸、不會不著陸 , https://finance.technews.tw/2023/02/24/the-fed-would-not-cut-interest-rates-this-year/
+2023-02-24 09:38:25 , tech , 日媒：台積電計劃建第二間熊本廠，投資額超過 1 兆日圓 , https://technews.tw/2023/02/24/tsmc-second-japan-plant/
+2023-02-24 09:56:25 , tech , 鴻海製造電動車歷史性首次召回，Lordstown 皮卡車緊急停產 , https://technews.tw/2023/02/24/lordstown-pause-production/
+2023-02-24 10:05:25 , tech , 三星邁開低軌衛星步伐，推出 5G NTN 技術支援雙向通訊 , https://technews.tw/2023/02/24/samsung-leo/
+2023-02-24 10:06:56 , tech , 美拚 2030 年建 2 大半導體聚落，抗衡台灣等晶片寡頭 , https://technews.tw/2023/02/24/u-s-will-create-at-least-two-semiconductor-manufacturing-clusters-by-2030/
+2023-02-24 10:20:29 , tech , 因應加拿大新法，Google 測試阻用戶取得新聞內容 , https://technews.tw/2023/02/24/google-tests-blocking-news-content-for-some-canadians/
+2023-02-24 10:29:29 , tech , Netflix 應對競爭祭大降價，恐失定價權股價重挫 3% , https://finance.technews.tw/2023/02/24/netflix-cuts-subscription-prices-in-over-30-countries/
+2023-02-24 10:31:00 , tech , Q4 財報反映價格侵蝕、產品結構差，美系外資評富采「劣於大盤」 , https://finance.technews.tw/2023/02/24/ennostar-q4-financial-report/
+2023-02-24 10:41:29 , tech , 美銀：生成式 AI 未來可望讓晶片年產值增加 200 億美元 , https://technews.tw/2023/02/24/nvidia-other-chip-companies-race-to-cash-in-on-chatgpt-frenzy/
+2023-02-24 10:42:50 , tech , 看好緯穎受惠 AI 應用，外資給予 860 元目標價刺激股價逼近漲停 , https://finance.technews.tw/2023/02/24/optimistic-about-wiwynn-benefiting-from-ai-applications/
+2023-02-24 10:44:21 , tech , Netflix 對付競爭祭出大降價，恐失定價權股價重挫 3% , https://finance.technews.tw/2023/02/24/netflix-cuts-subscription-prices-in-over-30-countries/
+2023-02-24 10:53:27 , tech , 爭美晶片補貼：台積電質疑英特爾拿錢不辦事，AMD 認同 , https://technews.tw/2023/02/24/chip-makers-turn-cutthroat-in-fight-for-share-of-federal-money/
+2023-02-24 10:59:27 , tech , 誤導？Google Play 商店隱私標籤顯示 TikTok「不會與第三方共享數據」 , https://technews.tw/2023/02/24/google-play-privacy/
+2023-02-24 11:05:14 , tech , 鴻海投資 Lordstown 電動車首次召回，產線暫停運作 , https://technews.tw/2023/02/24/lordstown-pause-production/
+2023-02-24 11:11:25 , tech , Google 實驗證明降低量子運算錯誤率，在量子糾錯達成里程碑 , https://technews.tw/2023/02/24/google-claims-milestone-in-quantum-error-correction/
+2023-02-24 11:26:25 , tech , 換日本智庫兵推，台灣若遭侵略將造成國軍 13,000 人傷亡 , https://technews.tw/2023/02/24/japan-think-tank-released-its-military-simulation-result/
+2023-02-24 11:27:46 , tech , Google 實驗證明降低量子運算錯誤率，量子糾錯達成里程碑 , https://technews.tw/2023/02/24/google-claims-milestone-in-quantum-error-correction/
+2023-02-24 11:32:26 , tech , 美科技鎖喉戰升級，將限制韓廠在中國生產先進晶片 , https://technews.tw/2023/02/24/us-to-limit-south-korea-production-of-advanced-chips-in-china/
+2023-02-24 11:56:25 , tech , 除草劑惡化腸道發炎！陽明交大攜手哈佛研究登《Nature》國際期刊 , https://technews.tw/2023/02/24/ibd/
+2023-02-24 12:11:16 , tech , 日媒指熊本建第二座廠，台積電：有考慮但無進一步資訊 , https://finance.technews.tw/2023/02/24/tsmc-second-fab-in-kumamoto-has-no-progress-update/
+2023-02-24 12:47:25 , tech , 新發現早期宇宙 6 個大型星系，理論支撐不了它們的存在 , https://technews.tw/2023/02/24/james-webb-telescope-galaxy-early-universe/
+2023-02-24 14:11:28 , tech , 大摩：現階段 ChatGPT 可放大工作效率，難取代人 , https://technews.tw/2023/02/24/chatgpt-is-difficult-to-replace-people/
+2023-02-24 14:26:27 , tech , YCC 何去何從？日銀將上任總裁稱續寬鬆，殖利率軟 , https://finance.technews.tw/2023/02/24/bank-of-japan-will-continue-qe-yields-fall-slightly/
+2023-02-24 14:35:27 , tech , 鴻海董座劉揚偉親赴鄭州廠視察，以穩定 iPhone 產線 , https://finance.technews.tw/2023/02/24/foxconn-29/
+2023-02-24 14:36:48 , tech , 軍工新股抽起來！龍德造船 2/24 起申購、抽中一張賺 6.34 萬元 , https://finance.technews.tw/2023/02/24/military-stocks/
+2023-02-24 14:41:29 , tech , 輝達財測報喜、AI 需求熱轉，封測供應鏈搭順風車 , https://technews.tw/2023/02/24/the-packaging-and-testing-supply-chain-benefits-from-ai-trends/
+2023-02-24 14:43:00 , tech , 還沒買的趕快，賓利轉型純電將淘汰 12 缸引擎 , https://technews.tw/2023/02/24/bentley-phase-out-v12-engine/
+2023-02-24 15:20:35 , tech , 氣體雲拉伸成蝌蚪狀，銀河系發現中等質量黑洞新候選對象 , https://technews.tw/2023/02/21/molecular-cloud-black-hole-milky-way/
+2023-02-24 15:20:55 , tech , 富采董事改選大變動！傳董座李秉傑計畫交棒退休，彭双浪接任呼聲大 , https://technews.tw/2023/02/24/ennostar-auo/
+2023-02-24 15:21:16 , tech , 輝達飆激勵費半，屏息等待 PCE、標普震盪 , https://technews.tw/2023/02/24/us-stock-0223/
+2023-02-24 15:26:27 , tech , 主計總處估 CPI 預測值 2.16%！央行理事張建一：個人認為有升息空間 , https://finance.technews.tw/2023/02/24/interest-rate-hike/
+2023-02-24 15:27:59 , tech , 調研：入門智慧手機出貨量在主要東南亞國家現反彈 , https://technews.tw/2023/02/24/entry-level-smartphone/
+2023-02-24 15:50:28 , tech , 百萬股東注意！中鋼配發特別股每股 1.4 元、普通股每股 1 元 , https://finance.technews.tw/2023/02/24/wsd/
+2023-02-24 15:51:59 , tech , 陸台幹報稅倒數計時，中國開始清查高收入族群 , https://finance.technews.tw/2023/02/24/tax/
+2023-02-24 16:17:27 , tech , 因為市況，AMD 刪減台積電 5 奈米 EPYC 伺服器處理器產能 , https://technews.tw/2023/02/24/amd-cuts-tsmcs-5nm-epyc-server-processor-production-capacity/
+2023-02-24 16:20:27 , tech , 全球股市反彈到頂？專家估：未來 3 個月慎防修正 , https://finance.technews.tw/2023/02/24/global-stock-markets-watch-out-for-falls-in-next-3-months/
+2023-02-24 16:32:26 , tech , NASA 火星偵察軌道衛星直擊，祝融號火星車一動也不動 , https://technews.tw/2023/02/24/zhurong-rover-mars-reconnaissance-orbiter/
+2023-02-24 16:33:53 , tech , 台幹報稅倒數計時，中國開始清查高收入族群 , https://finance.technews.tw/2023/02/24/tax/
+2023-02-24 16:37:56 , tech , 對話式 AI 讓搜尋成本增 10 倍，對 Google 大不利 , https://technews.tw/2023/02/24/ai-like-microsoft-bing-and-google-bard-poses-billion-dollar-search-problem/
+2023-02-24 16:52:57 , tech , Rapidus 首座晶圓廠地點呼之欲出，鄰近新千歲機場受青睞 , https://finance.technews.tw/2023/02/24/rapidus-first-fab-will-be-next-to-new-chitose-airport-in-hokkaido/
+2023-02-24 16:54:28 , tech , iPhone 15 Pro 特殊色定調深紅色？傳 iPhone 15 有粉紅、淺藍 , https://technews.tw/2023/02/24/iphone-15-pro-410d0d/
+2023-02-24 17:03:10 , tech , 因應市況，AMD 刪減台積電 5 奈米 EPYC 伺服器處理器產能 , https://technews.tw/2023/02/24/amd-cuts-tsmcs-5nm-epyc-server-processor-production-capacity/
+2023-02-24 17:44:25 , tech , 日媒踢爆銷日電動巴士使用劇毒化學物質，中國比亞迪承認了 , https://technews.tw/2023/02/24/byd-hino-ev/
+2023-02-24 17:56:16 , tech , 慧洋 2022 每股賺 14.16 元創新高！今年將購入 2 艘 Handy 加入船隊 , https://finance.technews.tw/2023/02/24/handy/
+2023-02-24 18:26:16 , tech , 從醫學教育聯結臨床研究！安邦策略長：生技產需要更多跨領域人才 , https://technews.tw/2023/02/24/clinical-research/
+2023-02-24 18:47:25 , tech , Netflix 證實亞太市場部分降價，不含台灣 , https://technews.tw/2023/02/24/netflix-partial-price-cuts-in-the-asia-pacific-market-excluding-taiwan/
+2023-02-24 19:08:17 , tech , 第一代經營者交棒！富采董座李秉傑證實退休：年輕一代起來很重要 , https://finance.technews.tw/2023/02/24/ennostar-q4-financial-report-2/
+2023-02-24 19:26:28 , tech , 聯發科去年每股純益 74.59 元，擬配息 76 元創新高 , https://finance.technews.tw/2023/02/24/mediatek-earnings-per-share-74-59ntd-2022/
+2023-02-24 23:08:06 , tech , 從三天收工打到週年，回顧烏俄戰爭各階段關鍵軍武 , https://technews.tw/2023/02/24/russo-ukraianian-war-1-year-review/

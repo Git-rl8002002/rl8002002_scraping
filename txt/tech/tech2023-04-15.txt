@@ -1,0 +1,12 @@
+2023-04-15 00:41:59 , tech , 被覆寫的托勒密手稿 200 年後破譯 , https://technews.tw/2023/04/15/hidden-ptolemy-text-printed-beneath-a-latin-manuscript-deciphered-after-200-years/
+2023-04-15 09:26:59 , tech , 鹽漬作物封存地底，新型「負碳排」技術出爐 , https://technews.tw/2023/04/15/salted-crops/
+2023-04-15 09:56:58 , tech , 你吃的麥當勞炸雞是 AI 養大的！與「雞屎」奮戰半年，創 AI 體重機攻入卜蜂大成養雞場 , https://technews.tw/2023/04/15/ichase/
+2023-04-15 10:51:19 , tech , 最新地緣角力戰場在這！這行業熱到搶聘高中生，讓美國衰退城鎮大回春 , https://technews.tw/2023/04/15/america-newest-geopolitical-battleground/
+2023-04-15 10:52:41 , tech , 限制一籮筐，補助金恐與資本支出不成比例！美晶片法案看得到吃不下，台積電兩難 , https://finance.technews.tw/2023/04/15/usa-chip-act-vs-tsmc/
+2023-04-15 10:54:18 , tech , 挑戰 OpenAI，馬斯克成立 AI 新創 X.AI , https://technews.tw/2023/04/15/elon-musk-plans-ai-startup-to-rival-openai/
+2023-04-15 11:42:19 , tech , 和瑪利歐、馬斯克的「分靈體」聊天，新創 Character.AI 獲 a16z 投資躍升獨角獸 , https://technews.tw/2023/04/15/character-ai-received-investment-from-a16z-and-became-a-unicorn/
+2023-04-15 11:43:41 , tech , 中國 3 倍薪搶半導體人才？中高階獵人頭揭真相 , https://technews.tw/2023/04/15/headhunting-semiconductor/
+2023-04-15 14:30:12 , tech , SpaceX 星艦獲美國 FAA 批准，最快 4/17 首飛測試 , https://technews.tw/2023/04/15/faa-grants-spacex-a-license-to-launch-its-starship-rocket/
+2023-04-15 16:48:09 , tech , 開價 10 億美元，傳 SEGA 收購憤怒鳥開發商 , https://finance.technews.tw/2023/04/15/sega-nears-deal-for-angry-birds-game-maker-rovio-entertainment/
+2023-04-15 16:51:09 , tech , 半導體業期盼政府推國家戰略，專家：應以目標導向 , https://technews.tw/2023/04/15/semiconductor-in-taiwan/
+2023-04-15 17:18:19 , tech , 台積電第 2 季營運恐續降，市場聚焦全年展望 , https://finance.technews.tw/2023/04/15/tsmc-corporate-23q1-briefing/

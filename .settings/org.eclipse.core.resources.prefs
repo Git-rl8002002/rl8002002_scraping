@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//flask/src/flask/__init__.py=utf-8
+encoding//flask/src/flask/__main__.py=utf-8
+encoding//flask/src/flask/globals.py=utf-8
+encoding//flask/src/flask/json/__init__.py=utf-8
+encoding//flask/src/flask/json/tag.py=utf-8
+encoding//flask/src/flask/logging.py=utf-8
+encoding//flask/src/flask/sessions.py=utf-8
+encoding//flask/tests/conftest.py=utf-8
+encoding//flask/tests/test_logging.py=utf-8
+encoding/scraping.py=utf-8
+encoding/scraping_dao.py=utf-8

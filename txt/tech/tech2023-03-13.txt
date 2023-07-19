@@ -1,0 +1,67 @@
+2023-03-13 07:44:19 , tech , 高通發表 Auto 5G Modem-RF Gen 2，大幅改善處理能力 , https://technews.tw/2023/03/13/qualcomm-auto-5g-modem-rf-gen-2/
+2023-03-13 07:45:51 , tech , 中國晶圓廠增速放緩，產能進行結構性調整 , https://technews.tw/2023/03/13/cn-structural-adjustment/
+2023-03-13 08:08:15 , tech , 俄烏戰爭推升需求，法國軍武廠達利斯大舉雇用 1.2 萬人 , https://technews.tw/2023/03/13/frances-thales-plans-to-hire-12000-as-defense-orders-surge/
+2023-03-13 08:17:17 , tech , 微軟 Azure OpenAI Service 加入 ChatGPT 俱樂部，3/13 開始計費 , https://technews.tw/2023/03/13/chatgpt-is-now-available-in-microsofts-azure-openai-service/
+2023-03-13 08:41:17 , tech , 新一波半導體設備出口中國限制最快下月公布，限制設備將翻倍增加 , https://technews.tw/2023/03/13/a-new-wave-of-semiconductor-equipment-export-restrictions-to-china-will-be-announced-as-soon-as-next-month/
+2023-03-13 08:42:49 , tech , 提供厭倦 Twitter 的替代品？Meta 考慮開發新社群平台 , https://technews.tw/2023/03/13/twitter-meta-p92-instagram-social-app/
+2023-03-13 08:44:10 , tech , 不寫程式，也能拿千萬年薪！AI 大浪催生新職業「AI 溝通師」 , https://technews.tw/2023/03/13/ais-rise-generates-new-job-title-prompt-engineer/
+2023-03-13 08:50:17 , tech , 矽谷銀行倒閉，專家：衝擊小但恐影響 Fed 3 月升息幅度 , https://finance.technews.tw/2023/03/13/svb-influences-feds-rate-hike-in-march/
+2023-03-13 08:51:38 , tech , 論文被撤的團隊捲土重來，再提出一款新型室溫超導材料 , https://technews.tw/2023/03/13/superconductor-room-temperature-lutetium/
+2023-03-13 08:52:59 , tech , 健康的電池公司需要哪些人才？ , https://technews.tw/2023/03/13/battery-company-talents/
+2023-03-13 08:54:30 , tech , 台美 21 世紀貿易倡議讓誰受益？看齊美國有望提升台人「薪情」 , https://finance.technews.tw/2023/03/13/the-impact-of-the-taiwan-us-21st-century-trade-initiative-on-taiwan/
+2023-03-13 08:54:41 , tech , 台灣銀行家 , https://technews.tw/author/taiwanbanker/
+2023-03-13 09:02:27 , tech , 加密貨幣友善銀行 Signature 被接管，Coinbase 陷入大麻煩 , https://finance.technews.tw/2023/03/13/signature-bank-coinbase-crypto/
+2023-03-13 09:03:58 , tech , 馬斯克有興趣收購 SVB？特斯拉投資人捏把冷汗 , https://finance.technews.tw/2023/03/13/is-musk-interested-in-buying-svb/
+2023-03-13 09:08:26 , tech , SVB 存款傳近九成「未受保護」，日大企業恐受影響 , https://finance.technews.tw/2023/03/13/nearly-90-percent-of-svb-deposits-are-unprotected/
+2023-03-13 09:26:25 , tech , SVB 崩潰衝擊擴大，科技新創恐現欠薪、裁員 , https://finance.technews.tw/2023/03/13/svb-collapse-impact-expands-technology-startups-fear-wage-arrears-and-layoffs/
+2023-03-13 10:14:37 , tech , 美國財政部、聯準會、FDIC 聯合聲明：SVB、Signature Bank 存戶可取回所有存款 , https://finance.technews.tw/2023/03/13/signature-bank-svb-fed-coin-fdic/
+2023-03-13 10:15:58 , tech , 穩定 SVB 衝擊美短債殖利率走跌！投資人篤定聯準會不敢大幅升息 , https://finance.technews.tw/2023/03/13/after-bank-actions/
+2023-03-13 10:29:41 , tech , SVB 暴雷引發銀行股齊殺，高盛：危機入市良機 , https://finance.technews.tw/2023/03/13/buy-the-dip-in-banks-as-the-silicon-valley-bank-crisis-is-unlikely-to-spread/
+2023-03-13 11:05:39 , tech , 傳選定德國德勒斯登設廠，台積電：尚在評估中 , https://technews.tw/2023/03/13/tsmc-dresden-evaluate/
+2023-03-13 11:20:39 , tech , SVB 倒閉燒幣圈，USDC 發行商驚傳被卡 33 億美元 , https://finance.technews.tw/2023/03/13/circles-stablecoin-banked-at-svb-and-guess-what-happened-next/
+2023-03-13 11:22:10 , tech , 美國矽谷銀行倒閉對台灣造成衝擊？經濟部長王美花回應 , https://finance.technews.tw/2023/03/13/silicon/
+2023-03-13 11:26:36 , tech , iPhone 銷售前景分析師轉保守看待，下修蘋果評級 , https://finance.technews.tw/2023/03/13/apple-stock-downgraded-to-sell-by-analysts/
+2023-03-13 11:32:18 , tech , 一週掛掉三間銀行，加密貨幣友善銀行 Signature 被接管 , https://finance.technews.tw/2023/03/13/signature-bank-coinbase-crypto/
+2023-03-13 11:38:31 , tech , SVB 引爆金融風暴！彭博：數位時代迎來更快的銀行擠兌潮 , https://finance.technews.tw/2023/03/13/digital-bank-svb/
+2023-03-13 11:56:41 , tech , 傳蘋果 2024 年推搭 7 吋面板 HomePod，郭明錤點名中國天馬受益 , https://ccc.technews.tw/2023/03/13/2024-7-inch-display-homepod/
+2023-03-13 12:08:38 , tech , iPhone 15 模型流出，換上 USB-C、穿不上 iPhone 14 護殼 , https://technews.tw/2023/03/13/iphone-15-5/
+2023-03-13 12:17:37 , tech , iPhone 15 模型流出，換成 USB-C、穿不上 iPhone 14 護殼 , https://technews.tw/2023/03/13/iphone-15-5/
+2023-03-13 12:23:38 , tech , 降低對中國依賴，ASML 供應商可能前往東南亞設廠 , https://technews.tw/2023/03/13/asml-suppliers-may-go-to-southeast-asia-to-set-up-factories/
+2023-03-13 12:41:31 , tech , SVB 引爆金融風暴！彭博：數位時代迎接更快速銀行擠兌潮 , https://finance.technews.tw/2023/03/13/digital-bank-svb/
+2023-03-13 12:44:38 , tech , 傳選定德國德勒斯登設廠，台積電：尚在評估 , https://technews.tw/2023/03/13/tsmc-dresden-evaluate/
+2023-03-13 12:44:38 , tech , 被 FDIC 接管前幾個小時，矽谷銀行員工收到 2022 年終獎金 , https://finance.technews.tw/2023/03/13/svb-employees-received-bonuses/
+2023-03-13 13:21:58 , tech , iPhone 15 模型流出，換成 USB-C、穿不上 iPhone 14 保護殼 , https://technews.tw/2023/03/13/iphone-15-5/
+2023-03-13 13:26:39 , tech , 新蓋智慧工廠反而限制 Nissan 電動休旅車 Ariya 產能，年產 15 萬難達標 , https://technews.tw/2023/03/13/nissan-ariya-prdocutuon-issue/
+2023-03-13 13:41:38 , tech , 三星 4 奈米良率 60% 落後台積電，預計今年量產第三代 4 奈米搶市場 , https://technews.tw/2023/03/13/samsung-expects-to-mass-produce-the-third-generation-4nm-process-in-the-first-half-of-2023/
+2023-03-13 13:47:38 , tech , 印度廟宇改用機器大象祭祀，大象也「失業」 , https://technews.tw/2023/03/13/indian-temples-use-mechanical-elephants-for-sacrifices/
+2023-03-13 13:53:37 , tech , 台電通霄發電廠採用 GE 航改燃氣渦輪機，供應最高達 18 萬瓩電力 , https://technews.tw/2023/03/13/taipowers-tongxiao-power-plant-uses-ge-aeroderivative-gas-turbines/
+2023-03-13 14:05:44 , tech , 微軟終於肯在 Word 加入純文字貼上快捷鍵 , https://technews.tw/2023/03/13/paste-text-only-shortcut-in-microsoft-word/
+2023-03-13 14:35:42 , tech , 南韓央行緊盯 SVB 風險，如必要將採取措施救市 , https://finance.technews.tw/2023/03/13/bok-svb/
+2023-03-13 14:37:04 , tech , 矽谷銀行關閉，朱澤民：不會重演雷曼兄弟事件 , https://finance.technews.tw/2023/03/13/svb-lehman-brothers-problem-taiwan/
+2023-03-13 14:44:41 , tech , 美國矽谷銀行破產風暴！法人：美股重挫拖累新興亞股表現 , https://finance.technews.tw/2023/03/13/bankruptcy-storm/
+2023-03-13 14:46:12 , tech , 2022 年第四季前十大晶圓代工產值季減 4.7%，今年第一季持續下滑 , https://finance.technews.tw/2023/03/13/2022q4-wafer-top10/
+2023-03-13 14:50:38 , tech , WWDC 推不推 AR/VR 眼鏡？傳蘋果內部出現分歧 , https://finance.technews.tw/2023/03/13/2023-wwdc-ar-vr/
+2023-03-13 14:59:39 , tech , 發射範圍內船隻亂入、上級燃油壓力過低，人族 1 號火箭二度取消發射 , https://technews.tw/2023/03/13/terran-1-rocket-relativity-space-3d-printing/
+2023-03-13 15:08:40 , tech , 低碳≠ESG 怎麼投資？法人：可從知名 ESG 指數對成分股篩選標的 , https://finance.technews.tw/2023/03/13/low-carbon-esg/
+2023-03-13 15:20:43 , tech , 如何心甘情願回辦公室？專家：改掉開放式空間還給員工隱私 , https://technews.tw/2023/03/13/the-key-point-to-back-to-office/
+2023-03-13 15:21:54 , tech , 越製 Galaxy S23、S23+ 有硬體瑕疵？論壇：拍照出現「香蕉狀模糊」 , https://technews.tw/2023/03/13/galaxy-s23-7/
+2023-03-13 15:29:40 , tech , 海愈深愈有優勢，浮動式離岸風電將成台灣發展機會 , https://technews.tw/2023/03/13/wea-2023-offshore-wind-power/
+2023-03-13 15:47:39 , tech , 日本先鋒開發保存期限達一世紀藍光光碟與光碟機，但售價不便宜 , https://technews.tw/2023/03/13/100-year-shelf-life-blu-ray-disc-and-cd-rom-drive/
+2023-03-13 15:56:05 , tech , WWDC 推不推 AR / VR 眼鏡？傳蘋果出現分歧 , https://finance.technews.tw/2023/03/13/2023-wwdc-ar-vr/
+2023-03-13 16:21:23 , tech , 威剛 2022 年每股 EPS 為 3.19 元，擬配發 2 元現金股利 , https://technews.tw/2023/03/13/adatas-eps-of-3-19-yuan-per-share-in-2022/
+2023-03-13 16:22:45 , tech , 待融資到位，海龍將創國內最高 ECA 信用擔保比例 , https://technews.tw/2023/02/22/eca-taiwan/
+2023-03-13 16:23:56 , tech , 馬斯克購入 10,500 股特斯拉股票，TSLA 終於止跌 , https://technews.tw/2023/03/13/elon-musk-buyback-tesla-stock/
+2023-03-13 16:24:06 , tech , SM 娛樂經營權大戰，BTS 經紀公司宣布中止併購 , https://technews.tw/2023/03/13/hybe-interrupts-acquisition-of-sm-entertainment/
+2023-03-13 16:24:17 , tech , Silver Lake 傳將收購 Qualtrics，金額寫今年最大 , https://technews.tw/2023/03/13/silver-lake-may-acquires-qualtrics/
+2023-03-13 16:26:39 , tech , SVB 倒地連生技新創商也受波及，美生技股 ETF 跳水 , https://finance.technews.tw/2023/03/13/svb-biological-technology-etf/
+2023-03-13 16:35:40 , tech , SVB 倒閉兩週前，執行長 Greg Becker 突賣股套現 227 萬美元 , https://finance.technews.tw/2023/03/13/svb-ceo-greg-becker-cashed-out-money/
+2023-03-13 16:37:01 , tech , 怕戰爭時被拋棄，美軍尋求與 SpaceX 簽訂特殊合約 , https://technews.tw/2023/03/13/the-pentagon-and-spacex-is-reaching-new-deal-for-not-being-abandon-like-ukraine/
+2023-03-13 16:38:10 , tech , WSJ：美國為貨幣和財政實驗，付出通膨、金融恐慌代價 , https://finance.technews.tw/2023/03/13/wsj-svb-dodd-frank/
+2023-03-13 16:50:38 , tech , 從文字內容跨足影片，傳微軟即將發表 GPT-4 模型 , https://technews.tw/2023/03/13/gpt-4-will-be-introduced-next-week-and-it-may-let-you-create-ai-generated-videos/
+2023-03-13 16:59:37 , tech , 蘇聯解體後首次，伊朗正式向俄羅斯採購 Su-35 戰機 , https://technews.tw/2023/03/13/iran-and-russia-are-reaching-agreement-to-buy-24-su35s/
+2023-03-13 17:17:37 , tech , 全球首創 ADC 雙效抗癌藥物！旭富旗下嘉正砸 6.9 億元獲生技中心技轉 , https://finance.technews.tw/2023/03/13/adc/
+2023-03-13 17:19:08 , tech , 群創攜元太、冠捷等合作夥伴，將電子紙導入全聯生鮮麵包區 , https://technews.tw/2023/03/13/innolux-29/
+2023-03-13 17:30:18 , tech , 日本 Pioneer 開發保存期限達一世紀藍光光碟與光碟機，但售價不便宜 , https://technews.tw/2023/03/13/100-year-shelf-life-blu-ray-disc-and-cd-rom-drive/
+2023-03-13 17:59:37 , tech , 瞄準 5G 小型基地台！漢威光電推全球最高效率無線通訊功率放大器 , https://technews.tw/2023/03/13/hexawave-ennostar/
+2023-03-13 18:17:39 , tech , 美國政府出手救 SVB 穩定市場！法人：聯準會鷹派預期降溫 , https://finance.technews.tw/2023/03/13/stabilize-the-market/
+2023-03-13 18:47:29 , tech , 蝦皮遭指個資外洩高風險，數位部：已處分限期改正 , https://technews.tw/2023/03/13/shopee-leak-personal-data/

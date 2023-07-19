@@ -1,0 +1,73 @@
+2023-04-28 07:17:25 , tech , TrendForce：電視面板 5 月回到現金成本，Q3 最關鍵 , https://technews.tw/2023/04/28/trend-force-see-about-panel/
+2023-04-28 07:29:25 , tech , 一彈多用成趨勢，美軍 M3E1 新砲彈可隨時改變攻擊模式 , https://technews.tw/2023/04/28/us-army-m3e1-is-getting-new-programmable-rounds/
+2023-04-28 08:08:37 , tech , 電子製造業布局越南前景分析 , https://technews.tw/2023/04/28/electronics-manufacturing-vietnam-layout/
+2023-04-28 08:14:36 , tech , 世衛：COVID-19 死亡大減 95%，病毒仍在變異 , https://technews.tw/2023/04/28/the-covid-19-virus-is-still-mutating/
+2023-04-28 08:15:58 , tech , 馬斯克 Twitter 分身帳號曝光，曾問「大家是否喜歡日本女生」 , https://ccc.technews.tw/2023/04/28/another-twitter-account-for-musk-was-discovered-elon-test/
+2023-04-28 08:23:37 , tech , 首款針對 AI 管制法條，歐盟要求 ChatGPT 需詳列引用的版權資料 , https://technews.tw/2023/04/28/eu-is-publishing-new-laws-that-chatgpt-will-disclose-all-copyright-sources/
+2023-04-28 08:25:10 , tech , 老當益壯的微軟，危機四伏的 Google , https://finance.technews.tw/2023/04/28/microsoft-vs-google-2023q1-fr/
+2023-04-28 08:44:36 , tech , 無螢幕全聲控的 AI 應用體驗，新創公司 Humane 線上展示 AI 投影穿戴式裝置 , https://technews.tw/2023/04/28/heres-a-video-of-humanes-wearable-ai-projector-in-action/
+2023-04-28 08:47:34 , tech , 沙國王儲訪中隱藏任務？引進中國技術大規模監控人民 , https://technews.tw/2023/04/28/the-saudi-crown-prince-wants-to-build-a-trillion-dollar-utopia-in-the-desert/
+2023-04-28 09:02:33 , tech , 美商微軟增資台灣公司 4.3 億美元，投審會通過 , https://finance.technews.tw/2023/04/28/4-major-investment-cases/
+2023-04-28 09:04:05 , tech , Terra 聯合創辦人 Daniel Shin 被南韓檢方移交審判 , https://technews.tw/2023/04/28/south-korea-prosecutes-terraform-labs-co-founder-daniel-shin/
+2023-04-28 09:23:41 , tech , 連七退，全球智慧型手機出貨量持續低迷 , https://technews.tw/2023/04/28/idc-smartphone-3/
+2023-04-28 09:29:41 , tech , 日 Rapidus：將研發 1.4 奈米晶片，需日本政府全面支援 , https://technews.tw/2023/04/28/rapidus-japanese-government/
+2023-04-28 09:38:45 , tech , 廣告市場降溫，Snap 營收不佳前景失色、盤後挫 20% , https://finance.technews.tw/2023/04/28/snapchat-snap-q1-financial-reporting/
+2023-04-28 10:00:21 , tech , 財報季信心提振，道瓊指數上漲 1.57% , https://technews.tw/2023/04/28/us-stock-0427/
+2023-04-28 10:00:31 , tech , 富邦金擬配現金 1.5 元，總股利 2 元較去年腰斬 , https://technews.tw/2023/04/28/fubon-dividend/
+2023-04-28 10:02:44 , tech , 不再只依賴 iPhone，Apple Watch 可望同時與 iPad、Mac 同步 , https://technews.tw/2023/04/28/apple-watch-iphone-ipad-mac/
+2023-04-28 10:04:17 , tech , 英特爾 Q1 虧損創新高但估 H2 毛利率重回 40%，盤後揚 , https://finance.technews.tw/2023/04/28/intel-reports-first-quarter-2023-financial-results/
+2023-04-28 10:23:48 , tech , 日半導體廠黃金週不停工，Sony CMOS 滿載生產 , https://technews.tw/2023/04/28/japan-golden-week-working/
+2023-04-28 10:25:10 , tech , 德國進行半導體用化學品管制出口中國討論 , https://technews.tw/2023/04/28/germany-discusses-export-control-of-chemicals-used-in-semiconductors-to-china/
+2023-04-28 10:26:43 , tech , 亞馬遜財報財測讚、AWS 營益年減兩成，盤後下跌 , https://finance.technews.tw/2023/04/28/amazon-com-announces-first-quarter-results/
+2023-04-28 10:38:45 , tech , 價格戰傷，英特爾自駕部門 Mobileye 砍財測、股價摔 16% , https://finance.technews.tw/2023/04/28/mobileye-discloses-first-quarter-2023-results/
+2023-04-28 10:53:43 , tech , 三星指 3 奈米 GAA 製程收益穩定，第二代製程如期 2024 年推出 , https://technews.tw/2023/04/28/samsung-points-to-stable-revenue-for-3nm-gaa-process/
+2023-04-28 10:55:15 , tech , 新開案動起來，IC 設計下半年拚增動能 , https://technews.tw/2023/04/28/ic-design-second-half-kinetic-energy/
+2023-04-28 10:56:47 , tech , Toyota 氫能重卡車驅動系統，取得加州零排放認證 , https://technews.tw/2023/04/28/toyota-zero-emission-fcev-hd-truck/
+2023-04-28 11:11:43 , tech , 明年看不到？Micro LED Apple Watch 推出時程推遲至 2025 年 , https://technews.tw/2023/04/28/micro-led-apple-watch-3/
+2023-04-28 11:13:16 , tech , 微軟收購動視暴雪恐破局，Sony 最大贏家股價躍 3% , https://technews.tw/2023/04/28/microsofts-activision-loss-is-sonys-gain/
+2023-04-28 11:17:46 , tech , 英特爾第一季獲利暴跌卻盤後股價大漲，看看陸行之怎麼說 , https://finance.technews.tw/2023/04/28/intels-first-quarter-profit-slumps-but-shares-soar-after-hours/
+2023-04-28 11:23:51 , tech , 封測廠 Q2 營運回升有限，寄望下半場衝刺 , https://technews.tw/2023/04/28/package-test-second-half/
+2023-04-28 11:41:50 , tech , Google Authenticator 新功能未採端到端加密，安全人員籲先別啟用 , https://technews.tw/2023/04/28/google-authenticator-sync-is-not-end-to-end-encrypted/
+2023-04-28 11:43:22 , tech , 叫車平台 Lyft 新官上任，先裁員 1/4 省成本 , https://technews.tw/2023/04/28/tech-lyft-to-cut-1072-employees/
+2023-04-28 11:44:45 , tech , 配合 iPhone 15「改口」，USB-C EarPods 已開始量產 , https://ccc.technews.tw/2023/04/28/usb-c-earpods/
+2023-04-28 11:47:49 , tech , 青年失業率太高，中國政府歸咎年輕人拒絕勞動工作 , https://technews.tw/2023/04/28/the-reason-of-china-youth-jobless/
+2023-04-28 12:02:49 , tech , Dropbox 宣布裁減 16% 員工，同步招募新 AI 專才 , https://finance.technews.tw/2023/04/28/dropbox-lays-off-500-employees/
+2023-04-28 12:04:11 , tech , 電視面板 5 月報價估續漲；IT 阻力較大 , https://technews.tw/2023/04/28/tv-panel-price-may/
+2023-04-28 12:11:53 , tech , 青年失業率太高，中國政府歸咎年輕人拒絕勞力工作 , https://technews.tw/2023/04/28/the-reason-of-china-youth-jobless/
+2023-04-28 12:14:36 , tech , 叫車平台 Lyft 新官上任，先裁員 26% 省成本 , https://technews.tw/2023/04/28/tech-lyft-to-cut-1072-employees/
+2023-04-28 12:20:35 , tech , 叫車平台 Lyft 新官上任，先裁員 25% 省成本 , https://technews.tw/2023/04/28/tech-lyft-to-cut-1072-employees/
+2023-04-28 12:26:45 , tech , 還記得紅極一時 Clubhouse？解封後迅速沒落，如今面臨大裁員 50% , https://technews.tw/2023/04/28/clubhouse-lays-off-employees/
+2023-04-28 12:28:18 , tech , 面試用 ChatGPT 解答 LeetCode？專家：過度依賴 AI 並不恰當 , https://technews.tw/2023/04/28/leetcode/
+2023-04-28 12:32:48 , tech , 記憶體價格將止跌？TrendForce：需求疲弱，僅低價產品止跌非全面 , https://technews.tw/2023/04/28/only-low-priced-products-stop-falling-not-comprehensive/
+2023-04-28 12:56:46 , tech , SES-imagotag 獲沃爾瑪 ESL 大單，元太、晶宏股價漲停鎖死 , https://technews.tw/2023/04/28/ses-imagotag-announces-latest-generation-vusion-platform-roll-out-contract-in-us-walmart-stores/
+2023-04-28 13:35:50 , tech , 台灣 2022 年人均 GDP 再度超越南韓，達到 3 萬 2,811 美元 , https://technews.tw/2023/04/28/taiwans-per-capita-gdp-surpasses-that-of-south-korea-in-2022/
+2023-04-28 14:23:45 , tech , WSJ：台美雙重課稅，阻礙台晶片鏈赴美投資 , https://technews.tw/2023/04/28/double-tax-hinders-taiwans-investment-in-american-factories/
+2023-04-28 14:45:56 , tech , 配合 iPhone 15「改口」，USB-C EarPods 開始量產 , https://ccc.technews.tw/2023/04/28/usb-c-earpods/
+2023-04-28 14:50:51 , tech , 增程版天弓三型飛彈射高 70 公里，中科院「強弓專案」完成作戰測試 , https://technews.tw/2023/04/28/tien-kung-iii-er-has-passed-battle-tests-and-prepare-to-go-mass-production/
+2023-04-28 14:52:23 , tech , 博世將收購 TSI Semiconductors，預計 2026 年將生產碳化矽晶片 , https://technews.tw/2023/04/28/bosch-to-acquire-tsi-semiconductors/
+2023-04-28 14:53:55 , tech , 研調：Q1 全球智慧手機出貨量年減 13%，三星居冠 , https://technews.tw/2023/04/28/q1-smartphone-shipments-down-13percent/
+2023-04-28 14:54:54 , tech , 英特爾第一季獲利暴跌卻盤後大漲，看陸行之怎麼說 , https://finance.technews.tw/2023/04/28/intels-first-quarter-profit-slumps-but-shares-soar-after-hours/
+2023-04-28 14:56:46 , tech , 美封殺新疆棉，越南成衣廠受創最重、現裁員潮 , https://technews.tw/2023/04/28/the-united-states-bans-the-import-of-xinjiang-cotton-and-its-products/
+2023-04-28 15:20:48 , tech , 才誓言加速自動化，沃爾瑪藉助 AI 和供應商談價 , https://finance.technews.tw/2023/04/28/walmart-uses-ai-to-negotiate-prices-with-suppliers/
+2023-04-28 15:35:52 , tech , Saab 雖死但其靈魂投入祕密電動車，現在這個靈魂也要賣了 , https://technews.tw/2023/04/28/saab-secret-ev-project-for-sale/
+2023-04-28 15:37:02 , tech , 博世收購 TSI Semiconductors，2026 年生產碳化矽晶片 , https://technews.tw/2023/04/28/bosch-to-acquire-tsi-semiconductors/
+2023-04-28 15:38:48 , tech , 章魚體內首次植入電極讀取思想，發現前所未見的腦波 , https://technews.tw/2023/04/28/octopus-brain-wave/
+2023-04-28 15:41:37 , tech , 台灣 2022 年人均 GDP 再度超越南韓，達 3 萬 2,811 美元 , https://technews.tw/2023/04/28/taiwans-per-capita-gdp-surpasses-that-of-south-korea-in-2022/
+2023-04-28 16:05:50 , tech , PC 市況低迷，微軟停產「Microsoft」品牌鍵鼠、網路攝影機 , https://ccc.technews.tw/2023/04/28/microsoft-will-no-longer-manufacture-mice-keyboards-and-webcams-that-are-microsoft-branded/
+2023-04-28 16:26:45 , tech , 聯發科第一季 EPS 10.64 元為九季新低，第二季營收預期正負成長 4% , https://finance.technews.tw/2023/04/28/mediateks-first-quarter-eps-was-nt10-64/
+2023-04-28 16:37:05 , tech , Saab 雖死但靈魂投入祕密電動車，現在這靈魂也要賣了 , https://technews.tw/2023/04/28/saab-secret-ev-project-for-sale/
+2023-04-28 16:44:45 , tech , 大摩：AI 可協助科技企業開發 6 兆美元線下支出商機 , https://technews.tw/2023/04/28/ai-can-help-develop-offline-business-opportunities/
+2023-04-28 17:02:51 , tech , 聯發科：庫存雖下降但消費動能仍低，下修 2023 年智慧手機預期需求 , https://finance.technews.tw/2023/04/28/although-the-channel-inventory-has-declined-the-consumption-momentum-is-still-low/
+2023-04-28 17:04:23 , tech , 連自家人也討厭？蘋果員工對 Siri 抱持懷疑態度 , https://technews.tw/2023/04/28/siri-3/
+2023-04-28 17:38:46 , tech , 提升廣告投報率、顧客滿意度，Appier 怎麼玩生成式 AI？ , https://technews.tw/2023/04/28/integrating-generative-ai-algorithm-and-chatgpt-into-appier-products/
+2023-04-28 17:40:09 , tech , 傳 iPadOS 17 有特別版，專為大尺寸 iPad 開發 , https://technews.tw/2023/04/28/special-version-ipados-17/
+2023-04-28 17:41:42 , tech , 利空出盡？營收幾乎沒成長，Meta 股價五個月內飆漲 170% , https://finance.technews.tw/2023/04/28/meta-shares-up-170-in-five-months/
+2023-04-28 17:53:49 , tech , 宜特第一季營收年增 12.18% 創歷史次高，每股 EPS 為 1.31 元 , https://finance.technews.tw/2023/04/28/istgroup-first-quarter-revenue-up-12-18-year-on-year/
+2023-04-28 18:11:38 , tech , 惠科積極投資 OLED 技術，南韓顯示設備業者持懷疑態度 , https://finance.technews.tw/2023/04/28/hkc-oled-plan/
+2023-04-28 18:18:48 , tech , 聯發科：庫存下降但消費動能仍低，下修 2023 年智慧手機需求 , https://finance.technews.tw/2023/04/28/although-the-channel-inventory-has-declined-the-consumption-momentum-is-still-low/
+2023-04-28 18:20:20 , tech , 連自家人也討厭？蘋果員工對 Siri 持懷疑態度 , https://technews.tw/2023/04/28/siri-3/
+2023-04-28 18:23:14 , tech , 聯發科第一季 EPS 10.64 元為九季新低，第二季營收預期成長 ±4% , https://finance.technews.tw/2023/04/28/mediateks-first-quarter-eps-was-nt10-64/
+2023-04-28 18:26:49 , tech , 達擎智慧行動辦公艙解決方案，首度導入桃機候機室 , https://technews.tw/2023/04/28/auodplus-2/
+2023-04-28 18:28:11 , tech , 維持成長動能，台達 Q1 電動車表現年增 100％ , https://technews.tw/2023/04/28/delta-electric-car-q1/
+2023-04-28 18:47:41 , tech , 第一季經濟成長率下探 -3.02%，金融海嘯來最差表現 , https://finance.technews.tw/2023/04/28/economic-growth-rate-in-the-first-quarter-was-negative-3-02/
+2023-04-28 19:08:51 , tech , momo 第一季營收續創同期新高，每股賺 4.07 元 , https://finance.technews.tw/2023/04/28/momo-2023-q1-earnings/

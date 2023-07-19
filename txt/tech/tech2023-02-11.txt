@@ -1,0 +1,12 @@
+2023-02-11 00:00:35 , tech , 我們現在可以聽到美麗星星的「聲音」 , https://technews.tw/2023/02/11/voice-of-the-stars-rs-puppis/
+2023-02-11 00:24:33 , tech , 方向盤脫落 Tesla 苦主獲退款換車，廠方強調涉事車輛不存在品質問題 , https://technews.tw/2023/02/11/tesla-agrees-to-replace-the-car-whose-steering-wheel-fell-off-in-january/
+2023-02-11 07:54:32 , tech , 奇景光電 2023 年營收年減逾 2 成，預估 2023 年第一季後逐季成長 , https://finance.technews.tw/2023/02/11/himaxs-revenue-in-2023-will-be-reduced-by-more-than-20/
+2023-02-11 09:18:32 , tech , 高雄本洲產業園區七成廢水都靠它！連 2 年營收創新高，平和 10 年磨三劍，拚成廢水處理救援王 , https://finance.technews.tw/2023/02/11/ping-ho-environmental-industrial-wastewater-treatment/
+2023-02-11 09:36:31 , tech , 情人節就要來了，小資族快用火烤兩用電煮鍋變出法式大餐 , https://ccc.technews.tw/2023/02/11/valentines-day/
+2023-02-11 10:03:32 , tech , 微軟、Google 都有，CP 值最高的 AI 線上課程一次看！職缺薪水都看漲 , https://technews.tw/2023/02/11/7-best-ai-courses-for-2023/
+2023-02-11 10:30:32 , tech , 台積電用大數據減碳，連供應商也不放過 , https://technews.tw/2023/02/11/tsmc-big-data-carbon-reduction/
+2023-02-11 10:42:32 , tech , 拆解聯發科展望，神祕的聯「衛」晶片出貨中 , https://finance.technews.tw/2023/02/11/mediatek-secret-chip/
+2023-02-11 11:09:32 , tech , 一天調降 4 次價格，以色列新創把機票飯店「動態定價」制用在即期食品 , https://technews.tw/2023/02/11/wasteless-dynamic-pricing/
+2023-02-11 16:51:32 , tech , 不只膝蓋中箭，ChatGPT 與遊戲結合或將是遊戲產業未來 , https://ccc.technews.tw/2023/02/11/players-combined-chatgpt-with-sandbox-games/
+2023-02-11 17:42:33 , tech , ChatGPT 概念股竄紅，分析師：台廠實質受惠有限 , https://finance.technews.tw/2023/02/11/analysis-said-chatgpt-has-limited-benefit-for-taiwanese-firms/
+2023-02-11 21:18:32 , tech , 周邊商品還是要賺，Apple 或將替 iPhone 15 的 USB-C 設計特殊元件 , https://ccc.technews.tw/2023/02/11/rumor-said-apple-is-designing-new-circuit-board-for-iphone15s-usb-c-port/

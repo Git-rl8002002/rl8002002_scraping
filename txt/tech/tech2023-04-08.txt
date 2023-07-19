@@ -1,0 +1,14 @@
+2023-04-08 01:59:34 , tech , 觀測到星系外部分子氣體流，證實恆星形成理論 , https://technews.tw/2023/04/08/theory-of-star-formation-confirmed/
+2023-04-08 02:00:45 , tech , 《科學》期刊 , https://www.science.org/doi/10.1126/science.abh2150
+2023-04-08 09:53:47 , tech , AI、台積電都不能沒它！跨國購併 8 年磨合，長興角落小部門翻身載板隱形冠軍 , https://finance.technews.tw/2023/04/08/eternal-precision-mechanics/
+2023-04-08 09:56:48 , tech , 為何植田和男接下日本央行這燙手山芋，首務是趕走市場禿鷹，而非穩住日圓、控制通膨？ , https://finance.technews.tw/2023/04/08/kazuo-ueda-needs-to-face-japan-economic-difficult-issues/
+2023-04-08 10:35:55 , tech , 電動車推升需求，2028 年澳洲鋰出口將媲美煤炭 , https://technews.tw/2023/04/08/australian-lithium-exports/
+2023-04-08 10:37:27 , tech , 單價太高，台消費者可能無緣 Google Pixel Fold , https://technews.tw/2023/04/08/google-pixel-fold-in-taiwan/
+2023-04-08 10:50:54 , tech , 「不想把主控權交給蘋果這樣的公司」，Rivian 堅不採 CarPlay , https://technews.tw/2023/04/08/rivian-carplay/
+2023-04-08 11:08:57 , tech , 一句話自動產生 SQL 語法，瞄準數據處理的 Numbers Station 獲近 4 億元募資 , https://finance.technews.tw/2023/04/08/numbers-station-raises-17-5m-to-bring-ai-to-your-data-stack/
+2023-04-08 11:29:53 , tech , 當哈佛大學人文社科都導入 AI，台灣呢？ , https://technews.tw/2023/04/08/harvard-university-ai/
+2023-04-08 11:45:07 , tech , 快更新 iOS 16.4.1，官方修復「已被積極利用」安全漏洞 , https://technews.tw/2023/04/08/ios-16-4-1/
+2023-04-08 12:10:10 , tech , 愛普*3月營收月增30.4% , https://finance.technews.tw/2023/04/08/ap-memory-6531-202303-financial-report/
+2023-04-08 14:45:25 , tech , 創意、世芯無預警出現殺盤！金管會調查投信炒股，蘊釀台股風暴？ , https://technews.tw/2023/04/08/fund-managers-stock-trading/
+2023-04-08 17:16:01 , tech , 華邦電3月營收月增19.8% , https://finance.technews.tw/2023/04/08/wec-2344-202303-financial-report/
+2023-04-08 20:27:18 , tech , 傳 GPT-5 今年 Q4 推出！若實現 AGI，全世界將會天翻地覆劇變 , https://technews.tw/2023/04/06/gpt-5-q4-will-be-launched-this-year-if-agi-is-realized-the-world-will-have-earth-shaking-changes/

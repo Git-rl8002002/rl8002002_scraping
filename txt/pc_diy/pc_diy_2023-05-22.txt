@@ -1,0 +1,295 @@
+2023-05-22 12:38:09 , pcdiy , 
+Red Hat Enterprise Linux 9.2 全面推出 跨混合雲擴展自動化
+ , /detail/26308
+2023-05-22 12:38:09 , pcdiy , Red Hat Enterprise Linux 9.2 全面推出 跨混合雲擴展自動化 , /detail/26308
+2023-05-22 12:38:09 , pcdiy , 
+
+Red Hat Enterprise Linux 9.2 全面推出 跨混合雲擴展自動化
+世界領先開放原始碼軟體解決方案供應商 Red Hat 宣布全面推出 Red Hat Enterprise Linux（RHEL）9.2，且 8.8 版本即將問世。新版本顯見 Red Hat 成功自資料中心、公有雲至邊緣部署，跨混合雲簡化 Linux 平台任務複雜度，協助 IT 團隊更有效地克服人員與技能短缺挑戰，並改善關鍵基礎架構領域的效率。
+
+
+
+Red Hat Enterprise Linux 副總裁暨總經理 Gunnar Hellekson 表示：「為應對日益複雜的混合雲營運，Linux 已成為重要基礎。對於 IT 企業而言，在不新增技能或資源的情況下擴充營運至關重要。世界領先企業級 Linux 平台最新版本提供更多自動化功能，協助 IT 團隊跨混合雲擴展其涵蓋範圍，無論採用容器或全新硬體架構，都能更容易擁抱創新。」
+
+根據 IDC 研究報告《2022-2026 年全球伺服器作業系統環境預測：公有雲加速作業系統環境市場發展 》，跨混合雲（實體環境、虛擬與雲端部署）的 Linux 作業系統環境成長率將從 2021 年的 78 % 成長至 2026 年的 82 %。對 Red Hat 而言，其意味著全面 Linux 基礎架構技能和功能的需求不僅不會消失，反而會因日益複雜的環境提升重要性。
+
+Red Hat Enterprise Linux 9.2 和 8.8 持續擴展系統角色功能以及 Red Hat Enterprise Linux 特定的 Ansible 內容集，將例行性任務自動化，大規模提升一致性與效率。這代表僅需基本的 Linux 知識，就能輕鬆配置、認證及部署許多常見的 Linux 角色，包含 Microsoft SQL Server 到虛擬私人網路（VPNs）。系統角色還透過使升級更少受干擾，從而使部署具有未來可擴展性，因為自動化的特性使得任何功能都可以輕鬆地重新配置。
+
+最新版本的角色擴充也包含 Red Hat Enterprise Linux system role for Podman，其為 Red Hat 在 Linux平台上開發、管理和運行容器的工具。建立 Podman 執行個體通常需要命令列相關知識，但此系統角色可協助管理員自動配置適合的特定環境，包含在 Red Hat Enterprise Linux 主機部署預先整合且生產就緒的容器工作負載，Linux 管理員因此更能發揮技能，維護容器基礎架構。
+
+其他 Red Hat Enterprise Linux 系統角色更新包含 Microsoft SQL Server 和 Microsoft Active Directory 功能擴展，如 SQL Server／Active Directory 身分驗證自動化、支援 Always-On 可用性群組及 SQL Server 2022。
+
+透過映像檔建置器，Red Hat Enterprise Linux 協助 IT 企業在混合雲營運中以單一「黃金」作業系統標準為基礎。從公有雲到邊緣，映像檔建置器為多樣化環境簡化標準化作業系統建置，同時恪遵整體 IT 控制及政策，確保系統安全性與合規。Red Hat Enterprise Linux 9.2 和 8.8 的新功能是讓此工具在建置的映像檔中納入企業特定安全政策，例如由特定的 OpenSCAP 安全設定檔定義的政策，或用於更安全地配置邊緣裝置的政策。
+
+映像檔建置器現也支援在資料中心內外建立和分享 Red Hat Enterprise Linux 藍圖。藍圖為特定的標準化作業系統映像檔提供框架，而映像檔建置器可取用該框架作為規格，有助於推動內部映像檔標準化，且同樣適用於未連線或氣隙（air-gapped）的 Linux 系統。IT 團隊也可以使用此功能，進一步與合作夥伴、終端使用者，以及開源社群共同建立解決特殊挑戰的 Linux 配置。
+
+除了映像檔建置器，Red Hat Enterprise Linux Web 主控台還能進一步推動跨混合雲 IT 安全與執行合規政策，此主控台協助管理員透過直觀的瀏覽器介面執行各種配置和管理任務。
+
+Web 主控台現包含使用網路綁定硬碟加密（Network Bound Disk Encryption，NBDE）功能於 root 檔案系統配置自動加密硬碟解鎖，可協助保護靜態資料（data at rest）。此功能先前需要具備命令列參數的專業知識才能使用，而目前已開放給更廣泛具備 Linux 技能的用戶。管理員現可使用 Web 主控台選擇全系統加密政策常用組合，確保所有相關系統符合各種合規和企業特定需求。
+
+隨著容器化應用程式推動下一波軟體創新，IT 企業現必須管理和維護以指數級規模成長的容器。Red Hat Enterprise Linux 9.2 和 8.8 皆包含 Podman 強化功能，以協助整頓潛在的容器擴散問題。首先是追蹤容器建置事件，無論是手動操作建置或是自動化工作流程的一部分皆適用，其有助於保持對系統活動的全面檢視，尤其是在需要定期稽核的環境中。
+
+Podman 現也支援自訂容器健康檢查，容器運作狀態不佳時，可協助 IT 管理員自動修復和防護。這代表遠端或邊緣環境中的容器化應用程式仍能與集中式營運維持一致性，即便是間歇性連線失敗的應用程式。
+
+Red Hat Enterprise Linux 的最新版本新增對 Arm 架構 64k 頁面大小（page-sizes）的支援，提供 Red Hat 客戶更多基於 Arm、經認證的硬體選擇。硬體選項增加意味著企業可更容易選擇最符合其需求的底層架構，就算是執行記憶體密集型工作負載的企業也不例外。
+
+Red Hat 持續傾聽客戶對於 Red Hat Enterprise Linux 支援週期的需求，而 IT 企業現在有兩個新的生命週期管理選項：
+●	強化延長更新技術支援（Enhanced Extended Update Support）適用於 Red Hat Enterprise Linux 9 及更新版本，在相應次要更新全面推出後，系統可獲得長達 4 年的軟體更新授權。
+●	Red Hat Enterprise Linux 7 延長生命週期支援 （Extended Lifecycle Support，ELS）可用於 Red Hat Enterprise Linux 7.9，在 Red Hat Enterprise Linux 7 的 10 年生命週期維護結束後繼續支援，延長的生命週期自 2024 年 7 月 1 日開始，持續至 2026 年 6 月 30 日。Red Hat 鼓勵客戶使用此延長支援服務，規劃移轉至 Red Hat Enterprise Linux 8 或 9 的策略，可在現有訂閱範圍內完成。
+
+Red Hat Enterprise Linux 訂閱者現可透過 Red Hat 客戶入口網站下載 Red Hat Enterprise Linux 9.2。
+
+●	閱讀關於 Red Hat Enterprise Linux 9.2 的 技術部落格文章
+●	進一步了解 Red Hat Enterprise Linux
+●	閱讀 Red Hat Enterprise Linux 9.2 發行說明	
+●       檢視 Red Hat Enterprise Linux 9.2 產品文件
+
+●	深入了解Red Hat
+●	Red Hat Taiwan 官網
+●	加入 Red Hat Taiwan Facebook 專頁
+●	關注 Red Hat 新聞
+●	閱讀 Red Hat 部落格
+●	在 Red Hat Twitter 追蹤 Red Hat
+●	在 YouTube 觀看 Red Hat 影片
+●	在 LinkedIn 追蹤 Red Hat
+
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/26308
+2023-05-22 12:38:09 , pcdiy , 
+
+RAZER NOMMO V2 系列 – 終極 PC 遊戲喇叭 提供強大、精準的音訊定位
+全球領先的玩家生活潮流品牌Razer今天正式推出最新的 PC 遊戲喇叭：Nommo V2 系列，這款產品專為提供極致效能、沉浸體驗和連線能力這三大關鍵特色所設計。旗艦產品 Razer Nommo V2 Pro 是完整的全音域喇叭與無線重低音揚聲器組合，並運用 THX Spatial Audio 擴大音效。搭配引人入勝的 Razer Chroma RGB 燈光，進一步加強沉浸體驗。Nommo V2系列包括搭載有線重低音揚聲器的 Razer Nommo V2 桌上型電腦喇叭，以及可實現強大極簡配置的 Razer Nommo V2 X。 
+
+
+
+
+Nommo V2 Pro 擁有多項領先業界的功能，包括配備鋁質相位錐的 3 吋全音域驅動單體，提供自然、清晰的聲音。除此之外，Nommo V2 Pro也是全球首款具備無線向下傳音式重低音揚聲器的 PC 遊戲喇叭系統，能夠傳遞出足以震撼整個房間的深沉低音，同時確保空間整潔不雜亂。玩家還可用後照式 Razer Chroma RGB 燈效，將燈光投射在房間牆面，強化玩家電競室的戰鬥氛圍，打造真正沉浸式的遊戲體驗。
+
+Razer PC 遊戲部門負責人 Barrie Ooi 表示：「我們重新定義了玩家對於桌上型電腦音訊設備的期望。Nommo V2 系列不僅只聚焦在聆聽體驗上，同時希望讓玩家可以在遊戲中盡情享受遊玩體驗，沉浸在遊戲世界之中。無論是在第一人稱射擊遊戲中搜查敵人的行蹤，或是沉浸在最新 RPG 遊戲配樂的情境裡，Nommo V2系列都是最合適的 PC 遊戲喇叭，提供無比驚艷的視聽饗宴。」
+ 
+
+
+為確保玩家能體驗最頂級的音訊品質，Nommo V2 Pro 是全球首款搭配 THX® Spatial Audio 的桌上型電腦喇叭系統，提供寬廣又逼真的絕佳音場。同時，Razer 的喇叭系列也首次採用了 THX 遊戲設定檔，獨家調諧的均衡器提供多款廣受玩家喜愛的遊戲絕佳環繞音效設定，像是《電馭叛客 2077》和《魔物獵人崛起：破曉》...等多款熱門遊戲。
+
+
+ 
+
+
+為了提供能順暢連接與便利控制的功能，Razer 推出 Razer Wireless Control Pod。具備可旋轉、可點擊的旋鈕與音源鍵，可輕鬆直覺控制，讓玩家透過這款無線控制器，輕鬆控制音量播放、暫停，以及等化器等設定。透過藍牙連線，電池續航時間長達 8 個月，提供持久效能。Razer Wireless Control Pod 會隨附於 Nommo V2 Pro包裝內 ，並預計於 8 月後獨立販售，提供Nommo V2 和 Nommo V2 X 配對使用。
+
+
+Razer 同時推出了全新 Nommo V2 和 Nommo V2 X，進一步拓展 Nommo V2 系列產品。兩款喇叭均搭載兩個 3 吋全音域驅動單體和 THX Spatial Audio，實現能迴響整個房間的高音質絕佳音場。Nommo V2 配備搭載後照式 Razer Chroma RGB 的有線重低音揚聲器，為玩家打造橫跨影音的全方位沉浸式體驗。Nommo V2 X 則是 2.0 喇叭系統，採用優雅且簡約的設計，配備後向低音反射孔，為玩家所有娛樂活動提供如歷其境的聲效和絕佳清晰度。
+
+ 
+
+Razer Nommo V2 系列與 PC、PlayStation、Nintendo Switch 及行動裝置相容，透過強大的位置音訊，讓玩家的遊戲體驗提升至全新境界。
+如需更多 Nommo V2 系列的相關資訊，請參閱 Razer.com。
+
+Nommo V2 Pro
+建議售價：$13,990
+Nommo V2
+建議售價：$8,690
+Nommo V2 X
+建議售價：$5,190
+Razer.com與授權經銷商蝦皮– 2023 年 5 月19日開賣
+RazerStore 即將開賣
+
+Razer Wireless Control Pod
+建議售價：$49.99 USD 
+Razer.com、RazerStore 與授權經銷商 - 2023 年 8 月建議售價
+更多商品圖片: 連結
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/26307
+2023-05-22 13:49:54 , pcdiy , 
+  迎廣科技將於2023年台北電腦展推出一系列新品 歡迎蒞臨參觀 體驗最新的創作
+ , /detail/26309
+2023-05-22 13:49:54 , pcdiy ,   迎廣科技將於2023年台北電腦展推出一系列新品 歡迎蒞臨參觀 體驗最新的創作 , /detail/26309
+2023-05-22 13:49:54 , pcdiy , 
+
+  迎廣科技將於2023年台北電腦展推出一系列新品 歡迎蒞臨參觀 體驗最新的創作
+以「時尚及創新」為品牌理念，並多次獲得國際設計大獎的迎廣科技，在暌違三年後將重返台北電腦展的舞台。這次，迎廣(InWin)將推出多款水冷散熱新品與專業級散熱風扇，還有三款ATX 3.0 電源供應器系列。此外，還有更多iBuildiShare 的新設計和與不同品牌合作的聯名商品。
+
+
+
+全新發表的MR 與 TR 一體式水冷系列能更加有效的提升散熱速度與效能，眾多尺寸滿足專業使用者的需求，不只適合搭配全新Neptune 系列風扇讓效能更顯著，使用者亦能選擇單獨使用於電腦機殼。
+
+甫於今年初在美國CES 發表的新產品線 「iBuildiShare」 旨在鼓勵消費者，動手組裝適合自己的電腦，享受DIY的過程。在迎廣攤位上將會進一步推廣此動手做精神並搭配更多延伸產品，包括新一代POC、 DUBILI 與ModFree的相關配件與延伸。
+
+為了滿足市場需求，迎廣推出白金牌與金牌的模組化系列PII與VE，從750W到1300W ，完全支援ATX3.0規格與12VHPWR 線材，滿足最新顯示卡的需求。
+
+迎廣與知名水冷品牌 EKWB 和主機板大廠華擎 ( ASRock) 的 Phantom Gaming Alliance 合作，分別推出了聯名機殼，將於台北電腦展正式公開。
+
+iBuildiShare致力於打造體驗式DIY產品，成就更豐富精彩的使用者體驗。
+顛覆傳統，iBuild iShare將產品以零件的方式交到消費者手中，DIY動手產品從無到有的過程，親手完成自己的產品，享受最後的成果及成就感。
+iBuild iShare除了傳遞DIY手作的精神，也很重視分享。可以跟家人或朋友一同參與產品的組裝，將努力後的成果分享給身邊的親朋好友讓他們感受您的那份喜悅和感動，並且一同加入iBuild iShare的DIY大家庭。
+作為 iBuild iShare 產品系列的一部分，Case Monsters系列機殼就是這個全新品牌概念的一個開始。
+欲知更多迎廣在COMPUTEX發表的新品資訊，請關注迎廣紛絲團和官網：www.in-win.com.tw
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/26309
+2023-05-22 15:25:42 , pcdiy , 
+ZOTAC GAMING隆重推出GEFORCE RTX 4060系列 基於NVIDIA ADA LOVELACE架構
+ , /detail/26310
+2023-05-22 15:25:42 , pcdiy , ZOTAC GAMING隆重推出GEFORCE RTX 4060系列 基於NVIDIA ADA LOVELACE架構 , /detail/26310
+2023-05-22 15:25:42 , pcdiy , 
+
+ZOTAC GAMING隆重推出GEFORCE RTX 4060系列 基於NVIDIA ADA LOVELACE架構
+ZOTAC GAMING宣佈推出新一代GeForce RTX 4060系列顯示卡，系列繼續採用NVIDIA Ada Lovelace架構，並搭載NVIDIA DLSS 3機能及完整光線追蹤功能。本次推出的4060系列顯示卡將包含GeForce RTX 4060 Ti 8GB、GeForce RTX 4060 Ti 16GB及GeForce RTX 4060 8GB 系列型號產品。
+ 
+
+
+ZOTAC GAMING GeForce RTX 4060 Ti 8GB 及16GB系列顯示卡將繼續沿用流線型設計，並將分別推出3款型號 — Twin Edge、Twin Edge OC【蜘蛛人：穿越新宇宙】聯名顯示卡以及Twin Edge OC White Edition.
+ 
+ZOTAC GAMING GeForce RTX 4060 8GB SOLO則是一款單風扇、超小型顯示卡，雖然尺寸細小，但卻配備40系列顯示卡的所有獨特功能。
+ 
+●            基於效率非凡的Ada Lovelace架構，並搭載NVIDIA DLSS 3及支持完整光追特效
+●            IceStorm 2.0先進冷卻系統
+●            完善降噪功能
+●            強化顯示卡結構
+●             SPECTRA RGB燈效
+●            為40系列打造的全新FireStorm
+ 
+我們誠邀 閣下參閱新聞稿附件及瀏覽以下網址，以了解更多詳情。
+ 
+ 
+ZOTAC GAMING GeForce RTX 4060 Ti 8GB Twin Edge OC White Edition
+產品圖片
+產品小冊子
+ 
+ZOTAC GAMING GeForce RTX 4060 Ti 8GB Twin Edge OC【蜘蛛人：穿越新宇宙】聯名顯示卡
+產品圖片
+產品小冊子
+ 
+ZOTAC GAMING GeForce RTX 4060 Ti 8GB Twin Edge
+產品圖片
+產品小冊子
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/26310
+2023-05-22 18:12:34 , pcdiy , 
+NVIDIA、尤利希超級運算中心（Jülich Supercomputing Centre）與ParTec建立量子運算實驗室
+ , /detail/26312
+2023-05-22 18:12:34 , pcdiy , 
+Synology 隆重推出 DSM 7.2： 提供不可竄改機制、儲存空間機密等更加安全且便利的功能
+ , /detail/26311
+2023-05-22 18:12:34 , pcdiy , NVIDIA、尤利希超級運算中心（Jülich Supercomputing Centre）與ParTec建立量子運算實驗室 , /detail/26312
+2023-05-22 18:12:34 , pcdiy , Synology 隆重推出 DSM 7.2： 提供不可竄改機制、儲存空間機密等更加安全且便利的功能 , /detail/26311
+2023-05-22 18:12:34 , pcdiy , 
+
+NVIDIA、尤利希超級運算中心（Jülich Supercomputing Centre）與ParTec建立量子運算實驗室
+NVIDIA宣佈計畫在德國於利希研究中心（Forschungszentrum Jülich ，FZJ）攜手於利希超級運算中心 （Jülich Supercomputing Centre，JSC）合作建立一個新的實驗室，該實驗室將與位於慕尼黑的ParTec公司合作採用基於NVIDIA量子運算平台的經典量子超級電腦，這是混合量子-經典運算領域的一大重要進展。
+
+
+
+於利希研究中心為歐洲最大的跨學科研究中心之一，將此實驗室做作為 Jülich 量子運算統一基礎設施（JUNIQ）的一部分並進行託管，執行高效能和低延遲的量子經典運算工作負載。目前，JUNIQ正在使用JUWELS Booster系統，配備3,744個NVIDIA A100 Tensor Core GPUs進行量子計算模擬。
+
+NVIDIA量子運算平台透過開源CUDA® Quantum程式設計模型將量子運算和經典運算緊密整合，透過NVIDIA cuQuantum 軟體開發工具實現了世界級的模擬。
+
+JSC計畫採用分階段的方法測試系統，並將使用NVIDIA CUDA Quantum程式設計模型來程式設計量子處理器，並將它們整合到Jülich的百億億次級(百億億次級)模組化超級運算架構中。
+
+NVIDIA HPC和量子總監Timothy Costa表示： 「將量子運算和GPU超級運算統合起來，是實現未來科學突破的關鍵部分。NVIDIA與Jülich超級運算中心和ParTec等創新單位的合作代表著量子-經典運算的一個重要里程碑，使無數新研究人員能夠使用，並離實現第一台量子加速的超級電腦又更近了一步。」
+
+JSC 量子資訊處理團隊負責人Kristel Michielsen表示：「混合量子-經典系統正讓量子計算更接近現實，以解決經典計算本身無法解決的複雜問題。透過與NVIDIA合作建立模組化量子計算實驗室，JSC的研究人員可以在化學和材料科學領域取得前所未有的進展，推動跨學科和跨產業更廣泛、變革性的進步。」
+
+ParTec 電腦叢集能力中心（Cluster Competence Center GmbH）聯合創始人暨執行長Bernhard Frohwitter：「ParTec 長期以來致力於開發模組化超級運算架構，其世界一流的 ParaStation Modulo 軟體支持混合、模組化運算。量子電腦將是任何未來異構超級電腦的基本要素，並將開啟全新的可能。」
+
+到ISC瞭解更多NVIDIA量子運算平台。
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/26312
+2023-05-22 18:12:34 , pcdiy , 
+
+Synology 隆重推出 DSM 7.2： 提供不可竄改機制、儲存空間機密等更加安全且便利的功能
+Synology 群暉科技今日正式發表 DiskStation Manager 7.2 版本（以下簡稱 DSM 7.2）。DSM 7.2 具有眾多創新的功能，得以協助 IT 面對各種資料管理挑戰，包括無法竄改的儲存和備份機制、加密整個儲存空間、改進效能、更嚴格的存取控制和儲存規劃能力。
+
+Synology 產品經理柯英毅表示：「Synology 致力於持續改善及創新，最新推出的 DSM 7.2，即可確保組織擁有必要的工具，讓 IT 人員能夠更自信、輕鬆地管理資料。」
+
+
+
+DSM 7.2 透過 WriteOnce 共享資料夾和「不可變快照」功能，引入免授權的不可變儲存和備份技術。同時，利用單寫多讀 (WORM) 技術，幫助組織建立防止資料竄改的副本，避免資料遭受惡意攻擊、篡改及意外刪除。這樣的能力對於醫療、金融和政府機關等業者至關重要，便於遵守該產業嚴格的資料保留政策。
+
+儲存空間加密得以保護共享資料夾、LUN 和套件資料，在發生安全漏洞或竊取事件時，確保資料的隱私和安全，只要沒有解密金鑰，就無法讀取儲存在其中的資料。此外，也支援 KMIP 來簡化及集中化金鑰管理。
+
+相較於將「共享資料夾加密」套用於儲存空間上所有符合條件的資料，儲存空間加密的寫入效能提升高達 48%。使用者未來能在這兩種模式之間，選擇有效率的方式，來防止特定資料或整個檔案系統遭受未經授權的存取。
+
+DSM 7.2 支援更多系統上的 M.2 NVMe SSD 儲存空間，讓內建 M.2 NVMe 插槽的使用更加彈性。執行即時零區塊移除功能，則可讓 SSD 的資料去重複速度獲得改善，去重複時間縮短高達 25%。
+同時，Hyper Backup 的全系統備份功能提供了裸機備份選項，可將資料備份到雲端、USB 裝置及其他目的地，搭配區塊層級儲存技術，備份速度將提高 2 倍。
+
+Synology 系統引進智慧型多重驗證機制（AFMA），將會評估各種脈絡因素 (例如裝置、位置、當前時間和使用者行為)，判斷是否需要額外的驗證，藉此提供無縫的安全保護。
+另外，DSM 7.2 新增自動封鎖功能，將 SMB 連線也納入保護範圍，進一步增強安全措施。此項功能會封鎖嘗試登入失敗多次的 IP 位址，協助惡意攻擊；QuickConnect 可以在全域範圍阻擋 IP 位址，強化整體安全性，抵禦潛在威脅。
+
+Active Insight 從 DSM 7.2 開始新增存容量預測功能，可以深入分析當前的儲存利用率，並預測接下來的需求，協助 IT 管理員和 MSP 預估未來的儲存容量。此外，DSM 系統通知功能也迎來了強化，設定將更為靈活，且支援串接 Microsoft Teams 和 LINE 通知。
+
+DSM 7.2 也改善了幾項重要的應用程式和服務，包括：
+Hybrid Share：全域檔案鎖定，防止已連接的 Synology 系統之間發生檔案衝突
+Container Manager (前身為 Docker)：Docker Compose
+SSO Server：OIDC 和 SAML 通訊協定支援
+SSO 用戶端：SAML 和 CAS 通訊協定支援
+深入了解 Synology DiskStation Manager 7.2
+
+Synology DSM 7.2 現在可供全球所有客戶使用。
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/26311

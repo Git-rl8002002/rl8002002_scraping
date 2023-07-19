@@ -1,0 +1,64 @@
+2023-05-12 07:35:25 , tech , 新跳島戰術專用，通用原子展示莫哈韋無人機由 C-130 攜帶施放影片 , https://technews.tw/2023/05/12/ga-asi-released-concept-video-for-mojave-drone-carried-by-c130j/
+2023-05-12 07:53:22 , tech , 安森美 SiC 功率元件「極氪」上車，後發者優勢啟動 , https://technews.tw/2023/05/12/onsemi-sic/
+2023-05-12 08:14:23 , tech , 蘋果摺疊手機面板「自癒」專利，摺痕可透過光熱刺激自修復 , https://technews.tw/2023/05/12/apple-wins-a-folding-device-patent/
+2023-05-12 08:23:44 , tech , 專門鎖定中文 Windows 用戶！運用雙重 DLL Sideloading 手法的 APT 駭客組織來襲 , https://technews.tw/2023/05/12/hackers-start-using-double-dll-sideloading-to-evade-detection/
+2023-05-12 08:26:43 , tech , 礦坑底下無 GPS 訊號，礦業找來無人機科技幫忙 , https://technews.tw/2023/05/12/jaguar-mining-to-deploy-exynaero-autonomous-robot-for-cavity-monitoring-in-brazil/
+2023-05-12 08:38:37 , tech , FT：義大利擬退出一帶一路，將與中國協商 , https://technews.tw/2023/05/12/italy-intends-to-withdraw-from-the-belt-and-road-initiative/
+2023-05-12 08:40:09 , tech , 馬斯克將辭去 Twitter 執行長一職，特斯拉股價走高 , https://finance.technews.tw/2023/05/12/elon-musk-twitter-ceo/
+2023-05-12 08:47:34 , tech , 會自我加密的新型勒索軟體 Cactus，讓防毒軟體及網路監控工具偵測不到 , https://technews.tw/2023/05/12/new-cactus-ransomware-encrypts-itself-to-evade-antivirus/
+2023-05-12 09:11:46 , tech , 歐洲議會通過文件，向全球首套 AI 監管措施邁出第一步 , https://technews.tw/2023/05/12/ai-regulatory-measures/
+2023-05-12 09:13:18 , tech , Pixel 7a 開賣，專家：拍照大升級、價格打中甜蜜點 , https://technews.tw/2023/05/12/pixel-7a-featured-highlights/
+2023-05-12 09:14:40 , tech , 生成式 AI 夯，MIC：台廠可透過 3 大模式掌握商機 , https://technews.tw/2023/05/12/investing-in-generative-ai/
+2023-05-12 09:14:52 , tech , BOE 再升息 1 碼抗通膨，稱今年不會陷經濟衰退 , https://finance.technews.tw/2023/05/12/boe-raises-interest-rate-again-by-1-yard-to-fight-inflation/
+2023-05-12 09:22:53 , tech , 聯合再生擬進行投資，拓大尺寸 TOPCon 產能 , https://technews.tw/2023/05/12/topcon-neo-solar-power/
+2023-05-12 09:24:15 , tech , 中國晶圓代工大廠中芯國際公布 Q1 財報，淨利潤年減 44% , https://technews.tw/2023/05/12/smics-q1/
+2023-05-12 09:24:35 , tech , 道瓊指數下跌 0.66%，那斯達克指數收高 , https://technews.tw/2023/05/12/us-stock-0511/
+2023-05-12 09:25:57 , tech , 太陽系有這麼多水？天王星四大衛星可能都有地下海洋 , https://technews.tw/2023/05/10/uranus-moon-ocean-titania/
+2023-05-12 09:32:48 , tech , 日本黃金週 PS5 銷量翻倍，Switch 大增三成 , https://ccc.technews.tw/2023/05/12/game-console-sales-boom-during-japans-long-golden-week-holiday-in-may-this-year/
+2023-05-12 09:56:48 , tech , 光陽 Ionex 結盟 foodpanda，推出外送電動機車訂閱制 , https://technews.tw/2023/05/12/kymco-ionex-foodpanda/
+2023-05-12 10:08:47 , tech , AI 淘金熱「賣鏟子」最賺，美銀：Nvidia 是終極贏家 , https://finance.technews.tw/2023/05/12/nvidia-is-the-picks-and-shovels-leader-in-the-ai-gold-rush-that-could-expand-its-market-share-as-competition-heats-up/
+2023-05-12 10:10:19 , tech , 史上第 3 慘、夏普慘虧 2,608 億日圓，不配息 , https://finance.technews.tw/2023/05/12/sharp-not-dividend/
+2023-05-12 10:23:48 , tech , Alphabet 開發者大會消除缺乏 AI 創新疑慮，股價勁揚 , https://finance.technews.tw/2023/05/12/google-no-longer-seen-playing-ai-defense-to-microsoft/
+2023-05-12 10:25:30 , tech , 射程達 250 公里，英國交付風暴之影巡弋飛彈給烏克蘭 , https://technews.tw/2023/05/12/uk-confirmed-delivery-of-storm-shadow-to-ukraine/
+2023-05-12 10:41:54 , tech , 紐時：工程人才短缺，台積電維繫優勢面臨挑戰 , https://technews.tw/2023/05/12/taiwan-is-running-low-on-a-strategic-asset-engineers/
+2023-05-12 10:43:16 , tech , 紐約時報 , https://www.nytimes.com/2023/05/11/technology/taiwan-tsmc-microchips.html?searchResultPosition=1
+2023-05-12 10:43:37 , tech , 00870 打敗台積電、聯電！「媽媽股民」最愛十大投資標的出爐 , https://finance.technews.tw/2023/05/12/mother-stockholder/
+2023-05-12 11:02:49 , tech , 植物肉不夯了？Beyond Meat 需求降、股價創低 , https://finance.technews.tw/2023/05/12/beyond-meat-stock-drops-to-record-low-on-1q-rev-decline/
+2023-05-12 11:04:22 , tech , 力挺台積電 2 奈米發展，新思科技 EDA 解決方案助縮短上市時程 , https://technews.tw/2023/05/12/synopsys-eda-solutions-help-accelerate-time-to-market/
+2023-05-12 11:08:45 , tech , 業績未達標！輝達執行長黃仁勳總薪酬少領 1.1 億元 , https://technews.tw/2023/05/12/nvidia-ceo-fy23-pay/
+2023-05-12 12:41:50 , tech , 飲食、運動偏好都來自基因，冰島科學家：基因影響比預期更廣 , https://technews.tw/2023/05/12/gene-determine/
+2023-05-12 12:43:12 , tech , Twitter CEO 誰接棒？傳是 NBCU 廣告主管 Yaccarino , https://technews.tw/2023/05/12/twitter-ceo-nbcu-yaccarino/
+2023-05-12 12:44:40 , tech , 除草劑價跌傷獲利，拜耳財測遜色、股價挫 7% , https://finance.technews.tw/2023/05/12/bayer-sees-2023-results-at-lower-end-of-range-as-weedkiller-prices-drop/
+2023-05-12 12:44:44 , tech , 英特爾處理器市占回復穩住兩雄競爭局面，市場有復甦跡象 , https://technews.tw/2023/05/12/intel-processor-market-share-reply/
+2023-05-12 12:46:16 , tech , 派樂騰禍不單行召回 220 萬輛飛輪車，股價摔歷史低 , https://finance.technews.tw/2023/05/12/peloton-backpedals-to-near-record-low-after-bike-recall/
+2023-05-12 12:53:46 , tech , 00878 打敗台積電、聯電！「媽媽股民」最愛十大投資標的出爐 , https://finance.technews.tw/2023/05/12/mother-stockholder/
+2023-05-12 12:59:54 , tech , 史上第三慘、夏普慘虧 2,608 億日圓，不配息 , https://finance.technews.tw/2023/05/12/sharp-not-dividend/
+2023-05-12 13:11:44 , tech , 京東方、三星掀 OLED 專利戰！除了搶 iPhone 訂單，中美政治角力才是關鍵？ , https://technews.tw/2023/05/12/boe-and-samsung-oled-iphone/
+2023-05-12 13:13:17 , tech , 傳美暫緩多項對中國制裁，以尋求布林肯重新訪中 , https://technews.tw/2023/05/12/us-suspends-several-sanctions-against-china/
+2023-05-12 13:44:43 , tech , 瞄準生成式 AI，軟銀千人團隊將打造「日版 GPT」 , https://finance.technews.tw/2023/05/12/softbank-poised-to-emerge-from-defense-mode/
+2023-05-12 13:46:05 , tech , 降低依賴中國，G7 廣島峰會推動原料俱樂部 , https://technews.tw/2023/05/12/g7-discusses-materials-club/
+2023-05-12 13:47:46 , tech , 慧洋股東會通過配發股利 6.5 元！今年將著重船隊汰舊換新 , https://finance.technews.tw/2023/05/12/fleet-retirement/
+2023-05-12 15:01:16 , tech , 馬斯克將辭去 Twitter 執行長，特斯拉股價走高 , https://technews.tw/2023/05/12/elon-musk-twitter-ceo/
+2023-05-12 15:05:10 , tech , 憂蘋果 Mac 買氣差吃掉利潤，三星、LGD 不敢貿然建 OLED 八代線 , https://technews.tw/2023/05/10/apple-macbook-gen-8-oled/
+2023-05-12 15:07:13 , tech , 生成式 AI 夯，MIC：台廠可透過三大模式掌握商機 , https://technews.tw/2023/05/12/investing-in-generative-ai/
+2023-05-12 15:07:44 , tech , 泰山連續違反重訊規定，證交所開罰 300 萬創天價 , https://technews.tw/2023/05/11/taisun-was-fined-for-consecutive-violations-of-important-news-regulations/
+2023-05-12 15:08:45 , tech , 高空氣球在平流層錄到奇怪聲音，訊號來源未知 , https://technews.tw/2023/05/12/noise-stratosphere-high-altitude-balloon-infrasound/
+2023-05-12 15:10:08 , tech , 包括百貨、科學園區，2.5 萬高壓用戶夏月電價 5/16 啟動 , https://technews.tw/2023/05/12/summer-electric-price/
+2023-05-12 15:11:20 , tech , 義大利麵價格飆漲釀危機，羅馬當局急會生產商 , https://finance.technews.tw/2023/05/12/pasta-prices-soar-roman-authorities-urgently-meet-producers/
+2023-05-12 15:11:45 , tech , 工程師小彩蛋？金士頓 SSD 韌體中暗藏 Coldplay 神曲歌詞 , https://ccc.technews.tw/2023/05/12/coldplay-lyrics-found-in-kingston-ssd-firmware/
+2023-05-12 15:12:42 , tech , 奇景光電首季每股盈餘大減 64.5%，終止長約將衝擊第二季毛利率 , https://finance.technews.tw/2023/05/12/himaxs-first-quarter-earnings-per-share-plunged-64-5/
+2023-05-12 15:13:06 , tech , Unreal 引擎首度登上 ARM 架構，新版本將支援 Apple Silicon 系列電腦 , https://ccc.technews.tw/2023/05/12/latest-unreal-engine-5-2-will-support-apple-silicon-macs/
+2023-05-12 15:14:15 , tech , OPPO 自研處理器折翼？停止旗下 IC 設計廠 ZEKU 業務 , https://technews.tw/2023/05/12/oppo-stops-its-ic-design-factory-zeku-business/
+2023-05-12 15:15:47 , tech , 重大壓力事件會加速衰老，但可逆轉挑戰傳統觀念 , https://technews.tw/2023/05/12/stress-let-people-older-faster-but-it-reversible/
+2023-05-12 15:16:59 , tech , 慧洋股東會通過配發股利 6.5 元！董座：今年將著重船隊汰舊換新 , https://finance.technews.tw/2023/05/12/fleet-retirement/
+2023-05-12 15:50:53 , tech , 近半數主管懷疑員工可能洩露公司機密給 ChatGPT , https://finance.technews.tw/2023/05/12/almost-half-executive-suspect-data-risk/
+2023-05-12 16:01:24 , tech , 工程師小彩蛋？金士頓 SSD 韌體暗藏 Coldplay 神曲歌詞 , https://ccc.technews.tw/2023/05/12/coldplay-lyrics-found-in-kingston-ssd-firmware/
+2023-05-12 16:20:53 , tech , YouTube 出手打擊廣告攔截器，內部員工：目前只是「實驗」 , https://technews.tw/2023/05/12/youtube-is-testing-blocking-ad-blockers/
+2023-05-12 17:41:51 , tech , G7 討論制裁「俄羅斯鑽石」！全球珠寶市場價格面臨波動 , https://technews.tw/2023/05/12/russian-diamonds-could-soon-be-sanctioned/
+2023-05-12 18:05:37 , tech , 錼創 Q1 每股虧損 1.42 元，維持看好今年營收倍數成長 , https://finance.technews.tw/2023/05/12/playnitride-2023-q1-financial-report/
+2023-05-12 18:07:09 , tech , 護理教育藉生成式 AI 虛擬平台訓練，HTC 攜手亞太護理學院發展 , https://technews.tw/2023/05/12/nursing-education-trained-with-generative-ai-virtual-platform/
+2023-05-12 18:35:40 , tech , 續航 450 公里、加氫 10~15 分鐘！全台首輛氫能原型車與加氫站亮相 , https://finance.technews.tw/2023/05/12/hydrogen-prototype-vehicle/
+2023-05-12 18:59:29 , tech , 加氫 10~15 分鐘續航 450 公里以上！全台首輛氫能原型車與加氫站亮相 , https://finance.technews.tw/2023/05/12/hydrogen-prototype-vehicle/
+2023-05-12 19:20:43 , tech , 需求下滑，長榮、陽明首季獲利年減九成 , https://finance.technews.tw/2023/05/12/evergreen-marine-yangming-fr-2023q1/
+2023-05-12 19:22:15 , tech , 華碩第一季每股虧 2.3 元，電競收入占總營收達五成 , https://finance.technews.tw/2023/05/12/asus-2023-q1-earnings/
+2023-05-12 21:59:28 , tech , 繼製造後，中國先進 IC 設計也遭限？ OPPO 斷然停損自研處理器發展 , https://finance.technews.tw/2023/05/12/oppo-categorically-stops-the-development-of-self-developed-processors/

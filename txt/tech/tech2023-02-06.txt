@@ -1,0 +1,23 @@
+2023-02-06 17:27:29 , tech , 蘋果藉增加對台灣供應鏈訂單，進而降低對中國供應鏈依賴 , https://technews.tw/2023/02/06/apple-reduces-dependence-on-china-by-increasing-orders-from-taiwan/
+2023-02-06 17:51:28 , tech , 中國影音平台人人影視涉侵權，迪士尼 Netflix 提告 , https://finance.technews.tw/2023/02/06/ddtv-was-sued/
+2023-02-06 18:00:27 , tech , 2 月上旬電視面板再持平，議價力較弱廠商可能面臨漲價壓力 , https://finance.technews.tw/2023/02/06/panel-prices-in-february-h1/
+2023-02-06 18:00:28 , tech , 蘋果增加台灣供應鏈訂單，降低依賴中國供應鏈 , https://technews.tw/2023/02/06/apple-reduces-dependence-on-china-by-increasing-orders-from-taiwan/
+2023-02-06 18:00:32 , tech , 宇瞻1月營收5.54 億元 , https://finance.technews.tw/2023/02/06/apacer-8271-202301-financial-report/
+2023-02-06 18:00:32 , tech , 創惟1月營收1.39 億元 , https://finance.technews.tw/2023/02/06/gli-6104-202301-financial-report/
+2023-02-06 18:00:32 , tech , 瑞耘1月營收月減27.6% , https://finance.technews.tw/2023/02/06/ct-6532-202301-financial-report/
+2023-02-06 18:00:32 , tech , GIS-KY1月營收月減52.1% , https://finance.technews.tw/2023/02/06/gis-6456-202301-financial-report/
+2023-02-06 18:00:32 , tech , 廣錠1月營收月減25.9% , https://finance.technews.tw/2023/02/06/ibg-6441-202301-financial-report/
+2023-02-06 18:00:32 , tech , 樺漢1月營收月減38.2% , https://finance.technews.tw/2023/02/06/ennoconn-6414-202301-financial-report/
+2023-02-06 18:00:32 , tech , 台表科1月營收月減52.6% , https://finance.technews.tw/2023/02/06/tsmt-6278-202301-financial-report/
+2023-02-06 18:00:32 , tech , 矽格1月營收月減11.9% , https://finance.technews.tw/2023/02/06/sigurd-6257-202301-financial-report/
+2023-02-06 18:21:28 , tech , 微軟能否獲准收購動視暴雪，英國監管機構牽動結局 , https://ccc.technews.tw/2023/02/06/microsoft-69-billion-activision-blizzard-takeover-faces-a-key-decision-in-britain/
+2023-02-06 18:21:29 , tech , 收購動視暴雪 , https://ccc.technews.tw/2022/01/18/microsoft-to-acquire-activision-blizzard-for-68-7-billion/
+2023-02-06 18:54:28 , tech , 去年三大科學園區營業額，吳政忠：應有破 4 兆 , https://finance.technews.tw/2023/02/06/3-science-parks-2022/
+2023-02-06 18:54:32 , tech , 昇陽半導體1月營收2.60 億元 , https://finance.technews.tw/2023/02/06/psi-8028-202301-financial-report/
+2023-02-06 18:54:33 , tech , 環球晶1月營收月減2.0% , https://finance.technews.tw/2023/02/06/gwc-6488-202301-financial-report/
+2023-02-06 18:54:33 , tech , 胡連1月營收5.08 億元 , https://finance.technews.tw/2023/02/06/hu-lane-6279-202301-financial-report/
+2023-02-06 18:54:33 , tech , 中美晶1月營收月減1.2% , https://finance.technews.tw/2023/02/06/sas-5483-202301-financial-report/
+2023-02-06 18:54:33 , tech , 宜鼎1月營收7.24 億元 , https://finance.technews.tw/2023/02/06/innodisk-5289-202301-financial-report/
+2023-02-06 18:54:33 , tech , 景碩1月營收月減24.8% , https://finance.technews.tw/2023/02/06/kinsus-3189-202301-financial-report/
+2023-02-06 18:54:33 , tech , 璟德1月營收月減12.5% , https://finance.technews.tw/2023/02/06/acx-3152-202301-financial-report/
+2023-02-06 21:30:32 , tech , 旭隼1月營收月減19.7% , https://finance.technews.tw/2023/02/06/voltronic-6409-202301-financial-report/

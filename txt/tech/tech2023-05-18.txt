@@ -1,0 +1,74 @@
+2023-05-18 08:22:54 , tech , 內貿中轉是幌子？中俄的海參威協議藏戰略玄機 , https://technews.tw/2023/05/18/vladivostok-china-russia/
+2023-05-18 08:24:16 , tech , 人工智慧發展迅速，民調：61% 美國人相信 AI 威脅未來 , https://technews.tw/2023/05/18/ai-threatens-humanity/
+2023-05-18 08:25:29 , tech , 縮短商品與顧客的距離，亞馬遜用 AI 加速履約及交貨 , https://technews.tw/2023/05/18/amazon-is-focusing-on-using-a-i-to-get-stuff-delivered-to-you-faster/
+2023-05-18 08:27:02 , tech , 從 2023 年漢諾威工業展看能源管理趨勢與挑戰 , https://technews.tw/2023/05/18/hannover-messe-2023/
+2023-05-18 08:28:35 , tech , 火砲機器人，德國萊茵金屬與以色列埃爾比特合作測試全自動自走砲 , https://technews.tw/2023/05/18/rheinmetall-and-elbit-systems-new-robotic-howitzer-on-trail/
+2023-05-18 08:46:20 , tech , 大語言模型要憑證才能開發？至少 OpenAI 這樣建議監管者 , https://technews.tw/2023/05/18/openai-calls-on-governments-to-create-ai-regulation/
+2023-05-18 08:47:53 , tech , 烏克蘭盡數擊落六枚俄軍高超音速導彈，愛國者防空系統威力超出預期 , https://technews.tw/2023/05/18/in-first-kyiv-says-it-shoots-down-volley-of-russian-hypersonic-missiles/
+2023-05-18 08:49:06 , tech , 核能復興的訊號？完工後 Vogtle 將成美國最大單一電廠 , https://technews.tw/2023/05/18/vogtle-nuclear/
+2023-05-18 09:22:27 , tech , 電動車需求旺，瑞薩 MCU 傳擴產一成 , https://technews.tw/2023/05/18/renesas-electronics-mcu-expansion/
+2023-05-18 09:24:00 , tech , 不放棄印度市場大餅，傳特斯拉擬在印度設廠生產 , https://technews.tw/2023/05/18/tesla-plans-to-set-up-production-plant-in-india/
+2023-05-18 09:25:22 , tech , 輝達市值超車波克夏，居全美第 5 大 , https://finance.technews.tw/2023/05/18/nvidia-market-value-surpasses-that-of-berkshire/
+2023-05-18 09:34:25 , tech , 網通大廠思科財報勝預期、訂單下滑，盤後跌 4% , https://finance.technews.tw/2023/05/18/cisco-systems-fiscal-year-2023-third-quarter-financial-report/
+2023-05-18 09:35:58 , tech , 亞馬遜創去年 10 月新高，擬藉自研 AI 讓 Alexa 更聰明 , https://technews.tw/2023/05/18/amazon-ai-alexa-teacher-model/
+2023-05-18 09:52:58 , tech , Google 引爆摺疊手機大戰！台廠受惠電子供應鏈一次看 , https://finance.technews.tw/2023/05/17/foldable-phone/
+2023-05-18 09:55:16 , tech , 英特爾展示封裝與代工策略、股價反跌，台積 ADR 飆 , https://technews.tw/2023/05/18/intel-is-ramping-up-its-battle-against-tsmc-with-new-chip-packaging-technology/
+2023-05-18 09:57:51 , tech , 台積電多頭再起，台股大漲 251 點逼近萬六關卡 , https://technews.tw/2023/05/17/taiwan-stock-0517/
+2023-05-18 09:58:12 , tech , 拜登樂看舉債協商，台積 ADR 飆 5%、費半嗨 , https://technews.tw/2023/05/18/us-stock-0517/
+2023-05-18 09:58:23 , tech , 自營商 5/17 買超逾 200 億，與外資同步敲進台積電 , https://technews.tw/2023/05/18/self-employed-trader-0517-taiwan-stock/
+2023-05-18 10:00:37 , tech , 中國商業環境劇變，彭博：華爾街巨頭夢醒大規模裁員 , https://technews.tw/2023/05/18/wall-streets-dreams-of-a-china-windfall-face-a-reality-check/
+2023-05-18 10:29:07 , tech , Google 股價收復 ChatGPT 失土，以 AI 優化廣告協助網紅 , https://technews.tw/2023/05/18/google-plans-to-use-new-a-i-models-for-ads-and-to-help-youtube-creators/
+2023-05-18 10:30:40 , tech , 拜登續緩徵東南亞太陽能板輸美關稅 , https://technews.tw/2023/05/18/biden-solar-panel-tariff-china/
+2023-05-18 10:46:52 , tech , 台幣 50 萬元以下的微型電動車，會是下一個戰場嗎？ , https://technews.tw/2023/05/18/cheap-micro-ev-trending/
+2023-05-18 10:48:24 , tech , 特斯拉沒 CarPlay 也可過很好，但其他家卻很難做到 , https://technews.tw/2023/05/18/carplay-android-auto/
+2023-05-18 10:49:47 , tech , 賭城旅遊續旺、澳門喜迎復甦，分析師按讚永利 , https://finance.technews.tw/2023/05/18/wynn-resorts-gets-an-upgrade/
+2023-05-18 10:51:10 , tech , 挺不住！長江存儲開調漲價格第一槍，但帶動記憶體反彈仍很難 , https://technews.tw/2023/05/18/ymtc-raises-the-price-first-shot/
+2023-05-18 10:52:43 , tech , 美光獲日 15 億美元補助！首台 EUV 將引進日本，攻下一代晶片技術 , https://technews.tw/2023/05/18/micron-get-1-5-billion-from-japan/
+2023-05-18 11:23:15 , tech , 三大訊號證實通膨降溫！國泰 20 年美債單日成交金額破 11 億元 , https://finance.technews.tw/2023/05/18/cooling-inflation/
+2023-05-18 11:24:48 , tech , 對半導體產業籌資開綠燈！中國華虹半導體科創板上市案獲批准 , https://finance.technews.tw/2023/05/18/hua-hong-semiconductors-star-market-listing-case-approved/
+2023-05-18 11:26:21 , tech , 原油進口大減、日本逆差額腰斬；日經衝逾 400 點 , https://finance.technews.tw/2023/05/18/japan-trade-deficit-nearly-halved/
+2023-05-18 11:47:41 , tech , SK 海力士估 Q3 半導體復甦，備銀彈籌資 3.73 億美元 , https://technews.tw/2023/05/18/sk-hynix-estimates-q3-semiconductor-recovery/
+2023-05-18 11:49:04 , tech , 瑞銀揭收購瑞信面臨潛在虧損，減記 AT1 債券成緩衝 , https://finance.technews.tw/2023/05/18/ubs-faces-potential-losses-in-takeover-of-credit-suisse/
+2023-05-18 12:04:44 , tech , 任天堂《薩爾達傳說》新遊戲熱賣，旺宏營運添動能 , https://ccc.technews.tw/2023/05/18/the-legend-of-zelda-tears-of-the-kingdom/
+2023-05-18 12:22:55 , tech , 美豁免東南亞 4 國太陽能板關稅，業者：來台競爭壓力減 , https://technews.tw/2023/05/18/us-exempts-solar-panel-tariffs-for-4-southeast-asian-countries/
+2023-05-18 12:24:27 , tech , IBM、Google 投入 1.5 億美元，助美日發展量子運算技術 , https://technews.tw/2023/05/18/ibm-google-give-150-million-for-u-sjapan-quantum-computing/
+2023-05-18 12:25:50 , tech , 任天堂〈薩爾達傳說：王國之淚〉熱賣，旺宏營運添動能 , https://ccc.technews.tw/2023/05/18/the-legend-of-zelda-tears-of-the-kingdom/
+2023-05-18 13:12:02 , tech , 維珍銀河 5/25 最終試飛，商轉只差一步；股價躍 6% , https://technews.tw/2023/05/18/virgin-galactic-targets-may-25-for-first-spaceflight-since-richard-bransons-trip/
+2023-05-18 13:13:25 , tech , 熱鬧的地球大小系外行星，表面一半火山一半水 , https://technews.tw/2023/05/18/lp791-18d-exoplanet/
+2023-05-18 13:14:48 , tech , Netflix 廣告方案成果曝：月活躍使用者近 500 萬人 , https://technews.tw/2023/05/18/nearly-5-million-monthly-active-users-on-netflix-advertising-program/
+2023-05-18 13:16:20 , tech , 日本撐不住，六月漲電價最高 42% , https://technews.tw/2023/05/18/japan-rise-electricity-price/
+2023-05-18 13:17:32 , tech , 看好台積電擴大日本投資，供應商緊追隨 , https://technews.tw/2023/05/18/taiwanese-supply-chain-goes-to-japan/
+2023-05-18 13:42:25 , tech , 新世代人才愛斜槓！Influenxio 首曝微網紅接案年收上看 60 萬元 , https://technews.tw/2023/05/18/influenxio/
+2023-05-18 13:43:59 , tech , 宏達電兩款 HTC U23 系列手機上市，市場關注能否提振營運 , https://technews.tw/2023/05/18/htc-u23-series-mobile-phones-listed/
+2023-05-18 13:47:24 , tech , 什麼部位都可以換！微軟模組化 MR 設備專利曝光 , https://technews.tw/2023/05/18/microsoft-ar-vr/
+2023-05-18 13:48:47 , tech , 蒙大拿成美國第一州全面禁止 TikTok , https://technews.tw/2023/05/18/montana-to-become-first-us-state-to-ban-tiktok/
+2023-05-18 14:00:28 , tech , 日本撐不住，6 月漲電價最高 42% , https://technews.tw/2023/05/18/japan-rise-electricity-price/
+2023-05-18 14:11:25 , tech , Adobe 研究：小型企業希望透過科技提升生產力 , https://technews.tw/2023/05/18/adobe-4/
+2023-05-18 15:29:29 , tech , 穩居金控獲利王！富邦金第一季賺 139.83 億元、每股盈餘 1.13 元 , https://finance.technews.tw/2023/05/18/fype/
+2023-05-18 15:31:02 , tech , 台積電合作夥伴新思科技財報勝預期，看好 AI 帶財 , https://finance.technews.tw/2023/05/18/synopsys-fiscal-year-2023-second-quarter-financial-report/
+2023-05-18 15:32:35 , tech , Taycan 更好找充電站了，保時捷宣布支援蘋果 EV 地圖 , https://technews.tw/2023/05/18/porsche-apple-maps-ev/
+2023-05-18 15:34:09 , tech , 中媒爆料福斯與華為合作車載軟體，福斯 CFO 否認 , https://technews.tw/2023/05/18/volkswagen-huawei-not-working-software/
+2023-05-18 15:35:41 , tech , 面板廠最快季底可能挑戰單月損平 , https://finance.technews.tw/2023/05/18/panel-makers-have-a-chance-to-reach-loss-even/
+2023-05-18 15:37:04 , tech , 全球通膨都在降，為何英國還在雙位數掙扎？ , https://finance.technews.tw/2023/05/18/why-uk-inflation-still-stubborn/
+2023-05-18 15:38:37 , tech , 郭明錤：蘋果助立訊在印設產線、吃下頂規 iPhone 16 訂單 , https://technews.tw/2023/05/18/luxshare-in-india-iphone-16-pro-max/
+2023-05-18 15:40:10 , tech , 出口不佳影響經濟表現，國發會：今年盡全力「保 2」 , https://finance.technews.tw/2023/05/18/gdp-2-focus/
+2023-05-18 15:46:20 , tech , 找幫手助日本 Rapidus 研發 2 奈米製程，IMEC 將設北海道研究中心 , https://technews.tw/2023/05/18/iimec-to-set-up-research-center-in-hokkaido/
+2023-05-18 15:47:53 , tech , AI 提高生產力，高盛：標普 500 淨利十年增長 30% , https://finance.technews.tw/2023/05/18/ai-improves-productivity/
+2023-05-18 15:49:26 , tech , 消費市場低迷，MLCC 供應商產能降載恐成短期常態 , https://technews.tw/2023/05/18/mlcc-reduced-production-capacity/
+2023-05-18 15:50:49 , tech , 沃旭大彰化西南第二階段及西北離岸風場，陸上變電站正式動工 , https://technews.tw/2023/05/18/greater-changhua-2b-4-onshore-substation/
+2023-05-18 15:58:33 , tech , 成大研究團隊預測+設計 AI 模型！開啟冷凍鑄造仿生材料設計新途徑 , https://technews.tw/2023/05/18/advance/
+2023-05-18 16:00:06 , tech , 溫蒂漢堡不只有 AI 點餐，還開發出機器人地底送餐通道 , https://technews.tw/2023/05/18/wendys-ai-robot-order-deliever/
+2023-05-18 16:01:39 , tech , 功耗降低 23%，三星業界首款 12 奈米等級製程 DRAM 開始量產 , https://technews.tw/2023/05/18/samsung-begins-mass-production-of-the-industrys-first-12nm-level-process-dram/
+2023-05-18 16:03:12 , tech , 簡單去除葡萄酒異味，用金奈米粒子迅速搞定 , https://technews.tw/2023/05/18/gold-nanoparticles-wine/
+2023-05-18 16:04:32 , tech , 烏軍愛國者系統受損，美專家：有戰損很正常 , https://technews.tw/2023/05/18/us-expert-said-its-normal-for-ukrainian-patriots-to-have-casualties/
+2023-05-18 16:28:41 , tech , CPU 沒有導入大小核心設計吃虧！AMD 證實目前已開始導入測試 , https://technews.tw/2023/05/18/amd-confirms-it-is-now-testing-import-size-core-architectures/
+2023-05-18 16:30:14 , tech , 虛擬貨幣交易要報稅、FTX 破產可列損失嗎？專家提醒投資人注意 , https://finance.technews.tw/2023/05/18/virtual-currency-tax/
+2023-05-18 17:35:57 , tech , 獲邀日首相官邸會談，劉德音：台積電將持續投資日本 , https://technews.tw/2023/05/18/tsmc-will-continue-to-invest-in-japan/
+2023-05-18 17:37:10 , tech , 挺不住！長江存儲開漲價第一槍，但很難帶動記憶體反彈 , https://technews.tw/2023/05/18/ymtc-raises-the-price-first-shot/
+2023-05-18 17:39:45 , tech , 台幣 50 萬元以下的微型電動車，會是下個戰場嗎？ , https://technews.tw/2023/05/18/cheap-micro-ev-trending/
+2023-05-18 17:41:28 , tech , 系統規格談不攏，Apple Pay 綁悠遊卡「嗶」進北捷遙遙無期 , https://technews.tw/2023/05/18/we-still-can-not-add-easycards-on-iphones-or-apple-watches-in-taiwan/
+2023-05-18 17:43:01 , tech , 金正恩視察北韓首顆間諜軍事衛星，當局：將按計畫發射 , https://technews.tw/2023/05/18/kim-jong-un-north-korea-spy-satellite/
+2023-05-18 17:45:36 , tech , CPU 沒有導入大小核心設計吃虧！AMD 證實開始測試 , https://technews.tw/2023/05/18/amd-confirms-it-is-now-testing-import-size-core-architectures/
+2023-05-18 17:58:43 , tech , PlayStation 於 5/24 直播逾 1 小時，發表 PS5 和 PS VR2 最新遊戲 , https://ccc.technews.tw/2023/05/18/playstation-showcase/
+2023-05-18 18:00:16 , tech , 傳蘋果親自執行 Micro LED 巨量轉移，龍潭廠扮關鍵角色 , https://technews.tw/2023/05/18/apple-micro-led-samsung/
+2023-05-18 19:29:20 , tech , 三竹資訊多項新系統齊發！董座邱宏哲：目標三年導入 50 家券商 , https://finance.technews.tw/2023/05/18/action-watch-system/

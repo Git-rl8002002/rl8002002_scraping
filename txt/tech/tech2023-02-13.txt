@@ -1,0 +1,66 @@
+2023-02-13 07:21:32 , tech , 倉促推 Bard！Google 員工怒批執行長「短視近利」：考績應打最低 , https://technews.tw/2023/02/13/google-employees-criticize-sundar-pichai/
+2023-02-13 07:36:33 , tech , 本月第 4 次，美軍於密西根休倫湖再擊落不明飛行物 , https://technews.tw/2023/02/13/fourth-uap-object/
+2023-02-13 07:36:33 , tech , 雲端大廠 2022 年第四季財報續弱，用戶與服務商聚焦優化採用成本 , https://finance.technews.tw/2023/02/13/cloud-service-financial-reporting/
+2023-02-13 08:03:33 , tech , 蟲蟲生產蛋白質效率高，法國昆蟲養殖業興起 , https://technews.tw/2023/02/13/how-france-became-the-unlikely-home-of-the-insect-farming-industry/
+2023-02-13 08:24:33 , tech , 個資防火牆，數位部鼓勵電商導入「隱碼技術」 , https://technews.tw/2023/02/13/e-commerce-personal-information-firewall/
+2023-02-13 08:24:33 , tech , 逆齡關鍵原來在骨髓！科學家輸入新血讓老鼠回春 , https://technews.tw/2023/02/13/young-blood-transfusions-found-to-reverse-aging-in-mice/
+2023-02-13 08:30:33 , tech , 母雞換羽及飼料價高，雞蛋每台斤批發價漲至 52 元 , https://technews.tw/2023/02/13/the-wholesale-price-of-eggs-has-risen/
+2023-02-13 08:33:33 , tech , 越南崛起》越南沒有原料需要海路運輸！電子供應鏈四大聚落成形背後關鍵拆解 , https://finance.technews.tw/2023/02/13/vietnam-supply-chain-cluster/
+2023-02-13 08:33:34 , tech , 越南崛起》連最被動的筆電供應鏈都開始遷徙，越南代工地位將取代中國？ , https://technews.tw/2023/02/13/will-vietnam-replace-china-as-the-most-important-manufacture-center-of-the-consumer-products/
+2023-02-13 08:42:33 , tech , 意想不到的位置，矮行星 Quaoar 周圍發現環狀物質 , https://technews.tw/2023/02/13/quaoar-dwarf-planet-kuiper-belt-ring-system/
+2023-02-13 08:51:33 , tech , 日銀下任總裁爆黑馬，傳雨宮無意願、植田有望出線 , https://finance.technews.tw/2023/02/13/candidates-for-the-next-president-of-the-bank-of-japan/
+2023-02-13 08:54:32 , tech , 電動車 OTA 甚至可以把電池變大，Rivian 更新後續航增加 25 公里 , https://technews.tw/2023/02/13/rivian-ota-battery-increase/
+2023-02-13 09:21:31 , tech , 頂著被罵敗家子壓力，永豐餘三代拚出電子標籤王國 , https://technews.tw/2023/02/13/arizon-rfid-technology-electronic-tags/
+2023-02-13 09:21:31 , tech , 公債殖利率走高，那斯達克指數下跌 0.6% , https://technews.tw/2023/02/13/us-stock-0210/
+2023-02-13 09:21:31 , tech , 美元轉弱，新台幣開年以來升值逾 2%！外匯策略師：新台幣上半年將往「這數字」靠攏 , https://technews.tw/2023/02/13/ntd-appreciates-more-than-2percent/
+2023-02-13 09:21:32 , tech , 土敘強震逾 3.5 萬罹難，預估經濟損失高達 840 億美元 , https://technews.tw/2023/02/13/turkey-syria-earthquake-economic-toll/
+2023-02-13 09:27:32 , tech , 反擊！Google Bard 首次亮相，有個功能「輾壓」ChatGPT , https://technews.tw/2023/02/13/google-bard-and-so-on/
+2023-02-13 09:36:33 , tech , 大摩看好人工智慧長線潛力，台積電等 20 檔概念股出爐 , https://finance.technews.tw/2023/02/13/ai-dominating-the-action-in-the-stock-market-right-now/
+2023-02-13 10:24:32 , tech , 理財第一步就從「記帳」開始！超人氣五款記帳 APP 一次看 , https://finance.technews.tw/2023/02/13/bookkeeping/
+2023-02-13 10:24:37 , tech , 本月第四次，美軍於密西根休倫湖再擊落不明飛行物 , https://technews.tw/2023/02/13/fourth-uap-object/
+2023-02-13 10:24:39 , tech , [ 專題 ]越南崛起》越南沒有原料需要海路運輸！電子供應鏈四大聚落成形背後關鍵拆解 , https://finance.technews.tw/2023/02/13/vietnam-supply-chain-cluster/
+2023-02-13 10:24:39 , tech , [ 專題 ]越南崛起》連最被動的筆電供應鏈都開始遷徙，越南代工地位將取代中國？ , https://technews.tw/2023/02/13/will-vietnam-replace-china-as-the-most-important-manufacture-center-of-the-consumer-products/
+2023-02-13 10:33:35 , tech , 像網路發明一樣重要！比爾蓋茲：ChatGPT 將改變我們的世界 , https://technews.tw/2023/02/13/what-bill-gates-see-about-chatgpt-and-bard/
+2023-02-13 10:42:33 , tech , iPhone 訂閱制仍舊推遲中，彭博：受工程延誤影響 , https://technews.tw/2023/02/13/iphone-hardware-subscription-program/
+2023-02-13 10:45:34 , tech , 全球第二大半導體封裝測試廠艾克爾計畫上海工廠休假停工一周 , https://finance.technews.tw/2023/02/13/amkor-plans-to-close-shanghai-plant-for-a-week/
+2023-02-13 10:57:32 , tech , 全球第二大半導體封裝測試廠艾克爾上海工廠休假停工一週 , https://finance.technews.tw/2023/02/13/amkor-plans-to-close-shanghai-plant-for-a-week/
+2023-02-13 11:06:32 , tech , iPhone 訂閱制延後中，彭博：受工程延誤影響 , https://technews.tw/2023/02/13/iphone-hardware-subscription-program/
+2023-02-13 11:09:35 , tech , 又有工程師魔改 iPhone 充電埠，但這次卻同時有 USB-C 與 Lightning , https://technews.tw/2023/02/13/usb-c-iphone-3/
+2023-02-13 11:15:35 , tech , ChatGPT 快速推 Plus 版本盈利！生成式 AI 下一步是暗黑還是榮耀？ , https://finance.technews.tw/2023/02/13/chatgpt-plus/
+2023-02-13 11:15:36 , tech , 與網路發明一樣重要！比爾蓋茲：ChatGPT 將改變世界 , https://technews.tw/2023/02/13/what-bill-gates-see-about-chatgpt-and-bard/
+2023-02-13 11:21:32 , tech , 生成式 AI 大爆發，NVIDIA GPU 恐供不應求 , https://technews.tw/2023/02/13/nvidia-gpu-demand-to-exceed-supply-as-green-team-bets-on-chatgpt/
+2023-02-13 11:33:33 , tech , ChatGPT 快速推 Plus 版盈利！產生式 AI 下一步是暗黑還是榮耀？ , https://finance.technews.tw/2023/02/13/chatgpt-plus/
+2023-02-13 11:36:33 , tech , 產生式 AI 大爆發，NVIDIA GPU 恐供不應求 , https://technews.tw/2023/02/13/nvidia-gpu-demand-to-exceed-supply-as-green-team-bets-on-chatgpt/
+2023-02-13 11:54:35 , tech , Meta 傳將再裁員，專家稱四成科技人 1 個月內找到新東家 , https://technews.tw/2023/02/13/meta-may-lay-off-more-workers-around-march/
+2023-02-13 12:00:33 , tech , GitHub 裁員 10%，全部員工改遠距上班 , https://technews.tw/2023/02/13/github-lays-off-10-of-its-workforce-and-all-work-remotely/
+2023-02-13 12:00:33 , tech , Meta 傳再裁員，專家稱四成科技人一個月內找到新東家 , https://technews.tw/2023/02/13/meta-may-lay-off-more-workers-around-march/
+2023-02-13 12:00:34 , tech , 又有工程師魔改 iPhone 充電埠，但這次同時有 USB-C 與 Lightning , https://technews.tw/2023/02/13/usb-c-iphone-3/
+2023-02-13 12:15:33 , tech , +++ 時代再見！英特爾宣布末代 14 奈米 Rocket Lake-S CPU 停產時間 , https://technews.tw/2023/02/13/intel-announces-discontinuation-of-last-generation-14nm-rocket-lake-s-cpus/
+2023-02-13 12:30:32 , tech , 台股基金定期定額十大績效出爐！法人：第二顆藍燈浮現投資契機 , https://finance.technews.tw/2023/02/13/regular-quota/
+2023-02-13 12:30:33 , tech , 世界最小 3D 列印機只有 4.1 公分，模型細節毫不馬虎 , https://technews.tw/2023/02/13/worlds-smallest-3d-printer/
+2023-02-13 12:30:33 , tech , 3D列印 , https://technews.tw/category/3d%e5%88%97%e5%8d%b0/
+2023-02-13 13:39:34 , tech , 科學家憂心 ChatGPT 爆紅使碳排放量與能源使用大規模提升 , https://technews.tw/2023/02/13/the-popularity-of-chatgpt-has-led-to-a-significant-increase-in-carbon-emissions-and-energy-use/
+2023-02-13 13:42:32 , tech , 看好發展趨勢，RWE 打造浮動式離岸風電雲端教室 , https://technews.tw/2023/02/13/rwe-cloud-classroom/
+2023-02-13 13:51:32 , tech , 傳美擬禁美企投資中國科技業，主要指向晶片生產 , https://technews.tw/2023/02/13/us-investment-restrictions-on-china-are-mainly-chips/
+2023-02-13 13:51:33 , tech , 科學家憂心 ChatGPT 爆紅使碳排放量與能源使用大舉提升 , https://technews.tw/2023/02/13/the-popularity-of-chatgpt-has-led-to-a-significant-increase-in-carbon-emissions-and-energy-use/
+2023-02-13 14:03:35 , tech , 無線耳機需求弱，NOR Flash 價格續跌、創七季低 , https://technews.tw/2023/02/13/nor-flash-price-continues-to-fall/
+2023-02-13 14:18:33 , tech , Lyft 意外虧損，財測悲觀、股價崩 36% , https://finance.technews.tw/2023/02/13/lyft-shares-skid-on-fears-uber-pulling-ahead/
+2023-02-13 14:24:34 , tech , 億光：撤回對亞馬遜美國專利侵權訴訟 , https://finance.technews.tw/2023/02/13/everlight-amazon/
+2023-02-13 14:36:33 , tech , 周邊商品還是要賺，蘋果或替 iPhone 15 的 USB-C 設計特殊元件 , https://technews.tw/2023/02/11/rumor-said-apple-is-designing-new-circuit-board-for-iphone15s-usb-c-port/
+2023-02-13 14:36:33 , tech , 升息疑慮，全球股票基金失血、美股基金連 6 週流出 , https://technews.tw/2023/02/13/raise-interest-rates-worries-stocks-market/
+2023-02-13 14:36:34 , tech , 缺藥拉警報，相關製藥廠紅通通 , https://finance.technews.tw/2023/02/13/alarm-for-lack-of-medicine/
+2023-02-13 14:42:33 , tech , 瑩碩精神科用藥中國取證在即！王建治：三大動能助營運向上 , https://finance.technews.tw/2023/02/13/psychiatric-drugs/
+2023-02-13 14:42:34 , tech , 國科會編列 349 億元經費，建立 8 大前瞻科技平台 , https://technews.tw/2023/02/13/nstc-taiwan-tech-semiconductor/
+2023-02-13 14:48:34 , tech , 新 iMac 最快 2023 年底現身，直接換上 M3 晶片 , https://technews.tw/2023/02/13/m3-imac-2/
+2023-02-13 15:12:34 , tech , 台灣境內第一檔 TIPS 基金！富邦美國通膨連結公債指數基金 2/20 開募 , https://finance.technews.tw/2023/02/13/tips-first/
+2023-02-13 15:21:33 , tech , 新 iMac 最快 2023 年底現身，直接換成 M3 晶片 , https://technews.tw/2023/02/13/m3-imac-2/
+2023-02-13 15:27:32 , tech , 電動車無線充電比插電更安全？未來十年的大勢所趨 , https://technews.tw/2023/02/13/ev-wireless-charge-safer/
+2023-02-13 15:33:32 , tech , 義大利禁聊天機器人 Replika，歐盟料祭更嚴 AI 規範 , https://technews.tw/2023/02/13/italy-ban-replika/
+2023-02-13 15:39:34 , tech , 福衛五號影像投入土耳其救災，粗估部分地區地表移動 69 公分以上 , https://technews.tw/2023/02/13/formosat-5-satellite-image-turkey-earthquake/
+2023-02-13 15:42:37 , tech , 今年春天，蘋果可以期待什麼新品？ , https://technews.tw/2023/02/13/apple-event-2023-spring/
+2023-02-13 15:48:34 , tech , 輝達居高階 AI 晶片龍頭，南韓新創 Rebellions 加入戰局 , https://technews.tw/2023/02/13/rebellions-enters-the-market-for-high-end-ai-chips/
+2023-02-13 15:54:35 , tech , 群創去年專利申請奪面板業之冠！布局面板級封裝、平板衛星天線 , https://finance.technews.tw/2023/02/13/innolux-28/
+2023-02-13 16:06:33 , tech , 國科會擬推出台灣版 ChatGPT，防中國偏見論述 , https://technews.tw/2023/02/13/taiwan-chatgpt-nstc/
+2023-02-13 16:06:33 , tech , 蘋果獲 Apple Watch 新專利，將成為具「釋放機制」的手錶 , https://technews.tw/2023/02/13/apple-watch-patent/
+2023-02-13 16:09:33 , tech , 解決風機葉片長期環境問題，維斯塔斯推出循環解決方案 , https://technews.tw/2023/02/13/vestas-unveils-circularity-solution-to-end-landfill-for-turbine-blades/
+2023-02-13 16:18:33 , tech , 有口皆碑，SAAB 將擴充單兵肩射武器產量到每年四十萬枚 , https://technews.tw/2023/02/13/saab-is-increasing-production-of-nlaws-and-others-to-400000-per-year/

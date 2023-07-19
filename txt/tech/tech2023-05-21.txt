@@ -1,0 +1,15 @@
+2023-05-21 01:10:52 , tech , 老人家每天多走 500 步，就能幫助預防心臟病 , https://technews.tw/2023/05/21/for-older-adults-every-500-additional-steps-taken-daily-associated-with-lower-heart-risk/
+2023-05-21 10:35:36 , tech , 丸紅力挺！全球最大海上型太陽能電廠落腳彰濱，辰亞日商揮軍綠能事業新指標 , https://technews.tw/2023/05/21/the-worlds-largest-offshore-solar-power-plant/
+2023-05-21 10:59:12 , tech , 慧榮：市場疲弱復甦不如預期，記憶體回穩最快 2023 年第三季之後 , https://technews.tw/2023/05/21/memory-will-stabilize-the-fastest-after-the-third-quarter-of-2023/
+2023-05-21 11:00:45 , tech , 台灣週休三日真的好？他國實施現況，仍有員工不滿意 , https://technews.tw/2023/05/21/three-days-off-implementation-status/
+2023-05-21 11:01:58 , tech , 「讓台灣成為亞洲第一個週休三日的國家」 , https://join.gov.tw/idea/detail/312c3db7-e5c9-4d87-98bd-d1548a42df40
+2023-05-21 11:02:08 , tech , 「修改勞基法第 30 條，降低每週工時」 , https://join.gov.tw/idea/detail/4790bca6-6bd9-4bcc-82ce-88c51143a145
+2023-05-21 11:02:29 , tech , 每人每年因塞車虧 6 萬元！紐約將開徵世上最貴「塞車費」 , https://finance.technews.tw/2023/05/21/new-york-to-implement-world-most-expensive-traffic-jam-fee/
+2023-05-21 11:46:53 , tech , ChatGPT 導入 Apple Watch，AI 助理 Petey 成 Siri 強大競爭對手 , https://technews.tw/2023/05/21/chatgpt-into-apple-watch-petey/
+2023-05-21 11:48:25 , tech , 堅定維護印太海域和平劍指中國！美日印澳聯合聲明將投資基礎設施 , https://finance.technews.tw/2023/05/21/quad/
+2023-05-21 12:52:54 , tech , NVIDIA 啟動台灣人才招募計畫！迎接 AI 浪潮擴編工程研發團隊 , https://finance.technews.tw/2023/05/21/nvidia-careers/
+2023-05-21 15:34:29 , tech , 英電信業寒冬？BT 將裁 5.5 萬人、擁抱 AI 和自動化 , https://technews.tw/2023/05/19/british-telecom-giant-bt-to-cut-up-to-55000-jobs-by-2030/
+2023-05-21 15:35:00 , tech , NGAD 邁入下一步，美軍宣布 2024 年將宣布競標結果 , https://technews.tw/2023/05/19/usaf-annouced-ngad-designed-will-be-decided-in-2024/
+2023-05-21 15:38:47 , tech , Meta 將展開新一輪大裁員！業務單位消減 6,000 名員工 , https://technews.tw/2023/05/21/metas-next-round/
+2023-05-21 15:40:21 , tech , 中華電攜手戴資穎植樹，規劃擴大全台植樹 8 年 15 萬棵 , https://technews.tw/2023/05/21/cht-plant-trees/
+2023-05-21 21:35:51 , tech , 美中科技戰升溫！中國網信辦：美光產品未通過網路安全審查 , https://finance.technews.tw/2023/05/21/cyberspace-administration/

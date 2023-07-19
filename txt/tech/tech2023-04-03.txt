@@ -1,0 +1,13 @@
+2023-04-03 00:23:30 , tech , 重力透鏡下極端扭曲的星系精彩細節 , https://technews.tw/2023/04/03/cosmic-seahorse/
+2023-04-03 00:24:31 , tech , 重力透鏡 , https://esahubble.org/wordbank/gravitational-lensing/
+2023-04-03 07:53:32 , tech , 英飛凌宣布併購 GaN Systems，聯手進軍 GaN 車用市場 , https://technews.tw/2023/04/03/infineon-gan-systems-gan-market/
+2023-04-03 10:08:50 , tech , 沒電也能 Apple Pay，傳 iPhone 15 Pro 將採低功耗微處理器 , https://technews.tw/2023/04/03/iphone-15-pro-4/
+2023-04-03 10:10:22 , tech , 台灣如何站穩量子科技浪潮？專訪「量子推動小組」執行長張文豪 , https://technews.tw/2023/04/03/quantum-technology-wen-hao-chang/
+2023-04-03 11:02:50 , tech , 麥當勞也裁員，本週關閉美辦公室 , https://finance.technews.tw/2023/04/03/mcdonalds-layoff/
+2023-04-03 11:04:21 , tech , watchOS 10 將有重大更新？《彭博》：用戶介面有顯著提升 , https://technews.tw/2023/04/03/watchos-10/
+2023-04-03 11:05:53 , tech , ChatGPT 背後 OpenAI 技術長：她無公開 Facebook 超神祕 , https://technews.tw/2023/04/03/chatgpt-mira-murati/
+2023-04-03 12:11:53 , tech , 破壞太嚴重，菲奧娜、伊恩從颶風名單除名 , https://technews.tw/2023/04/03/wmos-hurricane-committee-retires-fiona-and-ian-from-list-of-names/
+2023-04-03 12:38:52 , tech , 月球隕石坑設 4G LTE 網路，Nokia 確認今年啟用 , https://technews.tw/2023/04/03/nokia-plans-to-launch-4g-services-on-the-moon-this-year/
+2023-04-03 13:03:26 , tech , 南電3月營收43.65 億元 , https://finance.technews.tw/2023/04/03/n-p-c-8046-202303-financial-report/
+2023-04-03 14:45:16 , tech , 精測3月營收2.36 億元 , https://finance.technews.tw/2023/04/03/chpt-6510-202303-financial-report/
+2023-04-03 23:15:03 , tech , 一秒去除九成重金屬，用燃煤副產物「飛灰」做混凝土 , https://technews.tw/2023/03/31/fly-ash-concrete/

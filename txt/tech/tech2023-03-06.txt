@@ -1,0 +1,95 @@
+2023-03-06 07:44:21 , tech , MWC 2023：AI 熱度續增，相關應用與解決方案倍受矚目 , https://technews.tw/2023/03/06/mwc-2023-ai/
+2023-03-06 07:53:19 , tech , 從 AIGC 看雲端 AI 應用趨勢與挑戰 , https://technews.tw/2023/03/06/aigc-ai-cloud/
+2023-03-06 08:13:31 , tech , 後排座椅螺栓鬆動，特斯拉召回去年生產的 3,470 輛 Model Y , https://technews.tw/2023/03/06/model-y-tesla-loose-bolt/
+2023-03-06 08:14:52 , tech , 效能好＝價錢爛，RTX 40 筆電價錢回不去了？ , https://technews.tw/2023/03/06/rtx-40-laptop-price/
+2023-03-06 08:38:01 , tech , ChatGPT 成為投資人下一個 Big Thing！生成式 AI 出現「寒武紀大爆發」投資熱 , https://technews.tw/2023/03/06/chatgpt-%e6%88%90%e7%82%ba%e6%8a%95%e8%b3%87%e4%ba%ba%e4%b8%8b%e4%b8%80%e5%80%8b-big-thing%ef%bc%81%e7%94%9f%e6%88%90%e5%bc%8f-ai-%e5%87%ba%e7%8f%be%e3%80%8c%e5%af%92%e6%ad%a6%e7%b4%80%e5%a4%a7/
+2023-03-06 08:39:12 , tech , 列車規格錯誤進不了隧道，西班牙國鐵總裁與交通國務卿辭職 , https://technews.tw/2023/03/06/spain-train-chief-quits-over-order-of-too-wide-trains/
+2023-03-06 08:44:11 , tech , 一個月內 2 度調漲，雞蛋批發價 3/6 漲至 55 元新高 , https://technews.tw/2023/03/06/egg-wholesale-price/
+2023-03-06 08:53:12 , tech , 可替換零件，Fairphone 讓手機壽命更持久 , https://technews.tw/2023/03/06/fairphone-esg/
+2023-03-06 09:05:12 , tech , 韓媒：晶片廠 1 月庫存銷售率升至 1997 年 3 月以來新高 , https://technews.tw/2023/03/06/inventory-to-sales-ratio-of-south-korean-chip-makers-in-january/
+2023-03-06 09:11:21 , tech , 鴻海傳計畫擴增印度產能，iPhone 可能大增產 , https://technews.tw/2023/03/06/iphone-production-may-increase/
+2023-03-06 09:12:52 , tech , 這台智慧手沖咖啡機如何讓 Cama、黑沃買單、賣進全球 30 國？ , https://finance.technews.tw/2023/03/06/hiroia-smart-coffee-machine/
+2023-03-06 09:14:13 , tech , 日圓貶、日廠電子零件出貨額歷史高，惟今後恐萎縮 , https://technews.tw/2023/03/06/japanese-factory-electronic-parts-shipments-yen/
+2023-03-06 09:23:30 , tech , Meta 大砍 VR 頭盔售價，元宇宙概念股 RBLX、U 跳漲 , https://finance.technews.tw/2023/03/06/meta-vr-rblx-u/
+2023-03-06 09:29:31 , tech , 日本 PC 出貨量減幅連 2 年達兩位數，蘋果市占萎縮 , https://technews.tw/2023/03/06/japanese-pc-shipments-decline/
+2023-03-06 09:44:34 , tech , 鴻海傳計劃擴增印度產能，iPhone 可能大增產 , https://technews.tw/2023/03/06/iphone-production-may-increase/
+2023-03-06 09:48:38 , tech , 一個月內二度調漲，雞蛋批發價 3/6 漲至 55 元新高 , https://technews.tw/2023/03/06/egg-wholesale-price/
+2023-03-06 09:50:33 , tech , 晶圓代工製程成熟遇上冷凍期，市場傳出殺價潮 , https://finance.technews.tw/2023/03/06/foundry-semiconductor-wafer/
+2023-03-06 09:58:25 , tech , 淡季客戶拉貨動能保守，鴻海 2 月營收新台幣 4,020 億元、年減 11.65 % , https://finance.technews.tw/2023/03/05/honhai-release-its-feb-revenue/
+2023-03-06 10:41:34 , tech , 華為恐遭加碼封殺？傳美當局估：輝達、高通受創 , https://technews.tw/2023/03/06/nvidias-plans-for-sales-to-huawei-imperiled-if-u-s-tightens-huawei-curbs-draft/
+2023-03-06 11:02:34 , tech , 陳吉仲：3 月底前進口 500 萬顆雞蛋，滿足民眾需求 , https://technews.tw/2023/03/06/eggs-import-march/
+2023-03-06 11:11:32 , tech , 美中晶片戰加溫，ASIC 廠營運策略更明確 , https://technews.tw/2023/03/06/china-usa-chip-war-asic/
+2023-03-06 11:23:32 , tech , 新款 iMac 搭 M3 晶片傳下半年推出，今年還有三款 Mac 新機 , https://ccc.technews.tw/2023/03/06/apple-will-reportedly-launch-an-m3-equipped-imac-later-this-year/
+2023-03-06 11:41:33 , tech , 傳美再出手掐中國「禁投資中國 AI、先進半導體」 , https://technews.tw/2023/03/06/u-s-prepares-new-rules-on-investment-in-china/
+2023-03-06 11:56:34 , tech , 新望推全新變流器搶市　完美匹配大功率太陽能模組 , https://technews.tw/2023/03/06/primevolt-pv-inverter/
+2023-03-06 12:23:23 , tech , 生成式 AI 技術如何用在遊戲開發領域？ , https://technews.tw/2023/03/06/generative-ai-game-development/
+2023-03-06 12:32:23 , tech , 京瓷傳關閉天津太陽能面板工廠，改向中國廠採購 , https://finance.technews.tw/2023/03/06/kyocera-closes-solar-panel-factory-in-tianjin/
+2023-03-06 12:33:55 , tech , Google 轉彎？高層：Bard 非搜尋引擎、激發創意為主 , https://technews.tw/2023/03/06/google-execs-tell-employees-in-testy-all-hands-meeting-that-bard-ai-is-not-just-about-search/
+2023-03-06 12:35:06 , tech , 出包 , https://finance.technews.tw/2023/02/09/bard-answer-wrong-alphabet-shares-fall-7/
+2023-03-06 12:41:16 , tech , 耗時十餘年，世界攜手簽署公海保護區 , https://technews.tw/2023/03/06/the-world-contain-to-build-a-ocean-protection-area/
+2023-03-06 12:42:27 , tech , 目標智慧電力公司，「能源界 Uber」泓德能源今上市 , https://technews.tw/2023/03/06/hdrenewables-listed/
+2023-03-06 12:56:23 , tech , IC 設計業者：晶圓代工廠提供優惠方案，變相降價 , https://technews.tw/2023/03/06/wafer-foundry-price-cuts-in-disguise/
+2023-03-06 13:11:34 , tech , 面板景氣反彈，廠商改善營運也拚轉型 , https://finance.technews.tw/2023/03/06/panel-makers-improve-operations-and-transform/
+2023-03-06 13:32:32 , tech , AI 商機夯！LinkedIn 創辦人霍夫曼宣布退出 OpenAI 董事會 , https://technews.tw/2023/03/06/openais-long-time-backer-reid-hoffman-leaves-board/
+2023-03-06 14:11:33 , tech , 全球自動駕駛公司排名公布，特斯拉再次墊底 , https://technews.tw/2023/03/06/guidehouse-insights-self-driving-companies-ranking/
+2023-03-06 14:23:33 , tech , 安謀赴美 IPO 傳拚最少籌資 80 億美元，軟銀股價嗨 , https://finance.technews.tw/2023/03/06/arm-ipo-us/
+2023-03-06 14:25:05 , tech , 中美貿易戰最大贏家，墨西哥將成新中國？ , https://technews.tw/2023/03/06/mexico-prodiction/
+2023-03-06 14:44:21 , tech , 需求低迷及合約價跌幅擴大，2022 年第四季 Enterprise SSD 營收僅 37.9 億美元 , https://technews.tw/2023/03/06/enterprise-ssd-q4-revenue/
+2023-03-06 14:45:42 , tech , 創投名人安德森力挺 AI 科技，Character.ai 躍居獨角獸 , https://technews.tw/2023/03/06/andreessen-horowitz-invests-over-200-million-in-characterai/
+2023-03-06 14:53:23 , tech , 經濟部秀科專技術，助台廠切入空巴、特斯拉供應鏈 , https://technews.tw/2023/03/06/taiwan-factory-cuts-into-airbus-tesla-supply-chain/
+2023-03-06 15:08:25 , tech , 2 月 CPI 可望回落，學者示警民眾通膨預期高漲勿輕忽 , https://finance.technews.tw/2023/03/06/february-cpi-taiwan/
+2023-03-06 15:11:09 , tech , 瑞耘2月營收4,049.70 萬元 , https://finance.technews.tw/2023/03/06/ct-6532-202302-financial-report/
+2023-03-06 15:11:19 , tech , 茂達2月營收月增2.9% , https://finance.technews.tw/2023/03/06/anpec-6138-202302-financial-report/
+2023-03-06 15:11:29 , tech , 聯電2月營收月減13.6% , https://finance.technews.tw/2023/03/06/umc-2303-202302-financial-report/
+2023-03-06 15:11:40 , tech , 譜瑞-KY2月營收月減27.1% , https://finance.technews.tw/2023/03/06/parade-4966-202302-financial-report/
+2023-03-06 15:11:50 , tech , 泰鼎-KY2月營收10.73 億元 , https://finance.technews.tw/2023/03/06/apex-4927-202302-financial-report/
+2023-03-06 15:12:00 , tech , 創意2月營收22.49 億元 , https://finance.technews.tw/2023/03/06/guc-3443-202302-financial-report/
+2023-03-06 15:23:32 , tech , 裁員 70%、關閉兩個辦事處，自動駕駛卡車公司 Embark 行至倒閉邊緣 , https://finance.technews.tw/2023/03/06/embark-faces-crisis-of-closing-operations/
+2023-03-06 15:44:34 , tech , 墨比爾斯：上海戶頭的錢無法匯出，投資中國當心 , https://finance.technews.tw/2023/03/06/billionaire-investor-issues-warning-over-chinas-crazy-business-tactic/
+2023-03-06 15:50:31 , tech , 預估筆電面板第一季進入修正尾聲，第二季出貨量將呈現季增近兩成的表現 , https://technews.tw/2023/03/06/notebook-computer-panel-shipments-q2/
+2023-03-06 15:53:30 , tech , 穩懋2月營收8.58 億元 , https://finance.technews.tw/2023/03/06/win-3105-202302-financial-report/
+2023-03-06 15:53:41 , tech , 川湖2月營收月減24.4% , https://finance.technews.tw/2023/03/06/king-slide-2059-202302-financial-report/
+2023-03-06 15:53:51 , tech , 是方2月營收月減1.1% , https://finance.technews.tw/2023/03/06/chief-6561-202302-financial-report/
+2023-03-06 15:54:01 , tech , 聯詠2月營收76.41 億元 , https://finance.technews.tw/2023/03/06/novatek-3034-202302-financial-report/
+2023-03-06 15:54:12 , tech , 杰力2月營收月減14.3% , https://finance.technews.tw/2023/03/06/emc-5299-202302-financial-report/
+2023-03-06 15:54:22 , tech , 智邦2月營收61.12 億元 , https://finance.technews.tw/2023/03/06/accton-2345-202302-financial-report/
+2023-03-06 16:08:32 , tech , 日韓貿易戰大和解？南韓態度放軟日擬取消出口管制 , https://technews.tw/2023/03/06/south-korea-softens-stance-plans-to-lift-export-controls/
+2023-03-06 16:23:14 , tech , Windows 11 音量新設計，快速調整不同程式音量 , https://technews.tw/2023/03/06/windows-11-new-volume-mixer-experience-in-quick-settings/
+2023-03-06 16:24:35 , tech , 韓媒：2022 年三星中、美子公司資產損失逾 10 兆韓圜 , https://finance.technews.tw/2023/03/06/samsung-electronics-loses-10-trillion-won-in-overseas-assets/
+2023-03-06 16:26:01 , tech , 傳今年產量有望優於財測，Rivian 駁：維持原目標 , https://finance.technews.tw/2023/03/06/rivian-tells-staff-ev-output-may-be-24-more-than-forecast/
+2023-03-06 16:47:03 , tech , 筆電第二供應鏈成形，連接元件廠搶赴越南設廠 , https://technews.tw/2023/03/06/a-new-supply-chain-for-laptops-is-formed-in-vietnam/
+2023-03-06 16:48:24 , tech , 中國 618 促銷的備貨需求啟動，TrendForce 估 3 月電視面板全面上漲 , https://technews.tw/2023/03/06/tv-panel-prices-will-rise-for-all-the-size-says-trendforce/
+2023-03-06 16:53:13 , tech , 威脅日增，美太空軍與飛彈防禦署共同開發新型反飛彈衛星 , https://technews.tw/2023/03/06/sda-signed-250million-contract-with-raytheon-for-hbtss-satellites/
+2023-03-06 17:18:01 , tech , 臻鼎-KY2月營收99.44 億元 , https://finance.technews.tw/2023/03/06/zdt-4958-202302-financial-report/
+2023-03-06 17:18:12 , tech , 京鼎2月營收月減8.5% , https://finance.technews.tw/2023/03/06/fiti-3413-202302-financial-report/
+2023-03-06 17:18:22 , tech , 力旺2月營收月減45.9% , https://finance.technews.tw/2023/03/06/ememory-3529-202302-financial-report/
+2023-03-06 17:18:32 , tech , 宏達電2月營收月增17.0% , https://finance.technews.tw/2023/03/06/htc-2498-202302-financial-report/
+2023-03-06 17:18:42 , tech , 京元電子2月營收月減2.6% , https://finance.technews.tw/2023/03/06/kyec-2449-202302-financial-report/
+2023-03-06 17:18:53 , tech , 凱美2月營收月增49.5% , https://finance.technews.tw/2023/03/06/teapo-2375-202302-financial-report/
+2023-03-06 17:19:03 , tech , 雍智科技2月營收月增0.5% , https://finance.technews.tw/2023/03/06/ksmt-6683-202302-financial-report/
+2023-03-06 17:19:14 , tech , M312月營收月增16.0% , https://finance.technews.tw/2023/03/06/m31-6643-202302-financial-report/
+2023-03-06 18:05:16 , tech , 性價比大戰，澳洲援助烏克蘭「紙造」無人機 , https://technews.tw/2023/03/06/australia-firm-provided-drones-made-in-cardboards-to-ukraine/
+2023-03-06 18:06:07 , tech , 宇瞻2月營收5.51 億元 , https://finance.technews.tw/2023/03/06/apacer-8271-202302-financial-report/
+2023-03-06 18:06:18 , tech , 貿聯-KY2月營收月減1.7% , https://finance.technews.tw/2023/03/06/bhi-bizlink-3665-202302-financial-report/
+2023-03-06 18:06:28 , tech , 至上2月營收85.57 億元 , https://finance.technews.tw/2023/03/06/supreme-8112-202302-financial-report/
+2023-03-06 18:06:38 , tech , GIS-KY2月營收月增0.2% , https://finance.technews.tw/2023/03/06/gis-6456-202302-financial-report/
+2023-03-06 18:06:49 , tech , 致伸2月營收45.34 億元 , https://finance.technews.tw/2023/03/06/primax-4915-202302-financial-report/
+2023-03-06 18:06:59 , tech , 廣明2月營收月減5.1% , https://finance.technews.tw/2023/03/06/qsi-6188-202302-financial-report/
+2023-03-06 18:07:09 , tech , 創惟2月營收1.80 億元 , https://finance.technews.tw/2023/03/06/gli-6104-202302-financial-report/
+2023-03-06 18:07:20 , tech , 十銓2月營收月增26.1% , https://finance.technews.tw/2023/03/06/team-4967-202302-financial-report/
+2023-03-06 18:08:11 , tech , 園區首家 AI 晶片廠，耐能進駐竹科 , https://technews.tw/2023/03/06/hsinchu-science-park-kneron/
+2023-03-06 18:17:31 , tech , 俄羅斯的也會爆炸，伊爾-76 運輸機組裝時發生意外造成一人死亡 , https://technews.tw/2023/03/06/il-76-plants-exploded-while-testing-killed-one-people/
+2023-03-06 18:53:33 , tech , 農電共生雙重互利，降溫效果更好還能延長模組壽命 , https://technews.tw/2023/03/06/growing-crops-solar-farms/
+2023-03-06 18:57:08 , tech , 台表科2月營收月增16.5% , https://finance.technews.tw/2023/03/06/tsmt-6278-202302-financial-report/
+2023-03-06 18:57:19 , tech , 晶技2月營收月增11.1% , https://finance.technews.tw/2023/03/06/txc-3042-202302-financial-report/
+2023-03-06 18:57:29 , tech , 昇陽半導體2月營收2.79 億元 , https://finance.technews.tw/2023/03/06/psi-8028-202302-financial-report/
+2023-03-06 18:57:39 , tech , 可成2月營收月減8.7% , https://finance.technews.tw/2023/03/06/catcher-2474-202302-financial-report/
+2023-03-06 19:18:19 , tech , 信驊2月營收月增1.2% , https://finance.technews.tw/2023/03/06/aspeed-5274-202302-financial-report/
+2023-03-06 19:18:30 , tech , 景碩2月營收月減0.6% , https://finance.technews.tw/2023/03/06/kinsus-3189-202302-financial-report/
+2023-03-06 19:18:40 , tech , 璟德2月營收月增4.3% , https://finance.technews.tw/2023/03/06/acx-3152-202302-financial-report/
+2023-03-06 19:18:50 , tech , 日電貿2月營收月減4.5% , https://finance.technews.tw/2023/03/06/ndb-3090-202302-financial-report/
+2023-03-06 19:19:01 , tech , 義隆2月營收月減3.1% , https://finance.technews.tw/2023/03/06/elan-2458-202302-financial-report/
+2023-03-06 19:19:11 , tech , 美律2月營收19.35 億元 , https://finance.technews.tw/2023/03/06/merry-2439-202302-financial-report/
+2023-03-06 19:57:19 , tech , 信昌電2月營收月增4.8% , https://finance.technews.tw/2023/03/06/p-d-c-6173-202302-financial-report/
+2023-03-06 19:57:29 , tech , 宜鼎2月營收月減6.2% , https://finance.technews.tw/2023/03/06/innodisk-5289-202302-financial-report/
+2023-03-06 22:14:59 , tech , 英業達2月營收358.38 億元 , https://finance.technews.tw/2023/03/06/inventec-2356-202302-financial-report/

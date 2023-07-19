@@ -1,0 +1,77 @@
+2023-03-16 07:29:22 , tech , 比新型驅逐艦和核潛艦都多，美海軍六代機開發經費佔 2024 最大宗 , https://technews.tw/2023/03/16/us-navys-fa-xx-program-got-big-funding-in-2024-budget/
+2023-03-16 07:56:30 , tech , 從 ChatGPT 看 AIGC 發展與應用趨勢 , https://technews.tw/2023/03/16/chatgpt-see-aigc/
+2023-03-16 08:14:20 , tech , 偽裝遠距工具竊取資料，美政府查封間諜軟體 NetWire 網站 , https://technews.tw/2023/03/16/how-the-fbi-proved-a-remote-admin-tool-was-actually-malware/
+2023-03-16 08:26:19 , tech , 廣達 2022 年 EPS 達次高 7.51 元，擬發 6 元現金股利殖利率逾 7% , https://finance.technews.tw/2023/03/16/quantas-2022-eps-reaches-nt7-51-the-second-highest-in-history/
+2023-03-16 08:32:22 , tech , 從半導體小白到與張忠謀「世紀對談」，《晶片戰爭》作者 Chris Miller 到底是誰？ , https://technews.tw/2023/03/16/chip-war-chris-miller/
+2023-03-16 08:33:53 , tech , 穿一件防風防侵蝕「外套」，用細菌石灰漆保護建築物 , https://technews.tw/2023/03/16/%e7%a9%bf%e4%b8%80%e4%bb%b6%e9%98%b2%e9%a2%a8%e9%98%b2%e4%be%b5%e8%9d%95%e3%80%8c%e5%a4%96%e5%a5%97%e3%80%8d%ef%bc%8c%e7%94%a8%e7%b4%b0%e8%8f%8c%e7%9f%b3%e7%81%b0%e6%bc%86%e4%bf%9d%e8%ad%b7%e5%bb%ba/
+2023-03-16 08:53:30 , tech , 「台積電成地緣策略必爭之地！」4 年前一席話成真，張忠謀還有哪些經典語錄？ , https://technews.tw/2023/03/16/morris-chang-talks-about-chip-semiconductor/
+2023-03-16 08:55:01 , tech , 通膨侵蝕！1 月實質經常性薪資年減 0.72%，創 6 年最大減幅 , https://finance.technews.tw/2023/03/16/regular-salary-in-real-terms-for-january/
+2023-03-16 08:56:22 , tech , AI 語言 LLaMA 成功於 Raspberry Pi 執行，比 ChatGPT 更親民、個人裝置獨立運作 , https://technews.tw/2023/03/16/ai-llama-raspberry-pi-chatgpt/
+2023-03-16 08:57:44 , tech , 蛋荒危機連環爆，觸發智慧雞舍全境擴散契機 , https://technews.tw/2023/03/16/transformation-of-the-poultry-industry/
+2023-03-16 08:57:54 , tech , 李桑馭筆磐風 , https://technews.tw/author/lee-zhongyo/
+2023-03-16 09:05:30 , tech , 台泰洽談檢疫條件，泰國擬向台灣出口逾 500 萬顆雞蛋 , https://technews.tw/2023/03/16/thailand-plans-to-export-more-than-5-million-eggs-to-taiwan/
+2023-03-16 09:07:02 , tech , 三星擬 20 年砸 7 兆元建 5 座廠，專家：具體影響待觀察 , https://technews.tw/2023/03/16/south-koreas-semiconductor-strategy/
+2023-03-16 09:20:28 , tech , 營造成本飆，三星德州新晶片廠成本暴增 80 億美元 , https://technews.tw/2023/03/16/cost-of-samsungs-new-chip-fab-in-texas/
+2023-03-16 09:21:50 , tech , 鴻海集團擴手機零件產能，鄭州廠淡季啟動徵才 , https://technews.tw/2023/03/16/hon-hai-group-expands-production-capacity-of-mobile-phone-parts/
+2023-03-16 09:47:55 , tech , 比新型驅逐艦和核潛艦都多，美海軍六代機開發經費占 2024 最大宗 , https://technews.tw/2023/03/16/us-navys-fa-xx-program-got-big-funding-in-2024-budget/
+2023-03-16 10:05:31 , tech , 股東注意！元大金通過配發現金股利 0.8 元、股票股利 0.15 元 , https://finance.technews.tw/2023/03/16/attention/
+2023-03-16 10:07:02 , tech , 傳晶片業前置時間大幅縮短，美半導體類股走弱 , https://finance.technews.tw/2023/03/16/chip-stocks-fall-as-delivery-times-shrink-samsung-plans-to-build-worlds-largest-chip-complex/
+2023-03-16 10:12:23 , tech , 瑞信引發危機蔓延歐洲疑慮，瑞央忙出面！ADR 盤後彈 , https://technews.tw/2023/03/16/snb-adr/
+2023-03-16 10:12:34 , tech , 瑞信空襲銀行、油價慘，道瓊軟、ARKK 逆漲 , https://technews.tw/2023/03/16/us-stock-0315/
+2023-03-16 10:14:46 , tech , 促離岸風電國產化，台電二期首波 67.2 億聯貸案完成簽約 , https://technews.tw/2023/03/16/shinfox-energy-taipower-wind/
+2023-03-16 10:16:07 , tech , 轉職最新趨勢！緯育攜手 104 揭露企業招聘人才兩大關鍵 , https://finance.technews.tw/2023/03/16/recruit-people/
+2023-03-16 10:17:39 , tech , 傳蘋果想用 MFi 限制 USB-C 速度，恐違反歐盟規定 , https://ccc.technews.tw/2023/03/16/usb-c-iphone-mfi-2/
+2023-03-16 10:19:10 , tech , 為穩定供電，經部成立「電力可靠與韌性推動管理辦公室」 , https://technews.tw/2023/03/16/moea/
+2023-03-16 10:20:21 , tech , 憂地區銀行放款緊縮，高盛下修美 GDP 預測 , https://finance.technews.tw/2023/03/16/economy-goldman-sachs-cuts-gdp-forecast-because-of-stress-on-small-banks/
+2023-03-16 10:41:40 , tech , 中國駭客鎖定台金融機構，持續以釣魚信件攻擊 , https://finance.technews.tw/2023/03/16/teamt5-phishing-from-china/
+2023-03-16 10:43:01 , tech , SVB 風暴下，科技股微軟、蘋果、Meta 成首選避風港 , https://finance.technews.tw/2023/03/16/svb-microsoft-apple-meta/
+2023-03-16 10:44:38 , tech , 暫停腳步再出發？Google 停賣商用 Google Glass , https://technews.tw/2023/03/16/tech-google-ends-enterprise-sales-of-google-glass/
+2023-03-16 10:47:40 , tech , 兩岸開戰美國將摧毀台積電，盧超群：兩岸不會開戰 , https://technews.tw/2023/03/16/chairman-of-etron/
+2023-03-16 11:41:32 , tech , 等近一年時間新 CarPlay 終於準備好了！14 家車廠率先響應 , https://technews.tw/2023/03/16/carplay-coming-soon/
+2023-03-16 11:43:03 , tech , 再引進國際商品！期交所赴美洽談費城半導體指數期貨授權 , https://finance.technews.tw/2023/03/16/nasdaq/
+2023-03-16 11:44:33 , tech , 碳定價時代來臨！傑傅能源攜手中華電信開發綠電交易平台 , https://finance.technews.tw/2023/03/16/cbam/
+2023-03-16 11:56:24 , tech , 政府當年不看好護國神山，張忠謀：後來還積極處分台積電持股 , https://technews.tw/2023/03/16/the-government-is-not-optimistic-about-investing-in-tsmc/
+2023-03-16 12:20:43 , tech , 五大領法一次看！全民普發六千元自 3/22 開放網站分流登記 , https://finance.technews.tw/2023/03/16/universal-cash/
+2023-03-16 12:22:04 , tech , 普發現金的官網 , https://6000.gov.tw/
+2023-03-16 12:22:25 , tech , 美傳要求 TikTok 中國所有者出售持股，否則恐遭禁 , https://technews.tw/2023/03/16/u-s-asks-tiktoks-chinese-owner-to-sell-stake/
+2023-03-16 12:23:56 , tech , 電價是否會漲？王美花：將考量台電經營、穩定物價 , https://technews.tw/2023/03/16/electricity-price/
+2023-03-16 12:25:07 , tech , 財務慘，維珍軌道放無薪假、停運一週籌救命錢 , https://finance.technews.tw/2023/03/16/virgin-orbit-pauses-operations-for-a-week-furloughs-nearly-entire-staff-as-it-seeks-funding/
+2023-03-16 12:41:46 , tech , 台積電已經跟四百夥伴一起共舞，英特爾至今一個人舞池跳舞 , https://finance.technews.tw/2023/03/16/tsmc-has-danced-with-four-hundred-partners/
+2023-03-16 12:59:43 , tech , 台版 ChatGPT，國科會預計年底推共用模型 , https://technews.tw/2023/03/16/chatgpt-taiwan/
+2023-03-16 13:14:38 , tech , 國際寵物日登場！法人看好食品大廠寵萌商機成長強勁 , https://finance.technews.tw/2023/03/16/international-pet-day/
+2023-03-16 13:16:09 , tech , 台灣高鐵採購 12 組新列車，最快 116 年上路 , https://technews.tw/2023/03/16/thsrc-buy-new-trains/
+2023-03-16 13:26:45 , tech , 富邦 Costco 聯名卡發行近 50 萬張！北富銀：晶片備貨充足已全速作業 , https://finance.technews.tw/2023/03/16/card-issuance/
+2023-03-16 13:28:17 , tech , 日科學家將公鼠細胞轉為卵子，成功誕生 7 健康幼崽 , https://technews.tw/2023/03/16/generation-of-functional-oocytes-from-male-mice-in-vitro/
+2023-03-16 13:51:17 , tech , 麥可貝瑞：看不到該為銀行危機驚慌失措的理由 , https://technews.tw/2023/03/16/michael-berry-think-no-need-to-panic-over-banking-crisis/
+2023-03-16 13:53:29 , tech , 調查：逾 6 成企業曾因採行遠距工作模式而發生資料外洩 , https://finance.technews.tw/2023/03/16/remote-work/
+2023-03-16 14:05:39 , tech , 資安廠：2022 年網路威脅偵測數量 1,460 億創歷史新高 , https://finance.technews.tw/2023/03/16/cyber-security-2/
+2023-03-16 14:07:10 , tech , 台積電德國建廠協商來到進階階段？傳補貼是重點 , https://technews.tw/2023/03/16/tsmcs-germany-chip-plant-talks-hone-in-on-govt-subsidies/
+2023-03-16 14:17:07 , tech , 台積電已與 400 夥伴一起共舞，英特爾至今一個人跳舞 , https://finance.technews.tw/2023/03/16/tsmc-has-danced-with-four-hundred-partners/
+2023-03-16 14:23:36 , tech , 調查：逾六成企業曾因採行遠距工作模式而外洩資料 , https://finance.technews.tw/2023/03/16/remote-work/
+2023-03-16 14:35:42 , tech , 不用苦等就可立即使用！微軟 Bing 更新支援 GPT-4 並取消等候清單 , https://technews.tw/2023/03/16/microsofts-bing-gpt-4-chatbot-is-now-available-without-a-waitlist/
+2023-03-16 14:37:14 , tech , 均價跌幅擴大，2022 年第四季 NAND Flash 總營收季跌 25% , https://finance.technews.tw/2023/03/16/2022q4-nand-flash-25percent/
+2023-03-16 14:38:39 , tech , ChatGPT-4 登場，AI 供應鏈未來兩季將受惠 , https://technews.tw/2023/03/16/chatgpt-4-ai-supply-chain/
+2023-03-16 14:38:45 , tech , 鴻海首度拿下 AirPods 訂單，凸顯蘋果轉移生產地的努力 , https://finance.technews.tw/2023/03/16/ff-airpods/
+2023-03-16 14:56:32 , tech , 英國新創打造微型資料中心，轉換廢熱提供給溫水泳池 , https://technews.tw/2023/03/16/tiny-data-centre-used-to-heat-public-swimming-pool/
+2023-03-16 15:02:27 , tech , 鴻海首度拿下 AirPods 訂單，突顯蘋果轉移生產地的努力 , https://finance.technews.tw/2023/03/16/ff-airpods/
+2023-03-16 15:23:44 , tech , 被禁或脫離中國母公司，TikTok 證實美建議二選一 , https://technews.tw/2023/03/16/us-give-tiktok-two-choices/
+2023-03-16 15:25:15 , tech , 新發動機產能出包，美軍未來直升機服役時程將延期 , https://technews.tw/2023/03/16/ges-t901-delayed-might-affect-the-fara-program/
+2023-03-16 15:35:34 , tech , 台積電德國建廠協商到進階階段？傳補貼是重點 , https://technews.tw/2023/03/16/tsmcs-germany-chip-plant-talks-hone-in-on-govt-subsidies/
+2023-03-16 15:35:42 , tech , 張忠謀首度表態，強調支持美國晶片法案限制中國發展 , https://technews.tw/2023/03/16/support-the-u-s-chip-bill-to-limit-chinas-development/
+2023-03-16 15:41:42 , tech , NASA 公布新一代登月太空裝，靈活度和隔熱性能升級 , https://technews.tw/2023/03/16/axiom-space-reveals-next-generation-spacesuit-for-astronauts-returning-to-lunar-surface/
+2023-03-16 15:42:53 , tech , 張忠謀首度表態，強調支持美國晶片政策限制中國發展 , https://technews.tw/2023/03/16/support-the-u-s-chip-bill-to-limit-chinas-development/
+2023-03-16 16:11:48 , tech , 大到不能倒 or 大到沒法救？瑞信危機一次看 , https://finance.technews.tw/2023/03/16/credit-suisse-crisis/
+2023-03-16 16:13:10 , tech , 嗚嘛嘛究竟是什麼？五角大廈：可能是外星人母艦 , https://technews.tw/2023/03/16/the-pentagon-said-oumuamua-could-be-an-alien-mothership/
+2023-03-16 16:14:41 , tech , 油電雙修！Gogoro 今年推 150 間社區店什麼車都修 , https://technews.tw/2023/03/16/gogoro-remote-store/
+2023-03-16 16:38:41 , tech , AI 成求職幫手？Linkedin 幫你用 AI 優化履歷、JD , https://technews.tw/2023/03/16/linkedin-helps-you-optimize-your-resume-with-ai/
+2023-03-16 17:26:30 , tech , Kia EV9 月底正式登場，首款三排純電豪華休旅車內外裝搶先看 , https://technews.tw/2023/03/16/kia-ev9-launch-this-month/
+2023-03-16 17:59:38 , tech , 矽谷銀行、瑞信沒有系統性風險！元大顏承暉：股債需多元平衡配置 , https://finance.technews.tw/2023/03/16/diversified-stocks-and-bonds/
+2023-03-16 18:08:40 , tech , 中美晶 2022 年營收 818.7 億元，每股 EPS 達 14.87 元均創新高 , https://finance.technews.tw/2023/03/16/sas-hits-record-revenue-in-2022/
+2023-03-16 18:10:11 , tech , 百度版 ChatGPT 登場，投資人不買單股價暴跌近 10% , https://technews.tw/2023/03/16/baidu-shares-tumble-as-it-unveils-ernie-bot/
+2023-03-16 18:20:44 , tech , 富邦金去年每股賺 3.54 元居獲利王！帳上保留盈餘 1200 億元可分派股利 , https://finance.technews.tw/2023/03/16/profit-king-2/
+2023-03-16 18:36:45 , tech , AI 成求職幫手？Linkedin 幫你用 AI 最佳化履歷、JD , https://technews.tw/2023/03/16/linkedin-helps-you-optimize-your-resume-with-ai/
+2023-03-16 18:50:22 , tech , 《晶片戰爭》米勒：中國無法循台韓模式發展半導體 , https://technews.tw/2023/03/16/chris-miller-said-cn-cant/
+2023-03-16 18:59:45 , tech , 3/17 開電價審議會，估平均調幅約 11%、逾八成住宅凍漲 , https://finance.technews.tw/2023/03/16/electricity-price-increase-11percent/
+2023-03-16 19:05:39 , tech , 張忠謀挺美政策，業者：中國比重下降就是台積電選擇 , https://technews.tw/2023/03/16/morris-chang-agrees-with-us-policy/
+2023-03-16 19:07:10 , tech , 永豐餘配發現金股利 0.9 元！總座駱秉正：聚焦提升資產報酬 , https://finance.technews.tw/2023/03/16/return-on-assets/
+2023-03-16 19:44:39 , tech , 投資動能火熱，半導體設備進口額五年增 126.8% , https://finance.technews.tw/2023/03/16/imports-of-semiconductor-equipment-increased-by-126-8-in-five-years/

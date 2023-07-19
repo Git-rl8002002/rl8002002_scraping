@@ -1,0 +1,243 @@
+2023-05-20 19:48:06 , pcdiy , 金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)實測開箱，feat. Intel Xeon w9-3495x處理器＋美超微Supermicro SUPERO X13SWA-TF＋技鋼GIGABYTE MW83-RP0主機板實戰！（Intel第四代Xeon Scalable平台W790測試） , /detail/26304
+2023-05-20 20:26:04 , pcdiy , 
+金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)實測開箱，feat. Intel Xeon w9-3495x處理器＋美超微Supermicro SUPERO X13SWA-TF＋技鋼GIGABYTE MW83-RP0主機板實戰！（Intel第四代Xeon Scalable平台W790測試）
+ , /detail/26304
+2023-05-20 20:26:04 , pcdiy , 
+
+金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)實測開箱，feat. Intel Xeon w9-3495x處理器＋美超微Supermicro SUPERO X13SWA-TF＋技鋼GIGABYTE MW83-RP0主機板實戰！（Intel第四代Xeon Scalable平台W790測試）
+記憶體模組之王金士頓，搶在Intel推出HEDT（High End Desktop，高階桌機）的同時，推出了最強大的FURY Renegade Pro RDIMM（反叛者專業版系列超頻記憶體模組）。在Intel推出第四代Xeon Scalable伺服器處理器、AMD推出第四代EPYC 9004伺服器處理器，與Intel同步推出第四代Xeon Scalable工作站處理器W-2400、W-3400處理器同時，宣布推出了旗下最強DDR5 REG ECC的反叛者 專業 版系列，這是一款當今最強大的工作站處理器超頻記憶體，提供DDR5-4800/5200/5600/6000雙記憶體通道、四記憶體通道、八記憶體體通道的解決方案，能滿足新一代伺服器、工作站與主機板的要求！
+
+這款Kingston FURY Renegade Pro RDIMM，通過伺服器、工作站與主機板業者QVL認證，能以超頻的性能在八記憶體通道之下發揮最強的記憶體性能。本次，我們就要以Intel最強的Xeon w9-3495x處理器，搭配美超微Supermicro SUPERO X13SWA-TF主機板與技鋼GIGABYTE MW83-RP0主機板，來開箱實測體驗Kingston FURY Renegade Pro DDR5-5600 128GB RDIMM套件的戰鬥力，讓我們來揭開它神祕的面紗。
+
+金士頓這次推出的FURY Renegade Pro RDIMM（反叛者專業版系列超頻記憶體模組），共推出有DDR5-4800/5200/5600/6000版本，銷售有8GB、16GB、32GB單條，與16GB、32GB、64GB與128GB套件，包括銷售32GB 單模組、128GB 4 件組和 256GB 8 件組等多種儲存容量。
+
+這款FURY Renegade Pro RDIMM產品，是Server Premier DDR5 RDIMM的加強版，主要是因應Intel HEDT平台W790的推出，以及Intel第四代Xeon Scalable處理器與AMD EPYC 9004系列伺服器處理器市場的需求，特別是針對了第四代Xeon Scalable工作站處理器W-2400、W-3400處理器最佳化，提供了REG ECC超頻的性能。
+
+●Kingston FURY Renegade Pro RDIMM是用於Intel第四代Xeon Scalable、Intel Xeon W-3400 / W-2400 系列、AMD EPYC 9004系列處理器（伺服器 & 工作站）
+●Kingston FURY Renegade Pro RDIMM適用於Intel Xeon W-3400 / W-2400 系列處理器（工作站超頻）
+
+Kingston FURY Renegade Pro的話，16GB、32GB版本皆採用採用原廠記憶體顆粒，並已通過了主機板與伺服器廠商的QVL認證，確保了相容性與穩定性。
+
+16GB版本型號：KF548R36RB-16 4800MT/s 36-38-38 1.1V
+32GB版本型號：KF548R36RB-32 4800MT/s 36-38-38 1.1V
+
+16GB版本型號：KF556R36RB-16 5600MT/s 36-38-38 1.25V
+32GB版本型號：KF556R36RB-32 5600MT/s 36-38-38 1.25V
+
+16GB版本型號：KF560R32RB-16 6000MT/s 32-38-38 1.35V
+
+*採用SK Hynix M-Die原廠記憶體顆粒
+
+這邊，首先我們以美超微Supermicro SUPERO X13SWA-TF（Intel W790）主機板進行測試，並搭配Intel最新Xeon w9-3495x處理器，實測進行八記憶體通道的性能與穩定度。
+
+搭配處理器：Intel Xeon w9-3495x（56核心/112執行緒）
+搭配主機板：美超微Supermicro SUPERO X13SWA-TF（Intel W790）
+搭配顯示卡：NVIDIA GeForce RTX 3060 Ti（8GB GDDR6）
+搭配作業系統：Windows 10 22H2工作站專業版
+系統SSD：1TB（PCIe 4.0 x4）
+
+測試記憶體：金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)套件（KF560R32RB-16 x 8）
+測試方式：DDR5-6000 八記憶體通道 （Octa Channel，8-Channel）
+
+這邊，接著我們以技鋼GIGABYTE MW83-RP0（Intel W790）主機板進行測試，並搭配Intel最新Xeon w9-3495x處理器，實測進行八記憶體通道的性能與穩定度。
+
+搭配處理器：Intel Xeon w9-3495x（56核心/112執行緒）
+搭配主機板：技鋼GIGABYTE MW83-RP0（Intel W790）
+搭配顯示卡：NVIDIA GeForce RTX 3060 Ti（8GB GDDR6）
+搭配作業系統：Windows 10 22H2工作站專業版
+系統SSD：1TB（PCIe 4.0 x4）
+
+測試記憶體：金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)套件（KF560R32RB-16 x 8）
+測試方式：DDR5-6000 八記憶體通道 （Octa Channel，8-Channel）
+
+這次，我們實測開箱了金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)套件，看到了金士頓的專業超頻記憶體，搭配強大的Intel Xeon w9-3495x處理器，以及最強的W790主機板，實現了強大的戰鬥力！
+
+這是我們採用了Intel新的HEDT平台，看到了高階桌機的無比強大記憶體性能，在新一代DDR5 R-DIMM的加持之下，八記憶體通道達成逼近300GB/s性能，工作效率可以提昇，也可以讓專業應用領域工作更得心應手！
+
+廠商名稱：遠東金士頓科技股份有限公司
+廠商電話：0800-666-200
+網站： 
+
+→更多的【PCDIY! DRAM／記憶體／超頻記憶體模組】： 
+
+→更多的【PCDIY! SSD／固態硬碟】： 
+
+→更多的【PCDIY! HDD／機械硬碟／傳統硬碟】： 
+
+→更多的【PCDIY! 行動儲存／外接機械硬碟／外接固態硬碟／隨身碟／記憶卡】： 
+
+→更多的【PCDIY! NAS／網路儲存裝置】：
+ , /detail/26304
+2023-05-20 21:01:21 , pcdiy , 
+
+金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)實測開箱，feat. Intel Xeon w9-3495x處理器＋美超微Supermicro SUPERO X13SWA-TF＋技鋼GIGABYTE MW83-RP0主機板實戰！（Intel第四代Xeon Scalable平台W790測試）
+記憶體模組之王金士頓，搶在Intel推出HEDT（High End Desktop，高階桌機）的同時，推出了最強大的FURY Renegade Pro RDIMM（反叛者專業版系列超頻記憶體模組）。在Intel推出第四代Xeon Scalable伺服器處理器、AMD推出第四代EPYC 9004伺服器處理器，與Intel同步推出第四代Xeon Scalable工作站處理器W-2400、W-3400處理器同時，宣布推出了旗下最強DDR5 REG ECC的反叛者 專業 版系列，這是一款當今最強大的工作站處理器超頻記憶體，提供DDR5-4800/5200/5600/6000雙記憶體通道、四記憶體通道、八記憶體體通道的解決方案，能滿足新一代伺服器、工作站與主機板的要求！
+
+這款Kingston FURY Renegade Pro RDIMM，通過伺服器、工作站與主機板業者QVL認證，能以超頻的性能在八記憶體通道之下發揮最強的記憶體性能。本次，我們就要以Intel最強的Xeon w9-3495x處理器，搭配美超微Supermicro SUPERO X13SWA-TF主機板與技鋼GIGABYTE MW83-RP0主機板，來開箱實測體驗Kingston FURY Renegade Pro DDR5-5600 128GB RDIMM套件的戰鬥力，讓我們來揭開它神祕的面紗。
+
+
+
+-----------------
+
+
+
+
+
+
+
+1.主機板篇
+
+
+2.記憶體模組篇
+
+
+
+3.一體式水冷散熱器篇
+-----------------
+
+金士頓這次推出的FURY Renegade Pro RDIMM（反叛者專業版系列超頻記憶體模組），共推出有DDR5-4800/5200/5600/6000版本，銷售有8GB、16GB、32GB單條，與16GB、32GB、64GB與128GB套件，包括銷售32GB 單模組、128GB 4 件組和 256GB 8 件組等多種儲存容量。
+
+這款FURY Renegade Pro RDIMM產品，是Server Premier DDR5 RDIMM的加強版，主要是因應Intel HEDT平台W790的推出，以及Intel第四代Xeon Scalable處理器與AMD EPYC 9004系列伺服器處理器市場的需求，特別是針對了第四代Xeon Scalable工作站處理器W-2400、W-3400處理器最佳化，提供了REG ECC超頻的性能。
+
+●Kingston FURY Renegade Pro RDIMM是用於Intel第四代Xeon Scalable、Intel Xeon W-3400 / W-2400 系列、AMD EPYC 9004系列處理器（伺服器 & 工作站）
+●Kingston FURY Renegade Pro RDIMM適用於Intel Xeon W-3400 / W-2400 系列處理器（工作站超頻）
+
+Kingston FURY Renegade Pro的話，16GB、32GB版本皆採用採用原廠記憶體顆粒，並已通過了主機板與伺服器廠商的QVL認證，確保了相容性與穩定性。
+
+16GB版本型號：KF548R36RB-16 4800MT/s 36-38-38 1.1V
+32GB版本型號：KF548R36RB-32 4800MT/s 36-38-38 1.1V
+
+16GB版本型號：KF556R36RB-16 5600MT/s 36-38-38 1.25V
+32GB版本型號：KF556R36RB-32 5600MT/s 36-38-38 1.25V
+
+16GB版本型號：KF560R32RB-16 6000MT/s 32-38-38 1.35V
+
+*採用SK Hynix M-Die原廠記憶體顆粒
+
+這邊，首先我們以美超微Supermicro SUPERO X13SWA-TF（Intel W790）主機板進行測試，並搭配Intel最新Xeon w9-3495x處理器，實測進行八記憶體通道的性能與穩定度。
+
+搭配處理器：Intel Xeon w9-3495x（56核心/112執行緒）
+搭配主機板：美超微Supermicro SUPERO X13SWA-TF（Intel W790）
+搭配顯示卡：NVIDIA GeForce RTX 3060 Ti（8GB GDDR6）
+搭配作業系統：Windows 10 22H2工作站專業版
+系統SSD：1TB（PCIe 4.0 x4）
+
+測試記憶體：金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)套件（KF560R32RB-16 x 8）
+測試方式：DDR5-6000 八記憶體通道 （Octa Channel，8-Channel）
+
+這邊，接著我們以技鋼GIGABYTE MW83-RP0（Intel W790）主機板進行測試，並搭配Intel最新Xeon w9-3495x處理器，實測進行八記憶體通道的性能與穩定度。
+
+搭配處理器：Intel Xeon w9-3495x（56核心/112執行緒）
+搭配主機板：技鋼GIGABYTE MW83-RP0（Intel W790）
+搭配顯示卡：NVIDIA GeForce RTX 3060 Ti（8GB GDDR6）
+搭配作業系統：Windows 10 22H2工作站專業版
+系統SSD：1TB（PCIe 4.0 x4）
+
+測試記憶體：金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)套件（KF560R32RB-16 x 8）
+測試方式：DDR5-6000 八記憶體通道 （Octa Channel，8-Channel）
+
+這次，我們實測開箱了金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)套件，看到了金士頓的專業超頻記憶體，搭配強大的Intel Xeon w9-3495x處理器，以及最強的W790主機板，實現了強大的戰鬥力！
+
+這是我們採用了Intel新的HEDT平台，看到了高階桌機的無比強大記憶體性能，在新一代DDR5 R-DIMM的加持之下，八記憶體通道達成逼近300GB/s性能，工作效率可以提昇，也可以讓專業應用領域工作更得心應手！
+
+廠商名稱：遠東金士頓科技股份有限公司
+廠商電話：0800-666-200
+網站： 
+
+→更多的【PCDIY! DRAM／記憶體／超頻記憶體模組】： 
+
+→更多的【PCDIY! SSD／固態硬碟】： 
+
+→更多的【PCDIY! HDD／機械硬碟／傳統硬碟】： 
+
+→更多的【PCDIY! 行動儲存／外接機械硬碟／外接固態硬碟／隨身碟／記憶卡】： 
+
+→更多的【PCDIY! NAS／網路儲存裝置】：
+ , /detail/26304
+2023-05-20 21:36:40 , pcdiy , 
+
+金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)實測開箱，feat. Intel Xeon w9-3495x處理器＋美超微Supermicro SUPERO X13SWA-TF＋技鋼GIGABYTE MW83-RP0主機板實戰！（Intel第四代Xeon Scalable平台W790測試）
+記憶體模組之王金士頓，搶在Intel推出HEDT（High End Desktop，高階桌機）的同時，推出了最強大的FURY Renegade Pro RDIMM（反叛者專業版系列超頻記憶體模組）。在Intel推出第四代Xeon Scalable伺服器處理器、AMD推出第四代EPYC 9004伺服器處理器，與Intel同步推出第四代Xeon Scalable工作站處理器W-2400、W-3400處理器同時，宣布推出了旗下最強DDR5 REG ECC的反叛者 專業 版系列，這是一款當今最強大的工作站處理器超頻記憶體，提供DDR5-4800/5200/5600/6000雙記憶體通道、四記憶體通道、八記憶體體通道的解決方案，能滿足新一代伺服器、工作站與主機板的要求！
+
+這款Kingston FURY Renegade Pro RDIMM，通過伺服器、工作站與主機板業者QVL認證，能以超頻的性能在八記憶體通道之下發揮最強的記憶體性能。本次，我們就要以Intel最強的Xeon w9-3495x處理器，搭配美超微Supermicro SUPERO X13SWA-TF主機板與技鋼GIGABYTE MW83-RP0主機板，來開箱實測體驗Kingston FURY Renegade Pro DDR5-5600 128GB RDIMM套件的戰鬥力，讓我們來揭開它神祕的面紗。
+
+
+
+-----------------
+
+
+
+
+
+
+
+1.主機板篇
+
+
+2.記憶體模組篇
+
+
+
+3.一體式水冷散熱器篇
+(1) ENERMAX 幻彩銳龍 LIQTECH TR4 II 360 ARGB實測開箱，史上最強500W解熱工作站級一體式水冷散熱器！(For Intel LGA4677 & AMD sWRX8 /sTRX4 / TR4 / SP3)
+-----------------
+
+金士頓這次推出的FURY Renegade Pro RDIMM（反叛者專業版系列超頻記憶體模組），共推出有DDR5-4800/5200/5600/6000版本，銷售有8GB、16GB、32GB單條，與16GB、32GB、64GB與128GB套件，包括銷售32GB 單模組、128GB 4 件組和 256GB 8 件組等多種儲存容量。
+
+這款FURY Renegade Pro RDIMM產品，是Server Premier DDR5 RDIMM的加強版，主要是因應Intel HEDT平台W790的推出，以及Intel第四代Xeon Scalable處理器與AMD EPYC 9004系列伺服器處理器市場的需求，特別是針對了第四代Xeon Scalable工作站處理器W-2400、W-3400處理器最佳化，提供了REG ECC超頻的性能。
+
+●Kingston FURY Renegade Pro RDIMM是用於Intel第四代Xeon Scalable、Intel Xeon W-3400 / W-2400 系列、AMD EPYC 9004系列處理器（伺服器 & 工作站）
+●Kingston FURY Renegade Pro RDIMM適用於Intel Xeon W-3400 / W-2400 系列處理器（工作站超頻）
+
+Kingston FURY Renegade Pro的話，16GB、32GB版本皆採用採用原廠記憶體顆粒，並已通過了主機板與伺服器廠商的QVL認證，確保了相容性與穩定性。
+
+16GB版本型號：KF548R36RB-16 4800MT/s 36-38-38 1.1V
+32GB版本型號：KF548R36RB-32 4800MT/s 36-38-38 1.1V
+
+16GB版本型號：KF556R36RB-16 5600MT/s 36-38-38 1.25V
+32GB版本型號：KF556R36RB-32 5600MT/s 36-38-38 1.25V
+
+16GB版本型號：KF560R32RB-16 6000MT/s 32-38-38 1.35V
+
+*採用SK Hynix M-Die原廠記憶體顆粒
+
+這邊，首先我們以美超微Supermicro SUPERO X13SWA-TF（Intel W790）主機板進行測試，並搭配Intel最新Xeon w9-3495x處理器，實測進行八記憶體通道的性能與穩定度。
+
+搭配處理器：Intel Xeon w9-3495x（56核心/112執行緒）
+搭配主機板：美超微Supermicro SUPERO X13SWA-TF（Intel W790）
+搭配顯示卡：NVIDIA GeForce RTX 3060 Ti（8GB GDDR6）
+搭配作業系統：Windows 10 22H2工作站專業版
+系統SSD：1TB（PCIe 4.0 x4）
+
+測試記憶體：金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)套件（KF560R32RB-16 x 8）
+測試方式：DDR5-6000 八記憶體通道 （Octa Channel，8-Channel）
+
+這邊，接著我們以技鋼GIGABYTE MW83-RP0（Intel W790）主機板進行測試，並搭配Intel最新Xeon w9-3495x處理器，實測進行八記憶體通道的性能與穩定度。
+
+搭配處理器：Intel Xeon w9-3495x（56核心/112執行緒）
+搭配主機板：技鋼GIGABYTE MW83-RP0（Intel W790）
+搭配顯示卡：NVIDIA GeForce RTX 3060 Ti（8GB GDDR6）
+搭配作業系統：Windows 10 22H2工作站專業版
+系統SSD：1TB（PCIe 4.0 x4）
+
+測試記憶體：金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)套件（KF560R32RB-16 x 8）
+測試方式：DDR5-6000 八記憶體通道 （Octa Channel，8-Channel）
+
+這次，我們實測開箱了金士頓Kingston FURY Renegade Pro DDR5-6000 128GB RDIMM套裝八記憶體通道(16GB x8)套件，看到了金士頓的專業超頻記憶體，搭配強大的Intel Xeon w9-3495x處理器，以及最強的W790主機板，實現了強大的戰鬥力！
+
+這是我們採用了Intel新的HEDT平台，看到了高階桌機的無比強大記憶體性能，在新一代DDR5 R-DIMM的加持之下，八記憶體通道達成逼近300GB/s性能，工作效率可以提昇，也可以讓專業應用領域工作更得心應手！
+
+廠商名稱：遠東金士頓科技股份有限公司
+廠商電話：0800-666-200
+網站： 
+
+→更多的【PCDIY! DRAM／記憶體／超頻記憶體模組】： 
+
+→更多的【PCDIY! SSD／固態硬碟】： 
+
+→更多的【PCDIY! HDD／機械硬碟／傳統硬碟】： 
+
+→更多的【PCDIY! 行動儲存／外接機械硬碟／外接固態硬碟／隨身碟／記憶卡】： 
+
+→更多的【PCDIY! NAS／網路儲存裝置】：
+ , /detail/26304

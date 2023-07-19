@@ -1,0 +1,94 @@
+2023-03-15 07:26:33 , tech , 傳聞成真！Meta 再宣布進行第二輪裁員人數達到 1 萬人 , https://technews.tw/2023/03/15/meta-announces-second-round-of-layoffs/
+2023-03-15 07:28:04 , tech , 受制裁影響，俄羅斯新型飛彈預警衛星進度再次延宕 , https://technews.tw/2023/03/15/russian-new-missile-early-warning-satellites-delayed-due-to-sanctions/
+2023-03-15 07:50:29 , tech , MWC 2023：通訊產業發展趨勢 , https://technews.tw/2023/03/15/mwc-2023-communication-industry-trend/
+2023-03-15 07:53:37 , tech , 特斯拉次世代車 SiC 用量將減 75%，但 SiC 市場前景依然可期 , https://technews.tw/2023/03/15/sic-market-promising-future/
+2023-03-15 08:11:34 , tech , 玩遊戲姿勢差會遭暫停，Sony 新專利可評估提醒玩家注意姿勢 , https://ccc.technews.tw/2023/03/15/new-sony-patent-alerts-players-to-bad-posture/
+2023-03-15 08:13:06 , tech , 美國 2 月份 CPI 符合預期，聯準會陷入升不升息困難抉擇 , https://finance.technews.tw/2023/03/15/us-february-cpi-in-line-with-expectations/
+2023-03-15 08:14:29 , tech , 太空垃圾越來越多，美國太空司令部發布負責任太空行為規範 , https://technews.tw/2023/03/15/as-space-junk-threat-grows-government-and-investors-seek-solutions/
+2023-03-15 08:38:29 , tech , 不會在金星秒融化的熱電池，目標撐過金星地獄環境 2 個月 , https://technews.tw/2023/03/15/battery-venus-melt-llisse-nasa/
+2023-03-15 08:40:01 , tech , 「台版彈簧刀」無人機首曝光，可武裝高爆彈頭 , https://technews.tw/2023/03/15/tw-ver-switchblade-military-drone/
+2023-03-15 08:47:29 , tech , Riot 副總裁離職創業：告別《英雄聯盟》MMO 要做「連線版薩爾達」 , https://technews.tw/2023/03/15/believer-entertainment/
+2023-03-15 08:48:50 , tech , OpenAI 發布多模態 AI 模型「GPT-4」，輸入圖片也能生成內容 , https://technews.tw/2023/03/15/openai-release-new-ai-gpt-4/
+2023-03-15 09:08:20 , tech , 特斯拉大砍 SiC 攪亂投資布局？GaN 達人樂觀看「台廠新商機」 , https://technews.tw/2023/03/15/itri-new-platform-for-third-generation-semiconductor-technology/
+2023-03-15 09:09:51 , tech , 特斯拉宣布大量減少碳化矽，英飛凌如何出招 , https://technews.tw/2023/03/15/infineon-compound-semiconductor/
+2023-03-15 09:11:23 , tech , 第三類半導體朝 8 吋晶圓邁進！台廠相關概念股發動時機曝光 , https://finance.technews.tw/2023/03/15/8-inch-wafer/
+2023-03-15 09:11:28 , tech , 第三類半導體因電動車迎來需求爆發，特斯拉的減用宣告會成為發展絆腳石嗎？ , https://technews.tw/2023/03/15/will-teslas-reduced-use-sic-hinder-development-amidst-rising-ev-demand/
+2023-03-15 09:30:14 , tech , 電動車需求旺，三菱電機蓋新廠、增產 SiC 功率半導體 , https://technews.tw/2023/03/15/ev-mitsubishi-electric-sic/
+2023-03-15 09:32:46 , tech , 日股連日慘摔，日銀 2 年來首度連 2 天買 ETF , https://technews.tw/2023/03/15/boj-etf-japan/
+2023-03-15 09:32:56 , tech , 蘋果延後部分獎金發放，同時凍結人事招募 , https://technews.tw/2023/03/15/apple-delays-bonuses/
+2023-03-15 09:33:06 , tech , 通膨疑慮緩、銀行高層買股，Meta、費半飆 , https://technews.tw/2023/03/15/us-stock-0314/
+2023-03-15 09:35:28 , tech , 「經營環境急劇惡化」穆迪開槍，下調美銀行體系展望 , https://finance.technews.tw/2023/03/15/moodys-downgrades-outlook-on-u-s-banking-system/
+2023-03-15 09:36:50 , tech , 全球最高！藥華藥新藥 Ropeg 義大利核准藥價達 7,550 歐元 , https://finance.technews.tw/2023/03/15/polycythemia-vera/
+2023-03-15 09:40:08 , tech , GPT-4 如何碾壓現有的人工智慧，讓 Google 眼前一黑？ , https://technews.tw/2023/03/15/openai-gpt-4-power/
+2023-03-15 10:11:35 , tech , 無懼景氣逆風，調查：8 成半導體業估今年營收將成長 , https://technews.tw/2023/03/15/semiconductor-revenue-growth-this-year/
+2023-03-15 10:11:40 , tech , [ 專題 ]特斯拉大砍 SiC 攪亂投資布局？GaN 達人樂觀看「台廠新商機」 , https://technews.tw/2023/03/15/itri-new-platform-for-third-generation-semiconductor-technology/
+2023-03-15 10:11:50 , tech , [ 專題 ]特斯拉宣布大量減少碳化矽，英飛凌如何出招 , https://technews.tw/2023/03/15/infineon-compound-semiconductor/
+2023-03-15 10:12:01 , tech , [ 專題 ]第三類半導體朝 8 吋晶圓邁進！台廠相關概念股發動時機曝光 , https://finance.technews.tw/2023/03/15/8-inch-wafer/
+2023-03-15 10:12:11 , tech , [ 專題 ]第三類半導體因電動車迎來需求爆發，特斯拉的減用宣告會成為發展絆腳石嗎？ , https://technews.tw/2023/03/15/will-teslas-reduced-use-sic-hinder-development-amidst-rising-ev-demand/
+2023-03-15 10:13:07 , tech , 華為這次要讓智慧錶「捅破天」，余承東預告搭載衛星通訊技術 , https://technews.tw/2023/03/15/huawei-watch-ultimate/
+2023-03-15 10:23:41 , tech , 鴻騰估今年業績續增，電動車和聲學元件商機可期 , https://technews.tw/2023/03/15/fit-foxconn-achievement-this-year/
+2023-03-15 10:38:30 , tech , 三大業務挹注去年每股賺 11.35 元！宏碁資訊通過配發現金股利 7.5 元 , https://finance.technews.tw/2023/03/15/cloud-service-60/
+2023-03-15 10:44:29 , tech , 阿根廷通膨率破百寫 32 年新高，民眾苦不堪言怨政府 , https://finance.technews.tw/2023/03/15/argentina-inflation-new-high/
+2023-03-15 10:54:41 , tech , 無懼景氣逆風，調查：八成半導體業估今年營收將成長 , https://technews.tw/2023/03/15/semiconductor-revenue-growth-this-year/
+2023-03-15 11:02:40 , tech , Google 摺疊機真的不遠了？經銷商數據透露 Pixel Fold 六月銷售 , https://technews.tw/2023/03/15/google-pixel-fold-2/
+2023-03-15 11:04:11 , tech , 5 年 1800 億歐元，福斯加碼開發軟體和電動車 , https://finance.technews.tw/2023/03/15/180-billion-volkswagen-5years-plan/
+2023-03-15 11:08:44 , tech , 日月光 VIPac 系列扇出型堆疊封裝達成低延遲高頻寬解決方案 , https://technews.tw/2023/03/15/ase-vipac-series-fan-out-stacked-package/
+2023-03-15 11:11:27 , tech , 華為這次要讓智慧手錶「捅破天」，余承東預告搭載衛星通訊技術 , https://technews.tw/2023/03/15/huawei-watch-ultimate/
+2023-03-15 11:20:37 , tech , 中國解封迎急單之後？手機需求仍模糊 , https://technews.tw/2023/03/15/mobile-phone-market-demand-is-still-vague/
+2023-03-15 11:23:41 , tech , 一線大廠到位，PCB 南向以泰國為主聚 , https://technews.tw/2023/03/15/pcb-moved-south-to-thailand-as-the-main-gathering-place/
+2023-03-15 12:11:40 , tech , 陳吉仲：開放 8 國雞蛋進口，4 月排隊買蛋會大幅減少 , https://finance.technews.tw/2023/03/15/open-egg-imports-expanded-to-8-countries/
+2023-03-15 12:13:01 , tech , 情緒影響生理，研究：情緒壓力降低胃部 PH 值 , https://technews.tw/2023/03/15/pressure-related-to-stomach-health/
+2023-03-15 12:20:43 , tech , 南韓首都圈半導體基地計畫，三星將投資 2,300 億美元建 5 座晶圓廠 , https://technews.tw/2023/03/15/samsung-to-invest-230-billion-in-five-fabs/
+2023-03-15 12:26:47 , tech , 光學半導體大廠 Infinera 考慮出售公司，股價飆 7% , https://technews.tw/2023/03/15/semiconductor-manufacturer-infinera-explores-sale/
+2023-03-15 12:38:42 , tech , AMD 發表 Zen 4 架構，5 奈米製程 EPYC 9004 系列嵌入式處理器 , https://technews.tw/2023/03/15/amd-epyc-9004-series-embedded-processors/
+2023-03-15 12:49:52 , tech , Google 摺疊手機真的不遠了？經銷商數據透露 6 月開賣 Pixel Fold , https://technews.tw/2023/03/15/google-pixel-fold-2/
+2023-03-15 12:53:43 , tech , 搶醫生飯碗？Google AI 在醫師執照考試達「專家」等級 , https://technews.tw/2023/03/15/google-ai-achieves-expert-level-in-usmle-exam/
+2023-03-15 12:59:41 , tech , 台灣 AI 評測驗證拚國際接軌！工研院與 MIH 合作制定標準 , https://finance.technews.tw/2023/03/15/mih-consortium-mou/
+2023-03-15 13:06:23 , tech , Google 摺疊手機真的不遠了？經銷商資料透露 6 月開賣 Pixel Fold , https://technews.tw/2023/03/15/google-pixel-fold-2/
+2023-03-15 13:07:54 , tech , 5 年 1,800 億歐元，福斯加碼開發軟體和電動車 , https://finance.technews.tw/2023/03/15/180-billion-volkswagen-5years-plan/
+2023-03-15 13:26:44 , tech , Google 版工作助手來了，Gmail、文件能以 AI 生成草稿和摘要 , https://technews.tw/2023/03/15/google-announces-ai-features-in-gmail-docs-and-more/
+2023-03-15 13:28:05 , tech , Bard , https://technews.tw/2023/02/07/google-bard-competing-chatgpt/
+2023-03-15 13:28:25 , tech , 台灣對印度出口連 2 年創新高，電子零組件占比躍升居冠 , https://technews.tw/2023/03/15/taiwans-exports-to-india-hit-record-high-for-2-consecutive-years/
+2023-03-15 13:38:41 , tech , 天賦異稟不稀奇，專家：真正罕見的是人才是協作者 , https://technews.tw/2023/03/15/collaborator/
+2023-03-15 13:50:43 , tech , 權利金收入可期！水星生醫投資美國 Ainos 開發 VELDONA 三期臨床 , https://finance.technews.tw/2023/03/15/ainos/
+2023-03-15 13:59:40 , tech , 美雞蛋狂漲 6 成撐不住，1 元店 Dollar Tree 暫停賣蛋 , https://finance.technews.tw/2023/03/15/with-prices-soaring-dollar-tree-ditches-eggs-until-later-this-year/
+2023-03-15 14:00:51 , tech , 走私 , https://www.cbsnews.com/news/egg-prices-mexico-border-us-customs/
+2023-03-15 14:14:42 , tech , 美雞蛋狂漲六成撐不住，1 元店 Dollar Tree 暫停賣蛋 , https://finance.technews.tw/2023/03/15/with-prices-soaring-dollar-tree-ditches-eggs-until-later-this-year/
+2023-03-15 14:20:38 , tech , 中大實證阿托品眼藥水可預防近視，兒童滴兩年近視發生率減半 , https://technews.tw/2023/03/15/atropine/
+2023-03-15 14:21:59 , tech , 內建應用程式都得開放刪除，印度計劃制訂智慧手機新安全規範 , https://technews.tw/2023/03/15/smartphone-pre-installed-apps-in-india/
+2023-03-15 14:23:39 , tech , SVB 倒閉餘波，專家：可能影響新創科技業好幾年 , https://finance.technews.tw/2023/03/15/svbs-demise-could-hit-tech-start-ups-for-years/
+2023-03-15 14:32:15 , tech , Google 版工作助手來了，Gmail、文件能以 AI 產生草稿和摘要 , https://technews.tw/2023/03/15/google-announces-ai-features-in-gmail-docs-and-more/
+2023-03-15 14:32:18 , tech , 搶醫生飯碗？Google AI 考醫師執照達「專家」級 , https://technews.tw/2023/03/15/google-ai-achieves-expert-level-in-usmle-exam/
+2023-03-15 14:37:04 , tech , 天賦異稟不稀奇，專家：真正罕見人才是協作者 , https://technews.tw/2023/03/15/collaborator/
+2023-03-15 14:44:41 , tech , 韓半導體出口「無底」下滑，2 月摔 4 成、記憶體續腰斬 , https://technews.tw/2023/03/15/south-korea-semiconductor-export-february/
+2023-03-15 14:53:41 , tech , 韓半導體出口「無底」下滑，2 月摔四成、記憶體續腰斬 , https://technews.tw/2023/03/15/south-korea-semiconductor-export-february/
+2023-03-15 14:59:39 , tech , 美觀又防火耐用，回收磨砂玻璃搖身一變成建築材料 , https://technews.tw/2023/03/15/cladding-with-recycled-glass/
+2023-03-15 15:03:45 , tech , 南韓首都圈半導體基地計畫，三星投資 2,300 億美元建 5 座晶圓廠 , https://technews.tw/2023/03/15/samsung-to-invest-230-billion-in-five-fabs/
+2023-03-15 15:05:39 , tech , 抽離美安全顧慮難題，傳 TikTok 擬從字節跳動分拆 , https://technews.tw/2023/03/15/tiktok-bytedance-spin-off-rumor/
+2023-03-15 15:11:48 , tech , 調研：電信業者發展「企業元宇宙」，eSIM、ESG、衛星通訊成手機標配 , https://technews.tw/2023/03/15/mic-2/
+2023-03-15 15:13:19 , tech , 買氣力壓 00878 強勢回歸！元大投資級債 ETF 第三次追加募集 , https://finance.technews.tw/2023/03/15/strong-comeback/
+2023-03-15 15:20:33 , tech , 噴油加衝撞，俄軍戰機撞毀美軍 MQ-9 無人機 , https://technews.tw/2023/03/15/russian-fighters-crashed-usaf-mq-9-in-black-sea/
+2023-03-15 15:22:04 , tech , Google、GPT-4 對尬 AI 新技術，專家：睡覺醒來世界改變兩次 , https://technews.tw/2023/03/15/ai-new-technology-change-world/
+2023-03-15 15:32:41 , tech , 生成式 AI 對學習的挑戰與反思！陽明交大發起師生對談 ChatGPT , https://technews.tw/2023/03/15/learning-challenges/
+2023-03-15 15:34:12 , tech , 川普社群媒體 Truth Social 也裁了技術長等 6 人，資金僅夠維持至 9 月 , https://finance.technews.tw/2023/03/15/trumps-social-media-truth-social-also-laid-off-6-people-including-chief-technology-officer/
+2023-03-15 15:53:45 , tech , OpenAI 競爭對手 Adept 逆勢籌資，要開發新 AI 工具 , https://technews.tw/2023/03/15/ai-startup-adept-raises-350-million-in-fresh-funding/
+2023-03-15 15:58:46 , tech , GPT-4 如何輾壓現有人工智慧，讓 Google 眼前一黑？ , https://technews.tw/2023/03/15/openai-gpt-4-power/
+2023-03-15 15:59:47 , tech , 不讓 SpaceX 獨佔，Amazon 宣布 2024 年測試衛星網路服務 , https://technews.tw/2023/03/15/amazon-project-kuiper/
+2023-03-15 16:02:41 , tech , 不讓 SpaceX 獨占，Amazon 宣布 2024 年測試衛星網路服務 , https://technews.tw/2023/03/15/amazon-project-kuiper/
+2023-03-15 16:14:44 , tech , 智慧手機需求有望回溫，2023 年手機相機模組出貨量同步成長至 46.2 億顆 , https://technews.tw/2023/03/15/demand-for-smartphones-is-expected-to-pick-up/
+2023-03-15 16:23:45 , tech , 科技爭霸戰登場！南韓官民攜手打造全球最大晶片聚落 , https://technews.tw/2023/03/15/south-korea-yongin-semiconductor-settlement/
+2023-03-15 16:35:34 , tech , 不讓 SpaceX 獨占，亞馬遜宣布 2024 年測試衛星網路服務 , https://technews.tw/2023/03/15/amazon-project-kuiper/
+2023-03-15 16:44:44 , tech , 仁寶 2022 年每股賺 1.67 元！通過配發現金股利 1.2 元 , https://finance.technews.tw/2023/03/15/end-demand-slows/
+2023-03-15 16:47:22 , tech , 抽離美安全顧慮難題，傳 TikTok 擬從字節跳動獨立 , https://technews.tw/2023/03/15/tiktok-bytedance-spin-off-rumor/
+2023-03-15 17:02:38 , tech , NCC：破壞海纜者未來將面臨處分，擬修法提高罰則 , https://technews.tw/2023/03/15/ncc-telecommunications-regulation-act/
+2023-03-15 17:35:21 , tech , 賓士純電 EQG 間諜照曝光，全新防撞桿霸氣外漏 , https://technews.tw/2023/03/15/mercedes-benz-eqg-class/
+2023-03-15 17:36:53 , tech , 40,000 FPS 高速相機拍攝獨特圖像，顯示避雷針工作原理 , https://technews.tw/2023/03/15/lightning-rod/
+2023-03-15 17:38:04 , tech , 連續十年配發現金股利 5 元以上！宏正科優聲學搶進 AI 文字轉語音 , https://finance.technews.tw/2023/03/15/ai-text-to-speech/
+2023-03-15 17:39:35 , tech , 鴻海去年 EPS 10.21 元寫 15 年新高！今年配發現金股利 5.3 元再創高 , https://finance.technews.tw/2023/03/15/foxconn-q4-2022-financial-report/
+2023-03-15 17:44:21 , tech , 全球布局第一站！台灣碳資產 BEGIN 啟用澳洲首座智能充電站 , https://finance.technews.tw/2023/03/15/smart-charging-station/
+2023-03-15 17:56:22 , tech , 美國矽谷銀行倒閉，鴻海：間接影響約 1 億美元 , https://finance.technews.tw/2023/03/15/foxconn-svb/
+2023-03-15 18:08:20 , tech , 北富銀招募 550 位新血！跟進銀行上雲大增 90% 資訊數據類職缺 , https://finance.technews.tw/2023/03/15/bank-cloud/
+2023-03-15 18:14:25 , tech , 40,000fps 高速相機拍攝獨特圖像，顯示避雷針工作原理 , https://technews.tw/2023/03/15/lightning-rod/
+2023-03-15 18:44:19 , tech , 春天提早來，科學家憂生態失配 , https://technews.tw/2023/03/15/worry-of-spring-comes-early/
+2023-03-15 19:08:31 , tech , 群聯 2022 年營收 602.56 億元創歷史次高，每股 EPS 達 27.71 元 , https://finance.technews.tw/2023/03/15/phisons-revenue-in-2022-will-be-nt60-256-billion/
+2023-03-15 19:50:29 , tech , ChatGPT 對手現身，Google 投資的 AI 新創推出聊天機器人 , https://technews.tw/2023/03/15/new-chatgpt-challenger-emerging/

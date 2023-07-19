@@ -1,0 +1,16 @@
+2023-05-13 00:26:37 , tech , 歐幾里得太空望遠鏡將改變對黑暗宇宙的看法 , https://technews.tw/2023/05/13/esa-euclid/
+2023-05-13 07:23:16 , tech , 海豹部隊專屬座駕，美軍新型迷你特戰潛艇開始服役 , https://technews.tw/2023/05/13/ussocoms-new-dry-combat-submersible-is-going-operational-within-may/
+2023-05-13 09:56:44 , tech , 新世界首富換人，LVMH 阿諾德的經營併購之道 , https://finance.technews.tw/2023/05/13/story-of-lvmh/
+2023-05-13 09:58:16 , tech , 大樹、杏一股價創歷史新高背後祕密！藥局雙雄親揭展店戰略：為何小型店賺更多？ , https://finance.technews.tw/2023/05/13/why-smaller-pharmacies-have-more-revenue/
+2023-05-13 10:21:27 , tech , 西門子 EDA 多項解決方案獲得台積電最新製程認證 , https://technews.tw/2023/05/12/siemens-eda-tsmc/
+2023-05-13 10:26:44 , tech , 台企去中化國銀 4 年未申請赴中設點，重心轉往新南向 , https://finance.technews.tw/2023/05/13/taiwan-banks-turn-to-south-east-asia/
+2023-05-13 10:28:16 , tech , 製藥大廠禮來推「減肥針」騙過你的腦和胃！華爾街估成史上最暢銷藥物 , https://technews.tw/2023/05/13/a-new-class-of-drugs-for-weight-loss-could-end-obesity/
+2023-05-13 11:02:37 , tech , 謀劃數年併購案成支撐業績的救命丹！超微突圍成長關鍵字：賽靈思 , https://finance.technews.tw/2023/05/13/xilinx-of-amd/
+2023-05-13 11:04:10 , tech , 推動修法、募資 10 億元、市占九成，日本電動共享滑板車新創 Luup 有何魔力？ , https://technews.tw/2023/05/13/luup-raises-30m-ahead-of-japans-new-micromobility-rules/
+2023-05-13 11:05:21 , tech , Luup , https://luup.sc/en/lp-en/
+2023-05-13 11:14:40 , tech , 絲絨鐵鎚正式上任，馬斯克任命前 NBC 環球廣告行銷主管擔任 Twitter 執行長 , https://finance.technews.tw/2023/05/13/musk-annouced-yaccarino-as-new-twitter-ceo/
+2023-05-13 14:33:58 , tech , 元宇宙已死？祖克柏 360 億美元全部打水漂 , https://technews.tw/2023/05/11/mark-zuckerbergs-metaverse-is-dead-a-36-billion-waste/
+2023-05-13 15:35:47 , tech , 用搖桿還是不夠直覺，美軍要為黑色大黃蜂無人機加上 AI 自動偵察 , https://technews.tw/2023/05/13/ussocom-wants-ai-on-its-black-hornet-drones/
+2023-05-13 17:29:54 , tech , 輝能不只在法國建廠，桃園超級工廠下半年將正式投產 , https://technews.tw/2023/05/13/prologium-tech-will-build-super-factory-in-taoyuan/
+2023-05-13 18:05:54 , tech , 烏軍無人機朝自家步兵投手榴彈訓練反應，美軍想跟進學習 , https://technews.tw/2023/05/13/ukrainian-drones-dropping-training-grenedes-on-its-own-troops/
+2023-05-13 23:44:51 , tech , 雲端設定出包，215 萬 Toyota 車主定位資訊外流 , https://technews.tw/2023/05/13/toyota-cloud-data-breach/

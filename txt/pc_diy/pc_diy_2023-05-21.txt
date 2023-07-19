@@ -1,0 +1,77 @@
+2023-05-21 18:27:13 , pcdiy , SAPPHIRE NITRO+ AMD Radeon RX 7900 XTX Vapor-X 24GB實測開箱，PANTHEON萬神殿Vapor-X Cooling均溫板散熱三風扇玩家級顯示卡！ , /detail/26305
+2023-05-21 18:44:41 , pcdiy , 
+SAPPHIRE NITRO+ AMD Radeon RX 7900 XTX Vapor-X 24GB實測開箱，PANTHEON萬神殿Vapor-X Cooling均溫板散熱三風扇玩家級顯示卡！
+ , /detail/26305
+2023-05-21 18:44:41 , pcdiy , 
+
+SAPPHIRE NITRO+ AMD Radeon RX 7900 XTX Vapor-X 24GB實測開箱，PANTHEON萬神殿Vapor-X Cooling均溫板散熱三風扇玩家級顯示卡！
+現在要購買顯示卡的話，要擁有強大的戰鬥力，又要價格實在的話，那麼來自AMD的Radeon RX 7900XT/XTX會是不錯的選擇！但要在眾多顯示卡品牌中，找到用料紮實，散熱強大可以驅動強大性能，那可不好找。這次，則要介紹給大家藍自藍寶的旗艦顯示卡，來自NITRO+顯示卡系列核心，用上PANTHEON萬神殿技術，該有的都有的SAPPHIRE NITRO+ AMD Radeon RX 7900 XTX Vapor-X 24GB顯示卡，讓我們來揭開它神祕的面紗。
+
+
+
+藍寶科技（SAPPHIRE Technology），在AMD推出了Radeon RX 7900XT/XTX繪圖晶片之後，也不落人後推出了NITRO+顯示卡系列核心旗艦產品，其中最高級的就是SAPPHIRE NITRO+ AMD Radeon RX 7900 XTX Vapor-X 24GB（GDDR6 DUAL HDMI/DUAL DP），產品型號：S88-4E471-020SA，產品編號：11322-01-40G。
+
+
+
+萬眾矚目，AMD推出了全新RDNA 3架構的繪圖晶片Radeon RX 7900XT/XTX，其中7900XT是屬於高階版本，擁有84顆運算單元，具備20GB顯示記憶體，7900XTX則是屬於旗艦版本，擁有96顆運算單元，具備24GB顯示記憶體。
+
+這次要介紹的這張顯示卡，則是用上了旗艦的Radeon RX 7900 XTX繪圖核心，以及24GB GDDR6超大顯示記憶體。它用上了Chiplet小晶片技術，包括5nm製程的GCD (Graphics Compute Die)，集中了顯示晶片絕大部分的繪圖運算核心，和 6nm製程的MCD (Memory Cache Die)，裝入了第二代Infinity Cache，也因此擁有強大的繪圖運算性能，能讓遊戲跑得非常順暢。
+
+
+
+顯示卡在硬體設計上面，為了滿足玩家對於穩定的要求，以及加速的超頻需求，特別嚴選用料，採用了12相數位電源供電，能提供高達90安培電源，確保繪圖晶片用的用電可以無虞。更可以長時間玩遊戲有最佳的體驗。顯示卡上面，還特別設計了BIOS SWITCH，這是可以讓用戶選用加速模式（繪圖核心：最高2680MHz）或遊戲模式（繪圖核心：最高2510MHz），當有需要加速的時候就能透過切換來得到更好的性能。
+
+
+
+這張顯示卡則是用上了藍寶科技的技術，包括引以為傲的PANTHEON萬神殿。值得注意的，這張顯示卡用上了Vapor-X Cooling均溫板散熱技術，包括接觸了繪圖晶片與顯示記憶體，確保整個熱源能夠完整傳導，透過熱導管傳輸到整個銅質散熱器上面，再由強大的三風扇散熱，把廢熱給吹出，確保繪圖核心與記憶體可以穩定的在高速運作。
+
+
+
+為了提昇散熱的性能，藍寶下足了功夫！首先是散熱氣採用的波浪型鰭片設計，這是為了增加散熱面積，可以提昇帶走的熱量。此外，還用上了V型鰭片搭配複合式導熱管，這都是優化的散熱結構，可以把熱流有效快速的帶到整個散熱模組，再透過散熱風扇產生氣流把熱帶走。這款顯示卡，還採用的風扇快拆設計，只需要一個螺絲釘就能拆卸與安裝風扇，即便風扇發生故障，也可以快速的拆卸做RMA。
+
+由於顯這張顯示卡本身的功耗非常高，光是用電就需要搭配3個12-Pin電源，最高耗電高達420W，並需要最少800W電源供應器。因應這麼龐大的用電，則需要強大的散熱器，加上不斷的堆料做出這樣高階的產品，自然本身的重量就不輕。為了固定整個顯示卡本體，讓整個散熱機構穩固，確保不出現板彎，兼顧長時間顯示卡運作的穩定性，特別使用了大型全鋁金屬背板，透過壓鑄鋁鎂合金框架，以及前板散熱器，增強整個顯示卡的剛性，確保結構上的牢固，兼顧整個顯示卡散熱的性能。
+
+
+
+這張顯示卡的話，當然也具備了電競燈光，提供了ARGB燈效，包括上蓋與下蓋的雙ARGB顯示，能與主機板上的ARGB做同步，使用藍寶自家的TriXX軟體或主機板的燈效管理來控制所有的顯示效果。在顯示輸出盎面，則包括提供了雙HDMI與雙DP輸出，皆提供了8K顯示輸出，可以滿足多螢幕高解析度的顯示需求。
+
+
+
+處理器：Intel Core i9-12900KF
+主機板：ASRock Z790 Taichi Carrara
+記憶體模組：Kingston DDR5-5200 32GB套裝＠DDR5-5200
+硬碟：十銓T-FORCE CARDEA ZERO Z440 / 極限零 M.2 PCIe SSD 1TB（TM8FP7001）
+電源供應器：曜越Thermaltake Toughpower XT Platinum 1275W（ATX 12V 2.3 & SSI EPS 12V 2.92）
+作業系統：Windows 10 x64專業版
+驅動程式：23.1.1
+
+測試顯示卡：SAPPHIRE NITRO+ AMD Radeon RX 7900 XTX Vapor-X 24GB
+
+看完了SAPPHIRE NITRO+ AMD Radeon RX 7900 XTX Vapor-X 24GB顯示卡的性能，我們可以發現它擁有了強大的戰鬥力，性能是與NVIDIA GeForce RTX 4080同一個等級，可以說是目前AMD最高階戰鬥力強大顯示卡。
+
+
+
+SAPPHIRE NITRO+ AMD Radeon RX 7900 XTX Vapor-X 24GB顯示卡已經上市，目前已經可以在台灣實體通路與虛擬通路買到。最新市場行情，報價：38,900元。
+
+
+
+
+
+
+
+這次，我們實測開箱了SAPPHIRE NITRO+ AMD Radeon RX 7900 XTX Vapor-X 24GB顯示卡，看到了藍寶用心打造的顯示卡，做出了超讚的Radeon RX 7900 XTX產品。不但外觀顏直高，效能表現戰鬥力也相當強大，值得消費者安心的選用。
+
+廠商名稱：SAPPHIRE - 香港商藍寶科技有限公司 - 英屬維京群島商標緻科技有限公司
+廠商電話：02-2627-0685
+廠商網址： 
+
+→更多的【PCDIY! VGA／顯示卡／電競顯示卡】： 
+
+→更多的【PCDIY! Monitor／顯示器／電競螢幕／投影機／電視機】： 
+
+→更多的【PCDIY! DRAM／記憶體／超頻記憶體模組】： 
+
+→更多的【PCDIY! SSD／固態硬碟】： 
+
+→更多的【PCDIY! CPU Cooler／空冷／水冷／AIO一體式水冷散熱器／風扇】：
+ , /detail/26305

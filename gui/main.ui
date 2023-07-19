@@ -1,0 +1,2142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Scraping</class>
+ <widget class="QMainWindow" name="Scraping">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Scraping</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../medicine/icon/icons8-load-from-file-48.png</normaloff>../../medicine/icon/icons8-load-from-file-48.png</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">
+#line_notify , #line_notify_goods , #line_notify_ming , #money_record_add_date , #money_record_add_kind , #money_record_add_money , #money_record_add_content , #money_record_set_date , #money_record_set_kind{
+border-radius:10px;
+height:31px;
+}
+
+#btn_duck_film_chart:hover , #btn_et_news_chart:hover , #btn_tech_news_chart:hover , #btn_analysis_total:hover , #btn_udn_news_chart:hover, #btn_et_news_statistics:hover , #btn_tech_news_statistics:hover , #btn_udn_news_statistics:hover , #btn_pc_diy_statistics:hover , #btn_total_statistics:hover , #btn_work_calendar_month_statistics:hover , #btn_work_calendar_year_statistics:hover , #btn_money_record_kind_list:hover , #btn_money_record_detail_list:hover , #btn_money_record_month_list:hover , #btn_money_record_day_list:hover  , #btn_send_line_notify:hover , #btn_send_line_notify_2:hover , #btn_send_line_notify_3:hover , #btn_money_record_submit:hover , #btn_money_record_del:hover , #btn_ddos_analysis_submit:hover , #analysis_ddos_address:hover , #btn_refresh_ddos_statistics:hover , #sell_time:hover , #sell_time_selected:hover , #sell_kind:hover , #sell_kind_selected:hover , #sell_trade_time:hover , #sell_trade_time_selected:hover , #sell_trade_place:hover , #sell_trade_place_selected:hover , #sell_amount:hover , #sell_price:hover , #sell_total_price:hover , #btn_sell_submit:hover , #btn_sell_cancel:hover , #sell_name:hover , #sell_phone:hover , #sell_comment:hover , #btn_sell_alter:hover{
+background-color:gray;
+color:white;
+}
+
+#btn_duck_film_chart , #btn_et_news_chart , #btn_tech_news_chart , #btn_analysis_total , #btn_udn_news_chart , #btn_et_news_statistics , #btn_tech_news_statistics , #btn_udn_news_statistics , #btn_pc_diy_statistics , #btn_total_statistics , #btn_work_calendar_year_statistics , #btn_work_calendar_month_statistics , #btn_money_record_kind_list , #btn_money_record_detail_list , #btn_money_record_month_list , #btn_money_record_day_list , #btn_send_line_notify , #btn_send_line_notify_2 , #btn_send_line_notify_3 , #btn_money_record_submit , #btn_money_record_del , #btn_ddos_analysis_submit , #analysis_ddos_address , #btn_refresh_ddos_statistics , #sell_time , #sell_time_selected , #sell_kind , #sell_kind_selected , #sell_trade_time , #sell_trade_time_selected , #sell_trade_place , #sell_trade_place_selected , #sell_amount , #sell_price , #sell_total_price , #btn_sell_submit , #btn_sell_cancel , #sell_name , #sell_phone , #sell_comment , #btn_sell_alter{
+padding:5px 5px;
+background-color:#cccccc;
+border-radius:10px;
+}
+</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout_9">
+    <item row="0" column="1">
+     <widget class="QStackedWidget" name="stackedWidget">
+      <property name="currentIndex">
+       <number>7</number>
+      </property>
+      <widget class="QWidget" name="page_title">
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <item>
+         <widget class="QLabel" name="main_title">
+          <property name="font">
+           <font>
+            <family>Comic Sans MS</family>
+            <pointsize>48</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>Scraping Manager</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignCenter</set>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_news">
+       <layout class="QGridLayout" name="gridLayout">
+        <item row="1" column="2">
+         <widget class="QGroupBox" name="groupBox_3">
+          <property name="title">
+           <string>PC DIY</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_5">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="pc_diy_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <property name="cursor" stdset="0">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QGroupBox" name="groupBox_8">
+          <property name="title">
+           <string>UDN news</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_10">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="udn_news_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <property name="cursor" stdset="0">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="2">
+         <widget class="QGroupBox" name="groupBox_2">
+          <property name="title">
+           <string>Tech News</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_4">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="tech_news_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <property name="cursor" stdset="0">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QGroupBox" name="groupBox">
+          <property name="title">
+           <string>ET News</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_3">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="et_news_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <property name="cursor" stdset="0">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="3">
+         <widget class="QGroupBox" name="groupBox_11">
+          <property name="title">
+           <string>Charts</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_13">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QPushButton" name="btn_et_news_statistics">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="text">
+              <string>ET news statistics</string>
+             </property>
+             <property name="icon">
+              <iconset>
+               <normaloff>../icon/bullet-list2.png</normaloff>../icon/bullet-list2.png</iconset>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QPushButton" name="btn_udn_news_statistics">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="text">
+              <string>UDN news statistics</string>
+             </property>
+             <property name="icon">
+              <iconset>
+               <normaloff>../icon/bullet-list2.png</normaloff>../icon/bullet-list2.png</iconset>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QPushButton" name="btn_tech_news_statistics">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="text">
+              <string>TECH news statistics</string>
+             </property>
+             <property name="icon">
+              <iconset>
+               <normaloff>../icon/bullet-list2.png</normaloff>../icon/bullet-list2.png</iconset>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QPushButton" name="btn_pc_diy_statistics">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="text">
+              <string> PC DIY statistics</string>
+             </property>
+             <property name="icon">
+              <iconset>
+               <normaloff>../icon/bullet-list2.png</normaloff>../icon/bullet-list2.png</iconset>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QPushButton" name="btn_total_statistics">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="text">
+              <string>News total statistics</string>
+             </property>
+             <property name="icon">
+              <iconset>
+               <normaloff>../icon/bullet-list2.png</normaloff>../icon/bullet-list2.png</iconset>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_line_notify">
+       <layout class="QGridLayout" name="gridLayout_8">
+        <item row="0" column="0">
+         <widget class="QGroupBox" name="groupBox_22">
+          <property name="title">
+           <string>阿明一家</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_26">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QLabel" name="line_notify_ming_msg">
+             <property name="text">
+              <string>TextLabel</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLineEdit" name="line_notify_ming">
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="placeholderText">
+              <string>msg</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QPushButton" name="btn_send_line_notify_2">
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="text">
+              <string>Send</string>
+             </property>
+             <property name="icon">
+              <iconset>
+               <normaloff>../../money_manager/icon/icons8-mail-48.png</normaloff>../../money_manager/icon/icons8-mail-48.png</iconset>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QGroupBox" name="groupBox_25">
+          <property name="title">
+           <string>好康報報 記錄清單</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_27">
+           <property name="leftMargin">
+            <number>2</number>
+           </property>
+           <property name="topMargin">
+            <number>2</number>
+           </property>
+           <property name="rightMargin">
+            <number>2</number>
+           </property>
+           <property name="bottomMargin">
+            <number>2</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="treeWidget_2">
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QGroupBox" name="groupBox_26">
+          <property name="title">
+           <string>1對1 記錄清單</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_25">
+           <property name="leftMargin">
+            <number>2</number>
+           </property>
+           <property name="topMargin">
+            <number>2</number>
+           </property>
+           <property name="rightMargin">
+            <number>2</number>
+           </property>
+           <property name="bottomMargin">
+            <number>2</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="treeWidget_3">
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="2" column="0">
+         <widget class="QGroupBox" name="groupBox_24">
+          <property name="title">
+           <string>1 對 1</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QLabel" name="line_notify_msg">
+             <property name="text">
+              <string>TextLabel</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLineEdit" name="line_notify">
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="placeholderText">
+              <string>msg</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QPushButton" name="btn_send_line_notify">
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="text">
+              <string>Send</string>
+             </property>
+             <property name="icon">
+              <iconset>
+               <normaloff>../../money_manager/icon/icons8-mail-48.png</normaloff>../../money_manager/icon/icons8-mail-48.png</iconset>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QGroupBox" name="groupBox_23">
+          <property name="title">
+           <string>好康報報</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_24">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QLabel" name="line_notify_goods_msg">
+             <property name="text">
+              <string>TextLabel</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLineEdit" name="line_notify_goods">
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="placeholderText">
+              <string>msg</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QPushButton" name="btn_send_line_notify_3">
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="text">
+              <string>Send</string>
+             </property>
+             <property name="icon">
+              <iconset>
+               <normaloff>../../money_manager/icon/icons8-mail-48.png</normaloff>../../money_manager/icon/icons8-mail-48.png</iconset>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QGroupBox" name="groupBox_27">
+          <property name="title">
+           <string>阿明一家 記錄清單</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_28">
+           <property name="leftMargin">
+            <number>2</number>
+           </property>
+           <property name="topMargin">
+            <number>2</number>
+           </property>
+           <property name="rightMargin">
+            <number>2</number>
+           </property>
+           <property name="bottomMargin">
+            <number>2</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="treeWidget">
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_sell_record">
+       <layout class="QGridLayout" name="gridLayout_7">
+        <item row="1" column="0" rowspan="2">
+         <widget class="QGroupBox" name="groupBox_31">
+          <property name="title">
+           <string>新增網拍記錄</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_32">
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_8">
+             <item>
+              <widget class="QLineEdit" name="sell_time">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="placeholderText">
+                <string>訂購日期</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QDateEdit" name="sell_time_selected">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_14">
+             <item>
+              <widget class="QLineEdit" name="sell_name">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="placeholderText">
+                <string>訂購姓名</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLineEdit" name="sell_phone">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="placeholderText">
+                <string>訂購手機</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_9">
+             <item>
+              <widget class="QLineEdit" name="sell_kind">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="placeholderText">
+                <string>訂購種類</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QComboBox" name="sell_kind_selected">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_12">
+             <item>
+              <widget class="QLineEdit" name="sell_amount">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="placeholderText">
+                <string>訂購數量</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_5">
+               <property name="text">
+                <string>斤 / 顆</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLineEdit" name="sell_price">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="placeholderText">
+                <string>訂購單價</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_4">
+               <property name="text">
+                <string>元</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLineEdit" name="sell_total_price">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+               <property name="placeholderText">
+                <string>訂購總價</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_3">
+               <property name="text">
+                <string>元</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_10">
+             <item>
+              <widget class="QLineEdit" name="sell_trade_time">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="placeholderText">
+                <string>面交日期</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QDateTimeEdit" name="sell_trade_time_selected">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_11">
+             <item>
+              <widget class="QLineEdit" name="sell_trade_place">
+               <property name="placeholderText">
+                <string>面交地點</string>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QComboBox" name="sell_trade_place_selected">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <widget class="QTextEdit" name="sell_comment">
+             <property name="cursor" stdset="0">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="placeholderText">
+              <string>備註</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_13">
+             <item>
+              <widget class="QPushButton" name="btn_sell_submit">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="text">
+                <string>新增</string>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../icon/icons8-edit-64 (1).png</normaloff>../icon/icons8-edit-64 (1).png</iconset>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="btn_sell_cancel">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="text">
+                <string>取消</string>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../icon/icons8-close-window-94.png</normaloff>../icon/icons8-close-window-94.png</iconset>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="btn_sell_alter">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="text">
+                <string>修改</string>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../icon/icons8-signing-a-document-48.png</normaloff>../icon/icons8-signing-a-document-48.png</iconset>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QGroupBox" name="groupBox_20">
+          <property name="title">
+           <string>網拍 清單 統計</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_21">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="sell_record_mother_kind_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QGroupBox" name="groupBox_19">
+          <property name="title">
+           <string>網拍 年 統計</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_22">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="sell_record_mother_year_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string>1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QGroupBox" name="groupBox_18">
+          <property name="title">
+           <string>網拍清單 - 二姨果園</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_20">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="sell_record_mother_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QGroupBox" name="groupBox_21">
+          <property name="title">
+           <string>網拍 月 統計</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_23">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="sell_record_mother_month_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_money_record">
+       <layout class="QGridLayout" name="gridLayout_6">
+        <item row="0" column="1">
+         <widget class="QGroupBox" name="groupBox_17">
+          <property name="title">
+           <string>帳務 年 / 月 / 日 統計</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_18">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="money_record_year_statistics_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+           <item>
+            <widget class="QTreeWidget" name="money_record_month_statistics_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+           <item>
+            <widget class="QTreeWidget" name="money_record_day_statistics_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_5">
+             <item>
+              <widget class="QPushButton" name="btn_money_record_detail_list">
+               <property name="font">
+                <font>
+                 <family>.AppleSystemUIFont</family>
+                 <pointsize>13</pointsize>
+                </font>
+               </property>
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="text">
+                <string>年 統計</string>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../../medicine/icon/bullet-list2.png</normaloff>../../medicine/icon/bullet-list2.png</iconset>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="btn_money_record_month_list">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="text">
+                <string>月 統計</string>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../../medicine/icon/bullet-list2.png</normaloff>../../medicine/icon/bullet-list2.png</iconset>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="btn_money_record_day_list">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="text">
+                <string>日 統計</string>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../../medicine/icon/bullet-list2.png</normaloff>../../medicine/icon/bullet-list2.png</iconset>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QGroupBox" name="groupBox_16">
+          <property name="title">
+           <string>帳務清單</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_19">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="money_record_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+           <item>
+            <widget class="QTreeWidget" name="money_record_kind_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+           <item>
+            <widget class="QTreeWidget" name="money_record_detail_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+           <item>
+            <widget class="QGroupBox" name="groupBox_28">
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="title">
+              <string>新增帳務記錄</string>
+             </property>
+             <layout class="QVBoxLayout" name="verticalLayout_29">
+              <property name="leftMargin">
+               <number>1</number>
+              </property>
+              <property name="topMargin">
+               <number>1</number>
+              </property>
+              <property name="rightMargin">
+               <number>1</number>
+              </property>
+              <property name="bottomMargin">
+               <number>1</number>
+              </property>
+              <item>
+               <layout class="QHBoxLayout" name="horizontalLayout_2">
+                <item>
+                 <widget class="QLineEdit" name="money_record_add_date">
+                  <property name="cursor">
+                   <cursorShape>PointingHandCursor</cursorShape>
+                  </property>
+                  <property name="placeholderText">
+                   <string>日期</string>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QDateEdit" name="money_record_set_date">
+                  <property name="cursor">
+                   <cursorShape>PointingHandCursor</cursorShape>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </item>
+              <item>
+               <layout class="QHBoxLayout" name="horizontalLayout_4">
+                <item>
+                 <widget class="QLineEdit" name="money_record_add_kind">
+                  <property name="cursor">
+                   <cursorShape>PointingHandCursor</cursorShape>
+                  </property>
+                  <property name="placeholderText">
+                   <string>種類</string>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QComboBox" name="money_record_set_kind"/>
+                </item>
+               </layout>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="money_record_add_money">
+                <property name="cursor">
+                 <cursorShape>PointingHandCursor</cursorShape>
+                </property>
+                <property name="placeholderText">
+                 <string>金額</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QLineEdit" name="money_record_add_content">
+                <property name="cursor">
+                 <cursorShape>PointingHandCursor</cursorShape>
+                </property>
+                <property name="placeholderText">
+                 <string>內容</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <layout class="QHBoxLayout" name="horizontalLayout_3">
+                <item>
+                 <widget class="QPushButton" name="btn_money_record_submit">
+                  <property name="cursor">
+                   <cursorShape>PointingHandCursor</cursorShape>
+                  </property>
+                  <property name="text">
+                   <string>新增</string>
+                  </property>
+                  <property name="icon">
+                   <iconset>
+                    <normaloff>../icon/icons8-new-copy-48.png</normaloff>../icon/icons8-new-copy-48.png</iconset>
+                  </property>
+                 </widget>
+                </item>
+                <item>
+                 <widget class="QPushButton" name="btn_money_record_del">
+                  <property name="cursor">
+                   <cursorShape>PointingHandCursor</cursorShape>
+                  </property>
+                  <property name="text">
+                   <string>刪除</string>
+                  </property>
+                  <property name="icon">
+                   <iconset>
+                    <normaloff>../icon/icons8-close-window-94.png</normaloff>../icon/icons8-close-window-94.png</iconset>
+                  </property>
+                 </widget>
+                </item>
+               </layout>
+              </item>
+             </layout>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_work_record">
+       <layout class="QGridLayout" name="gridLayout_5">
+        <item row="0" column="0">
+         <widget class="QGroupBox" name="groupBox_12">
+          <property name="title">
+           <string>工作記錄</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_14">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="work_record_tb_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+               <weight>50</weight>
+               <bold>false</bold>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QGroupBox" name="groupBox_14">
+          <property name="title">
+           <string>工作記錄 - 種類統計</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_15">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="work_record_kind_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_work_calendar">
+       <layout class="QGridLayout" name="gridLayout_4">
+        <item row="0" column="0">
+         <widget class="QGroupBox" name="groupBox_13">
+          <property name="title">
+           <string>工作日誌</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_16">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="work_calendar_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QGroupBox" name="groupBox_15">
+          <property name="title">
+           <string>工作日誌 年 , 月 統計</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_17">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="work_calendar_year_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+           <item>
+            <widget class="QTreeWidget" name="work_calendar_month_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_6">
+             <item>
+              <widget class="QPushButton" name="btn_work_calendar_month_statistics">
+               <property name="font">
+                <font>
+                 <family>Microsoft JhengHei</family>
+                 <pointsize>13</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>月 統計</string>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../../medicine/icon/bullet-list2.png</normaloff>../../medicine/icon/bullet-list2.png</iconset>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="btn_work_calendar_year_statistics">
+               <property name="font">
+                <font>
+                 <family>Microsoft JhengHei</family>
+                 <pointsize>13</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>年 統計</string>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../../medicine/icon/bullet-list2.png</normaloff>../../medicine/icon/bullet-list2.png</iconset>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_film">
+       <layout class="QGridLayout" name="gridLayout_2">
+        <item row="0" column="1">
+         <widget class="QGroupBox" name="groupBox_5">
+          <property name="title">
+           <string>小鴨影音 - 電視劇</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_7">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="duck_teleplay_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QGroupBox" name="groupBox_4">
+          <property name="title">
+           <string>小鴨影音</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_6">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="duck_film_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QGroupBox" name="groupBox_9">
+          <property name="title">
+           <string>小鴨影音 - 動漫</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_12">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="duck_comic_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QGroupBox" name="groupBox_10">
+          <property name="title">
+           <string>小鴨影音 - 成人</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_11">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QListWidget" name="listWidget"/>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_log">
+       <layout class="QGridLayout" name="gridLayout_3">
+        <item row="0" column="0">
+         <widget class="QGroupBox" name="groupBox_6">
+          <property name="title">
+           <string>爬蟲記錄</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_8">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="scraping_record_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout">
+             <item>
+              <widget class="QPushButton" name="btn_et_news_chart">
+               <property name="font">
+                <font>
+                 <family>Microsoft JhengHei</family>
+                 <pointsize>15</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>ET news</string>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../../medicine/icon/bullet-list2.png</normaloff>../../medicine/icon/bullet-list2.png</iconset>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="btn_tech_news_chart">
+               <property name="font">
+                <font>
+                 <family>Microsoft JhengHei</family>
+                 <pointsize>15</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>TECH news</string>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../../medicine/icon/bullet-list2.png</normaloff>../../medicine/icon/bullet-list2.png</iconset>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="btn_udn_news_chart">
+               <property name="font">
+                <font>
+                 <family>Microsoft JhengHei</family>
+                 <pointsize>15</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>UDN news</string>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../../medicine/icon/bullet-list2.png</normaloff>../../medicine/icon/bullet-list2.png</iconset>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="btn_duck_film_chart">
+               <property name="font">
+                <font>
+                 <family>Microsoft JhengHei</family>
+                 <pointsize>15</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>Duck Film</string>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../../medicine/icon/bullet-list2.png</normaloff>../../medicine/icon/bullet-list2.png</iconset>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QGroupBox" name="groupBox_7">
+          <property name="title">
+           <string>爬蟲分析</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_9">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QTreeWidget" name="scraping_analysis_list">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+           <item>
+            <widget class="QPushButton" name="btn_analysis_total">
+             <property name="font">
+              <font>
+               <family>Microsoft JhengHei</family>
+               <pointsize>15</pointsize>
+              </font>
+             </property>
+             <property name="text">
+              <string>analysis total</string>
+             </property>
+             <property name="icon">
+              <iconset>
+               <normaloff>../../medicine/icon/bullet-list2.png</normaloff>../../medicine/icon/bullet-list2.png</iconset>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="page_DDos">
+       <layout class="QGridLayout" name="gridLayout_10">
+        <item row="0" column="0">
+         <widget class="QGroupBox" name="groupBox_29">
+          <property name="title">
+           <string>DDos 解析</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_30">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <layout class="QHBoxLayout" name="horizontalLayout_7">
+             <item>
+              <widget class="QLineEdit" name="analysis_ddos_address">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="text">
+                <string/>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <widget class="QPushButton" name="btn_ddos_analysis_submit">
+               <property name="cursor">
+                <cursorShape>PointingHandCursor</cursorShape>
+               </property>
+               <property name="text">
+                <string>解析</string>
+               </property>
+               <property name="icon">
+                <iconset>
+                 <normaloff>../icon/icons8-graph-report-50.png</normaloff>../icon/icons8-graph-report-50.png</iconset>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </item>
+           <item>
+            <widget class="QLabel" name="label">
+             <property name="text">
+              <string>DDos attack IP analysis list</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QTreeWidget" name="ddos_attack_ip_list">
+             <property name="cursor" stdset="0">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QGroupBox" name="groupBox_30">
+          <property name="title">
+           <string>DDos 統計</string>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_31">
+           <property name="leftMargin">
+            <number>1</number>
+           </property>
+           <property name="topMargin">
+            <number>1</number>
+           </property>
+           <property name="rightMargin">
+            <number>1</number>
+           </property>
+           <property name="bottomMargin">
+            <number>1</number>
+           </property>
+           <item>
+            <widget class="QPushButton" name="btn_refresh_ddos_statistics">
+             <property name="cursor">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <property name="text">
+              <string>Refresh</string>
+             </property>
+             <property name="icon">
+              <iconset>
+               <normaloff>../icon/icons8-search-64 (1).png</normaloff>../icon/icons8-search-64 (1).png</iconset>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QLabel" name="label_2">
+             <property name="text">
+              <string>DDos statistics list</string>
+             </property>
+            </widget>
+           </item>
+           <item>
+            <widget class="QTreeWidget" name="ddos_statistics_list">
+             <property name="cursor" stdset="0">
+              <cursorShape>PointingHandCursor</cursorShape>
+             </property>
+             <column>
+              <property name="text">
+               <string notr="true">1</string>
+              </property>
+             </column>
+            </widget>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>24</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>新聞</string>
+    </property>
+    <addaction name="action_news"/>
+    <addaction name="separator"/>
+    <addaction name="action_close"/>
+   </widget>
+   <widget class="QMenu" name="menu_2">
+    <property name="title">
+     <string>電影</string>
+    </property>
+    <addaction name="action_film"/>
+   </widget>
+   <widget class="QMenu" name="menu_3">
+    <property name="title">
+     <string>日誌</string>
+    </property>
+    <addaction name="action_log"/>
+   </widget>
+   <widget class="QMenu" name="menu_4">
+    <property name="title">
+     <string>工作 </string>
+    </property>
+    <addaction name="action_work_record"/>
+    <addaction name="action_work_calendar"/>
+    <addaction name="separator"/>
+    <addaction name="action_line_notify"/>
+   </widget>
+   <widget class="QMenu" name="menu_5">
+    <property name="title">
+     <string>帳務</string>
+    </property>
+    <addaction name="action_money_record"/>
+   </widget>
+   <widget class="QMenu" name="menu_6">
+    <property name="title">
+     <string>網拍</string>
+    </property>
+    <addaction name="action_sell_record"/>
+   </widget>
+   <widget class="QMenu" name="menu_7">
+    <property name="title">
+     <string>網路資安</string>
+    </property>
+    <addaction name="action_DDos"/>
+   </widget>
+   <widget class="QMenu" name="menu_8">
+    <property name="title">
+     <string>投資理財</string>
+    </property>
+    <addaction name="action_stocks"/>
+   </widget>
+   <addaction name="menu"/>
+   <addaction name="menu_2"/>
+   <addaction name="menu_3"/>
+   <addaction name="menu_4"/>
+   <addaction name="menu_5"/>
+   <addaction name="menu_6"/>
+   <addaction name="menu_7"/>
+   <addaction name="menu_8"/>
+  </widget>
+  <action name="action_film">
+   <property name="icon">
+    <iconset>
+     <normaloff>../icon/icons8-video-camera-50.png</normaloff>../icon/icons8-video-camera-50.png</iconset>
+   </property>
+   <property name="text">
+    <string>小鴨影音</string>
+   </property>
+   <property name="toolTip">
+    <string>小鴨影音</string>
+   </property>
+   <property name="shortcut">
+    <string>Alt+F</string>
+   </property>
+  </action>
+  <action name="action_news">
+   <property name="icon">
+    <iconset>
+     <normaloff>../icon/icons8-news-64.png</normaloff>../icon/icons8-news-64.png</iconset>
+   </property>
+   <property name="text">
+    <string>News</string>
+   </property>
+   <property name="shortcut">
+    <string>Alt+N</string>
+   </property>
+  </action>
+  <action name="action_log">
+   <property name="icon">
+    <iconset>
+     <normaloff>../icon/icons8-write-60.png</normaloff>../icon/icons8-write-60.png</iconset>
+   </property>
+   <property name="text">
+    <string>爬蟲記錄</string>
+   </property>
+   <property name="toolTip">
+    <string>爬蟲記錄</string>
+   </property>
+   <property name="shortcut">
+    <string>Alt+L</string>
+   </property>
+  </action>
+  <action name="action_work_record">
+   <property name="icon">
+    <iconset>
+     <normaloff>../icon/icons8-write-60 (2).png</normaloff>../icon/icons8-write-60 (2).png</iconset>
+   </property>
+   <property name="text">
+    <string>工作記錄</string>
+   </property>
+   <property name="toolTip">
+    <string>工作記錄</string>
+   </property>
+   <property name="shortcut">
+    <string>Alt+R</string>
+   </property>
+  </action>
+  <action name="action_work_calendar">
+   <property name="icon">
+    <iconset>
+     <normaloff>../icon/icons8-writing-down-48.png</normaloff>../icon/icons8-writing-down-48.png</iconset>
+   </property>
+   <property name="text">
+    <string>工作日誌</string>
+   </property>
+   <property name="toolTip">
+    <string>工作日誌</string>
+   </property>
+   <property name="shortcut">
+    <string>Alt+C</string>
+   </property>
+  </action>
+  <action name="action_money_record">
+   <property name="icon">
+    <iconset>
+     <normaloff>../icon/icons8-accounts-64.png</normaloff>../icon/icons8-accounts-64.png</iconset>
+   </property>
+   <property name="text">
+    <string>帳務記錄</string>
+   </property>
+   <property name="toolTip">
+    <string>帳務記錄</string>
+   </property>
+   <property name="shortcut">
+    <string>Alt+M</string>
+   </property>
+  </action>
+  <action name="action_close">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>../../medicine/icon/logout.png</normaloff>../../medicine/icon/logout.png</iconset>
+   </property>
+   <property name="text">
+    <string>關閉</string>
+   </property>
+   <property name="toolTip">
+    <string>關閉</string>
+   </property>
+   <property name="shortcut">
+    <string>Alt+Q</string>
+   </property>
+  </action>
+  <action name="action_sell_record">
+   <property name="icon">
+    <iconset>
+     <normaloff>../icon/icons8-sell-stock-48.png</normaloff>../icon/icons8-sell-stock-48.png</iconset>
+   </property>
+   <property name="text">
+    <string>二姨果園</string>
+   </property>
+   <property name="toolTip">
+    <string>二姨果園</string>
+   </property>
+   <property name="shortcut">
+    <string>Alt+S</string>
+   </property>
+  </action>
+  <action name="action_line_notify">
+   <property name="icon">
+    <iconset>
+     <normaloff>../../medicine/icon/icons8-mail-48.png</normaloff>../../medicine/icon/icons8-mail-48.png</iconset>
+   </property>
+   <property name="text">
+    <string>Line notify</string>
+   </property>
+   <property name="shortcut">
+    <string>Alt+P</string>
+   </property>
+  </action>
+  <action name="action_DDos">
+   <property name="icon">
+    <iconset>
+     <normaloff>../icon/icons8-load-balancer-48.png</normaloff>../icon/icons8-load-balancer-48.png</iconset>
+   </property>
+   <property name="text">
+    <string>DDos</string>
+   </property>
+  </action>
+  <action name="action_stocks">
+   <property name="icon">
+    <iconset>
+     <normaloff>../../tinfar_test/icon/icons8-accounting-64.png</normaloff>../../tinfar_test/icon/icons8-accounting-64.png</iconset>
+   </property>
+   <property name="text">
+    <string>股票</string>
+   </property>
+   <property name="toolTip">
+    <string>股票</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="../icon/scraping_icon.qrc"/>
+ </resources>
+ <connections/>
+</ui>

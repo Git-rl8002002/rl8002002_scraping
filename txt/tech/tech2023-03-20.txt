@@ -1,0 +1,70 @@
+2023-03-20 08:02:22 , tech , Dell 期望透過軟體和企業優勢開拓 vRAN 市場 , https://technews.tw/2023/03/20/dell-vran/
+2023-03-20 08:20:21 , tech , 中國解封後的繁榮，只是假象？為何超過六成中國民眾正在「過度儲蓄」 , https://finance.technews.tw/2023/03/20/more-than-60-percent-of-chinese-people-are-excessive-savings/
+2023-03-20 08:21:42 , tech , 為什麼台灣還沒有企業揪團成功買綠電？ , https://finance.technews.tw/2023/03/20/tw-aggregated-power-purchase-agreement/
+2023-03-20 08:56:22 , tech , 瑞銀 32 億美元收購瑞信，美英歐讚金融穩定同表歡迎 , https://finance.technews.tw/2023/03/20/ubs-acquires-credit-suisse/
+2023-03-20 08:57:43 , tech , 無人艦艇百億美元商機，台灣看得到吃不到？ , https://technews.tw/2023/03/20/unmanned-ship-taiwan/
+2023-03-20 09:14:35 , tech , 矽谷銀行倒閉餘震、瑞士信貸對歐洲銀行業影響？法巴銀行剖析一次看 , https://finance.technews.tw/2023/03/20/mba/
+2023-03-20 09:20:30 , tech , 銀行爆危機，Fed 急與五大央行聯手提升美元流動性 , https://finance.technews.tw/2023/03/20/fed-usd-liquidity/
+2023-03-20 09:23:20 , tech , 全球第一家，Maxell 傳今夏量產大容量全固態電池 , https://technews.tw/2023/03/20/maxell-large-capacity-all-solid-state-battery/
+2023-03-20 09:24:41 , tech , 庫存飆高，三星、SK 海力士 Q1 晶片業務恐虧數十億美元 , https://finance.technews.tw/2023/03/20/samsung-sk-hynix-q1/
+2023-03-20 09:29:22 , tech , 光通訊發展邁向 6G 萬物智慧應用，半導體電子元件功不可沒 , https://technews.tw/2023/03/20/optical-communication-is-moving-towards-6g-smart-applications/
+2023-03-20 09:35:32 , tech , GPT-4 讓微軟 Office 也有了「iPhone 時刻」 , https://technews.tw/2023/03/20/microsoft-365-copilot/
+2023-03-20 09:37:04 , tech , 新 Midjourney V5 解決多手指問題、解析度高 2 倍 , https://technews.tw/2023/03/20/midjourney-to-release-version-5-say-goodbye-to-six-fingered-hands/
+2023-03-20 09:38:15 , tech , Midjourney V5 , https://www.midjourney.com/auth/signin/?callbackUrl=%2Frate%2Fpairs%2Fv5-one-staging%2F
+2023-03-20 09:38:35 , tech , 比特幣漲聲再起，衝破 28,000 美元 , https://technews.tw/2023/03/20/bitcoin-28k-rise/
+2023-03-20 10:02:39 , tech , 論文被撤團隊捲土重來，再提出新型室溫超導材料 , https://technews.tw/2023/03/13/superconductor-room-temperature-lutetium/
+2023-03-20 10:03:30 , tech , SVB 破產、銀行向 Fed 借錢續命，道瓊腳軟 , https://technews.tw/2023/03/20/us-stock-0317/
+2023-03-20 10:11:40 , tech , 創新工廠李開復也籌組 AI 公司，力拚三階段發展全自動化 AI 應用 , https://technews.tw/2023/03/20/project-al-2-0/
+2023-03-20 10:13:11 , tech , 調查：Fed 本週仍升息 1 碼，但利率終點高度不確定 , https://finance.technews.tw/2023/03/20/fed-still-raises-interest-rate-by-1-yard-this-week/
+2023-03-20 10:35:43 , tech , 人類準備好了嗎？AI 改變世界影響力大過電力和網路 , https://technews.tw/2023/03/20/ai-will-change-the-world-more-than-electricity-and-the-internet/
+2023-03-20 11:29:44 , tech , 緩解銀行業危機，Fed 聯手多國央行提升美元流動性 , https://finance.technews.tw/2023/03/20/fed-working-with-multiple-countries-to-increase-usd-liquidity/
+2023-03-20 11:38:47 , tech , 面板報價漲勢延續，廠商 Q2 可望改善 , https://technews.tw/2023/03/20/panel-makers-q2-profit-is-expected-to-improve/
+2023-03-20 12:02:32 , tech , IC 設計谷底已過，逐步重啟投片 , https://technews.tw/2023/03/20/ic-design-shot/
+2023-03-20 12:17:49 , tech , 北海舊油田變身，丹麥啟用世界第一個國際碳封存設施 , https://technews.tw/2023/03/20/denmark-carbon-capture-and-storage-plan/
+2023-03-20 12:19:00 , tech , 傳英特爾取消 Meteor Lake-S，改 Arrow Lake-S 提早上場搶優勢 , https://technews.tw/2023/03/20/intel-will-cancel-meteor-lake-s/
+2023-03-20 12:20:31 , tech , 緯創總部預計 2026 年完工啟用！總座林建勳：庫存第二季恢復健康 , https://finance.technews.tw/2023/03/20/neihu-headquarters/
+2023-03-20 12:21:52 , tech , 傳英特爾將取消 Meteor Lake-S，Arrow Lake-S 提早上場搶回優勢 , https://technews.tw/2023/03/20/intel-will-cancel-meteor-lake-s/
+2023-03-20 12:41:46 , tech , 永豐台灣 ESG ETF 調整成分股！看好面板市況轉趨樂觀新增雙虎 , https://finance.technews.tw/2023/03/20/panel-market-conditions/
+2023-03-20 12:53:44 , tech , 變鴻海子公司？佐臻董座否認：明年還有其他公司要投資我們 , https://finance.technews.tw/2023/03/20/hh-jorjin/
+2023-03-20 13:05:43 , tech , 聯準會利率決策會議本週登場！法人：投資級債更好買點來臨 , https://finance.technews.tw/2023/03/20/interest-rate-decision/
+2023-03-20 13:29:48 , tech , 成本僅 1 萬美元，學生用 48 個 AA 電池和 20 美元微處理器造出微衛星 , https://technews.tw/2023/03/20/sbudnik-satellite-aa-battery/
+2023-03-20 13:41:45 , tech , 中階手機市場有新機，Galaxy A34、A54、M14 報到 , https://technews.tw/2023/03/20/galaxy-a34-a54-m14/
+2023-03-20 13:43:16 , tech , Meta 聲明放棄「IG、Facebook NFT」，遭社群狠酸：短視近利、羞辱藝術行業 , https://technews.tw/2023/03/20/meta-quit-nft-criticize/
+2023-03-20 13:44:44 , tech , 貧窮國家面臨饑荒，俄羅斯同意黑海糧食協議再延長 , https://technews.tw/2023/03/20/russia-agree-to-extend-the-deal-of-grain-export/
+2023-03-20 13:46:06 , tech , SK 海力士展示 300 層堆疊 3D NAND Flash 原型，最快  2024 年問世 , https://technews.tw/2023/03/20/sk-hynix-demonstrates-300-layer-stacked-3d-nand-flash-prototype/
+2023-03-20 13:53:46 , tech , 中華電 5G 專網實現達文西手術 3D AR 遠距教學 , https://finance.technews.tw/2023/03/20/cht-5g-6/
+2023-03-20 14:32:44 , tech , 內建加密貨幣交易功能，傳 Microsoft Edge 秘密測試加密錢包 , https://technews.tw/2023/03/20/testing-a-built-in-crypto-wallet-in-microsoft-edge/
+2023-03-20 14:34:06 , tech , Brave , https://technews.tw/2021/11/17/brave-built-in-crypto-wallet/
+2023-03-20 14:34:16 , tech , Opera , https://technews.tw/2018/07/13/opera-crypto-is-a-browser-based-ethereum-wallet-for-smartphones/
+2023-03-20 14:47:41 , tech , 台灣人就是愛高配息！前十大主動式基金有 8 檔為配息級別 , https://finance.technews.tw/2023/03/20/active-fund/
+2023-03-20 14:49:13 , tech , 賓士將砸數十億美元，投資電動車廠 , https://technews.tw/2023/03/20/benz-to-spend-billions-investing-in-electric-car-factory/
+2023-03-20 14:50:34 , tech , 內建加密貨幣交易功能，傳 Microsoft Edge 祕密測試加密錢包 , https://technews.tw/2023/03/20/testing-a-built-in-crypto-wallet-in-microsoft-edge/
+2023-03-20 14:53:46 , tech , 挑戰多重科技樹，宏碁推出號稱 AI 驅動的電動自行車 Acer ebii , https://technews.tw/2023/03/20/acer-ebike-ebii/
+2023-03-20 14:55:17 , tech , 台對瑞信曝險逾 2,000 億元，黃天牧：金融業沒踩 AT1 債 , https://finance.technews.tw/2023/03/20/taiwan-exposure-credit-suisse-at1/
+2023-03-20 15:00:02 , tech , 成本僅 1 萬美元，學生用 48 個 AA 電池和 20 美元微處理器做出微衛星 , https://technews.tw/2023/03/20/sbudnik-satellite-aa-battery/
+2023-03-20 15:08:41 , tech , 普發現金網站上線，3/22 開放身分證尾數 0、1 登記 , https://finance.technews.tw/2023/03/20/6000-cash/
+2023-03-20 15:10:13 , tech , 銀行風暴嚇壞存戶，美議員提調高存款保障額度 , https://finance.technews.tw/2023/03/20/us-senators-call-for-higher-deposit-protection-limits/
+2023-03-20 15:11:34 , tech , 虛擬貨幣確定由金管會監管！加密貨幣平台業者這樣看 , https://finance.technews.tw/2023/03/20/fsc-supervision/
+2023-03-20 15:15:59 , tech , 台灣人就是愛高配息！前十大主動式基金有 8 檔為配息等級 , https://finance.technews.tw/2023/03/20/active-fund/
+2023-03-20 15:20:47 , tech , 首度公開，土耳其自製五代戰機 TF-X 進行滑行測試 , https://technews.tw/2023/03/20/turkish-tf-x-taxi-test-unveiled-for-the-first-time/
+2023-03-20 15:41:41 , tech , 繼續升息？央行副總裁：會考量三大因素 , https://finance.technews.tw/2023/03/20/cbc-taiwan-cpi/
+2023-03-20 16:08:47 , tech , 救星駕到，紐約社區銀行出手收購標誌銀行 , https://finance.technews.tw/2023/03/20/new-york-community-bancorp-acquires-signature-bank/
+2023-03-20 16:10:09 , tech , 外螢幕太小不喜歡？Galaxy Z Flip5 可能給你滿滿外螢幕 , https://technews.tw/2023/03/20/galaxy-z-flip5-2/
+2023-03-20 16:11:40 , tech , 維修能量大亂，美軍核子潛艦停港口五年終於能進廠 , https://technews.tw/2023/03/20/uss-boise-finally-going-to-have-its-overhaul-after-5yrs-staying-at-newportnews/
+2023-03-20 16:35:34 , tech , 2023 年全球百大創新台灣獲選數排第三，南亞科、華邦電首次入選 , https://finance.technews.tw/2023/03/20/top-100-global-innovators-2023/
+2023-03-20 16:37:06 , tech , 過熱經濟不怕升息，經濟學家：小銀行風暴恐釀經濟硬著陸 , https://finance.technews.tw/2023/03/20/local-banks-broken-will-lower-inflation/
+2023-03-20 16:44:32 , tech , 日月光旗下環旭聯手私募基金，強攻車電布局 , https://finance.technews.tw/2023/03/20/%e6%97%a5%e6%9c%88%e5%85%89%e6%97%97%e4%b8%8b%e7%92%b0%e6%97%ad%e8%81%af%e6%89%8b%e7%a7%81%e5%8b%9f%e5%9f%ba%e9%87%91%ef%bc%8c%e5%bc%b7%e6%94%bb%e8%bb%8a%e9%9b%bb%e5%b8%83%e5%b1%80/
+2023-03-20 16:53:45 , tech , 麥拉倫切入電動車產業，但不是靠車子 , https://finance.technews.tw/2023/03/20/mclaren-inverter-ev-industry/
+2023-03-20 17:05:35 , tech , 台科大與麻省理工合作，雙槳輪突破固態電池困境 , https://technews.tw/2023/03/20/double-paddle-wheel-breaks-through-solid-state-battery-dilemma/
+2023-03-20 17:21:14 , tech , 首度公開，土耳其自製五代戰機 TF-X 測試滑行 , https://technews.tw/2023/03/20/turkish-tf-x-taxi-test-unveiled-for-the-first-time/
+2023-03-20 17:32:22 , tech , 九月航太展公開亮相，台灣旗手銳鳶二型今年內將量產 , https://technews.tw/2023/03/20/taiwanese-albatross-ii-drones-are-going-into-production-this-year/
+2023-03-20 17:50:21 , tech , Google 母公司員工連署五點訴求，要執行長妥善處理裁員問題 , https://technews.tw/2023/03/20/employees-have-signed-a-petition-calling-for-better-treatment-of-staff-during-alphabet-layoff-process/
+2023-03-20 17:51:42 , tech , 9 月航太展公開亮相，台灣旗手銳鳶二型年內將量產 , https://technews.tw/2023/03/20/taiwanese-albatross-ii-drones-are-going-into-production-this-year/
+2023-03-20 18:26:43 , tech , 口罩恢復常態需求！中衛響應國際森林日捐口罩營收 5% 認養林木 , https://finance.technews.tw/2023/03/20/forest-musk/
+2023-03-20 18:50:31 , tech , PC 庫存逐漸健康！彭双浪估 4、5 月落底，電視 IT 面板出現急單 , https://finance.technews.tw/2023/03/20/auo-panel-3/
+2023-03-20 19:19:52 , tech , 李培瑛：DRAM 跌價預計第三季回穩，支持漲電價但不要一次漲太多 , https://finance.technews.tw/2023/03/20/dram-prices-are-expected-to-stabilize-in-the-third-quarter/
+2023-03-20 19:21:24 , tech , 確保基本通訊，非同步衛星網路暨備援網路設備今抵達馬祖 , https://technews.tw/2023/03/20/non-geostationary-satellite-in-matsu/
+2023-03-20 19:41:42 , tech , 彭双浪：越南廠計畫不變，北美廠今年確定規模及量產時間 , https://finance.technews.tw/2023/03/20/auo-panel-ennostar-micro-led/
+2023-03-20 19:44:44 , tech , 電視面板上漲帶動！TrendForce：顯示器面板 3 月正式止跌 , https://finance.technews.tw/2023/03/20/panel-prices-in-march-h2/
+2023-03-20 19:56:34 , tech , 陳沛銘：急單湧入挺華邦電第二季營運，利用率也將逐季提升 , https://finance.technews.tw/2023/03/20/winbonds-operation-in-the-second-quarter-of-2023-is-optimistic/
+2023-03-20 20:35:36 , tech , 曾誇口併購台積電，前紫光集團趙偉國被控涉嫌職務犯罪遭起訴 , https://technews.tw/2023/03/20/former-tsinghua-unigroup-chairman-charged-with-duty-based-crimes/

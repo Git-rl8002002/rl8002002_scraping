@@ -1,0 +1,64 @@
+2023-05-22 07:53:06 , tech , AI、雲端、零信任，2023 年台灣資安大會著眼多面向資安防護強化 , https://technews.tw/2023/05/22/cybersec-2023-bring-security-to/
+2023-05-22 08:10:33 , tech , 機器數據時代：AI 伺服器的訓練與推理應用分析 , https://technews.tw/2023/05/22/ai-server-training-and-inference-application-analysis/
+2023-05-22 08:29:43 , tech , Twitter 替代品，Instagram 傳最快 6 月推出文字版 App , https://technews.tw/2023/05/22/instagram-p92-app-barcelona/
+2023-05-22 08:31:05 , tech , 沒有遊戲，這波 AI 熱潮可能會遲到十年 , https://technews.tw/2023/05/22/without-games-this-wave-of-ai-may-be-a-decade-late/
+2023-05-22 08:40:41 , tech , SHEIN 流血融資 20 億美元：寒冬裡，活下去最重要 , https://finance.technews.tw/2023/05/22/shein-raises-2-billion/
+2023-05-22 08:42:13 , tech , 融入中國卻失去世界！中港互換通上路，人民幣國際化恐成香港僅剩價值 , https://technews.tw/2023/05/22/hong-kong-only-remaining-value-cny-internationalization/
+2023-05-22 08:43:47 , tech , 生成式 AI 造浪吸引資金進場！AI 伺服器概念股躍台股主流 , https://finance.technews.tw/2023/05/22/ai-server/
+2023-05-22 09:16:56 , tech , 還沒完？葉倫警告還有銀行需合併，銀行股嚇跌 , https://finance.technews.tw/2023/05/22/janet-yellen-bank-stock/
+2023-05-22 09:23:31 , tech , 有信心、不怕起步慢，瑞薩 2025 年量產 SiC 功率半導體 , https://technews.tw/2023/05/22/renesas-electronics-2025-sic/
+2023-05-22 09:24:54 , tech , 中國封殺、美光不妙？專家：看關鍵資訊設施定義 , https://technews.tw/2023/05/22/micron-china-key-information-facilities/
+2023-05-22 09:29:05 , tech , 舊金山商辦市場警訊？Uber 轉租整棟全新辦公大樓 , https://finance.technews.tw/2023/05/22/uber-leases-entire-new-office-building/
+2023-05-22 10:31:28 , tech , 印度推 20 億美元本地 IT 硬體生產支援計畫 , https://technews.tw/2023/05/22/india-pushes-2-billion-to-develop-local-it-hardware-production/
+2023-05-22 10:32:20 , tech , 核心機械訂單遜色、意外陷萎縮，日經開盤走跌 , https://technews.tw/2023/05/22/nikkei-225-index-0522/
+2023-05-22 10:32:41 , tech , 舉債協商遇阻衝擊那指，惟鮑爾撐住指數 , https://technews.tw/2023/05/22/us-stock-0519/
+2023-05-22 10:33:54 , tech , 「薩爾達」熱銷無助主機買氣？Switch 日本銷量縮 , https://technews.tw/2023/05/19/switch-japan-sale/
+2023-05-22 10:34:56 , tech , 強化軍用商規無人機競爭力，雷虎科技前往以色列取經 , https://technews.tw/2023/05/22/thundertiger-visited-israeli-drone-firms-for-cooperation/
+2023-05-22 10:36:18 , tech , OPPO 終止研發晶片，分析：策略冒進陷智財權官司 , https://technews.tw/2023/05/22/oppo-zeku-intellectual-property-rights/
+2023-05-22 10:40:54 , tech , 去全家買麥香紅茶、黑松沙士也能減碳？聯手碳交易之父，解密「負碳商品」實驗場 , https://finance.technews.tw/2023/05/22/family-mart-ecofriendly/
+2023-05-22 10:42:27 , tech , 乾旱嚴重，橄欖油價飆歷史高、業者喊苦 , https://finance.technews.tw/2023/05/22/olive-oil-price/
+2023-05-22 10:47:00 , tech , 想打造自家 ChatGPT？蘋果 1 個月內開逾 40 職缺 , https://technews.tw/2023/05/22/apple-is-on-the-hunt-for-generative-ai-talent/
+2023-05-22 10:48:32 , tech , 獨家 DPT 技術助攻！Porotech 推全球首款單片式全彩 Micro LED 顯示器 , https://technews.tw/2023/05/22/micro-led-porotech/
+2023-05-22 11:11:36 , tech , 漲價、日本智慧手機出貨縮；iPhone 市占突破 50% , https://technews.tw/2023/05/22/japan-iphone-market-share/
+2023-05-22 11:13:10 , tech , 蘋果又利用空殼公司申請商標，首次出現 xrProOS , https://technews.tw/2023/05/22/apple-ar-vr-headset-xrproos/
+2023-05-22 11:14:33 , tech , G7 峰會提出對抗經濟脅迫新倡議，成立協調平台 , https://technews.tw/2023/05/22/g7-coordination-platform-on-economic-coercion/
+2023-05-22 11:15:56 , tech , 電動車太重會壓垮停車位甚至是橋梁？都是假的 , https://technews.tw/2023/05/22/electric-car-weight-debate/
+2023-05-22 11:17:29 , tech , 高通 2024 年推 Snapdragon 8 Gen 4 將採 Nuvia 自研架構 , https://technews.tw/2023/05/22/qualcomms-2024-launch-of-snapdragon-8-gen-4-will-adopt-nuvias-self-developed-architecture/
+2023-05-22 11:41:06 , tech , 自然治癒又一佐證，研究：鳥鳴聲可釋放心理壓力 , https://technews.tw/2023/05/22/bird-singing-can-release-stress/
+2023-05-22 11:59:36 , tech , AI 衝擊白領工作，專家點出不易受自動化影響職位 , https://technews.tw/2023/05/22/do-it-yourself-ai-influence/
+2023-05-22 12:02:22 , tech , 中國禁止採購美光產品，專家：轉單效應待觀察 , https://technews.tw/2023/05/22/china-micron-turn-order/
+2023-05-22 12:05:13 , tech , 記憶體低迷，7 大晶片設備商本季營收恐萎縮 , https://technews.tw/2023/05/22/7-chip-equipment-manufacturers-shrinking-revenue/
+2023-05-22 12:18:26 , tech , 想打造自家 ChatGPT？蘋果月開逾 40 職缺 , https://technews.tw/2023/05/22/apple-is-on-the-hunt-for-generative-ai-talent/
+2023-05-22 13:03:33 , tech , 英特爾改革 x86 架構，新 x86S 指令集將專注 64 位元模式 , https://technews.tw/2023/05/22/new-x86s-instruction-set-will-focus-on-64-bit-mode/
+2023-05-22 13:05:36 , tech , 台灣民眾出國愛刷卡！萬事達卡調查：75% 愛用航空附加服務 , https://finance.technews.tw/2023/05/22/aviation-add-on/
+2023-05-22 13:07:09 , tech , 超過工研院、刷新世界紀錄！Q-Pixel 推出 5,000 ppi 全彩超高解析度 Micro LED , https://technews.tw/2023/05/22/q-pixel-micro-led/
+2023-05-22 13:08:32 , tech , 力抗蘋果新品，Meta 傳與 Magic Leap 協商技術授權、北美生產 , https://technews.tw/2023/05/22/meta-and-magic-leap-reportedly-in-talks-over-ar-tech/
+2023-05-22 13:11:37 , tech , 記憶體低迷，七大晶片設備商本季營收恐萎縮 , https://technews.tw/2023/05/22/7-chip-equipment-manufacturers-shrinking-revenue/
+2023-05-22 13:59:15 , tech , 「鬱金香狂熱」重演，美銀：美國重啟升息將使 AI 泡沫化 , https://finance.technews.tw/2023/05/22/ai-is-a-baby-bubble/
+2023-05-22 14:00:38 , tech , iOS 16.5 更新有災情，不支援自家 Lightning 對 USB 3 相機轉接器 , https://ccc.technews.tw/2023/05/22/ios-16-5-lightning-to-usb-3-camera-adapter/
+2023-05-22 14:02:11 , tech , 鎧俠威騰合併構威脅？韓媒喊三星仍居龍頭 , https://technews.tw/2023/05/22/kioxia-western-digital-samsung/
+2023-05-22 14:10:54 , tech , 政府無權逼企業交出用戶敏感資訊，但可以買 , https://technews.tw/2023/05/22/the-government-will-buy-ur-data/
+2023-05-22 14:52:51 , tech , 旅遊夯助泰失業率降三年低，分析師看好泰股潛力 , https://finance.technews.tw/2023/05/22/travel-thai-stocks/
+2023-05-22 14:54:13 , tech , 中國出手制裁美光，後續市場生態變化遠勝當前禁令營收衝擊 , https://technews.tw/2023/05/22/china-sanctions-micron/
+2023-05-22 14:55:46 , tech , 中藥複方改良新用 PM012！經動物實驗證實可有效治療缺血性中風 , https://technews.tw/2023/05/22/ischemic-stroke/
+2023-05-22 15:23:37 , tech , 海龍風場套管式水下基礎開工典禮，預計融資今年夏天到位 , https://technews.tw/2023/05/22/hailong-offshore-wind-financing/
+2023-05-22 15:25:00 , tech , 木材在外太空不會變形！日本木製衛星材料通過 10 個月太空測試 , https://technews.tw/2023/05/22/magnolia-wood-satellite-lignosat/
+2023-05-22 15:26:23 , tech , VR / AR 裝置今年出貨量預估跌至 745 萬台，高速成長期落在 2025 年 , https://ccc.technews.tw/2023/05/22/vr-ar-2025/
+2023-05-22 15:27:57 , tech , 盯緊台海和烏克蘭，美海軍成立專屬小組負責 , https://technews.tw/2023/05/22/eyeing-ukraine-and-taiwan-us-navy-fromed-new-cells-for-fast-response/
+2023-05-22 17:21:50 , tech , 暫緩元宇宙就好了？彭博：祖克柏今年身價暴漲 440 億美元 , https://ccc.technews.tw/2023/05/22/mark-zuckerberg-4/
+2023-05-22 17:23:22 , tech , 美國債務上限協商有望緩解！外資回補台股逾 23 億美元居冠 , https://finance.technews.tw/2023/05/22/us-debt-ceiling/
+2023-05-22 17:24:55 , tech , 富士通、東工大等產學攜手，運用「富岳」超級電腦開發 AI 模型 , https://technews.tw/2023/05/22/tokyo-tech-tohoku-university-fujitsu-and-riken-start-collaboration-to-train-large-language-models/
+2023-05-22 17:26:28 , tech , 停飛五個月，美軍 B-2 轟炸機總算再度出巡 , https://technews.tw/2023/05/22/usaf-annouced-that-b2-fleets-are-back-to-duty/
+2023-05-22 17:40:04 , tech , 台灣大首次發行「社會責任債券」，金額達 65 億元 , https://technews.tw/2023/05/22/taiwan-mobile-11/
+2023-05-22 17:41:04 , tech , 中國出手制裁美光，市場生態變化遠勝禁令營收衝擊 , https://technews.tw/2023/05/22/china-sanctions-micron/
+2023-05-22 18:04:13 , tech , 黃金現在進場還有機會嗎？元大：各國央行 50 年來最大規模買進 , https://finance.technews.tw/2023/05/22/golden-scale/
+2023-05-22 18:40:30 , tech , 製程再突破！友達 SID 展秀「全球最高解析」13.5 吋透明 Micro LED 面板 , https://technews.tw/2023/05/22/auo-micro-led-2/
+2023-05-22 18:42:02 , tech , Chrome 瀏覽器貼心小設計，自動檢測網址文字拼寫錯誤 , https://technews.tw/2023/05/22/5-google-products-and-features-that-make-the-digital-world-more-accessible/
+2023-05-22 18:43:34 , tech , 緯創高雄晶傑達新廠動土，投資額逾 100 億元將創造 4,500 職缺 , https://finance.technews.tw/2023/05/22/wistron-kaohsiung-jingjieda-new-plant-breaks-ground/
+2023-05-22 18:45:06 , tech , 要彎道超車！NVIDIA 採 Grace CPU 造超級電腦抗衡 intel 及 AMD , https://technews.tw/2023/05/22/nvidia-adopts-grace-cpu-to-build-supercomputer-to-compete-with-intel-and-amd/
+2023-05-22 18:46:38 , tech , 傳群創 5 月全面調漲監視器面板，TrendForce 估可能出現板塊挪移 , https://technews.tw/2023/05/22/panel-prices-in-may-h2-innolux/
+2023-05-22 18:48:10 , tech , Marvell 一個不留裁撤中國研發團隊後，轉進越南成立研發中心 , https://technews.tw/2023/05/22/marvell-moved-to-vietnam-to-establish-the-fourth-largest-rd-center/
+2023-05-22 18:56:21 , tech , AR 商機！群創 SID 展秀 1.57 吋動態液晶調光器，已售於歐美商用市場 , https://technews.tw/2023/05/22/innolux-display-week-2023-2/
+2023-05-22 19:25:32 , tech , 國科會 430 億擴建高雄楠梓園區，預估新增 4,500 億產值 , https://finance.technews.tw/2023/05/22/kaohsiung-nanzih-technology-industrial-parkpark-ii/
+2023-05-22 19:33:13 , tech , 要彎道超車！NVIDIA 採 Grace CPU 造超級電腦對抗英特爾與 AMD , https://technews.tw/2023/05/22/nvidia-adopts-grace-cpu-to-build-supercomputer-to-compete-with-intel-and-amd/
+2023-05-22 19:36:17 , tech , Marvell 一個不留裁撤中國研發團隊，轉進越南成立研發中心 , https://technews.tw/2023/05/22/marvell-moved-to-vietnam-to-establish-the-fourth-largest-rd-center/

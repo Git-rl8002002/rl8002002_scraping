@@ -1,0 +1,248 @@
+2023-05-14 07:13:25 , pcdiy , 
+Crucial T700 PCIe Gen5 NVMe M.2 SSD 2TB盔甲散熱片版實測開箱，史上最強12GB/s俱樂部極速固態硬碟強勢來襲！
+ , /detail/26247
+2023-05-14 08:34:56 , pcdiy , Crucial T700 PCIe Gen5 NVMe M.2 SSD 2TB盔甲散熱片版實測開箱，史上最強12GB/s俱樂部極速固態硬碟強勢來襲！ , /detail/26247
+2023-05-14 08:34:56 , pcdiy , 
+
+Crucial T700 PCIe Gen5 NVMe M.2 SSD 2TB盔甲散熱片版實測開箱，史上最強12GB/s俱樂部極速固態硬碟強勢來襲！
+現在要買最強的固態硬碟，那麼肯定要上PCIe Gen 5了！要上PCIe Gen 5 SSD的話，個人電腦的話，必須要是新一代的Intel、AMD平台才支援，Intel平台的話，必須是Intel第12、13代處理器，搭配Z690、Z790主機板，AMD平台的話，必須是AMD Ryzen 7000系列，搭配X670/X670E與B650/B650E主機板，且需要配置PCIe 5.0 x4 NVMe M.2擴充槽的才行。Intel平台的話，目前最多配置1組，AMD平台的話，目前最多配置2組。PCIe Gen 5 SSD的話，目前已經發展到第二代。第一代的存取速度，讀取速度：可達10GB/s，寫入速度：可達9.5GB/s。第二代的的存取速度更快，讀取速度：可達12GB/s，寫入速度：可達12GB/s。
+
+本次要介紹給大家的，則是美光旗下記憶體固態硬碟品牌Crucial的產品，這款盔甲散熱片版的Crucial T700 PCIe Gen5 NVMe M.2 SSD，讓我們來揭開它神祕的面紗。
+
+
+
+
+
+-----------------
+
+
+
+
+
+-----------------
+
+Crucial T700 PCIe Gen5 NVMe M.2 SSD，是款PCIe 5.0 x4規格的旗艦固態硬碟，它的戰鬥力超強，推出有無散熱片版與盔甲散熱片版，容量有1TB、2TB與4TB版本，最高連續讀取速度：達12,400MB/s，連續寫入速度：達11,800MB/s。
+
+這款固態硬碟，用的全是美光解決方案。主要的原因，Crucial為美光旗下的自家記憶體、快閃記憶體品牌業者，當然是以採用自家關鍵零組件為主。整體的設計布局採用雙面打件設計，控制器用的是群聯電子Phison PS5026-E26控制器，快閃記憶體用的是美光標示2WC2D NV053的新型232層3D TLC快閃記憶體（4顆512GB，組成2TB），快取記憶體用的是美光標示2MB77 D8CJC型號為Micron MT53E1G32D2FW-046 WT:B的LPDDR4-4266 4GB記憶體（1顆4GB）。
+
+至於這款固態硬碟，為什麼速度高人一等？競品存取速度只能到10GB/s，為什麼偏偏只有這款存取速度可以飆上12GB/s？關鍵就在用上了新開發完成比較快的新型232層3D TLC快閃記憶體，可以在八通道存取快閃記憶體下，實現更快的存取速度。
+
+在硬體規格上面，採用的是M.2 2280的尺寸，這可以對應大部分的桌機，而且推出無散熱片版與盔甲散熱片版。由於目前Intel與AMD新一代平台，已經具備PCIe 5.0的擴充能力，而且提供了PCIe 5.0 NVMe M.2擴充槽，Intel平台的話，必須是Intel第12、13代處理器，搭配Z690、Z790主機板，AMD平台的話，必須是AMD Ryzen 7000系列，搭配X670/X670E與B650/B650E主機板，且需要配置PCIe 5.0 x4 NVMe M.2擴充槽的才行，也因此新的電腦幾乎都可以無痛升級。
+
+
+
+整體的設計，採用的是群聯電子Phison PS5026-E26控制器，具備PCIe 5.0 x4介面，頻寬可達32GT/s x4，內部使用雙處理器架構，為ARM Cortex-R5處理器，並透過台積電12奈米製程設計、製造，內部為8通道32CE存取快閃記憶體方式，對應超過2,400MT/s存取速度3D TLC、QLC快閃記憶體，並可以對應超過LPDDR4/DDR4-3200存取速度記憶體用來做快取加速。若能搭配夠快的快閃記憶體，最高存取速度，讀取速度：可達14,000MB/s，寫入速度：可達11,800MB/s。
+
+Phison PS5026-E26控制器，官方標示工作環境的話，工作溫度：0～70 °C，儲存溫度：-40～85 °C，結溫：-40～125 °C。從這邊不難了解，超過70 °C工作溫度可能會異常，實際上，當溫度到達78 °C，衝到80 °C的時候，這時候就會做動過熱保護機制，產生掉速進行降溫的狀況。
+
+
+
+
+
+
+
+
+
+
+
+這款固態硬碟有分成無散熱片版與盔甲散熱片版，兩者適用的場景不同。目前大部分的支援PCIe 5.0 SSD擴充能力的主機板，都已經內建了一體式設計盔甲散熱片，採購上可依照自己的需求做選擇。
+
+
+
+
+
+
+
+Crucial T700 PCIe Gen5 NVMe M.2 SSD讀寫速度非常驚人！1TB版本，讀取速度：可達11,700MB/s，寫入速度：可達9,500MB/s。2TB、4TB版本，讀取速度：可達12,400MB/s，寫入速度：可達11,800MB/s。
+
+
+
+
+
+
+
+這次，我們拿到的是Crucial T700 PCIe Gen5 NVMe M.2 SSD 2TB盔甲散熱片版，接下來進行實際開箱。
+
+前陣子就有網路八卦指出，Intel平台會鎖PCIe 4.0 SSD的頻寬，所以速度衝不上7,000MB/s。又說AMD平台的PCIe 4.0  SSD速度跑比較快。這陣子的網路八卦則傳出：AMD平台的PCIe 5.0 SSD存取性能比較好，Intel的PCIe 5.0 SSD速度衝不不去，最快只能跑10GB/s。
+
+由於網路八卦通常未經證實，也沒有正義之士來實測究竟是否為真。這邊由編輯來做個實測，讓我們來看看Intel與AMD平台對於PCIe 5.0 SSD的戰鬥力，是否如網路謠言講的那樣子。
+
+由於不同測試軟體，測試的方式不同，得到的結果也會不一樣。有的測試軟體，每次測試的數據差異會比較大。這邊以最新的Intel與AMD平台測試，Intel平台使用Intel第13代Core i9-13900KF處理器＋華擎ASRock Z790 Taichi Carrara主機板，AMD平台使用AMD Ryzen 9 7950X處理器＋技嘉X670E AORUS MASTER主機板，測試的SSD皆為目前世界上最快的Crucial T700 PCIe Gen5 NVMe M.2 SSD 2TB。
+
+測試平台：
+搭配處理器：Intel第13代Core i9-13900KF
+搭配主機板：ASRock Z790 TAICHI CARRARA（Intel Z790）
+搭配記憶體：Kingston FURY RENEGADE RGB DDR5-6400 32GB套裝（16GB x2）
+搭配顯示卡：NVIDIA GeForce RTX 3060 Ti（8GB GDDR6）
+搭配作業系統：Windows 10 22H2
+系統SSD：1TB（PCIe 4.0 x4）
+
+測試SSD：Crucial T700 PCIe Gen5 NVMe M.2 SSD 2TB（PCIe 5.0 x4，CT2000T700SSD5）
+
+測試平台：
+搭配處理器：AMD Ryzen 9 7950X
+搭配主機板：X670E AORUS MASTER（AMD X670E）
+搭配記憶體：Kingston FURY RENEGADE RGB DDR5-6400 32GB套裝（16GB x2）
+搭配顯示卡：NVIDIA GeForce RTX 3060 Ti（8GB GDDR6）
+搭配作業系統：Windows 10 22H2
+系統SSD：512GB（PCIe 4.0 x4）
+
+測試SSD：Crucial T700 PCIe Gen5 NVMe M.2 SSD 2TB（PCIe 5.0 x4，CT2000T700SSD5）
+
+-----------------
+
+
+
+-----------------
+
+有句話叫做有圖有真相，真金不怕火練！看到這邊的測試結果，玩家應該可以確認，目前Intel與AMD的平台，在PCIe 5.0 SSD存取的戰鬥力已經不分高下了，唯一可能有差別的是不同主機板廠商在調校上仍有些許差異，但實際上以同樣的固態硬碟，在只有平台不同的狀況之下，測試軟體跑出的分數並沒有差太多。
+
+這次，我們實測了Crucial T700 PCIe Gen5 NVMe M.2 SSD 2TB盔甲散熱片版，發現這款固態硬碟速度真的是速度超級快，就連玩遊戲都可以明顯發現載入時間縮短了，讓人有遊戲跑更快的感覺。唯一的缺點，就是在高速激烈存取固態硬碟之下，SSD的溫度相當高，若無法有效散熱的話，就會產生掉速的狀況。
+
+Crucial T700 PCIe Gen5 NVMe M.2 SSD系列固態硬碟的話，目前已經在預購中，即將要準備上市。預購價格的部分，無散熱片版的話，1TB預購報價美金：179.99元（折合台幣5,583元），2TB預購報價美金：339.99元（折合台幣10,546元），4TB預購報價美金：599.99元（折合台幣18,611元），盔甲散熱片版的話，1TB預購報價美金：209.99元（折合台幣6,513元），2TB預購報價美金：369.99元（折合台幣11,477元），4TB預購報價美金：629.99元（折合台幣19,542元）。
+
+這次，我們實測開箱了Crucial T700 PCIe Gen5 NVMe M.2 SSD 2TB盔甲散熱片版固態硬碟，看到了Crucial在固態硬碟的厲害之處，能搶先開發出這款戰鬥力強大的SSD。實測效能表現也相當令人驚艷。整體來說，這是一款史上最強12GB/s俱樂部極速固態硬碟，值得玩家來細細品嚐！
+
+廠商名稱：Crucial
+廠商網址：
+
+→更多的【PCDIY! SSD／固態硬碟】： 
+
+→更多的【DRAM／記憶體／超頻記憶體模組】： 
+
+→更多的【PCDIY! HDD／機械硬碟／傳統硬碟】： 
+
+→更多的【PCDIY! 行動儲存／外接機械硬碟／外接固態硬碟／隨身碟／記憶卡】： 
+
+→更多的【PCDIY! NAS／網路儲存裝置】：
+ , /detail/26247
+2023-05-14 09:01:42 , pcdiy , 
+Crucial T700 PCIe Gen5 NVMe M.2 SSD 2TB盔甲散熱片版效能實測，feat. Intel第13代Core i9-13900KF處理器＋華擎ASRock Z790 Taichi Carrara主機板實戰！（Intel平台測試）
+ , /detail/26248
+2023-05-14 09:01:42 , pcdiy , Crucial T700 PCIe Gen5 NVMe M.2 SSD 2TB盔甲散熱片版效能實測，feat. Intel第13代Core i9-13900KF處理器＋華擎ASRock Z790 Taichi Carrara主機板實戰！（Intel平台測試） , /detail/26248
+2023-05-14 22:22:31 , pcdiy , 
+威剛ADATA DDR5-4800 256GB R-DIMM套裝八記憶體通道(32GB x8)實測開箱，feat. Intel Xeon w9-3495x處理器＋美超微Supermicro SUPERO X13SWA-TF主機板實戰！（Intel第四代Xeon Scalable平台W790主機板測試）
+ , /detail/26252
+2023-05-14 22:22:31 , pcdiy , 威剛ADATA DDR5-4800 256GB R-DIMM套裝八記憶體通道(32GB x8)實測開箱，feat. Intel Xeon w9-3495x處理器＋美超微Supermicro SUPERO X13SWA-TF主機板實戰！（Intel第四代Xeon Scalable平台W790主機板測試） , /detail/26252
+2023-05-14 22:22:31 , pcdiy , 
+
+威剛ADATA DDR5-4800 256GB R-DIMM套裝八記憶體通道(32GB x8)實測開箱，feat. Intel Xeon w9-3495x處理器＋美超微Supermicro SUPERO X13SWA-TF主機板實戰！（Intel第四代Xeon Scalable平台W790主機板測試）
+記憶體模組大廠威剛科技，這次搶在Intel推出第四代Xeon Scalable伺服器處理器的同時，推出了DDR5工業級記憶體模組。全新DDR5 R-DIMM、DDR5 ECC U-DIMM與DDR5 ECC SO-DIMM正式報到，能完整對應最新推出的Intel第四代Xeon Scalable處理器與AMD EPYC 9004系列伺服器處理器，能滿足新一代伺服器、工作站與主機板的要求！
+
+值得一提的，威剛針對Intel第四代Xeon Scalable處理器同步推出了DDR5-4800/5600 R-DIMM工業級記憶體模組，通過伺服器、工作站與主機板業者QVL認證，可以讓系統在八記憶體通道模式下，穩定順暢的運行！
+
+-----------------
+
+
+
+
+
+
+威剛ADATA DDR5-5600 128GB R-DIMM套裝八記憶體通道(16GB x8)實測開箱（Intel第四代Xeon Scalable平台W790主機板測試）
+-----------------
+威剛這次推出DDR5-4800 R-DIMM工業級記憶體模組，共推估有16GB、32GB單條版本，並供貨有8記憶體通(8條、16條套裝)道版本，主要是因應Intel HEDT平台W790的推出，以及Intel第四代Xeon Scalable處理器與AMD EPYC 9004系列伺服器處理器市場的需求。
+
+●威剛DDR5-4800 R-DIMM適用於Intel第四代Xeon Scalable 及 Intel Xeon W-3400 / W-2400 系列處理器（伺服器 & 工作站）
+●威剛DDR5-5600 R-DIMM適用於Intel Xeon W-3400 / W-2400 系列處理器（工作站）
+●威剛DDR5-4800 R-DIMM適用於AMD第四代9004 系列處理器（伺服器 & 工作站）
+
+ADATA DDR5-4800 R-DIMM的話，16GB、32GB版本皆採用採用Samsung C-Die原廠記憶體顆粒，並已通過了主機板與伺服器廠商的QVL認證，確保了相容性與穩定性。
+
+16GB版本型號：AD5R480016G10-BSSB
+32GB版本型號：AD5R480032G20-BSSB
+*採用Samsung C-Die原廠記憶體顆粒
+
+這邊，我們以美超微Supermicro SUPERO X13SWA-TF（Intel W790）主機板進行測試，並搭配Intel最新Xeon w9-3495x處理器，實測了解威剛記憶體的八記憶體通道的性能，以及其穩定度。
+
+測試平台：
+搭配處理器：Intel Xeon w9-3495x（56核心/112執行緒）
+搭配主機板：美超微Supermicro SUPERO X13SWA-TF（Intel W790）
+搭配顯示卡：NVIDIA GeForce RTX 3060 Ti（8GB GDDR6）
+搭配作業系統：Windows 10 22H2工作站專業版
+系統SSD：1TB（PCIe 4.0 x4）
+
+測試記憶體：威剛ADATA DDR5-4800 256GB R-DIMM套裝八記憶體通道(32GB x8)套件（AD5R480032G20-BSSB x 8）
+
+為了瞭解威剛ADATA DDR5-4800 256GB R-DIMM套裝八記憶體通道(32GB x8)的戰鬥力，我們分別以CPU-Z、AIDA 64、MaxxMem、Novabench、Performance Test進行檢測與測試性能。
+
+這次，我們實測開箱了威剛ADATA DDR5-4800 256GB R-DIMM套裝八記憶體通道(32GB x8)套件，看到了威剛的用心，記憶體能匹配最新Intel W790主機板，而且有不錯的穩定性，戰鬥力也相當強大！
+
+從這次的測試結果，我們也能知道在Intel新的HEDT平台，不僅處理器性能強勁，在新一代DDR5 R-DIMM的加持之下，穩定性更高，就連八記憶體通道有不錯的效能，可以在專業應用領域擔任重要的任務，讓工作效率可以大為提昇！
+
+廠商名稱：ADATA 威剛科技股份有限公司
+廠商電話：0800-309-309
+廠商網址：
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/26252
+2023-05-14 22:40:42 , pcdiy , 
+
+威剛ADATA DDR5-4800 256GB R-DIMM套裝八記憶體通道(32GB x8)實測開箱，feat. Intel Xeon w9-3495x處理器＋美超微Supermicro SUPERO X13SWA-TF主機板實戰！（Intel第四代Xeon Scalable平台W790主機板測試）
+記憶體模組大廠威剛科技，這次搶在Intel推出第四代Xeon Scalable伺服器處理器的同時，推出了DDR5工業級記憶體模組。全新DDR5 R-DIMM、DDR5 ECC U-DIMM與DDR5 ECC SO-DIMM正式報到，能完整對應最新推出的Intel第四代Xeon Scalable處理器與AMD EPYC 9004系列伺服器處理器，能滿足新一代伺服器、工作站與主機板的要求！
+
+值得一提的，威剛針對Intel第四代Xeon Scalable處理器同步推出了DDR5-4800/5600 R-DIMM工業級記憶體模組，通過伺服器、工作站與主機板業者QVL認證，可以讓系統在八記憶體通道模式下，穩定順暢的運行！
+
+-----------------
+
+
+
+
+
+
+威剛ADATA DDR5-5600 128GB R-DIMM套裝八記憶體通道(16GB x8)實測開箱（Intel第四代Xeon Scalable平台W790主機板測試）
+-----------------
+威剛這次推出DDR5-4800 R-DIMM工業級記憶體模組，共推估有16GB、32GB單條版本，並供貨有8記憶體通(8條、16條套裝)道版本，主要是因應Intel HEDT平台W790的推出，以及Intel第四代Xeon Scalable處理器與AMD EPYC 9004系列伺服器處理器市場的需求。
+
+●威剛DDR5-4800 R-DIMM適用於Intel第四代Xeon Scalable 及 Intel Xeon W-3400 / W-2400 系列處理器（伺服器 & 工作站）
+●威剛DDR5-5600 R-DIMM適用於Intel Xeon W-3400 / W-2400 系列處理器（工作站）
+●威剛DDR5-4800 R-DIMM適用於AMD第四代9004 系列處理器（伺服器 & 工作站）
+
+ADATA DDR5-4800 R-DIMM的話，16GB、32GB版本皆採用採用Samsung C-Die原廠記憶體顆粒，並已通過了主機板與伺服器廠商的QVL認證，確保了相容性與穩定性。
+
+16GB版本型號：AD5R480016G10-BSSB
+32GB版本型號：AD5R480032G20-BSSB
+*採用Samsung C-Die原廠記憶體顆粒
+
+這邊，我們以美超微Supermicro SUPERO X13SWA-TF（Intel W790）主機板進行測試，並搭配Intel最新Xeon w9-3495x處理器，實測了解威剛記憶體的八記憶體通道的性能，以及其穩定度。
+
+測試平台：
+搭配處理器：Intel Xeon w9-3495x（56核心/112執行緒）
+搭配主機板：美超微Supermicro SUPERO X13SWA-TF（Intel W790）
+搭配顯示卡：NVIDIA GeForce RTX 3060 Ti（8GB GDDR6）
+搭配作業系統：Windows 10 22H2工作站專業版
+系統SSD：1TB（PCIe 4.0 x4）
+
+測試記憶體：威剛ADATA DDR5-4800 256GB R-DIMM套裝八記憶體通道(32GB x8)套件（AD5R480032G20-BSSB x 8）
+
+為了瞭解威剛ADATA DDR5-4800 256GB R-DIMM套裝八記憶體通道(32GB x8)的戰鬥力，我們分別以CPU-Z、AIDA 64進行檢測與測試性能。
+
+這次，我們實測開箱了威剛ADATA DDR5-4800 256GB R-DIMM套裝八記憶體通道(32GB x8)套件，看到了威剛的用心，記憶體能匹配最新Intel W790主機板，而且有不錯的穩定性，戰鬥力也相當強大！
+
+從這次的測試結果，我們也能知道在Intel新的HEDT平台，不僅處理器性能強勁，在新一代DDR5 R-DIMM的加持之下，穩定性更高，就連八記憶體通道有不錯的效能，可以在專業應用領域擔任重要的任務，讓工作效率可以大為提昇！
+
+廠商名稱：ADATA 威剛科技股份有限公司
+廠商電話：0800-309-309
+廠商網址：
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/26252

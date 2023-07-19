@@ -1,0 +1,62 @@
+2023-05-15 08:11:57 , tech , 不用寫 Code 就能快速建置網站與 Web App，讓 MetaGPT 成為你專屬網頁設計師 , https://technews.tw/2023/05/15/new-tool-uses-chatgpt-to-make-websites-using-only-text-based-prompts/
+2023-05-15 08:13:09 , tech , IKEA 最愛的家具螺絲王，60 歲三度創業「全家都反對」！雄順老董如何變身年收 6 億「盤元酸洗王」？ , https://finance.technews.tw/2023/05/15/how-does-syong-shun-metal-successfully-earn-600-million-a-year/
+2023-05-15 08:14:31 , tech , OneWeb 與菲律賓電信商簽署合作備忘錄，積極布局新興市場低軌衛星業務 , https://technews.tw/2023/05/15/oneweb-now-corporation/
+2023-05-15 08:36:05 , tech , 一支手機就是一家銀行：讓 iPhone 族躺賺 4% 年息，蘋果出招搶銀行肥肉 , https://finance.technews.tw/2023/05/15/iphone-is-bank/
+2023-05-15 08:37:37 , tech , 安全氣囊存在爆炸安全隱憂，通用汽車召回百萬輛 SUV , https://technews.tw/2023/05/15/general-motors-gm-airbag-gmc-suv/
+2023-05-15 08:45:02 , tech , NAND Flash 價跌逾 25%，鎧俠虧損破紀錄 , https://finance.technews.tw/2023/05/15/kioxia-q1-financial-reporting/
+2023-05-15 08:46:34 , tech , 太陽和月亮！德州廠和柏林廠將成為馬斯克的「姊妹印鈔機」 , https://technews.tw/2023/05/15/elon-musk-sister-money-printing-machine/
+2023-05-15 08:48:07 , tech , 改造市售海綿，輕鬆去除水中的鉛重金屬達飲用標準 , https://technews.tw/2023/05/15/metal-filtering-sponge/
+2023-05-15 09:08:47 , tech , 第一太陽能收購 Evolar，股價大漲 26% 創 2008 年新高 , https://finance.technews.tw/2023/05/15/first-solar-evolar-ab/
+2023-05-15 09:24:02 , tech , 三星、特斯拉擴大合作？李在鎔和馬斯克會談 , https://finance.technews.tw/2023/05/15/tesla-samsung/
+2023-05-15 09:38:52 , tech , 激烈競爭中保獲利，傳 Netflix 將砍 3 億美元支出 , https://finance.technews.tw/2023/05/15/netflix-reportedly-plans-to-cut-spending-by-300-million-this-year/
+2023-05-15 09:40:25 , tech , PCB Q2 車用、伺服器有撐，載板、蘋概探底 , https://technews.tw/2023/05/15/pcb-q2-operating-trend/
+2023-05-15 10:28:15 , tech , 力拚五年內超越台積電！三星宣布二代 3 奈米製程 , https://technews.tw/2023/05/10/samsung-announced-that-it-will-release-the-second-generation-of-3nm/
+2023-05-15 10:30:38 , tech , 美股有撐？股民悲觀、大量現金閒置，重挫機率低 , https://technews.tw/2023/05/15/us-stockholders-are-pessimistic/
+2023-05-15 10:30:59 , tech , 消費者信心半年低，Tesla 領跌大型科技股 , https://technews.tw/2023/05/15/us-stock-0512/
+2023-05-15 10:33:12 , tech , AMD AI 發展潛力不容小覷？大摩：比預期高「數倍」 , https://technews.tw/2023/05/15/amds-opportunity-ai-much-bigger-than-first-believed-morgan-stanley/
+2023-05-15 10:51:07 , tech , 蘋果頭盔已被試用？Oculus 創辦人貼文洩端倪 , https://technews.tw/2023/05/15/oculus-apple-headset/
+2023-05-15 10:52:39 , tech , 三星將隨台積電前進日本投資，2.2 億美元於橫濱設後段封裝產線 , https://technews.tw/2023/05/15/samsung-japans-yokohama-invests-in-back-end-packaging-production-line/
+2023-05-15 10:54:12 , tech , 禁止再睡，特斯拉將監控駕駛閉眼跟打哈欠 , https://technews.tw/2023/05/15/tesla-monitoring-driver-yawn-blink-autopilot/
+2023-05-15 10:55:45 , tech , 當 OPPO 結束了自研晶片後？ , https://technews.tw/2023/05/15/oppo-self-developed-chip-ending/
+2023-05-15 11:33:02 , tech , 台積電 5 奈米製程助攻，印度將生產 ARM 架構高效能運算晶片 , https://technews.tw/2023/05/15/india-to-produce-high-performance-computing-chips/
+2023-05-15 11:34:34 , tech , 通膨惡化，阿根廷擬祭緊急措施、傳將升息至 97% , https://finance.technews.tw/2023/05/15/argentina-plans-new-rate-hike-more-fx-intervention-as-inflation-soars/
+2023-05-15 11:36:02 , tech , 百年大旱無解，專家憂西班牙很快會變沙漠 , https://technews.tw/2023/05/15/spain-drought/
+2023-05-15 11:42:03 , tech , OPPO 關閉旗下晶片設計哲庫，聯發科受惠待觀察 , https://technews.tw/2023/05/15/oppo-closes-zeku-will-mediatek-benefit/
+2023-05-15 11:44:55 , tech , 當 OPPO 結束自研晶片後？ , https://technews.tw/2023/05/15/oppo-self-developed-chip-ending/
+2023-05-15 11:56:58 , tech , 激烈競爭下保獲利，傳 Netflix 砍 3 億美元支出 , https://finance.technews.tw/2023/05/15/netflix-reportedly-plans-to-cut-spending-by-300-million-this-year/
+2023-05-15 12:00:12 , tech , 軍援俄誤會已解，美不制裁？南非幣從歷史低反彈 , https://finance.technews.tw/2023/05/15/south-africans-fret-over-us-arms-to-russia-charge/
+2023-05-15 12:12:08 , tech , 首款 3nm 晶片是 A17？傳 M3 年底才會亮相 , https://technews.tw/2023/05/15/3nm-soc-a17-m3/
+2023-05-15 12:24:09 , tech , 首款 3 奈米晶片是 A17？傳 M3 年底才會亮相 , https://technews.tw/2023/05/15/3nm-soc-a17-m3/
+2023-05-15 13:29:59 , tech , 聖嬰確定會來，逾半機率發展成強聖嬰 , https://technews.tw/2023/05/15/the-chance-of-strong-el-nino/
+2023-05-15 13:31:11 , tech , Lyft 新任執行長力圖重振業績，取經前老闆貝佐斯 , https://finance.technews.tw/2023/05/15/how-lyfts-new-ceo-is-copying-his-former-boss-jeff-bezos-to-turn-around-the-company/
+2023-05-15 13:53:58 , tech , 保護黃仁勳合理且必要！輝達個人安保支出暴增 756% , https://finance.technews.tw/2023/05/15/nvidia-ceo-jensen-huang-security-expenses/
+2023-05-15 14:03:02 , tech , 保護黃仁勳「合理且必要」！輝達在個人安保支出暴增 756% , https://finance.technews.tw/2023/05/15/nvidia-ceo-jensen-huang-security-expenses/
+2023-05-15 14:36:01 , tech , 高盛：美國重大基建將啟動，製造業進入復興時期 , https://finance.technews.tw/2023/05/15/american-manufacturing-renaissance/
+2023-05-15 14:37:34 , tech , 全球最大金礦商押寶銅，Druckenmiller 也按讚 , https://technews.tw/2023/05/15/the-worlds-biggest-gold-miner-bets-big-on-copper/
+2023-05-15 14:39:07 , tech , 需求激增供應趕不上，便宜咖啡豆也要漲價了？ , https://technews.tw/2023/05/15/robusta-coffee/
+2023-05-15 14:40:19 , tech , 保護黃仁勳「合理且必要」！輝達個人安保支出暴增 756% , https://finance.technews.tw/2023/05/15/nvidia-ceo-jensen-huang-security-expenses/
+2023-05-15 15:17:19 , tech , 蘋果頭盔已有人試用？Oculus 創辦人貼文洩端倪 , https://technews.tw/2023/05/15/oculus-apple-headset/
+2023-05-15 15:21:03 , tech , 不會延遲，國造潛艦將於九月下水測試 , https://technews.tw/2023/05/15/ids-will-launch-in-september-on-schedule/
+2023-05-15 15:22:25 , tech , 鴻海轉投資 AutoCore，獲博世集團旗下基金戰略投資 , https://technews.tw/2023/05/15/autocore/
+2023-05-15 15:27:06 , tech , 不會延遲，國造潛艦將於 9 月下水測試 , https://technews.tw/2023/05/15/ids-will-launch-in-september-on-schedule/
+2023-05-15 15:53:56 , tech , 蘋果傳 6 月推實驗性 MR 頭盔，台積電獨供雙處理器 , https://technews.tw/2023/05/15/apple-may-launch-experimental-mr-headset-in-june/
+2023-05-15 16:09:00 , tech , 日本、南韓關係好轉？日本啤酒進口量再次超過中國 , https://technews.tw/2023/05/15/korea-japan-beer/
+2023-05-15 16:10:23 , tech , Appier 獲南韓關鍵客戶，貢獻第二季營收 , https://finance.technews.tw/2023/05/15/appier-q1-2023-earnings/
+2023-05-15 16:11:55 , tech , 蘋果如何抓內鬼？逗號的位置也可以 , https://ccc.technews.tw/2023/05/15/apple-leakers/
+2023-05-15 16:13:27 , tech , 全球最大定翼機「大鵬」完成載具發射測試，下一步極音速平台 , https://technews.tw/2023/05/15/stratolaunch-sucessfully-lauched-talon-a-vehicle-on-flight/
+2023-05-15 16:15:03 , tech , 鴻海圖型化使用者介面專利，成功導入醫療級健康照護檢測儀 , https://technews.tw/2023/05/15/niia-roc-national-industrial-innovation-award/
+2023-05-15 16:16:25 , tech , 美電信合併耗時 23 個月，台灣大林之晨喊話台台併別超過 , https://technews.tw/2023/05/15/taiwan-mobile-10/
+2023-05-15 16:17:47 , tech , 網紅用 GPT-4「複製」自己交往上千「男友」，想月賺 500 萬美元 , https://technews.tw/2023/05/15/ai-lover/
+2023-05-15 16:19:09 , tech , 臺日泰生醫軟硬實力齊聚拓展商機，醫療與健康照護技術線上媒合會將於 5/25 舉行 , https://technews.tw/2023/05/15/itri-online-matchmaking-for-medical-and-healthcare-technology/
+2023-05-15 16:20:21 , tech , 一場連續 3 年可見的宇宙最大爆炸事件，亮度是典型超新星 10 倍 , https://technews.tw/2023/05/15/at2021lwx-black-hole-explosion-universe/
+2023-05-15 16:45:05 , tech , 資安廠示警：2023 Q1 台灣平均每週遭攻擊 3 千次，全球之首 , https://finance.technews.tw/2023/05/15/cyber-security-3/
+2023-05-15 17:30:35 , tech , 零售數據、零售業財報將出爐，分析師按讚沃爾瑪 , https://technews.tw/2023/05/15/analysts-most-bullish-on-walmart-financial-report/
+2023-05-15 17:32:59 , tech , 手抖族超需要！「自行平衡托盤」幫你守住差點打翻的飲料們 , https://ccc.technews.tw/2023/05/15/fedmog-challenge-tray/
+2023-05-15 17:34:31 , tech , 週休三日公民提案過連署門檻，勞動部：需跨部會討論 , https://technews.tw/2023/05/15/three-days-off-joint-signature/
+2023-05-15 17:51:00 , tech , 鴻海旗下鴻騰印度新廠動土，傳製造蘋果耳機 , https://ccc.technews.tw/2023/05/15/fit-foxconn-india-airpods/
+2023-05-15 17:52:32 , tech , 歐美制裁成效不彰，中亞和高加索國家成俄羅斯取得晶片中繼站 , https://technews.tw/2023/05/15/euraisan-roundabout-became-new-way-for-russia-to-get-western-chips/
+2023-05-15 18:27:04 , tech , 前聯發科高層列席 ZEKU 解散說明會！盤點知名半導體高層西進史 , https://finance.technews.tw/2023/05/15/inventory-of-taiwans-well-known-semiconductor-talent-westward-history/
+2023-05-15 18:28:37 , tech , Riot Games 新 CEO 上任，曾推動騰訊入股 , https://finance.technews.tw/2023/05/15/riot-games-next-ceo/
+2023-05-15 18:30:09 , tech , 3C 家電買氣欠佳，PChome 第一季由盈轉虧 , https://finance.technews.tw/2023/05/15/pchome-q1-2023-earnings/
+2023-05-15 19:00:04 , tech , 聯發科發表 6G NTN 技術白皮書，打造陸海空無縫覆蓋 , https://technews.tw/2023/05/15/tw-impossible-to-restart-nuclear-power/
+2023-05-15 19:01:26 , tech , 6G NTN 技術白皮書 , https://d86o2zu8ugzlg.cloudfront.net/mediatek-craft/documents/MediaTek_WhitePaper-6G-Satellite_EN0523F.pdf

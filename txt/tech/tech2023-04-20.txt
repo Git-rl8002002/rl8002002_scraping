@@ -1,0 +1,83 @@
+2023-04-20 07:29:11 , tech , 史上首次，美軍 B-1B 與印度空軍共同演習 , https://technews.tw/2023/04/20/usaf-sent-b1b-to-cope-india-2023-first-time-in-history/
+2023-04-20 08:05:23 , tech , Linux 核心邏輯漏洞，使 Spectre 攻擊有機可乘 , https://technews.tw/2023/04/20/specter-security-vulnerabilities-for-linux/
+2023-04-20 08:06:45 , tech , 智慧手機相機模組市場動態分析與發展趨勢 , https://technews.tw/2023/04/20/2023-smartphone-model/
+2023-04-20 08:20:22 , tech , 史上「最熱鬧」的上海車展，特斯拉缺席了 , https://technews.tw/2023/04/20/tesla-absent-from-shanghai-auto-show-2023/
+2023-04-20 08:35:20 , tech , 華碩進軍遊戲機產業，會是下一個藍海嗎？ , https://ccc.technews.tw/2023/04/20/asus-enters-the-game-console-industry/
+2023-04-20 08:36:41 , tech , 串疊型太陽能轉換效率再創新高，轉換效率達 33.2% , https://technews.tw/2023/04/20/kaust-tandem-solar/
+2023-04-20 09:35:11 , tech , ASML 稱客戶有些保守、記憶體商延遲採購，股價挫 , https://finance.technews.tw/2023/04/20/asml-stock-price-0419/
+2023-04-20 09:36:53 , tech , 河洛半導體支援英飛凌安全晶片韌體燒錄，加速設備製造商產品上市時程 , https://technews.tw/2023/04/20/hi-lo-system-infineon-optiga-tpm/
+2023-04-20 09:38:25 , tech , 產能全開，晶圓切割機廠 DISCO 傳拚擴產至 3 倍 , https://technews.tw/2023/04/20/disco-ev-expansion/
+2023-04-20 09:39:56 , tech , 無懼財報獲利下滑，特斯拉將會持續降價 , https://finance.technews.tw/2023/04/20/tesla-price-cut-margin-fall/
+2023-04-20 09:41:28 , tech , 日本晶片戰略受影響？Rapidus 合作夥伴 IBM 挨告 , https://technews.tw/2023/04/20/rapidus-ibm/
+2023-04-20 09:42:50 , tech , FED 褐皮書：部分地區展望惡化，銀行緊縮放款標準 , https://finance.technews.tw/2023/04/20/fed-beige-book-us/
+2023-04-20 09:44:01 , tech , 褐皮書 , https://www.federalreserve.gov/monetarypolicy/beigebook202304.htm
+2023-04-20 09:44:22 , tech , 歐洲走了遠路的太空政策，亞利安 6 號火箭亮相遙遙無期 , https://technews.tw/2023/04/20/vega-c-rocket-ariane-6/
+2023-04-20 09:45:33 , tech , ChatGPT 再掀 AI 應用熱潮，金管會擬訂定指導原則 , https://finance.technews.tw/2023/04/20/chatgpt-ai-financial-industry/
+2023-04-20 09:47:05 , tech , 馬斯克宣布打造 ChatGPT 競品！OpenAI CEO 潑冷水：GPT-5 可能大改 , https://technews.tw/2023/04/20/musk-vs-openai-chatgpt/
+2023-04-20 09:48:27 , tech , 鴻海：第二季展望仍不錯，鄭州淡季屬常態與印度無關 , https://finance.technews.tw/2023/04/20/hon-hais-outlook-for-operations-and-production-capacity-in-the-second-quarter/
+2023-04-20 09:55:57 , tech , 中國力推人民幣結算，能否撼動美元主導地位？ , https://technews.tw/2023/04/20/can-rmb-shake-usd-dominance/
+2023-04-20 09:57:19 , tech , 違反美國禁令向華為銷售硬碟，Seagate 同意支付 3 億美元罰款 , https://technews.tw/2023/04/20/seagate-to-pay-300-million-penalty/
+2023-04-20 09:58:41 , tech , 台積電反對美國超額分潤補貼條件，陸行之：外資應希望擴產放緩 , https://finance.technews.tw/2023/04/20/tsmc-opposes-us-excess-profit-sharing-subsidy-conditions/
+2023-04-20 10:00:13 , tech , ChatGPT 引爆熱潮，投資亮點與風險齊來 , https://finance.technews.tw/2023/04/20/chatgpt-investment-highlights/
+2023-04-20 10:20:30 , tech , 美國以外首個海外市場，蘋果「iPhone 卡緊收」登台 , https://technews.tw/2023/04/20/tap-to-pay-on-iphone-taiwan/
+2023-04-20 10:26:59 , tech , 交易冷、大摩 Q1 獲利挫近 20%，看市況明年回溫 , https://technews.tw/2023/04/20/morgan-stanley-q1-financial-reporting/
+2023-04-20 10:31:04 , tech , 台積電、創意被點名，助力微軟開發 AI 晶片 , https://technews.tw/2023/04/20/microsoft-reportedly-working-on-its-own-ai-chips-athena/
+2023-04-20 10:32:35 , tech , 彭博：義大利尋求台灣晶片幫助，有意退出中國一帶一路 , https://technews.tw/2023/04/20/italy-eyes-taiwan-chip-deals-ahead-of-decision-on-china-pact/
+2023-04-20 11:05:29 , tech , 技術有極限，科學家：砸幾十億美元打造深空住所是白費力氣 , https://technews.tw/2023/04/20/human-in-deep-space-need-sustainable-energy/
+2023-04-20 11:06:41 , tech , 起薪最高逾 5 萬元！第一銀行大舉招募 415 名新血 , https://finance.technews.tw/2023/04/20/financial-staff/
+2023-04-20 11:08:13 , tech , 公共充電站威脅個人資安，資安人員：應提高偽公共 Wi-Fi 認知 , https://technews.tw/2023/04/20/fake-public-wifi/
+2023-04-20 11:09:45 , tech , AI 作品獲世界攝影大獎，創作者拒絕領獎：比賽還沒準備好評人工智慧 , https://technews.tw/2023/04/20/ai-sony-world-photography-awards/
+2023-04-20 11:21:47 , tech , 無懼財報獲利下滑，特斯拉會繼續降價 , https://finance.technews.tw/2023/04/20/tesla-price-cut-margin-fall/
+2023-04-20 11:26:12 , tech , 歐洲走遠路的太空政策，亞利安 6 號火箭亮相遙遙無期 , https://technews.tw/2023/04/20/vega-c-rocket-ariane-6/
+2023-04-20 11:44:35 , tech , 微軟同意 15 億購鴻海威州園區土地，建大型資料中心 , https://technews.tw/2023/04/20/microsoft-agrees-to-buy-50m-foxconn-parcel-in-wisconsin/
+2023-04-20 11:45:47 , tech , 美吾華砸 10 億元擴建 GMP 綠建築新廠！預計 2024 年完工落成 , https://finance.technews.tw/2023/04/20/green-building-mark/
+2023-04-20 11:47:19 , tech , 資料所有權成 AI 新戰場？馬斯克威脅告微軟 , https://technews.tw/2023/04/20/elon-musk-threatens-to-sue-microsoft-over-using-twitter-data-for-its-a-i/
+2023-04-20 12:23:33 , tech , 寧德時代凝聚態電池 500 Wh/kg，未來有望用於電動飛機 , https://technews.tw/2023/04/20/condensed-battery/
+2023-04-20 12:25:05 , tech , 等 3 年多馬斯克終於官宣：Q3 舉辦 Cybertruck 交車 , https://technews.tw/2023/04/20/elon-musk-announces-tesla-cybertruck-delivery-event-in-third-quarter-of-2023/
+2023-04-20 12:26:27 , tech , 惡意軟體 Vare 潛伏 Discord，新興網路犯罪組織現蹤 , https://technews.tw/2023/04/20/vare-on-discord/
+2023-04-20 12:27:38 , tech , CyberArk Labs , https://www.cyberark.com/resources/all-blog-posts/the-not-so-secret-war-on-discord
+2023-04-20 12:35:36 , tech , 視訊股東會、電子投票全包！集保結算所「股東 e 服務」6 月底上線 , https://finance.technews.tw/2023/04/20/enotice/
+2023-04-20 12:37:08 , tech , 北大西洋環流消失逼出《明天過後》，研究：南極環流崩潰速度更快 , https://technews.tw/2023/04/20/antarctic-ocean-circulation-slowly/
+2023-04-20 12:38:20 , tech , 傳阿里巴巴旗下盒馬鮮生擬赴港 IPO，料 2024 年上市 , https://finance.technews.tw/2023/04/20/fresh-hema-may-plan-to-go-to-hong-kong-for-ipo/
+2023-04-20 12:38:30 , tech , 食品價格飛漲、英通膨仍破 10%，BOK 可能再升息 , https://finance.technews.tw/2023/04/20/bok-cpi/
+2023-04-20 12:39:41 , tech , 沒在怕墜落，SpaceX 繼續發射新一批 V2 Mini 星鏈衛星 , https://technews.tw/2023/04/20/spacex-starlink-satellite-v2-mini/
+2023-04-20 12:41:03 , tech , 聚焦減碳與智慧駕駛，台灣商業車大展開跑 , https://technews.tw/2023/04/20/commercial-vehicle-expo/
+2023-04-20 12:42:35 , tech , 力抗 IT 顧問業逆風，IBM 財報優於預期，盤後漲 , https://finance.technews.tw/2023/04/20/ibm-financial-report-beats-forecasts/
+2023-04-20 12:43:57 , tech , 寧德時代凝聚態電池 500Wh/kg，未來有望用於電動飛機 , https://technews.tw/2023/04/20/condensed-battery/
+2023-04-20 13:05:32 , tech , 聯發科下週法說會登場，將關心三大議題 , https://finance.technews.tw/2023/04/20/mediatek-will-focus-on-three-issues/
+2023-04-20 13:47:32 , tech , Micro LED 菁英陣隊成形！柯富仁：「設備國產化」是往後發展趨勢 , https://technews.tw/2023/04/20/touch-taiwan-2023-micro-led/
+2023-04-20 13:49:03 , tech , 報復性消費，Q1 訪日旅客消費額破兆，台人排第二 , https://finance.technews.tw/2023/04/20/tourist-spending-in-japan-breaks-trillions/
+2023-04-20 14:14:32 , tech , 台積電 2023 年首季營收年增 3.6%，每股 EPS 達 7.98 元優於市場預期 , https://finance.technews.tw/2023/04/20/tsmc-2023q1/
+2023-04-20 14:16:03 , tech , 新加坡租金大漲四成以上，外籍專業人士揚言返鄉 , https://technews.tw/2023/04/20/expats-leave-singapore-due-to-unaffordable-rent-rise/
+2023-04-20 14:50:32 , tech , 庫克會見印度總理，重申蘋果對印度投資承諾 , https://technews.tw/2023/04/20/tim-cook-meets-modi/
+2023-04-20 14:51:54 , tech , 短期利多有限，Rivian 目標價遭分析師一口氣砍半 , https://finance.technews.tw/2023/04/20/rivian-stock-gets-a-downgrade/
+2023-04-20 14:56:33 , tech , 矽料增產引價跌，5 月太陽能材料價格同步回落 , https://finance.technews.tw/2023/04/20/price-cuts-for-solar-materials-in-may/
+2023-04-20 14:59:12 , tech , 聯發科下週法說會登場，關心三大議題 , https://finance.technews.tw/2023/04/20/mediatek-will-focus-on-three-issues/
+2023-04-20 15:03:37 , tech , 北大西洋環流消失逼出〈明天過後〉，研究：南極環流崩潰速度更快 , https://technews.tw/2023/04/20/antarctic-ocean-circulation-slowly/
+2023-04-20 15:13:45 , tech , AI 世代新鮮人如何勇往「職」前？跨域思維是重點 , https://technews.tw/2023/04/20/ai-gen-talents/
+2023-04-20 15:15:06 , tech , 迷因股 BBBY 傳將申請破產被視為利多，股價飆 35% , https://technews.tw/2023/04/20/bed-bath-rumored-to-file-for-bankruptcy-share-price-soared-35percent/
+2023-04-20 15:17:39 , tech , 呼應 4/22 世界地球日，三星 2023 年回收活動起跑 , https://technews.tw/2023/04/20/422-samsung/
+2023-04-20 15:19:01 , tech , COVID-19 疫後隱憂，全球 6,700 萬童漏打常規疫苗 , https://technews.tw/2023/04/20/covid-19-vs-children-vaccine/
+2023-04-20 15:20:23 , tech , 台積電預期第二季營收下滑最高近 10%，全年資本支出維持不變 , https://finance.technews.tw/2023/04/20/tsmcs-outlook-for-the-second-quarter-of-2023/
+2023-04-20 15:21:55 , tech , 缺工嚴重，近七成日企正職員工不足、運輸業最慘 , https://finance.technews.tw/2023/04/20/nearly-70-percent-of-japanese-companies-lack-full-time-employees/
+2023-04-20 15:32:29 , tech , 口罩大解封剛需仍在！中衛再推 AI 機器人、電路板科技感口罩 , https://technews.tw/2023/04/20/circuit-board/
+2023-04-20 15:34:01 , tech , 三星傳出 Q2 擬砍 5% NAND 產能，西安廠為重點 , https://technews.tw/2023/04/20/samsung-plans-to-cut-5percent-of-nand-production-capacity/
+2023-04-20 15:35:23 , tech , 後製時程從幾天縮減成幾分鐘，Adobe：Firefly 將重塑影音工作流程 , https://technews.tw/2023/04/20/adobe-firefly-2/
+2023-04-20 15:36:54 , tech , 富邦產險總部大樓拆除工程！獲 UL 2799 廢棄物零填埋金級認證 , https://finance.technews.tw/2023/04/20/ul-2799/
+2023-04-20 15:38:26 , tech , 人工智慧大老報效美軍，前 Google AI 副總任職中央司令部 , https://technews.tw/2023/04/20/former-google-ai-vp-joined-uscentcom/
+2023-04-20 16:47:42 , tech , 庫存調整時間較預期長，台積電下修全年營收預期 , https://finance.technews.tw/2023/04/20/tsmc-lowers-full-year-revenue-forecast/
+2023-04-20 16:49:14 , tech , 傳爭取美國補助 150 億美元，台積電：尚未最終決定 , https://technews.tw/2023/04/20/tsmc-has-yet-to-make-a-final-decision-to-fight-for-u-s-subsidies/
+2023-04-20 17:00:56 , tech , 台積電預期第二季營收下滑最高約 10%，全年資本支出維持不變 , https://finance.technews.tw/2023/04/20/tsmcs-outlook-for-the-second-quarter-of-2023/
+2023-04-20 17:11:24 , tech , 鎖定大尺寸彩色看板市場，元太開發 2 大彩色電子紙新技術 , https://technews.tw/2023/04/20/e-ink-at-touch-taiwan-2023-1/
+2023-04-20 17:12:56 , tech , 埃爾多安宣稱英國有意合作潛艦，倫敦：沒這回事 , https://technews.tw/2023/04/20/erdogan-claimed-uk-turkey-co-building-subs-but-london-denied/
+2023-04-20 17:14:28 , tech , 「iPhone 卡緊收」國際首站選台灣！台新手付、中國信託搶第一波服務 , https://finance.technews.tw/2023/04/20/tap-to-pay-on-iphone/
+2023-04-20 17:56:33 , tech , 台積電確定調整高雄廠以先進製程為主，美國經費補貼條件討論中 , https://finance.technews.tw/2023/04/20/tsmc-has-decided-to-adjust-the-kaohsiung-plant-to-focus-on-advanced-manufacturing-processes/
+2023-04-20 18:01:04 , tech , 首季賺近一個股本！國巨單季稅後淨利 41.32 億元 , https://finance.technews.tw/2023/04/20/stock-level/
+2023-04-20 18:05:36 , tech , 「卡住」的細胞無法成熟，可能是頭髮變白確切機制 , https://technews.tw/2023/04/20/gray-hair-mcsc-melanocyte-stem-cell/
+2023-04-20 18:23:31 , tech , 閱讀器也玩摺疊，Readmoo 攜手元太開發全球首款摺疊電子書閱讀器 , https://ccc.technews.tw/2023/04/20/readmoo-8-inch-ereader-making-with-e-ink-foldable-epaper/
+2023-04-20 18:32:33 , tech , 台積電法說會重點完整整理 , https://finance.technews.tw/2023/04/20/tsmcs-legal-statement-will-focus-on-complete-arrangement/
+2023-04-20 18:36:58 , tech , 台積電確定高雄廠以先進製程為主，美國補助條件討論中 , https://finance.technews.tw/2023/04/20/tsmc-has-decided-to-adjust-the-kaohsiung-plant-to-focus-on-advanced-manufacturing-processes/
+2023-04-20 18:56:37 , tech , 台積電法說會 20 重點整理 , https://finance.technews.tw/2023/04/20/tsmcs-legal-statement-will-focus-on-complete-arrangement/
+2023-04-20 20:26:23 , tech , 電視面板報價續漲！TrendForce：最快 5 月回到現金成本水位 , https://finance.technews.tw/2023/04/20/panel-prices-in-april-h2/
+2023-04-20 20:27:55 , tech , 報稅季登場！手機新增現金繳納兩大功能、免稅額調高九大利多一次看 , https://finance.technews.tw/2023/04/20/cash-payment/
+2023-04-20 20:29:27 , tech , 台積電法說會 20 重點整理一次看完 , https://finance.technews.tw/2023/04/20/tsmcs-legal-statement-will-focus-on-complete-arrangement/

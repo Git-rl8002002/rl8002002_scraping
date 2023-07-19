@@ -1,0 +1,13 @@
+2023-04-01 00:26:21 , tech , 獸醫找不到病因，飼主改問 ChatGPT 竟治好愛犬 , https://technews.tw/2023/04/01/man-claims-chatgpt-saved-his-dogs-life-after-vet-couldnt-diagnose-problem/
+2023-04-01 09:23:38 , tech , 80% 工作或被顛覆，OpenAI 研究哪些職業最易受 ChatGPT 波及 , https://technews.tw/2023/04/01/an-early-look-at-the-labor-market-impact-potential-of-large-language-models/
+2023-04-01 09:25:10 , tech , 「友岸外包」扣緊「志同道合」，台美 21 世紀貿易倡議敲開大門迎新局 , https://technews.tw/2023/04/01/the-new-situation-of-the-taiwan-u-s-21st-century-trade-initiative/
+2023-04-01 10:26:30 , tech , 裁員一次不夠上週又裁！亞馬遜營運有多糟？ , https://finance.technews.tw/2023/04/01/how-badly-does-amazon-operate/
+2023-04-01 11:11:40 , tech , 英國宣布加入 CPTPP，為脫歐以來最大規模貿易協定 , https://finance.technews.tw/2023/04/01/britain-join-cptpp/
+2023-04-01 11:13:12 , tech , TikTok 只是媒體平台，為何從美國到印度都想封殺……連與中國交好的伊朗、阿富汗都直接禁止？ , https://technews.tw/2023/04/01/why-the-us-and-india-both-want-to-block-tiktok/
+2023-04-01 11:14:33 , tech , 聯準會通膨指標 2 月降溫，美股開噴、美債殖利率下滑 , https://finance.technews.tw/2023/04/01/key-fed-inflation-rose-0-3-in-february/
+2023-04-01 12:44:40 , tech , Midjourney V5 太炸裂，AI 繪畫再無 Bug？「有圖有真相」時代徹底過去 , https://technews.tw/2023/04/01/midjourney-v5-generates-pictures-too-real-causing-doubts/
+2023-04-01 13:26:41 , tech , 警告意味濃！中國對美光發起安全審查，三星、SK 海力士大受惠 , https://technews.tw/2023/04/01/china-cybersecurity-review-of-micron-chip/
+2023-04-01 16:05:39 , tech , 傳三星考慮在日本神奈川建封測廠，深化合作關係 , https://technews.tw/2023/04/01/samsung-plans-to-build-packaging-test-line-in-japan/
+2023-04-01 17:59:51 , tech , 去年獲利減近 7 成，華為稱已擺脫危機：2023 年是生存關鍵之年 , https://finance.technews.tw/2023/04/01/huawei-2022-finance-report/
+2023-04-01 22:50:28 , tech , 藥華藥、浩鼎將進駐！台北生技園區年產值逾 500 億元 , https://technews.tw/2023/03/30/biotech-park/
+2023-04-01 22:50:38 , tech , 細菌抗藥性加速，專家：人類可能回到沒有抗生素的時代 , https://technews.tw/2023/03/30/the-problem-of-lantibiotic/

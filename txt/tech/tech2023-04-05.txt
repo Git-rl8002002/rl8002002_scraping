@@ -1,0 +1,20 @@
+2023-04-05 01:02:58 , tech , 儲蓄率探 3 年新低藏玄機，疫後消費潮可能不如預期 , https://technews.tw/2023/04/04/after-covid19-savings/
+2023-04-05 07:56:50 , tech , NVIDIA GTC 2023 推出 DGX Cloud 服務，助企業乘上 AIGC 熱潮 , https://technews.tw/2023/04/05/nvidia-gtc-2023-dgx-cloud/
+2023-04-05 09:39:37 , tech , 大立光3月營收月增29.0% , https://finance.technews.tw/2023/04/05/largan-3008-202303-financial-report/
+2023-04-05 10:26:40 , tech , 「德國模式」遭衝擊，力促循環經濟求解方：輸不起的能源轉型戰 , https://finance.technews.tw/2023/04/05/the-german-model-an-energy-transition-war-that-cannot-be-lost/
+2023-04-05 10:53:43 , tech , 台灣太空輻射環境驗測聯盟擴大，太空中心履歷投遞多 10 倍 , https://technews.tw/2023/04/05/tasa-space-element/
+2023-04-05 11:18:36 , tech , 順達3月營收月增46.5% , https://finance.technews.tw/2023/04/05/dynapack-3211-202303-financial-report/
+2023-04-05 11:23:55 , tech , 日本千億元「櫻花經濟」，成敗就看這個男人！他如何精準預測櫻花盛開？ , https://technews.tw/2023/04/05/how-to-accurately-predict-the-cherry-blossom-season-in-japan/
+2023-04-05 11:35:52 , tech , 「替數位時代留下備份」，奧地利鹽礦埋藏人類文明的時空膠囊 , https://ccc.technews.tw/2023/04/05/the-mom-project-leaves-time-capsules-for-humans/
+2023-04-05 12:29:52 , tech , SpaceX 星艦火箭首次軌道飛行近在眼前，最快 4/10 發射 , https://technews.tw/2023/04/05/starship-super-heavy-spacex/
+2023-04-05 13:35:45 , tech , 升級手寫功能，樂天 Kobo 10.3 吋閱讀器新機展開預購 , https://ccc.technews.tw/2023/04/05/rakuten-kobo-launches-kobo-elipsa-2e-ereader/
+2023-04-05 13:37:06 , tech , Elipsa 2E 新機 , https://technews.tw/2023/04/05/kobo-elipsa-2e/
+2023-04-05 13:37:27 , tech , 【實測】手寫筆記再加強，Kobo Elipsa 2E 更專注於書寫體驗 , https://ccc.technews.tw/2023/04/05/kobo-elipsa-2e/
+2023-04-05 13:37:37 , tech , Cardin.Y , https://technews.tw/author/cardin/
+2023-04-05 16:02:52 , tech , 分享台灣經驗，數位部出席雪梨對談交流資安韌性 , https://technews.tw/2023/04/05/the-sydney-dialogue-moda-taiwan/
+2023-04-05 16:04:03 , tech , 紅矮星發出重複無線電訊號，可能來自具磁場的類地行星互動 , https://technews.tw/2023/04/05/radio-signal-exoplanet-yz-ceti-b-magnetic-field/
+2023-04-05 16:18:56 , tech , 聯茂3月營收22.39 億元 , https://finance.technews.tw/2023/04/05/iteq-6213-202303-financial-report/
+2023-04-05 16:53:52 , tech , 鴻海 Q1 營收 1.46 兆破同期新高，估 Q2 季、年雙衰退 , https://finance.technews.tw/2023/04/05/honhai-foxconn-march-revenue/
+2023-04-05 17:38:50 , tech , SpaceX 二代 mini 星鏈衛星，開始從太空墜落 , https://technews.tw/2023/04/05/starlink-spacex-satellite-v2-mini/
+2023-04-05 18:03:23 , tech , 鴻海3月營收月減0.4% , https://finance.technews.tw/2023/04/05/hon-hai-2317-202303-financial-report/
+2023-04-05 20:21:26 , tech , 鴻準3月營收81.73 億元 , https://finance.technews.tw/2023/04/05/ftc-2354-202303-financial-report/

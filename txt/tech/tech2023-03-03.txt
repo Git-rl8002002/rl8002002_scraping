@@ -1,0 +1,60 @@
+2023-03-03 06:22:59 , tech , 德州儀器攜手光寶布局第三類半導體伺服器電源供應器 , https://technews.tw/2023/03/03/texas-instruments-joins-hands-with-lite-on-to-lay-out-the-third-type-of-semiconductor/
+2023-03-03 06:24:30 , tech , 台積電各製程共 39 條晶圓產線，三星則藉記憶體成最大先進製程商 , https://technews.tw/2023/03/03/processes-of-each-node-in-semiconductor-manufacturing/
+2023-03-03 06:26:01 , tech , 友通 2022 年營收創歷史新高，擬配息 4 元使殖利率達 6.1% , https://finance.technews.tw/2023/03/03/dfi/
+2023-03-03 08:11:13 , tech , 鴻海簽署新協議，承諾於印度製造新型電子產品 , https://finance.technews.tw/2023/03/03/foxconn-signed-an-agreement-to-invest-in-telangana-state-to-manufacture-electronics/
+2023-03-03 08:12:34 , tech , Nvidia 顯示卡新驅動程式提升影片畫質，新 AI 技術支援 Netflix、YouTube 影片 , https://technews.tw/2023/03/03/nvidia-rtx-video-super-resolution/
+2023-03-03 08:13:45 , tech , 影片超級解析度 , https://nvidia.custhelp.com/app/answers/detail/a_id/5448
+2023-03-03 08:14:05 , tech , 美國政府宣布充電樁須境內組裝，並要求零組件國產化比例 55% , https://technews.tw/2023/03/03/us-cfi/
+2023-03-03 08:35:21 , tech , Google 面對微軟 ChatGPT 之戰可能失敗？ , https://technews.tw/2023/03/03/google-chatgpt-bing/
+2023-03-03 08:36:53 , tech , 不畏半導體逆風，博通靠網通基礎建設繳出穩健財測 , https://finance.technews.tw/2023/03/03/broadcom-give-a-robust-expectation-of-next-season/
+2023-03-03 08:44:22 , tech , 馬斯克：人工智慧是危險技術，政府應出手監管 , https://technews.tw/2023/03/03/elon-musk-artificial-intelligence-is-a-dangerous-technology/
+2023-03-03 08:53:20 , tech , 看影片就當！用 Pixel 手機觀看 YouTube《異形》剪輯片段會立馬重開機 , https://technews.tw/2023/03/03/youtube-video-causes-pixel-phones-to-instantly-reboot/
+2023-03-03 08:54:41 , tech , 美眾議員米克斯反對 TikTok 新禁令，認為損害言論自由及就業 , https://technews.tw/2023/03/03/us-democratic-congressman-opposes-tiktok-ban/
+2023-03-03 08:56:12 , tech , NCC：Netflix 在台市占率快五成，穩居 OTT TV 龍頭 , https://technews.tw/2023/03/03/ncc-ott-tv/
+2023-03-03 09:02:11 , tech , 台灣淪陷恐致上兆損失，美議員籲各國擬制裁嚇阻 , https://technews.tw/2023/03/03/u-s-lawmakers-call-on-countries-to-propose-sanctions-to-deter-china/
+2023-03-03 09:14:13 , tech , 庫存增、廠商降價販售，DRAM 價格連 10 跌 , https://technews.tw/2023/03/03/dram-prices-in-february/
+2023-03-03 09:21:35 , tech , 科技業裁員寒風中的暖流來了！富士通宣布大招聘 1,600 人及併購 , https://technews.tw/2023/03/02/fujitsu-hiring-and-acquiring-plan/
+2023-03-03 09:44:18 , tech , Wolfspeed 跌幅驟縮，特斯拉改善散熱有利碳化矽？ , https://technews.tw/2023/03/03/carborundum-tesla/
+2023-03-03 10:31:10 , tech , 南韓年輕人房價漲也慘跌也慘，傳貰搖搖欲墜 , https://technews.tw/2023/03/03/south-koreas-world-lowest-fertility-rate-drops-again/
+2023-03-03 10:31:20 , tech , Fed 鷹派鼓吹升 1 碼壓殖利率，那指拉尾盤 , https://technews.tw/2023/03/03/us-stock-0302/
+2023-03-03 10:32:31 , tech , 美國首度揭露晶片製造激勵細節，台積電補貼額度勝三星 , https://technews.tw/2023/03/03/us-government-announced-the-notice-of-funding-opportunity/
+2023-03-03 10:34:02 , tech , 台積電去年獲利創高，員工均薪增逾 28% 突破 300 萬元 , https://technews.tw/2023/03/03/tsmc-average-salary/
+2023-03-03 11:08:31 , tech , 台美可望數週內簽貿易協定，涉外人士透露具突破性意義 , https://finance.technews.tw/2023/03/03/taiwan-us-expected-to-sign-trade-deal-within-weeks/
+2023-03-03 11:20:31 , tech , 誰污染了下水道？研究：衛生紙是永久化學品污染一大來源 , https://technews.tw/2023/03/03/toilet-paper-is-the-one-source-of-pfas/
+2023-03-03 11:21:42 , tech , 特斯拉減用碳化矽，英飛凌還有氮化鎵！收購 GaN Systems 強化布局 , https://technews.tw/2023/03/03/infineon-gan-systems/
+2023-03-03 11:23:31 , tech , 通膨猛燒民眾荷包瘦，好市多 Q2 營收遜、盤後跌 2% , https://finance.technews.tw/2023/03/03/costco-q2-financial-reporting/
+2023-03-03 11:38:32 , tech , 全球終端需求不振，1 月製造業景氣燈號亮第 3 顆藍燈 , https://finance.technews.tw/2023/03/03/manufacturing-boom-january-third-blue-light/
+2023-03-03 12:05:37 , tech , 美國商務部再將 28 個中國企業納入實體清單，浪潮、華大基因都沒躲過 , https://technews.tw/2023/03/03/us-entity-list-targets-28-chinese-entities/
+2023-03-03 12:11:28 , tech , 三星、SK Hynix 陷兩難，或將調整全球半導體生產布局 , https://technews.tw/2023/03/03/korean-chipmakers-production-strategy/
+2023-03-03 12:32:29 , tech , 北方森林大火 CO2 排放倍增，科學家：森林恐成暖化來源 , https://technews.tw/2023/03/03/forest-wild-fire/
+2023-03-03 12:44:34 , tech , 植入設備有缺陷，美國 FDA 去年否決 Neuralink 人體試驗申請 , https://technews.tw/2023/03/03/neuralink-human-testing-has-reportedly-received-one-fda-rejection-already/
+2023-03-03 12:59:30 , tech , 韓封測廠稼動率陷 5 成保衛戰，反觀日月光仍有 8 成 , https://technews.tw/2023/03/03/korean-osat-companies-suffers-from-low-factory-operation-rates/
+2023-03-03 13:11:35 , tech , 蘋果對台積電營收貢獻續增，2022 年首度突破 5,000 億元 , https://finance.technews.tw/2023/03/03/apple-revenue-contribution-to-tsmc-exceeds-500-billion-yuan/
+2023-03-03 13:23:28 , tech , 美晶片補貼還有一關？商務部促環評，恐延宕動工 , https://technews.tw/2023/03/03/us-commerce-chief-urges-chip-companies-to-begin-environmental-reviews/
+2023-03-03 13:56:29 , tech , 核二 2 號機除役缺口，台電：由新增再生能源替補 , https://technews.tw/2023/03/03/kuosheng-nuclear-power-plant-renewable-energy/
+2023-03-03 13:57:50 , tech , 我國經濟自由度升至全球第四，寫歷年最佳 , https://finance.technews.tw/2023/03/03/2023-index-of-economic-freedom-taiwan-4th/
+2023-03-03 14:11:30 , tech , 股市上漲有理？分析：全球央行近月注資 1 兆美元 , https://finance.technews.tw/2023/03/03/global-central-banks-inject-1-trillion-in-recent-months/
+2023-03-03 14:32:32 , tech , 和皮卡丘一起睡覺！可以自動轉補給、投精靈球的「Pokémon GO Plus +」七月登台 , https://ccc.technews.tw/2023/03/03/pokemon-go-plus/
+2023-03-03 14:47:29 , tech , 美光警告裁員人數將高於預期，本季毛利率不妙 , https://technews.tw/2023/03/03/micron-warns-of-higher-than-expected-job-cuts/
+2023-03-03 14:59:32 , tech , 創意第二大客戶遭美列入實體清單，股價收跌停 , https://technews.tw/2023/03/03/guc-stock-price-down-to-10-percent/
+2023-03-03 15:08:48 , tech , 新普2月營收月增5.5% , https://finance.technews.tw/2023/03/03/smp-6121-202302-financial-report/
+2023-03-03 15:08:58 , tech , 聯亞2月營收9,493.30 萬元 , https://finance.technews.tw/2023/03/03/landmark-3081-202302-financial-report/
+2023-03-03 16:17:31 , tech , 鴻海擴大投資印度，傳砸 7 億美元蓋 iPhone 零件工廠 , https://finance.technews.tw/2023/03/03/foxconn-plans-to-invest-about-700-million-on-a-new-plant-in-india/
+2023-03-03 16:44:33 , tech , 特斯拉將大減 SiC 用量震撼業界，調研機構直指 Trench MOSFET 與混合封裝成關鍵 , https://technews.tw/2023/03/03/trench-sic-misfet-may-play-the-key-role-in-the-next-generation-main-inverter-in-ev/
+2023-03-03 16:51:17 , tech , 精測2月營收月增3.1% , https://finance.technews.tw/2023/03/03/chpt-6510-202302-financial-report/
+2023-03-03 16:51:27 , tech , 南電2月營收41.09 億元 , https://finance.technews.tw/2023/03/03/n-p-c-8046-202302-financial-report/
+2023-03-03 16:51:38 , tech , 台光電2月營收月增7.6% , https://finance.technews.tw/2023/03/03/emc-2383-202302-financial-report/
+2023-03-03 17:03:20 , tech , 全新2月營收9,823.60 萬元 , https://finance.technews.tw/2023/03/03/vpec-2455-202302-financial-report/
+2023-03-03 17:04:57 , tech , 美國商務部再將 28 個中國企業納入實體清單，浪潮、龍芯中科、華大基因都沒躲過 , https://technews.tw/2023/03/03/us-entity-list-targets-28-chinese-entities/
+2023-03-03 17:33:19 , tech , 台燿2月營收月增15.9% , https://finance.technews.tw/2023/03/03/tuc-6274-202302-financial-report/
+2023-03-03 17:33:29 , tech , 亞光2月營收月增12.4% , https://finance.technews.tw/2023/03/03/asia-3019-202302-financial-report/
+2023-03-03 17:33:40 , tech , 南亞科2月營收月減10.0% , https://finance.technews.tw/2023/03/03/ntc-2408-202302-financial-report/
+2023-03-03 17:44:33 , tech , 印度 IT 之父：ChatGPT 很棒，但無法取代程式設計師 , https://finance.technews.tw/2023/03/03/infosys-founder-says-chatgpt-cannot-replace-programmers/
+2023-03-03 18:09:30 , tech , 華通2月營收月減18.5% , https://finance.technews.tw/2023/03/03/compeq-mfg-2313-202302-financial-report/
+2023-03-03 18:09:40 , tech , 立積2月營收1.80 億元 , https://finance.technews.tw/2023/03/03/richwave-4968-202302-financial-report/
+2023-03-03 18:09:51 , tech , 禾瑞亞2月營收9,707.90 萬元 , https://finance.technews.tw/2023/03/03/eeti-3556-202302-financial-report/
+2023-03-03 18:10:01 , tech , 鈺太2月營收1.17 億元 , https://finance.technews.tw/2023/03/03/zilltek-6679-202302-financial-report/
+2023-03-03 18:17:37 , tech , 蘋果加碼投資 10 億歐元，擴建德國晶片設計中心 , https://technews.tw/2023/03/03/apple-accelerates-investment-in-germany-with-additional-1-billion-euros-to-expand-silicon-design-centre/
+2023-03-03 18:20:37 , tech , 騰訊馬化騰、百度李彥宏跌出中國兩會代表名單，改這幾個領域專家領風騷 , https://technews.tw/2023/03/03/cppcc-npc-list/
+2023-03-03 20:30:17 , tech , 新鉅科2月營收月增23.1% , https://finance.technews.tw/2023/03/03/newmax-3630-202302-financial-report/
+2023-03-03 22:08:23 , tech , Google台灣也逃不過裁員潮，針對裁超過180人傳言官方這麼說 , https://technews.tw/2023/03/03/google-taiwan-lay-offs/

@@ -1,0 +1,14 @@
+2023-03-04 00:23:09 , tech , 高通 CEO：ChatGPT 熱潮帶動高通成為 AI 公司，手機將成 AI 主流裝置 , https://technews.tw/2023/03/04/the-popularity-of-chatgpt-is-a-milestone-in-establishing-qualcomm-as-an-a-i-company/
+2023-03-04 00:24:20 , tech , 報告 , https://www.cnbc.com/2023/02/28/ai-is-a-multi-billion-dollar-opportunity-for-chipmakers-bernstein-says.html
+2023-03-04 00:24:41 , tech , 多倫多大學以深度學習訓練 AI 演算法算出外星生命跡象 , https://technews.tw/2023/03/04/a-deep-learning-search-for-technosignatures-of-820-nearby-stars/
+2023-03-04 08:29:19 , tech , MWC 2023：5G 網路共建提高頻譜效率，實現廣泛部署 , https://technews.tw/2023/03/04/mwc-2023-5g-deploy/
+2023-03-04 09:29:09 , tech , 景氣急凍令 PC、手機、面板出貨創新低！成熟製程廠逆境求變，力抗冰風暴 , https://technews.tw/2023/03/04/war-and-inflation-have-frozen-the-prosperity-of-semiconductor-mature-process-manufacturers/
+2023-03-04 10:23:31 , tech , 全球競逐ChatGPT應用，鴻海研究院欲邀各方專家為台灣打造在地大模型 , https://technews.tw/2023/03/04/honhai-research-institute-held-nextforum/
+2023-03-04 11:23:33 , tech , 還在 Ctrl+F 尋找 PDF 資料？Macro 直接檔案產生「維基百科」，獲 a16z 投資 , https://finance.technews.tw/2023/03/04/macro-raises-9-3m-to-layer-intelligence-on-top-of-digital-documents/
+2023-03-04 11:24:54 , tech , 別家裁員它搶人，台積電校園徵才要招募 6,000 人 , https://finance.technews.tw/2023/03/04/tsmc-is-recruiting-6000-young-graduates-in-2023/
+2023-03-04 14:26:33 , tech , 蛋荒最快 5 月緩解？全球大缺蛋，還有很多雞場不敢通報禽流感……台灣第一線蛋農曝心聲 , https://technews.tw/2023/03/04/egg-shortage-world/
+2023-03-04 15:26:32 , tech , ChatGPT 是 AI 一大步？秒懂人工智慧發展 6 階段 , https://technews.tw/2023/03/04/6-stages-of-artificial-intelligence-development/
+2023-03-04 16:11:21 , tech , 無法匿蹤就當卡車，通用原子將聯合打擊巡弋飛彈裝上 MQ-9 無人機 , https://technews.tw/2023/03/04/ga-asi-put-jsm-on-mq-9bs/
+2023-03-04 16:20:23 , tech , 默克首次前進校園徵才，祭百萬年薪攬跨世代人才 , https://finance.technews.tw/2023/03/04/merck-taiwan-first-time-holding-campus-recruiting-activities/
+2023-03-04 16:21:44 , tech , 九蛙現身，台電：日月潭蓄水7成維持正常 , https://finance.technews.tw/2023/03/04/sunmoonlake-dam-water-reserve-is-getting-low/
+2023-03-04 19:02:30 , tech , 水上飛機還不夠，美軍要為特種部隊開發高速垂直起降運輸機 , https://technews.tw/2023/03/04/darpa-and-ussocom-are-collaborating-on-new-vtol-transporter/

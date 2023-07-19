@@ -1,0 +1,77 @@
+2023-03-14 06:44:07 , tech , 英政府出手相救，匯豐銀行「1 英鎊」收購 SVB 英國分行 , https://finance.technews.tw/2023/03/14/hsbc-acquires-silicon-valley-bank-uk/
+2023-03-14 07:50:27 , tech , 德國不買單，法西縮減虎式直升機升級計畫規模 , https://technews.tw/2023/03/14/german-doesnt-join-the-tiger-mark3-upgrade-plan/
+2023-03-14 07:59:27 , tech , 打造醫療版 Matter，CSA 成立健康保健工作組聚焦本地安養銀髮商機 , https://technews.tw/2023/03/14/csa-health-and-wellness-working-group/
+2023-03-14 08:14:16 , tech , 傳馬斯克正在興建大型園區，員工可直接入住 , https://finance.technews.tw/2023/03/14/elon-musk-is-planning-a-texas-utopia/
+2023-03-14 08:20:17 , tech , 北美航空公司與機場缺工難解，祭出送 iPhone 吸引勞工 , https://finance.technews.tw/2023/03/14/aviation-industry-turns-to-childcare-free-iphones-to-lure-workers/
+2023-03-14 08:47:09 , tech , 核二 2 號機延役？經濟部長：法規與事實面都不可能 , https://technews.tw/2023/03/14/the-possibility-of-delaying-the-service-of-the-no-2-nuclear-power-plant/
+2023-03-14 08:48:30 , tech , 任天堂、寶可夢遊戲公司徵 Web3.0 人才！要懂 NFT GameFi 元宇宙 , https://technews.tw/2023/03/14/the-pokemon-company-seeks-web-3-talent/
+2023-03-14 08:49:52 , tech , 公告顯示 , https://boards.greenhouse.io/pokemoncareers/jobs/5540422003
+2023-03-14 08:50:12 , tech , 為了留住更多創作者，TikTok 打算直接挖觀眾的錢包 , https://technews.tw/2023/03/14/tiktok-new-series/
+2023-03-14 08:51:53 , tech , ChatGPT 之父傾其所有，還想讓人類多活 10 年 , https://technews.tw/2023/03/14/sam-altman-invests-in-anti-aging-technology-company-retro/
+2023-03-14 08:59:19 , tech , SIPRI：俄烏戰推升需求，歐洲武器進口劇增 , https://technews.tw/2023/03/14/sipri-report/
+2023-03-14 09:05:21 , tech , NFT 不再熱絡，Meta 放棄數位收藏品計畫 , https://technews.tw/2023/03/14/meta-winds-down-support-for-nfts-on-instagram-and-facebook/
+2023-03-14 09:23:18 , tech , 美中需求降，台灣主要 IT 廠營收再陷萎縮創 2 年低 , https://technews.tw/2023/03/14/revenue-of-taiwans-major-it-factories-shrinks-again/
+2023-03-14 10:05:56 , tech , 政府出馬也難挽信心，美區域銀行股遭空襲 , https://technews.tw/2023/03/14/shares-in-us-regional-banks-close-sharply-lower-over-fears-of-deposit-flight/
+2023-03-14 10:06:06 , tech , SVB 倒閉、股市動盪，日銀今年來首度進場購買 ETF , https://technews.tw/2023/03/14/svb-boj-etf/
+2023-03-14 10:06:17 , tech , 銀行股全倒、2 年債殖利率暴跌，那指逆漲 , https://technews.tw/2023/03/14/us-stock-0313/
+2023-03-14 10:08:29 , tech , 核二 2 號機 14 日除役，台電：大型機組回歸可銜接供電 , https://technews.tw/2023/03/14/no-2-nuclear-power-plant-power-supply/
+2023-03-14 10:09:50 , tech , ChatGPT 爆紅拉抬 NVIDIA 與供應鏈，下周 NVIDIA GTC 受人矚目 , https://technews.tw/2023/03/14/2023-nvidia-gtc/
+2023-03-14 10:20:40 , tech , 動力配發現金股利 4 元！殖利率高達 8.8％ , https://finance.technews.tw/2023/03/14/high-end-graphics-card/
+2023-03-14 10:26:30 , tech , ChatGPT 爆紅拉抬 NVIDIA 與供應鏈，下週 NVIDIA GTC 受人矚目 , https://technews.tw/2023/03/14/2023-nvidia-gtc/
+2023-03-14 10:50:29 , tech , SVB 引發金融業地震！聯準會很可能暫緩升息，或最後一次升息？ , https://finance.technews.tw/2023/03/14/svb-fed-hike-rates/
+2023-03-14 11:29:21 , tech , 邁向半導體奈米級航空鋰電池！能元科技攜國輻中心啟動研究計畫 , https://finance.technews.tw/2023/03/14/archer-aviation/
+2023-03-14 11:44:33 , tech , 微軟拚速度推 AI，外媒：道德監督團隊被解僱 , https://technews.tw/2023/03/14/microsoft-lay-off-ethical-ai-members/
+2023-03-14 11:56:37 , tech , 藍燈投資法勝率高！歷史經驗進場台股持有一年獲利高 , https://finance.technews.tw/2023/03/14/blue-light-win-rate/
+2023-03-14 12:04:08 , tech , 微軟拚速度推 AI，外媒：道德監督團隊遭解僱 , https://technews.tw/2023/03/14/microsoft-lay-off-ethical-ai-members/
+2023-03-14 12:14:35 , tech , ChatGPT 爆紅拉抬 NVIDIA 與供應鏈，下週 NVIDIA GTC 受矚 , https://technews.tw/2023/03/14/2023-nvidia-gtc/
+2023-03-14 12:18:39 , tech , 任天堂和寶可夢遊戲公司徵 Web3 人才！要懂 NFT GameFi 元宇宙 , https://technews.tw/2023/03/14/the-pokemon-company-seeks-web-3-talent/
+2023-03-14 12:27:45 , tech , 任天堂和寶可夢公司徵 Web3 人才！要懂 NFT GameFi 元宇宙 , https://technews.tw/2023/03/14/the-pokemon-company-seeks-web-3-talent/
+2023-03-14 12:32:40 , tech , 探索創新智慧應用無限可能性！5G AIoT 技術商談媒合會將於 3/22 線上舉辦 , https://technews.tw/2023/03/14/twtm-5g-aiot-2023-conference/
+2023-03-14 12:38:40 , tech , 震撼言論！美前國安顧問：中國若侵台成功，美方寧願摧毀台積電 , https://technews.tw/2023/03/14/us-would-destroy-taiwan-chip-plants-if-china-invades/
+2023-03-14 13:14:31 , tech , 串連數千個 Nvidia GPU，微軟打造 ChatGPT 的超級電腦 , https://technews.tw/2023/03/14/microsoft-agreed-to-build-a-supercomputer-for-openai/
+2023-03-14 13:16:02 , tech , 富智康：印度子公司業務回升，攻智慧手機機械零件 , https://finance.technews.tw/2023/03/14/fih-says-business-picks-up-at-indian-subsidiary/
+2023-03-14 13:32:31 , tech , 不忍了！星宇航空執行長翟健華遭影射「內線交易」按鈴申告 , https://finance.technews.tw/2023/03/14/self-help-society/
+2023-03-14 13:34:02 , tech , 懷舊黑膠唱片復興！1987 年來首度黑膠唱片銷售量超過 CD , https://technews.tw/2023/03/14/vinyl-records-outsell-cds-for-first-time-since-1987/
+2023-03-14 13:41:40 , tech , 先打強心劑，馬斯克：星艦首飛可能爆炸，成功機率 50% , https://technews.tw/2023/03/14/elon-musk-starship-rocket-first-orbital-launch/
+2023-03-14 13:44:40 , tech , 是真的嗎？蘋果 AR/VR 頭盔零件首度曝光 , https://technews.tw/2023/03/14/apple-ar-vr-5/
+2023-03-14 13:46:01 , tech , Twitter , https://twitter.com/MrWhite128/status/1635220831029829632
+2023-03-14 13:50:29 , tech , 五大行動支付綁卡回饋一次看！兆豐最高 10% 回饋、第一銀成長居冠 , https://finance.technews.tw/2023/03/14/digital-account/
+2023-03-14 13:53:20 , tech , 中國市場不如預期，南韓僅 3 月份前 10 天半導體出口暴跌 41.2% , https://finance.technews.tw/2023/03/14/south-koreas-semiconductor-exports-plunge-41-2-in-first-10-days-of-march-alone/
+2023-03-14 14:11:21 , tech , GitLab 財測不如預期，盤後股價摔 38% , https://finance.technews.tw/2023/03/14/gitlab-reports-fourth-quarter-and-full-year-2023-financial-results/
+2023-03-14 14:23:30 , tech , SVB 存戶有救、新創圈躲一劫，未來籌資更具挑戰 , https://finance.technews.tw/2023/03/14/svb-new-entrepreneur/
+2023-03-14 14:24:52 , tech , 傳蘋果最快於 2024 年商用 Micro LED 顯示器 , https://technews.tw/2023/03/14/apple-micro-led-3/
+2023-03-14 14:39:51 , tech , 中國市場不如預期，南韓 3 月前十天半導體出口就暴跌 41.2% , https://finance.technews.tw/2023/03/14/south-koreas-semiconductor-exports-plunge-41-2-in-first-10-days-of-march-alone/
+2023-03-14 14:44:29 , tech , 存款獲保障、幣安砸錢護盤，加密貨幣市值再破兆 , https://finance.technews.tw/2023/03/14/cryptocurrency-market-capitalization-breaks-trillion/
+2023-03-14 14:46:01 , tech , 有望擺脫洗腎宿命！台大團隊開發「混合益生菌」延緩腎功能惡化 , https://technews.tw/2023/03/14/mixed-probiotics/
+2023-03-14 14:54:48 , tech , 是真的嗎？蘋果 AR / VR 頭盔零件首度曝光 , https://technews.tw/2023/03/14/apple-ar-vr-5/
+2023-03-14 14:55:59 , tech , 爆料者 , https://twitter.com/MrWhite128/status/1635220831029829632
+2023-03-14 14:57:55 , tech , 麥可貝瑞：SVB 暴雷只是序曲，印鈔機將重新啟動 , https://finance.technews.tw/2023/03/13/svb-michael-burry/
+2023-03-14 14:59:12 , tech , 懷舊黑膠唱片復興！1987 年後黑膠唱片銷售量首度超過 CD , https://technews.tw/2023/03/14/vinyl-records-outsell-cds-for-first-time-since-1987/
+2023-03-14 15:03:47 , tech , 為何有經濟壓力也要買名牌？分析非理性購買三大因素 , https://finance.technews.tw/2023/03/14/luxury-shopping-and-income/
+2023-03-14 15:08:31 , tech , 麥可貝瑞：SVB 危機很快就能解除，非真正危險 , https://finance.technews.tw/2023/03/14/michael-burry-thinks-the-svb-crisis-will-be-resolved-soon/
+2023-03-14 15:23:28 , tech , iPad 陷苦戰，日本平板出貨量摔三成、10 年來新低 , https://technews.tw/2023/03/14/tablet-shipments-in-japan-in-2022/
+2023-03-14 15:29:27 , tech , 航海王超狂！長榮決議配發現金股利 70 元、殖利率狂飆 40.9% , https://finance.technews.tw/2023/03/14/super-crazy/
+2023-03-14 15:47:39 , tech , 左欺敵右欺敵，一戰風格狙擊手誘餌於烏俄壕溝戰場再現 , https://technews.tw/2023/03/14/ww1-style-sniper-decoy-appeared-in-ukrainian-trenches/
+2023-03-14 15:49:00 , tech , Microchip 於俄勒岡州投資逾 240 億元，搶補貼也提升三倍產能 , https://technews.tw/2023/03/14/microchip-announces-over-twd-24-billion-investment-in-oregon/
+2023-03-14 15:53:40 , tech , 從沒人看好到全球龍頭：台積電的崛起之路 , https://technews.tw/2023/03/14/from-being-underestimated-to-becoming-a-global-leader-the-rise-of-tsmc/
+2023-03-14 16:00:36 , tech , Microchip 投資俄勒岡州逾 240 億元，搶補貼也提升三倍產能 , https://technews.tw/2023/03/14/microchip-announces-over-twd-24-billion-investment-in-oregon/
+2023-03-14 16:03:09 , tech , 美區域銀行存款外逃、小摩等金融巨頭湧現開戶潮 , https://technews.tw/2023/03/14/large-us-banks-inundated-with-new-depositors-as-smaller-lenders-face-turmoil/
+2023-03-14 16:17:39 , tech , 群聯攜夥伴搶攻 AI 商機，推 NAND 控制 IC 研發共享與 ASIC 設計平台 , https://finance.technews.tw/2023/03/14/phison-launches-nand-control-ic-rd-sharing-and-asic-design-platform/
+2023-03-14 16:32:40 , tech , 首推 AI 篩選全球標的！新光標普電動車 ETF 預計 3/20 開募 , https://finance.technews.tw/2023/03/14/global-target/
+2023-03-14 16:51:39 , tech , 晶片戰爭 , https://www.books.com.tw/exep/assp.php/technews/products/0010949912?sloc=main&utm_source=technews&utm_medium=ap-books&utm_content=recommend&utm_campaign=ap-202303
+2023-03-14 16:59:34 , tech , 「生生有平板 2.0」BYOD 怎麼做？北市志清國小告訴你 , https://technews.tw/2023/03/14/byod-in-taiwan/
+2023-03-14 17:14:30 , tech , 美國矽谷銀行倒閉對台股是轉折點！新光投信董座劉坤錫：觀察兩大指標 , https://finance.technews.tw/2023/03/14/taiwan-stock-turning-point/
+2023-03-14 17:17:30 , tech , 砍掉後又增加，美軍 2024 年要增購 F-15EX , https://technews.tw/2023/03/14/usaf-is-increasing-purchase-of-f15ex-in-2024/
+2023-03-14 17:32:34 , tech , 六角重返榮景大賺 6.56 元！全年配發現金股利 6.3 元 , https://finance.technews.tw/2023/03/14/return-to-prosperity/
+2023-03-14 17:44:32 , tech , 綠界科技下半年配息 10.1 元！預告今年將推「綠界 PAY」 , https://finance.technews.tw/2023/03/14/payment-gateway/
+2023-03-14 17:59:20 , tech , 利多傳聞滿天飛，中芯國際大漲 10% 帶動中國半導體類股上攻 , https://finance.technews.tw/2023/03/14/smic-surges-10-leading-chinese-semiconductor-stocks-to-rally/
+2023-03-14 18:29:32 , tech , 展現「浸沒式冷卻電池」應用優勢，行競科技再拓海外市場 , https://technews.tw/2023/03/14/immersio-battery/
+2023-03-14 18:31:06 , tech , 「生生用平板 2.0」BYOD 怎麼做？北市志清國小告訴你 , https://technews.tw/2023/03/14/byod-in-taiwan/
+2023-03-14 18:38:27 , tech , 耀登通過配發現金股利 3.5 元！今年設備在手訂單達 14 個月 , https://finance.technews.tw/2023/03/14/antennas-and-equipment/
+2023-03-14 18:56:29 , tech , 國巨 2022 年每股賺 44.22 元！董事會通過配發現金股利 10 元 , https://finance.technews.tw/2023/03/14/inventory-adjustment/
+2023-03-14 18:58:01 , tech , 中美晶斥資 5.298 億元，取得盛達電 13.08% 股權 , https://finance.technews.tw/2023/03/14/saswafer-investment-in-capital-of-billion/
+2023-03-14 18:59:32 , tech , 訂閱價格漲兩成，Google Workspace 新定價今日生效 , https://technews.tw/2023/03/14/google-workspace-is-getting-a-price-increase/
+2023-03-14 19:01:03 , tech , 環球晶去年每股純益 35.31 元創新高，預收貨款 397.3 億 , https://finance.technews.tw/2023/03/14/gwc-fr-2022q4/
+2023-03-14 19:05:29 , tech , 和碩擬配息 4 元，車用營收占比兩年內拚一成 , https://finance.technews.tw/2023/03/14/pegatron-fr-2022/
+2023-03-14 19:05:37 , tech , 長榮海運員工酬勞 19.18 億元，「年中」獎金每人再領 11 個月 , https://finance.technews.tw/2023/03/14/evergreen-marine-bonus-11-mons/
+2023-03-14 19:08:43 , tech , 經部擬調漲水價？水利署澄清：短期內尚無調整規劃 , https://finance.technews.tw/2023/03/14/no-water-price-adjustment-in-the-short-term/

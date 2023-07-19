@@ -1,0 +1,82 @@
+2023-02-22 11:25:51 , tech , 2022 年與台積電合作設計解決方案商獲利明顯優於南韓三星 , https://technews.tw/2023/02/22/tsmcs-cooperative-design-solution-provider-is-more-profitable-than-samsung/
+2023-02-22 11:25:51 , tech , 曹世綸：台廠短期內，將最大比率供應鏈留在台灣 , https://technews.tw/2023/02/22/in-the-short-term-taiwanese-factories-will-keep-the-largest-proportion-of-their-supply-chains-in-taiwan/
+2023-02-22 11:25:52 , tech , 經濟學人：台積電正以最糟地緣政治創最大利益 , https://technews.tw/2023/02/22/tsmc-is-using-the-worst-geopolitics-to-maximize-profits/
+2023-02-22 11:25:52 , tech , 世界先進 2022 年 EPS 為 9.32 元，估首季營收再走跌並砍近半支出 , https://technews.tw/2023/02/21/vis-2022-eps-of-nt9-07-per-share/
+2023-02-22 11:25:52 , tech , 工研院攜手立陶宛，六甲設超快雷射研發創新中心 , https://technews.tw/2023/02/22/ultrafast-laser-rd-innovation-center/
+2023-02-22 11:25:53 , tech , 搶鋰搶鎳還不夠，特斯拉再簽下澳洲石墨供應三年包廠訂單 , https://technews.tw/2023/02/22/tesla-magnis-aam-supply/
+2023-02-22 11:25:53 , tech , 立陶宛業者訪台洽談合作，促成 2,588 萬美元商機 , https://technews.tw/2023/02/22/lithuanian-businessmen-visit-taiwan-to-discuss-cooperation/
+2023-02-22 11:25:53 , tech , 搶進中國教育市場！富動科聯手 TPK 發表膽固醇液晶彩色電子紙 , https://technews.tw/2023/02/21/cholesteric-liquid-crystal/
+2023-02-22 11:25:53 , tech , 巴西航空公司「腦洞大開」專利：座椅讀取乘客情緒，然後小電一下 , https://technews.tw/2023/02/22/embraer-airplane-seat-electrify/
+2023-02-22 11:25:54 , tech , 星宇航空辦現金增資，預計募資不超過 50 億元 , https://technews.tw/2023/02/22/cash-capital-increase-starlux/
+2023-02-22 11:25:54 , tech , 微軟簽下十年合約，《決勝時刻》系列在內所有 Xbox 遊戲可在任天堂平台暢玩 , https://technews.tw/2023/02/21/microsoft-and-nintendo-signed-10yrs-contract/
+2023-02-22 11:25:55 , tech , 預期日銀修正寬鬆，日本 10 年債殖利率衝破上限 , https://technews.tw/2023/02/22/japan-10-year-bond-yield-hits-ceiling/
+2023-02-22 11:25:55 , tech , 美國財政部金融犯罪防制署（FinCEN）針對「洗錢」的吹哨者計畫 , https://technews.tw/2023/02/22/fincen-anti-money-laundering/
+2023-02-22 11:25:56 , tech , 景氣回溫、殖利率飆，道瓊瀉、VIX 跳漲 , https://technews.tw/2023/02/22/us-stock-0221/
+2023-02-22 11:25:56 , tech , 金管會示警先買後付風險，業者 3 大機制強化風控 , https://technews.tw/2023/02/22/buy-now-pay-later-risk/
+2023-02-22 11:25:56 , tech , 責備使用者還說我一直是個好 Bing！微軟：特殊案例持續改進中 , https://technews.tw/2023/02/22/some-users-get-rude-responses-or-reprimands-from-bing/
+2023-02-22 11:25:57 , tech , ChatGPT 技術，中國傳播假訊息的新利器？ , https://technews.tw/2023/02/22/chatgpt-china-fake-news/
+2023-02-22 11:25:57 , tech , AR 眼鏡也支援 ChatGPT！Vuzix Ultralite OEM 平台將整合 OpenAI 技術 , https://technews.tw/2023/02/22/vuzix-announces-ultralite-oem-smart-glasses-will-integrate-openai-chatgpt-technology/
+2023-02-22 11:25:57 , tech , 南韓出版社為 ChatGPT 出書，全球首次由 AI 處理出版事宜 , https://technews.tw/2023/02/21/world-first-book-written-by-ai/
+2023-02-22 11:25:58 , tech , 打造全球百萬台體制，豐田傳 2025 年在美生產電動車 , https://technews.tw/2023/02/22/toyota-2025-usa-ev/
+2023-02-22 11:25:59 , tech , 幫企業省錢，經濟低迷更難戒除遠距工作 , https://technews.tw/2023/02/22/remote-work-will-not-back-to-before/
+2023-02-22 11:25:59 , tech , 驅動 IC 負面消息變少逐步觸底，外資對供應商開始積極關注 , https://finance.technews.tw/2023/02/22/drive-ic-negative-news-less-and-gradually-bottoming-out/
+2023-02-22 11:26:00 , tech , 善用「藍燈投資學」進場！法人：台股第一季末價值浮現 , https://finance.technews.tw/2023/02/22/blue-light-investment/
+2023-02-22 11:26:01 , tech , 現代 Ioniq 6 即將開放台灣預購，是最便宜的中型純電轎車 , https://technews.tw/2023/02/22/hyundai-ioniq-6-taiwan-preorder/
+2023-02-22 11:26:02 , tech , 其他版本打不過就刪了它？「憤怒鳥」開發商將下架經典版 , https://ccc.technews.tw/2023/02/22/angry-birds-2/
+2023-02-22 11:26:02 , tech , 沃爾瑪 Q4 業績優但看淡本年度前景，股價僅漲 0.6% , https://finance.technews.tw/2023/02/22/walmart-financial-reporting-stock-price/
+2023-02-22 11:26:03 , tech , 中芯國際低價搶市又持續大規模投資，外資指獲利能力將放緩 , https://finance.technews.tw/2023/02/22/foreign-capital-is-bearish-on-smic/
+2023-02-22 11:26:04 , tech , 日京瓷：中國已不再是世界工廠 , https://technews.tw/2023/02/22/kyocera/
+2023-02-22 11:26:06 , tech , 洗錢 , https://www.acams.org/zh-hant/%E5%9F%B9%E8%A8%93/%E5%B0%88%E9%A1%8C%E8%AD%89%E6%9B%B8/%E5%8F%8D%E6%B4%97%E9%8C%A2%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%89%87%E8%AA%B2%E7%A8%8B
+2023-02-22 11:26:06 , tech , Anti-Money Laundering Act of 2020 , https://www.fincen.gov/anti-money-laundering-act-2020
+2023-02-22 11:26:06 , tech , FinCEN , https://zh.wikipedia.org/zh-tw/%E9%87%91%E8%9E%8D%E7%8A%AF%E7%BD%AA%E6%89%A7%E6%B3%95%E5%B1%80
+2023-02-22 11:26:08 , tech , 新型防冰瀝青環境危害低，鋪一層可持續融化道路積雪 8 年 , https://technews.tw/2023/02/22/asphalt-road-chloride-salt-ice/
+2023-02-22 11:30:41 , tech , 真正作家備感威脅，ChatGPT 生成書開始攻占亞馬遜網站 , https://technews.tw/2023/02/22/amazon-chatgpt-2/
+2023-02-22 11:33:39 , tech , Coinbase Q4 虧損但優於預期，未來面臨監管阻力 , https://finance.technews.tw/2023/02/22/coinbase-q4-financial-reporting/
+2023-02-22 11:48:38 , tech , 高盛：今年 Fed 可能再升 3 次息，經濟衰退機率低 , https://finance.technews.tw/2023/02/22/fed-likely-to-raise-interest-rates-three-more-times-this-year/
+2023-02-22 12:18:42 , tech , 真正作家備感威脅，ChatGPT 寫書開始攻占亞馬遜網站 , https://technews.tw/2023/02/22/amazon-chatgpt-2/
+2023-02-22 12:33:41 , tech , 余承東重申華為不造車，「問界」是華為生態汽車 , https://technews.tw/2023/02/22/huawei-do-not-build-car/
+2023-02-22 12:45:40 , tech , Rapidus 晶片廠傳落腳北海道，總投資額逾 5 兆日圓 , https://technews.tw/2023/02/22/rapidus-hokkaido/
+2023-02-22 12:45:41 , tech , 通膨時代政府救濟，北京、新加坡都開始發錢 , https://technews.tw/2023/02/22/government-money-to-help-in-live-cost-crisis/
+2023-02-22 12:57:42 , tech , 不願重回辦公室！近 1.4 萬名亞馬遜員工擬請願書，求賈西三思 , https://finance.technews.tw/2023/02/22/amazon-back-to-office/
+2023-02-22 12:57:42 , tech , 福特怪罪電池不良 SK On 不認，韓媒：雙方互槓中 , https://technews.tw/2023/02/22/ford-and-sk-on-in-dispute-over-f150-lighting-production-halt/
+2023-02-22 13:18:37 , tech , 工研院外送機器人攜手 7-11 自 3 月起高軟園區試營運 , https://technews.tw/2023/02/22/delivery-robot-of-itri/
+2023-02-22 13:30:40 , tech , 台泥五大布局全方位 EV 低碳城市！為 2025 年南歐一萬座充電樁示範 , https://finance.technews.tw/2023/02/22/ev-low-carbon/
+2023-02-22 13:39:39 , tech , 英國量子電腦新創獲 15 億資金挹注，加速開發量子處理器 , https://technews.tw/2023/02/22/quantum-motion-raises-42-million-investment-round-led-by-bosch-ventures/
+2023-02-22 13:45:39 , tech , 稀土不再是中國殺手鐧，日本建立繞過中國廠商之新稀土供應鏈 , https://finance.technews.tw/2023/02/22/japan-builds-new-rare-earth-supply-chain-that-bypasses-chinese-manufacturers/
+2023-02-22 14:06:38 , tech , 中國催生政策要求大膽創新，紐時：催生無效看瑞典就知道 , https://technews.tw/2023/02/22/encouraging-birth-rate-usually-get-nothing/
+2023-02-22 14:06:39 , tech , 中廠 OLED 技術緊追，韓重蹈 LCD 市場失霸主覆轍？ , https://technews.tw/2023/02/22/chinese-companies-share-rising-in-oled-display-market/
+2023-02-22 14:24:41 , tech , 「無法控制」順手牽羊，日本發現竊盜癖大腦活動與毒癮者類似 , https://technews.tw/2023/02/22/kleptomaniacs/
+2023-02-22 14:36:39 , tech , 中國鋰價 3 個月摔 3 成？歐美僅跌 10%，美鋰礦股遭錯殺 , https://technews.tw/2023/02/22/chinese-lithium-prices-fall-30-percent-as-demand-for-electric-vehicles-weakens/
+2023-02-22 14:42:37 , tech , 守基地專武，美軍在敘利亞使用先進迫擊砲系統 , https://technews.tw/2023/02/22/us-spec-ops-used-xm905-mortar-in-syria/
+2023-02-22 14:42:37 , tech , 保時捷旗艦純電休旅 Cayenne 可能在 2026 年亮相 , https://technews.tw/2023/02/22/porsche-cayenne-ev/
+2023-02-22 14:42:38 , tech , 這不是迪斯可球，Wilson 新款籃球無需充氣、永遠飽滿 , https://technews.tw/2023/02/22/basketball-3d-printed-wilson-airless/
+2023-02-22 14:48:40 , tech , 擴大健康研究，蘋果推出 Apple Watch 研究者計畫 , https://technews.tw/2023/02/22/apple-watch-investigator-support-program/
+2023-02-22 15:06:38 , tech , Micro LED 若要導入 Apple Watch，成本必須壓到多低？ , https://technews.tw/2023/02/22/apple-watch-micro-led-2/
+2023-02-22 15:12:44 , tech , 還沒有國家宣布移交，黑鷹直升機默默出現在烏克蘭軍方照片 , https://technews.tw/2023/02/22/blackhawks-appeared-in-ukrainian-intelligence-forces/
+2023-02-22 15:12:45 , tech , 快來測你是哪種駕駛？國泰產險「虛擬駕訓班」教騎車零事故 , https://finance.technews.tw/2023/02/22/virtual-driving-class/
+2023-02-22 15:12:45 , tech , 零事故研究所網站 , https://carrisk.cathay-ins.com.tw/driving-class#/?utm_source=NewstoCarrisk_20221222&utm_medium=NewstoCarrisk_20221222&utm_campaign=promo&utm_content=NewstoCarrisk_20221222
+2023-02-22 15:12:46 , tech , Nothing 宣布釋出「迄今最重要更新」，並支援 Android 13 , https://technews.tw/2023/02/22/nothing-os-1-5/
+2023-02-22 15:36:41 , tech , 新詐騙誕生，生成式 AI 技術將加速新型詐騙萌芽 , https://technews.tw/2023/02/22/gogolook-ai-generated-content/
+2023-02-22 15:36:41 , tech , 蓋茲：AI 將威脅 Google，攪亂亞馬遜、微軟、蘋果市場 , https://technews.tw/2023/02/22/ai-bill-gates/
+2023-02-22 15:36:45 , tech , 保時捷旗艦純電休旅 Cayenne 可能 2026 年亮相 , https://technews.tw/2023/02/22/porsche-cayenne-ev/
+2023-02-22 15:36:46 , tech , 中國鋰價 3 個月摔三成？歐美僅跌 10%，美鋰礦股遭錯殺 , https://technews.tw/2023/02/22/chinese-lithium-prices-fall-30-percent-as-demand-for-electric-vehicles-weakens/
+2023-02-22 15:48:38 , tech , 三星、LG 踢走京東方，奪蘋果 iPad Pro OLED 螢幕訂單 , https://technews.tw/2023/02/22/samsung-lg-ditch-boe-in-likely-apple-deal-for-ipad-pro-oled-panels/
+2023-02-22 15:48:40 , tech , 還沒有國家宣布移交，黑鷹直升機默默現身烏克蘭軍方照片 , https://technews.tw/2023/02/22/blackhawks-appeared-in-ukrainian-intelligence-forces/
+2023-02-22 15:54:40 , tech , 引進三菱重工空調拚前四大品牌！上洋專案空調打進全台超商通路 , https://finance.technews.tw/2023/02/22/agent-sales/
+2023-02-22 16:03:39 , tech , Gogolook：每月逾 2 千詐騙網域誕生，假投資佔近 6 成 , https://technews.tw/2023/02/22/gogolook-watchmen/
+2023-02-22 16:06:43 , tech , 亞泰金屬新廠落成下半年投產！訂單能見度看到 2024 上半年 , https://finance.technews.tw/2023/02/22/higher-order-impregnation/
+2023-02-22 16:30:40 , tech , 葡萄王 2022 年每股賺 9.84 元！決議每股配發現金股利 6.9 元 , https://finance.technews.tw/2023/02/22/highest-dividend-record/
+2023-02-22 16:36:37 , tech , IBM 報告指量子運算技術將威脅加密技術 , https://technews.tw/2023/01/24/ibm-quantum-computing-poses-an-existential-threat-to-data-encryption/
+2023-02-22 16:36:39 , tech , Gogolook：每月逾 2 千詐騙網域誕生，假投資佔近六成 , https://technews.tw/2023/02/22/gogolook-watchmen/
+2023-02-22 16:51:38 , tech , 馬斯克去年宣布裁員完成，結果今年繼續解雇 Twitter 員工 , https://technews.tw/2023/02/22/elon-musk-twitter-laying-off/
+2023-02-22 16:57:41 , tech , 宏大拉鍊砸 7 億元蓋楊梅新廠！明年第三季投產拚增 5% 毛利 , https://finance.technews.tw/2023/02/22/zipper/
+2023-02-22 16:57:42 , tech , 馬斯克去年宣布裁員完成，結果今年繼續解僱 Twitter 員工 , https://technews.tw/2023/02/22/elon-musk-twitter-laying-off/
+2023-02-22 17:54:38 , tech , 邁向國際舞台，格斯科技以「鈦酸鋰」電池芯技術闖出一片天 , https://technews.tw/2023/02/22/gus-battery/
+2023-02-22 17:54:38 , tech , 義隆電 2022 年每股賺 7.56 元！葉儀皓：NB 品牌客戶開始拉貨 , https://finance.technews.tw/2023/02/22/nb-brand/
+2023-02-22 18:21:38 , tech , 外商熱中投資半導體，歐洲商會調查人才需求龐大 , https://technews.tw/2023/02/22/foreign-investors-keen-to-invest-in-semiconductors/
+2023-02-22 18:21:38 , tech , 南亞科決議配發現金股利 2.13 元，強調無裁員計畫且持續需求徵才 , https://finance.technews.tw/2023/02/22/nanya-branch-decided-to-distribute-a-cash-dividend-of-2-13-yuan/
+2023-02-22 18:21:39 , tech , 中國打壓不意外，嚴禁科技巨頭提供 ChatGPT 服務 , https://technews.tw/2023/02/22/regulators-have-told-major-chinese-tech-companies-not-to-offer-chatgpt-services/
+2023-02-22 18:45:37 , tech , 采鈺首季營收估季減 2 位數百分比，第二季有望回升 , https://finance.technews.tw/2023/02/22/visera-fr-2022/
+2023-02-22 18:45:38 , tech , NCC 通過接續費調降案，手機打市話有望更便宜 , https://finance.technews.tw/2023/02/22/ncc-cellphone-call-telephone/
+2023-02-22 19:00:37 , tech , 緯穎 2022 年每股 EPS 達 81.07 元創新高，決議擬分配現金股利 50 元 , https://finance.technews.tw/2023/02/22/wiwynns-2022-eps-reaches-nt81-07-per-share/
+2023-02-22 19:00:37 , tech , 今年 Touch Taiwan 展，富采將秀 Micro LED 量產實力 , https://technews.tw/2023/02/22/ennostar-touch-taiwan/

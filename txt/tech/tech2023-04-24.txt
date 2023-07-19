@@ -1,0 +1,68 @@
+2023-04-24 08:47:13 , tech , Google 為了追上 ChatGPT 降低道德底線，還能說「不作惡」嗎？ , https://technews.tw/2023/04/24/google-lowers-the-moral-line-in-order-to-surpass-chatgpt/
+2023-04-24 08:48:44 , tech , 不只 2 奈米，日 Rapidus：要興建 1 奈米等級晶片廠 , https://technews.tw/2023/04/24/rapidus-1-nm/
+2023-04-24 08:50:16 , tech , 高階 IT 面板推廣卡關，為何 Mini LED 發展不如預期？ , https://technews.tw/2023/04/24/apple-mini-led-ipad/
+2023-04-24 08:51:48 , tech , 廢水抓病毒也可抓毒蟲，加州馬林郡測試檢驗廢水的毒品含量 , https://technews.tw/2023/04/24/california-county-starts-monitoring-wastewater-for-illicit-drugs/
+2023-04-24 08:53:10 , tech , 一年加薪幅度快抵 30 年總和！日本不再是薪資凍漲地獄？ , https://finance.technews.tw/2023/04/24/after-decades-of-stagnation-wages-in-japan-are-finally-rising/
+2023-04-24 08:54:42 , tech , 麥當勞、全家也用它的蛋！屏東大武山牧場的蛋荒突圍戰：如何從慘賠翻身雞蛋前三大供應商？ , https://finance.technews.tw/2023/04/24/story-of-dawushan/
+2023-04-24 08:56:04 , tech , 2023 年全球 CIS 市場規模有望重回成長，車用將成為主要成長動能 , https://technews.tw/2023/04/24/cis-market-2023/
+2023-04-24 08:57:35 , tech , 錢德拉望遠鏡發現「行星的新危險」，別擔心！地球現在算安全 , https://technews.tw/2023/04/24/new-stellar-danger-to-planets-identified-by-nasas-chandra/
+2023-04-24 08:58:47 , tech , AT＆T 積極佈建光纖，降低美國偏遠地區數位落差 , https://technews.tw/2023/04/24/usa-digital-divide-bead/
+2023-04-24 09:14:21 , tech , 聯準會傳聲筒：美國銀行業混亂局面尚未結束 , https://finance.technews.tw/2023/04/24/americas-banking-chaos-isnt-over/
+2023-04-24 09:15:43 , tech , Arm 計畫自行生產晶片遭質疑中立性，恐衝擊聯發科等廠商 , https://technews.tw/2023/04/24/arm-plans-to-produce-its-own-chips/
+2023-04-24 09:17:20 , tech , 一旦美光被中國限制銷售，美國要求南韓別填補市場缺口 , https://technews.tw/2023/04/24/u-s-asks-south-korea-not-to-fill-market-gap/
+2023-04-24 09:44:34 , tech , 容量高達 272MW，全台最大太陽光電島正式啟用 , https://technews.tw/2023/04/24/272mw-vena-energy/
+2023-04-24 09:45:56 , tech , 電漿技術解決缺「氮」問題，永續農業兼顧減碳環保（應用篇） , https://technews.tw/2023/04/24/plasma-technology-solves-the-problem-of-nitrogen-deficiency-sustainable-agriculture-carbon-reduction-and-environmental-protection-application/
+2023-04-24 09:47:07 , tech , HPE 發表下一代的資料儲存伺服器 HPE Alletra 4000 , https://technews.tw/2023/04/24/hpe-alletra-4000/
+2023-04-24 09:48:19 , tech , 探索大氣電漿的神秘世界，隱藏在高科技背後的電漿技術（原理篇） , https://technews.tw/2023/04/24/exploring-the-mystery-of-atmospheric-plasma-hidden-behind-technology-principle/
+2023-04-24 09:52:34 , tech , Arm 計劃自行生產晶片遭質疑中立性，恐衝擊聯發科等廠商 , https://technews.tw/2023/04/24/arm-plans-to-produce-its-own-chips/
+2023-04-24 10:18:00 , tech , 特斯拉考慮「零利潤」策略，希望靠無人駕駛賺回來 , https://technews.tw/2023/04/24/musk-zero-margin-bet-self-driving-car/
+2023-04-24 10:18:21 , tech , 亞馬遜夯，科技財報前那指揚！台積 ADR 挫 , https://technews.tw/2023/04/24/us-stock-0421/
+2023-04-24 10:20:33 , tech , 傳蘋果 AR/VR 頭盔需外掛電池才能運作，長得像 MagSafe 行動電源 , https://technews.tw/2023/04/24/apple-arvr-magsafe-apple-reality-pro/
+2023-04-24 10:22:05 , tech , 幣圈業者：漸進式納管樂見其成，若大刀闊斧無所適從 , https://technews.tw/2023/04/24/virtual-currency-progressive-manage-taiwan/
+2023-04-24 10:23:28 , tech , 鴻海旗下鴻騰砸逾 7 億印度建廠，生產基地拚多元化 , https://technews.tw/2023/04/24/foxconn-fit-india/
+2023-04-24 10:59:34 , tech , 掰掰了，iPadOS 17 可能拋棄 3 款 iPad , https://technews.tw/2023/04/24/ipados-17/
+2023-04-24 11:00:25 , tech , iPadOS , https://technews.tw/category/software-and-system/ipados/
+2023-04-24 11:01:06 , tech , IC 設計法說會接連登場，關注三大重點 , https://technews.tw/2023/04/24/ic-design-law-meeting-is-coming/
+2023-04-24 11:06:14 , tech , 從被駕駛丟錢羞辱到年營收超過 30 億、股價破百！他花了 28 年打敗嘟嘟房成為停車龍頭 , https://finance.technews.tw/2023/04/17/story-of-pss-group/
+2023-04-24 11:35:33 , tech , 蘋果「尋找」設備文件出現 3 款尚未推出 Mac 機款 , https://technews.tw/2023/04/24/mac-find-my-configuration-file/
+2023-04-24 11:36:55 , tech , 美國賣武器，中國賣作戰無人機 , https://technews.tw/2023/04/24/china-become-the-largest-country-to-sell-drones/
+2023-04-24 11:38:16 , tech , 碳費徵收規劃中，環保署：初期為年碳排 2.5 萬噸電力、製造業 , https://technews.tw/2023/04/24/carbon-fee-plan/
+2023-04-24 11:39:48 , tech , 上季全球新誕生獨角獸銳減至去年同期 1/10，AI 企業最多 , https://technews.tw/2023/04/24/unicorn-ai-2023q1/
+2023-04-24 12:08:34 , tech , 股價腰斬使特斯拉投資人不耐煩馬斯克不專心，希望能再找人替代 , https://technews.tw/2023/04/24/tesla-investors-are-impatient-with-musks-inattention/
+2023-04-24 12:10:06 , tech , 零股領取攻略！卡娜赫拉保鮮盒、傘 Ｑ 超人氣股東會紀念品一次看 , https://finance.technews.tw/2023/04/24/crisper/
+2023-04-24 12:15:53 , tech , 上季全球新誕生獨角獸銳減至去年同期 10%，AI 企業最多 , https://technews.tw/2023/04/24/unicorn-ai-2023q1/
+2023-04-24 12:20:40 , tech , 澳紐地案量提升！北富銀獲金管會同意申設「澳洲雪梨分行」 , https://finance.technews.tw/2023/04/24/australia-sydney-branch/
+2023-04-24 12:22:12 , tech , 股價腰斬使特斯拉投資人不耐煩馬斯克不專心，希望找人替代 , https://technews.tw/2023/04/24/tesla-investors-are-impatient-with-musks-inattention/
+2023-04-24 12:39:27 , tech , 傳蘋果 AR / VR 頭盔需外掛電池才能運作，長得像 MagSafe 行動電源 , https://technews.tw/2023/04/24/apple-arvr-magsafe-apple-reality-pro/
+2023-04-24 12:43:32 , tech , 特斯拉考慮「零利潤」策略，希望靠自動駕駛賺回來 , https://finance.technews.tw/2023/04/24/musk-zero-margin-bet-self-driving-car/
+2023-04-24 12:56:41 , tech , 網紅經濟過度集中，投銀：內容經濟不會創造中產階級 , https://technews.tw/2023/04/24/digital-content-market-can-not-produce-middle-class/
+2023-04-24 12:58:13 , tech , 力拚 AI 競賽出線，Google 合併 DeepMind、Brain 兩大 AI 團隊 , https://technews.tw/2023/04/24/google-combines-brain-and-deepmind-into-one-team/
+2023-04-24 12:59:36 , tech , 標普 500 近二成公布首季財報，76% 盈餘勝預期 , https://finance.technews.tw/2023/04/24/76percent-of-sp-500-companies-earnings-beat-expectations/
+2023-04-24 13:00:57 , tech , 撰文指出 , https://advantage.factset.com/hubfs/Website/Resources%20Section/Research%20Desk/Earnings%20Insight/EarningsInsight_042123.pdf
+2023-04-24 13:35:30 , tech , 標普 500 近兩成已公布首季財報，76% 盈餘勝預期 , https://finance.technews.tw/2023/04/24/76percent-of-sp-500-companies-earnings-beat-expectations/
+2023-04-24 13:41:24 , tech , 中國經濟不是看消費，市場：下半年動能將減弱 , https://technews.tw/2023/04/24/china-economy-weaker-in-second-half-in-2023/
+2023-04-24 14:14:38 , tech , 升息有望進入末升段！國泰推最新三年到期全球投資等級債基金 , https://finance.technews.tw/2023/04/24/global-investment-grade-debt/
+2023-04-24 14:26:34 , tech , Gogoro 海外新據點，今年第四季將在菲律賓開賣 , https://technews.tw/2023/04/24/gogoro-philippine-2023-q4/
+2023-04-24 15:05:43 , tech , 伺服器 DDR5 RDIMM 傳 PMIC 問題供給受限，第二季 DDR5 伺服器 DRAM 價格跌幅收斂 , https://finance.technews.tw/2023/04/24/server-ddr5-rdimm-pmic/
+2023-04-24 15:20:30 , tech , 日本黃金週飯店房價飆，逾六成漲 50% 以上 , https://finance.technews.tw/2023/04/24/japan-gw-hotel-room-prices-rose-by-more-than-50percent/
+2023-04-24 15:48:08 , tech , Arm 自行生產晶片將由英特爾操刀，最快在 2025 年後問世 , https://technews.tw/2023/04/24/arms-own-chips-will-be-produced-by-intel/
+2023-04-24 15:48:38 , tech , 若美光遭中國限制銷售，美國要求南韓勿填補市場缺口 , https://technews.tw/2023/04/24/u-s-asks-south-korea-not-to-fill-market-gap/
+2023-04-24 15:51:01 , tech , 康霈新藥改善中重度橘皮組織二期臨床！預計年底完成試驗 , https://technews.tw/2023/04/24/cellulite/
+2023-04-24 15:51:12 , tech , 比特幣受惠？舉債上限近，美國違約保險成本激增 , https://technews.tw/2023/04/24/us-debt-ceiling-is-approaching-will-bitcoin-benefit/
+2023-04-24 15:53:34 , tech , 證交所：碳權交易所最快 7 月成立，先買賣國外標的 , https://finance.technews.tw/2023/04/24/the-carbon-rights-exchange-will-be-established-in-july-at-the-earliest/
+2023-04-24 15:55:06 , tech , Arm 自產晶片由英特爾操刀，最快 2025 年後問世 , https://technews.tw/2023/04/24/arms-own-chips-will-be-produced-by-intel/
+2023-04-24 16:05:24 , tech , 期待 iOS 17 開放側載？抱歉，可能僅限歐洲用戶 , https://technews.tw/2023/04/24/ios-17-side-loading/
+2023-04-24 16:06:56 , tech , 分析愛因斯坦環，發現波狀暗物質行為更像波而非粒子 , https://technews.tw/2023/04/24/einstein-ring-axion-dark-matter-hs-08102554/
+2023-04-24 16:20:17 , tech , 重回白名單，南韓恢復日本貿易優惠國待遇 , https://technews.tw/2023/04/24/south-korea-officially-reinstates-japans-trade-whitelist/
+2023-04-24 16:21:48 , tech , 大啖水力發電商機！大同聯手日本工營製造橫式同步發電機 , https://finance.technews.tw/2023/04/24/japanese-labor-camp/
+2023-04-24 16:41:27 , tech , 試駕 Mercedes-AMG C43，車載電腦真的變聰明了 , https://technews.tw/2023/04/24/amg-c43-car-system-review/
+2023-04-24 17:14:24 , tech , 試駕 Mercedes-AMG C43，MBUX 車載電腦真的變聰明了 , https://technews.tw/2023/04/24/amg-c43-car-system-review/
+2023-04-24 17:29:20 , tech , 益得複方氣喘藥在台上市！攜手英濟布局全球吸入劑市場 , https://finance.technews.tw/2023/04/24/symbicort/
+2023-04-24 18:08:40 , tech , 寬量點名台灣四大產業起飛！谷月涵看台股有機會跌破 12629 低點 , https://finance.technews.tw/2023/04/24/qic/
+2023-04-24 18:10:12 , tech , 企業可減少採購電腦設備？微軟提出雲端電腦新方案 , https://technews.tw/2023/04/24/windows-365-frontline-available-in-public-preview/
+2023-04-24 18:11:32 , tech , AI 公司收集 Reddit 內容將要付費，CEO：沒必要免費送資料給大公司 , https://technews.tw/2023/04/24/reddit-wants-to-get-paid-for-helping-to-teach-big-a-i-systems/
+2023-04-24 18:12:54 , tech , 發現 , https://www.reddit.com/user/akhudek/
+2023-04-24 18:13:25 , tech , 杜絕山老鼠，「化學指紋」有助辨識樹木原產地 , https://technews.tw/2023/04/24/wood-illegal-trade/
+2023-04-24 18:32:34 , tech , 北極冰下藻類被嚴重污染，微塑膠濃度是周圍海水 10 倍 , https://technews.tw/2023/04/24/melosira-arctica-arctic-ocean-microplastic/
+2023-04-24 19:14:37 , tech , 台積電 4 月調薪幅度，回歸往年平均 3%~5% 水準 , https://finance.technews.tw/2023/04/24/tsmc-salary-up/
+2023-04-24 22:02:39 , tech , 實踐減碳目標，伊萊克斯鼓勵兒童採永續飲食 , https://technews.tw/2023/04/24/electrolux-esg/

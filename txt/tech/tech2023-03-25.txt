@@ -1,0 +1,58 @@
+2023-03-25 00:29:28 , tech , 科學家狂想？嚴酷行星的晨昏交界處可能有生命 , https://technews.tw/2023/03/25/terminator-zones-on-harsh-planets-may-sustain-life-in-an-endless-twilight/
+2023-03-25 07:23:26 , tech , 用想的就好，澳洲開發機器狗腦波控制技術 , https://technews.tw/2023/03/25/australian-army-developed-brain-control-tech-for-robot-dogs/
+2023-03-25 07:53:37 , tech , 全球電動車市場快速成長下，伴隨各種資安風險 , https://technews.tw/2023/03/25/electric-car-market-information-security-risk/
+2023-03-25 08:14:37 , tech , 友達拚轉型三家公司最關鍵，彭双浪：2025 年非面板營收超過二成 , https://finance.technews.tw/2023/03/25/the-three-most-critical-companies-for-auos-transformation/
+2023-03-25 08:16:08 , tech , 高盛研究用生成式 AI 工具協助系統開發 , https://technews.tw/2023/03/25/goldman-sachs-experiments-with-chatgpt-like-ai-to-help-devs-write-code/
+2023-03-25 08:32:25 , tech , 網友產生川普被捕圖瘋傳，Midjourney 暫停其使用權限 , https://technews.tw/2023/03/25/midjourney-eliot-higgins/
+2023-03-25 08:33:56 , tech , 全球僅 1,002 人獲頭銜，台灣就有 14 位！揭密 Google 最神祕專家計畫「開發者專家群」 , https://technews.tw/2023/03/25/google-developer-experts-plan/
+2023-03-25 08:44:44 , tech , 台灣產業無懼「去台化」，半導體帶頭衝開創全球大國民格局 , https://finance.technews.tw/2023/03/25/tw-semiconductor-industry-globalization-again/
+2023-03-25 08:59:39 , tech , 貝佐斯親自提案 Alexa、無人超市都被裁，為何驚世創意行不通？ , https://finance.technews.tw/2023/03/25/amazons-post-bezos-experiment-hasnt-gone-exactly-as-planned/
+2023-03-25 09:05:38 , tech , Polestar 2 擊敗特斯拉 Model 3/Y，成為德國最受歡迎公司車 , https://technews.tw/2023/03/25/polestar2-popular-in-german/
+2023-03-25 09:07:10 , tech , 台積電總裁魏哲家獲 400 張限制股票，市值 2.156 億元 , https://finance.technews.tw/2023/03/25/tsmc-restricts-employees-rights-in-2022-and-allots-new-shares/
+2023-03-25 09:08:41 , tech , 高雄 3/30 起水情橙燈，科學園區總量管制節水 10% , https://technews.tw/2023/03/25/kaohsiung-water-supply-reduction/
+2023-03-25 09:26:51 , tech , Blue Origin 公布去年 9 月火箭事故調查結果，預計今年底前恢復飛行 , https://technews.tw/2023/03/25/blue-origin-jeff-bezos-rocket-new-shepard-ns-23/
+2023-03-25 09:28:13 , tech , 美記者獲准參訪台積電，盛讚半導體技術達神境界 , https://technews.tw/2023/03/25/virginia-heffernan-tsmc/
+2023-03-25 09:51:15 , tech , 台銀 3/27 起 1 年期定儲機動利率 1.59%，創逾 14 年新高 , https://technews.tw/2023/03/25/bot-raise-the-deposit-rate/
+2023-03-25 09:53:37 , tech , 華府制裁使中國不僅取得晶片難，登月計畫也受挫 , https://technews.tw/2023/03/25/us-tech-rules-bar-uae-moon-rover-from-chinas-change-7-mission-sources/
+2023-03-25 09:55:09 , tech , 英特爾聯合創辨人，摩爾定律發明人 Gordon Moore 辭世，享耆壽 94 歲 , https://technews.tw/2023/03/25/gordon-moore-inventor-of-moores-law-dies/
+2023-03-25 10:08:47 , tech , 生產移出中國，傳蘋果供應商和碩將在印度設第 2 廠 , https://technews.tw/2023/03/25/apple-inc-supplier-pegatron-in-talks-to-open-second-india-factory/
+2023-03-25 10:17:24 , tech , 生產移出中國，傳蘋果供應商和碩將在印度設第二廠 , https://technews.tw/2023/03/25/apple-inc-supplier-pegatron-in-talks-to-open-second-india-factory/
+2023-03-25 10:37:08 , tech , 英特爾摩爾定律發明人 Gordon Moore 辭世，享耆壽 94 歲 , https://technews.tw/2023/03/25/gordon-moore-inventor-of-moores-law-dies/
+2023-03-25 10:44:37 , tech , 污水處理不再昂貴困難，以木材輕鬆去除 80% 染料有毒物 , https://technews.tw/2023/03/25/wood-derived-powder/
+2023-03-25 10:45:58 , tech , 郭明錤：AirPods Pro 2 將推 USB-C 版，平價版似乎暫沒計畫 , https://ccc.technews.tw/2023/03/25/airpods-pro-2-with-usb-c-port/
+2023-03-25 10:47:29 , tech , 全台第 3 座離岸風場啟動，海能風場 376MW 全數完工併聯 , https://technews.tw/2023/03/25/376mw-offshore-wind/
+2023-03-25 10:48:50 , tech , 美國最新研究發現！阿茲海默症早期徵兆可能在眼睛裡 , https://technews.tw/2023/03/25/alzheimers-first-signs/
+2023-03-25 10:50:22 , tech , 恐慌蔓延慘遭殃及，分析師強調：德意志銀行不是下個瑞士信貸 , https://finance.technews.tw/2023/03/25/deutsche-bank-is-not-the-next-credit-suisse/
+2023-03-25 11:32:50 , tech , IBM 加拿大投資做為第一步，美加計劃發展「雙邊半導體走道」 , https://technews.tw/2023/03/25/us-canada-plan-north-american-chip-corridor/
+2023-03-25 11:34:21 , tech , 退休年齡延至 64 歲，引發法國百萬人上街抗議 , https://technews.tw/2023/03/25/france-retire-age/
+2023-03-25 11:47:48 , tech , 下一隻汽車共享獨角獸 Turo，去年營收成長 59% 營收突破 7 億美元 , https://finance.technews.tw/2023/03/25/turo-prepare-ipo/
+2023-03-25 11:49:19 , tech , 別偷 AirPods 耳機，它基本上就是個 AirTag , https://ccc.technews.tw/2023/03/25/find-my-airpods-2/
+2023-03-25 11:50:51 , tech , IBM 加拿大投資為第一步，美加計劃發展「雙邊半導體走道」 , https://technews.tw/2023/03/25/us-canada-plan-north-american-chip-corridor/
+2023-03-25 12:08:35 , tech , 全台第三座離岸風場啟動，海能風場 376MW 全數完工併聯 , https://technews.tw/2023/03/25/376mw-offshore-wind/
+2023-03-25 12:14:47 , tech , 全球風電新增裝置容量降至 86GW！彭博：金風科技取代維斯塔斯奪冠 , https://finance.technews.tw/2023/03/25/metcalfe/
+2023-03-25 12:44:53 , tech , 瓶裝水是暴利，且加劇缺水與氣候危機 , https://technews.tw/2023/03/25/bottled-water-problem/
+2023-03-25 12:46:14 , tech , 摩爾辭世，張忠謀：半導體第一代共同奮鬥朋友所剩無幾 , https://technews.tw/2023/03/25/morris-chang-gordon-moore-condolences/
+2023-03-25 13:35:47 , tech , 退休年齡延至 64 歲，法國百萬人上街抗議 , https://technews.tw/2023/03/25/france-retire-age/
+2023-03-25 13:41:44 , tech , 不滿 64 才能退休，法國百萬人上街抗爭 , https://technews.tw/2023/03/25/france-retire-age/
+2023-03-25 13:44:54 , tech , 美斷供「晶片之母」後突圍！華為：完成 14 奈米以上 EDA 工具國產化 , https://technews.tw/2023/03/25/huawei-develops-design-tools-for-14nm-chips/
+2023-03-25 14:07:01 , tech , 別偷 AirPods 耳機，它基本上就是 AirTag , https://ccc.technews.tw/2023/03/25/find-my-airpods-2/
+2023-03-25 14:10:03 , tech , 不滿 64 歲才能退休，法國百萬人上街抗爭 , https://technews.tw/2023/03/25/france-retire-age/
+2023-03-25 14:35:36 , tech , 石油開採誘惑太大，氣候友善國挪威重金投資離岸油田 , https://technews.tw/2023/03/25/norway-invest-huge-in-sea-oil-industry/
+2023-03-25 14:36:48 , tech , 台積電 2023 年半導體品牌價值緊咬英特爾，還獲得 AA+ 評價等級 , https://technews.tw/2023/03/25/tsmcs-semiconductor-brand-value-in-2023-is-only-behind-intel/
+2023-03-25 14:38:19 , tech , 新能源車零件成長！和勤精機配發現金股利 0.2 元、股票股利 0.05 元 , https://finance.technews.tw/2023/03/25/car-parts/
+2023-03-25 14:59:48 , tech , 敘利亞民兵三度攻擊美軍基地造成一死六傷，拜登下令 F-15E 轟炸報復 , https://technews.tw/2023/03/25/us-send-f-15e-to-strike-back-syrian-militia-bases/
+2023-03-25 15:01:20 , tech , 力拼台積電，三星積極布局發展先進異質整合半導體封裝技術 , https://technews.tw/2023/03/25/samsung-actively-deploys-advanced-semiconductor-packaging-technology/
+2023-03-25 15:02:45 , tech , K&S 盼下半年到年底前出現「U 型反轉」，繼續走長期策略 , https://technews.tw/2023/03/25/ks-aja/
+2023-03-25 15:02:52 , tech , 庫克訪中國直營店，卻被小米 13 搶盡風頭 , https://ccc.technews.tw/2023/03/25/tim-cook-taking-photo-with-xiaomi-13/
+2023-03-25 15:11:42 , tech , 力拚台積電，三星積極布局發展先進異質整合半導體封裝技術 , https://technews.tw/2023/03/25/samsung-actively-deploys-advanced-semiconductor-packaging-technology/
+2023-03-25 15:43:24 , tech , 英特爾聯合創辨人、摩爾定律發明人 Gordon Moore 辭世，享耆壽 94 歲 , https://technews.tw/2023/03/25/gordon-moore-inventor-of-moores-law-dies/
+2023-03-25 15:50:44 , tech , Polestar 2 擊敗特斯拉 Model 3 / Y，成德國最受歡迎公司車 , https://technews.tw/2023/03/25/polestar2-popular-in-german/
+2023-03-25 15:53:47 , tech , 蘇姿丰：人工智慧是未來 10 年最重要的事，釋放更多算力還需更多努力 , https://technews.tw/2023/03/25/artificial-intelligence-is-the-most-important-thing-in-the-next-10-years/
+2023-03-25 15:55:18 , tech , 摩爾勾勒半導體升級標竿，專家：3 大方向助定律延續 , https://technews.tw/2023/03/25/gordon-moore-semiconductor-direction/
+2023-03-25 16:14:34 , tech , 普發現金又發現偽冒網址！財政部：已報警啟動防護 , https://finance.technews.tw/2023/03/25/fake-url/
+2023-03-25 16:29:45 , tech , 幾何之美，數學家發現平鋪時永不重複圖案的單一形狀 , https://technews.tw/2023/03/25/the-hat-13-sided-shape-aperiodic-monotile/
+2023-03-25 16:30:56 , tech , 人工智慧市場需求持續發展，ASML 將成為當然受惠廠商 , https://finance.technews.tw/2023/03/25/asml-will-certainly-be-a-beneficiary-of-the-development-of-the-artificial-intelligence-market/
+2023-03-25 16:32:28 , tech , 目標 2030 全電動，漢堡王已經將三分之一車輛電動化 , https://technews.tw/2023/03/25/burgerking-onethird-fleet-electrified/
+2023-03-25 16:50:37 , tech , 處理 TikTok 國安疑慮，美眾院議長預期國會將通過法案 , https://technews.tw/2023/03/25/tiktok-restrict-act/
+2023-03-25 17:38:45 , tech , 對 S-400 興趣越來越低，土耳其將推動自製防空飛彈系統 , https://technews.tw/2023/03/25/turkey-is-pushing-local-anti-air-systems-instead-of-s400s/
+2023-03-25 17:47:34 , tech , 馬斯克傳 2018 年提收購 OpenAI 遭拒，反悔未兌現 10 億美元投資 , https://technews.tw/2023/03/25/the-secret-history-of-elon-musk-sam-altman-and-openai/

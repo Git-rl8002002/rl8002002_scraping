@@ -1,0 +1,13 @@
+2023-04-29 00:47:27 , tech , 突破蘋果螢幕鍵盤缺點的發展關鍵！全新「平面觸覺技術」能從螢幕表面彈出按鍵 , https://technews.tw/2023/04/29/the-key-to-the-development-of-breaking-through-the-shortcomings-of-apples-screen-keyboard-new-flat-touch/
+2023-04-29 00:48:38 , tech , 平面觸覺技術 , https://drive.google.com/file/d/1--KfMTvkerE1dZxiXC6Uf-zRVMtbA6YY/view
+2023-04-29 09:26:26 , tech , Google Tensor G3 架構與製程都無法相比高通 Snapdragon 8 Gen 3 , https://technews.tw/2023/04/29/google-tensor-g3-%e6%9e%b6%e6%a7%8b%e8%88%87%e8%a3%bd%e7%a8%8b%e9%83%bd%e7%84%a1%e6%b3%95%e7%9b%b8%e6%af%94%e9%ab%98%e9%80%9a-snapdragon-8-gen-3/
+2023-04-29 10:06:44 , tech , 偏逢連夜雨！三星首季營業利益僅 6,400 億韓圜，66% 將準備訴訟賠償 , https://finance.technews.tw/2023/04/27/samsung-fr-2023q1/
+2023-04-29 10:23:33 , tech , 英特爾首款採 EUV 及台積電製程 Meteor Lake 處理器下半年如期推出 , https://technews.tw/2023/04/29/intel-meteor-lake-processor/
+2023-04-29 10:25:05 , tech , 從 Apple Pay 到 iPhone 卡緊收，蘋果跨域數位金融 9 年最強殺招砍到誰？ , https://technews.tw/2023/04/29/apple-pay-to-tap-to-pay-on-iphone-apple-become-payment-pirate/
+2023-04-29 11:17:34 , tech , 新研究找出抗藥性僅需顯微鏡，不用培養一整天 , https://technews.tw/2023/04/29/testing-antibiotic-resistance-with-a-fast-cheap-and-easy-method/
+2023-04-29 11:29:46 , tech , 世界幸福國家排行：台灣比日韓高；烏克蘭竟名次提升 , https://technews.tw/2023/04/29/ranking-of-the-world-happiest-countries/
+2023-04-29 11:30:58 , tech , 印度人口超車中國！為何人口多在中國是紅利，對印度卻是「定時炸彈」？ , https://finance.technews.tw/2023/04/29/worlds-largest-population-will-india-gain-or-lose/
+2023-04-29 11:32:30 , tech , 不能再堅持不升級，微軟宣布不再對 Windows 10 推送更新程式 , https://technews.tw/2023/04/29/microsoft-announces-it-will-no-longer-push-updates-to-windows-10/
+2023-04-29 13:32:51 , tech , 45 年還持續工作！NASA 延長航海家 2 號科學儀器 3 年關閉時間 , https://technews.tw/2023/04/29/nasa-extends-3-year-shutdown-of-voyager-2-science-instruments/
+2023-04-29 14:05:49 , tech , 台積電美國亞利桑那州 Fab 21 廠工地驚傳火警 , https://finance.technews.tw/2023/04/29/fire-at-tsmcs-fab-21-plant-in-arizona/
+2023-04-29 15:23:36 , tech , 日月光獲頒德州儀器卓越供應商獎 , https://finance.technews.tw/2023/04/29/ase-was-awarded-texas-instruments-excellent-supplier-award/

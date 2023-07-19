@@ -1,0 +1,365 @@
+2023-03-06 10:54:27 , pcdiy , 戴爾科技集團全新解決方案加快實現開放式電信網路架構 , /detail/25941
+2023-03-06 11:03:27 , pcdiy , 
+戴爾科技集團全新解決方案加快實現開放式電信網路架構
+ , /detail/25941
+2023-03-06 11:03:27 , pcdiy , 
+
+戴爾科技集團全新解決方案加快實現開放式電信網路架構
+戴爾科技集團宣布以全新解決方案和夥伴策略，加快電信產業採用開放式雲原生技術，包含 Dell Telecom Infrastructure Blocks for Red Hat、全新的Dell PowerEdge 邊緣伺服器、無線專網計畫與擴充的實驗室功能。
+
+
+戴爾科技集團資深副總裁暨電信系統業務部門總經理 Dennis Hoffman 表示：「電信業者很了解開放式電信網絡架構的前景，但說到落實卻是一大挑戰。要因應此一挑戰，產業需要建構可使用且經測試的解決方案，讓電信業者能夠無礙地將其部署在他們的網路中。憑藉著我們新的策略合作夥伴關係、解決方案和擴充的實驗室功能，戴爾科技集團正快速發展產業生態系，並與電信服務供應商和技術合作夥伴攜手合作，讓開放式創新付諸實行。」
+
+Dell推出Telecom Infrastructure Blocks for Red Hat ，以滿足網路業者對於5G核心和RAN工作負載的需求。Dell與Red Hat共同研發的雲原生解決方案擁有Dell提供的服務與支援。該解決方案包括網路業者使用Red Hat OpenShift 與Red Hat Advanced Cluster Management for Kubernetes在建置、擴充與支援核心網路功能所需要的硬體、軟體與訂閱方案。
+
+當今的電信網路通常採用特定供應商提供的孤島式堆疊，限制了營運敏捷性與基礎架構效率。Dell解決方案以開放性技術為基礎，簡化了電信雲的設計、部署和生命週期管理。透過擴充的Telecom Infrastructure Block產品組合，網路業者得以提升IT資源使用效率，降低營運成本和功耗，進而降低碳足跡。
+
+ACG調研機構預估，相較於沒有部署Dell解決方案的電信雲基礎架構，有部署Dell Telecom Infrastructure Blocks的電信業者可以減少40%的營運支出（OpEx）以及降低 10%的資本支出（CapEx）。ACG進一步發現，透過減少功耗和冷卻支出，5年內總共可以減少833公噸的二氧化碳排放量，這相當於179 輛汽車一年的碳排、或162個家庭一年的平均用電量。
+
+Dish Wireless公司執行副總裁暨網路長Marc Rouanne 表示：「我們非常高興看到Dell透過Telecom Infrastructure Block策略與承諾，為電信雲堆疊提供更多的選擇性與價值。Red Hat是電信產業的策略夥伴。我們認為其雙方合作將有助於生態系更加多元，並加速落實開放式和虛擬化網絡的佈建。」
+
+Red Hat電信、媒體、娛樂與邊緣生態系副總裁Honoré LaBourdette表示：「從核心擴展到邊緣大規模運作的網路環境，需要透過附加的安全性措施、編排和雲原生應用，來建置可橫跨基礎架構和軟體定義架構的分層功能。藉由與專業的硬體/軟體供應商組成的生態系協作，我們能夠更好地為網路業者提供客製化解決方案，以滿足他們的獨特需求。Red Hat OpenShift提供了一個標準化雲原生平台，可在任何 IT 環境中為核心網路功能提供支援，從而達到更高的靈活性、敏捷性和業務成果。」
+
+全新Dell PowerEdge XR7620 和 XR5610 伺服器專為電信、Open RAN 和行動邊緣運算工作負載而設計，同時簡化了邊緣環境的運作。相較於前幾代的伺服器機種，全新體積精巧的伺服器系列採用具備Intel vRAN Boost的第4代Intel Xeon可擴充處理器，可消弭對於外接式加速卡的需求，可額外最多節省20%運算所產生的功耗，從而降低總擁有成本。
+
+可擴充、模塊化的設計簡化了部署和維護；同時網絡設備建構系統（NEBS）第 3 級合規性和零信任支援功能有助於提供現場安全與保護。透過Dell智能冷卻技術，伺服器功耗更低、效能更高。此外，系統還能支援位於工廠到遠端基地台、溫度介於–5 到55°C 度的邊緣環境。
+
+Dell無線專網計劃（Dell Private Wireless Program）建立在多元化合作夥伴生態系之上，專為電信服務供應商與企業客戶提供更多無線專網方案選擇，以便他們能夠找到最適合其需求的解決方案。藉由與技術合作夥伴共同開發，基於開放性架構的無線專網解決方案由Dell進行前測與驗證，並包含自助式操作功能。Dell透過整合式解決方案、端到端管理和支援，進而排除複雜性。
+
+Dell Private Wireless with Airspan and Expeto 是一款適用於中大型企業的完全整合解決方案，可將現場和遠端應用支援擴展到4G和5G專網與公網。Dell Private Wireless with Athonet 協助中小型企業快速部署他們選擇的網絡架構、無線電供應商或頻段，以獲得經濟實惠、易於使用的無線專網解決方案。
+
+位於德州總部的Dell開放式電信生態系實驗室（Dell Open Telecom Ecosystem Lab）為超過 25 家客戶與合作夥伴測試、認證以及驗證開放式電信解決方案與應用，並可以快速輕鬆地部署在電信網路中。Dell正致力透過以下方式，加速創新並簡化生態系協作：
+●	新設立於愛爾蘭科克市的開放式電信生態系統實驗室（Open Telecom Ecosystem Lab），為客戶和合作夥伴在另一個地點提供全球性協作場所。
+●	Dell開放式電信生態系實驗室驗證服務（Dell Open Telecom Ecosystem Lab Validation Services）提供客戶能夠與Dell工程師持續進行研發諮詢與驗證，幫助電信服務供應商降低風險，並加速推出新的解決方案和服務。 
+●	全新Wind River自助式認證實驗室（self-certification lab）測試環境，讓合作夥伴在將軟體部署到電信網路前，得以先使用 Wind River Studio雲原生平台進行測試和驗證。
+
+●	Dell Telecom Infrastructure Blocks for Red Hat將於2023年下半年於全球推出。
+●	全新Dell PowerEdge伺服器將於2023年5月於全球上市。
+●	Dell Private Wireless with Expeto and Airspan目前已於全球供應。
+●	Dell Private Wireless with Athonet目前已於全球供應。
+●	Dell開放式電信生態系實驗室驗證服務將於2023年上半年於全球推出。
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/25941
+2023-03-06 12:51:03 , pcdiy , 
+華碩智慧醫療獲頒國家生技醫療品質獎、SNQ標章
+ , /detail/25942
+2023-03-06 12:51:03 , pcdiy , 華碩智慧醫療獲頒國家生技醫療品質獎、SNQ標章 , /detail/25942
+2023-03-06 12:51:03 , pcdiy , 
+
+華碩智慧醫療獲頒國家生技醫療品質獎、SNQ標章
+素有「生技醫療界奧斯卡」美名的國家生技醫療品質獎，日前公布得獎名單，華碩手持式超音波LU800系列，以及ASUS VivoWatch 5 AERO健康手環雙雙獲頒SNQ品質標章，其中手持式超音波LU800系列更奪下銅獎殊榮。華碩全球副總裁張權德表示，「智慧醫療為華碩近年發展重點，結合人工智慧、前瞻演算法、醫療影像處理技術與堅強的硬體研發實力，華碩持續以先進多元的行動醫材做為醫療物聯網根基，致力回應現今尚未被滿足的醫療需求，協助終端用戶深化個人健康管理價值，並為醫護單位增進診斷效率。」
+
+
+華碩新一代手持式超音波LU800系列，採用無線輕量化設計，能將超音波檢查優勢從超音波室延伸至診間、急診、救護車、遠距醫療、居家照護等場域，增加臨床醫師操作自主性、快速診斷，爭取黃金搶救時間；此外，產品亦取得ISO 13485國際標準與GMP認證，深得評審青睞，故頒發國家生技醫療品質銅獎及SNQ國家品質標章肯定。
+
+
+全球首款指尖量測脈波指數功能的健康手環「ASUS VivoWatch 5 AERO」，除可忠實紀錄使用者生理徵象，想瞭解自身身體狀況時，只要食指輕觸表面感測器，就能即時取得脈波指數、心電圖 、血氧參考值等數據，擁有目前市面上最完整的生理量測功能，同時委託製造廠還通過GMP認證，因而受評審一致認可，榮獲SNQ國家品質標章。
+
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/25942
+2023-03-06 14:02:56 , pcdiy , MSI宣布與SEGA《英雄連隊3》建立夥伴關係 提供最佳4K顯示器推薦 , /detail/25943
+2023-03-06 14:11:56 , pcdiy , 
+MSI宣布與SEGA《英雄連隊3》建立夥伴關係 提供最佳4K顯示器推薦
+ , /detail/25943
+2023-03-06 14:11:56 , pcdiy , 
+
+MSI宣布與SEGA《英雄連隊3》建立夥伴關係 提供最佳4K顯示器推薦
+全球電競領導品牌「微星科技 (MSI)」宣布與世界著名遊戲品牌公司SEGA  Europe Limited 建立夥伴關係，針對即時戰略遊戲《英雄連隊3》提供最佳4K顯示器推薦。
+
+為了讓玩家享受《英雄連隊3》的精彩細節和生動的色彩表現，微星與SEGA建立夥伴關係，推薦2款適合暢玩此遊戲的顯示器，提供英雄連隊粉絲擁有最佳遊戲體驗。
+  
+
+
+28吋的「MAG281URF」憑藉Rapid IPS、3840x2160解析度、144Hz刷新率和1ms反應時間，在《英雄連隊3》中，帶領玩家享受極致流暢的遊戲體驗和驚豔的細節畫面。探索更多：https://tw.msi.com/Monitor/Optix-MAG281URF
+
+
+32吋「MPG321UR-QD」擁有99% Adobe RGB、97% DCI-P3、143% SRGB和82% REC.2020的色域表現，量子點面板將以高對比度和鮮豔的色彩豐富您的遊戲體驗。探索更多：https://www.msi.com/Monitor/Optix-MPG321UR-QD
+
+
+  →更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/25943
+2023-03-06 14:24:09 , pcdiy , 
+
+MSI宣布與SEGA《英雄連隊3》建立夥伴關係 提供最佳4K顯示器推薦
+全球電競領導品牌「微星科技 (MSI)」宣布與世界著名遊戲品牌公司SEGA  Europe Limited 建立夥伴關係，針對即時戰略遊戲《英雄連隊3》提供最佳4K顯示器推薦。
+
+為了讓玩家享受《英雄連隊3》的精彩細節和生動的色彩表現，微星與SEGA建立夥伴關係，推薦2款適合暢玩此遊戲的顯示器，提供英雄連隊粉絲擁有最佳遊戲體驗。
+  
+
+
+28吋的「MAG281URF」憑藉Rapid IPS、3840x2160解析度、144Hz刷新率和1ms反應時間，在《英雄連隊3》中，帶領玩家享受極致流暢的遊戲體驗和驚豔的細節畫面。
+
+
+32吋「MPG321UR-QD」擁有99% Adobe RGB、97% DCI-P3、143% SRGB和82% REC.2020的色域表現，量子點面板將以高對比度和鮮豔的色彩豐富您的遊戲體驗。
+
+  →更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/25943
+2023-03-06 16:57:05 , pcdiy , 華碩筆電市佔20連霸！13代處理器OLED新機搶市 , /detail/25944
+2023-03-06 17:00:05 , pcdiy , 
+華碩筆電市佔20連霸！13代處理器OLED新機搶市
+ , /detail/25944
+2023-03-06 17:02:55 , pcdiy , 
+
+華碩筆電市佔20連霸！13代處理器OLED新機搶市
+據市調機構IDC最新報告 ，華碩筆電2022年以近四成超高市佔拔得頭籌，連續20年蟬聯台灣銷售冠軍！華碩聯合科技系統事業總經理廖逸翔表示：「消費者對筆電效能與螢幕色彩日益重視，華碩乘勝推出搭載第13代Intel®處理器的OLED機種，銷量可望成長20%。」ASUS OLED筆電以驚艷絕倫的真實色彩與多元機種橫掃市場，Zenbook 14 Flip OLED、Zenbook 14 OLED、Vivobook Pro 16 OLED及Vivobook S 15 OLED於3月接力上市。
+
+
+輕薄高效的Zenbook 14 OLED (UX3402VA)獲Intel Evo 標章，與Zenbook 14 Flip OLED (UP3404VA)翻轉筆電最高搭載第13代Intel Core i7處理器及16GB記憶體，提供更快速、強大的運算效能，輕鬆完成多工作業。14吋16:10 2.8K 90Hz OLED螢幕 視野寬廣，通過100% DCI-P3廣色域、PANTONE及德國萊因護眼認證，專業級色彩準確度，帶來令人驚豔的視覺饗宴；Zenbook 14 Flip OLED (UP3404VA) 具360度轉軸輕鬆切換模式，ASUS Pen觸控筆可供選購，筆觸應用自然順暢。經Harman Kardon調校的Dolby Atmos 立體聲系統，音質清晰無比，強勁音效如臨實境。符合軍規標準，可靠耐用；75Wh長效續航大電量，支援全天需求。建議售價：NT$44,900起，了解更多：Zenbook 14 OLED (UX3402VA)；建議售價：NT$51,900，了解更多：Zenbook 14 Flip OLED (UP3404VA)
+
+
+創作者理想筆電Vivobook Pro 16 OLED (K6602 VV/VU)，最高搭載第13代Intel Core i9 H系列處理器及NVIDIA® GeForce RTX 4060顯示卡，最高14核心運算效能大幅提升，透過人工智慧的DLSS 3與即時光線追蹤技術，讓虛擬世界栩栩如生，釋放精采創意。ASUS IceCool Plus技術、雙風扇設計與三通風口散熱系統成就穩定運作；MUX獨顯直連開關釋放顯示卡性能，減少延遲、提升更新率，暢玩遊戲大展身手！最高配備16吋16:10 3.2K 120Hz OLED螢幕，峰值亮度600尼特，經DisplayHDR True Black 600、PANTONE專業級色彩認證；並獲德國萊因低藍光、不閃屏護眼驗證，展開舒適又沉浸的視覺饗宴！建議售價：NT$53,900起；了解更多：Vivobook Pro 16 OLED (K6602 VV/VU)
+
+
+具備Intel Evo標章的全方位筆電—Vivobook S 15 OLED (S5504VA)，最高搭載第 13 代 Intel Core i5 H系列處理器、16 GB記憶體及512GB PCIe 4.0 SSD，使用體驗快速流暢；ASUS IceCool 散熱技術釋放完整效能。最高配備15.6吋16:9 2.8K 120Hz OLED窄邊框螢幕，取得多項專業級色彩驗證與德國萊因、SGS護眼雙認證，大幅降低70%有害藍光，還原真實色彩。午夜黑、酷玩銀雙色質感金屬外觀供選擇，背蓋特殊銘版設計盡顯潮流風格。建議售價：NT$37,900起，了解更多：Vivobook S 15 OLED (S5504VA)
+
+
+文書首選Vivobook 16 (X1605VA)抗菌抗病毒筆電，最高搭載第13代Intel Core i7 H系列處理器，輕鬆因應多工作業，提升效率。16吋IPS廣視角螢幕畫面銳利清晰，配備180度ErgoLift螢幕轉軸，方便共享畫面。ASUS抗菌抗病毒技術 應用於筆電經常接觸區域，24小時內抑制超過99% COVID-19、流感病毒和細菌 ，其銀離子塗層可防止細菌繁殖，保持衛生。合乎嚴苛MIL-STD-810H美國軍規標準，品質可靠耐用。建議售價：NT$31,900起；了解更多：Vivobook 16 (X1605VA)
+
+
+
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/25944
+2023-03-06 17:24:30 , pcdiy , 
+
+華碩筆電市佔20連霸！13代處理器OLED新機搶市
+據市調機構IDC最新報告 ，華碩筆電2022年以近四成超高市佔拔得頭籌，連續20年蟬聯台灣銷售冠軍！華碩聯合科技系統事業總經理廖逸翔表示：「消費者對筆電效能與螢幕色彩日益重視，華碩乘勝推出搭載第13代Intel®處理器的OLED機種，銷量可望成長20%。」ASUS OLED筆電以驚艷絕倫的真實色彩與多元機種橫掃市場，Zenbook 14 Flip OLED、Zenbook 14 OLED、Vivobook Pro 16 OLED及Vivobook S 15 OLED於3月接力上市。
+
+
+輕薄高效的Zenbook 14 OLED (UX3402VA)獲Intel Evo 標章，與Zenbook 14 Flip OLED (UP3404VA)翻轉筆電最高搭載第13代Intel Core i7處理器及16GB記憶體，提供更快速、強大的運算效能，輕鬆完成多工作業。14吋16:10 2.8K 90Hz OLED螢幕 視野寬廣，通過100% DCI-P3廣色域、PANTONE及德國萊因護眼認證，專業級色彩準確度，帶來令人驚豔的視覺饗宴；Zenbook 14 Flip OLED (UP3404VA) 具360度轉軸輕鬆切換模式，ASUS Pen觸控筆可供選購，筆觸應用自然順暢。經Harman Kardon調校的Dolby Atmos 立體聲系統，音質清晰無比，強勁音效如臨實境。符合軍規標準，可靠耐用；75Wh長效續航大電量，支援全天需求。建議售價：NT$44,900起，了解更多：Zenbook 14 OLED (UX3402VA)；建議售價：NT$51,900，了解更多：Zenbook 14 Flip OLED (UP3404VA)
+
+
+創作者理想筆電Vivobook Pro 16 OLED (K6602 VV/VU)，最高搭載第13代Intel Core i9 H系列處理器及NVIDIA GeForce RTX 4060顯示卡，最高14核心運算效能大幅提升，透過人工智慧的DLSS 3與即時光線追蹤技術，讓虛擬世界栩栩如生，釋放精采創意。ASUS IceCool Plus技術、雙風扇設計與三通風口散熱系統成就穩定運作；MUX獨顯直連開關釋放顯示卡性能，減少延遲、提升更新率，暢玩遊戲大展身手！最高配備16吋16:10 3.2K 120Hz OLED螢幕，峰值亮度600尼特，經DisplayHDR True Black 600、PANTONE專業級色彩認證；並獲德國萊因低藍光、不閃屏護眼驗證，展開舒適又沉浸的視覺饗宴！建議售價：NT$53,900起；了解更多：Vivobook Pro 16 OLED (K6602 VV/VU)
+
+
+具備Intel Evo標章的全方位筆電—Vivobook S 15 OLED (S5504VA)，最高搭載第 13 代 Intel Core i5 H系列處理器、16 GB記憶體及512GB PCIe 4.0 SSD，使用體驗快速流暢；ASUS IceCool 散熱技術釋放完整效能。最高配備15.6吋16:9 2.8K 120Hz OLED窄邊框螢幕，取得多項專業級色彩驗證與德國萊因、SGS護眼雙認證，大幅降低70%有害藍光，還原真實色彩。午夜黑、酷玩銀雙色質感金屬外觀供選擇，背蓋特殊銘版設計盡顯潮流風格。建議售價：NT$37,900起，了解更多：Vivobook S 15 OLED (S5504VA)
+
+
+文書首選Vivobook 16 (X1605VA)抗菌抗病毒筆電，最高搭載第13代Intel Core i7 H系列處理器，輕鬆因應多工作業，提升效率。16吋IPS廣視角螢幕畫面銳利清晰，配備180度ErgoLift螢幕轉軸，方便共享畫面。ASUS抗菌抗病毒技術 應用於筆電經常接觸區域，24小時內抑制超過99% COVID-19、流感病毒和細菌 ，其銀離子塗層可防止細菌繁殖，保持衛生。合乎嚴苛MIL-STD-810H美國軍規標準，品質可靠耐用。建議售價：NT$31,900起；了解更多：Vivobook 16 (X1605VA)
+
+
+
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/25944
+2023-03-06 23:39:47 , pcdiy , 技嘉Z790 AORUS XTREME一鍵超頻實戰，用Instant 6GHz技術讓Intel第13代Core i9-13900K/KF變身13900KS處理器！ , /detail/25947
+2023-03-06 23:42:44 , pcdiy , 
+
+技嘉Z790 AORUS XTREME一鍵超頻實戰，用Instant 6GHz技術讓Intel第13代Core i9-13900K/KF變身13900KS處理器！
+現在要買桌機的話，要擁有最強的性能，以及最大的擴充能力，Intel第13代處理器無疑是最好的選擇！若要直上高階Core i9-13900K/KF處理器，安裝高階GeForce RTX 4080、4090顯示卡，還要能支援未來的PCIe 5.0 M.2 NVMe SSD，那麼肯定是要搭配頂級Intel Z790主機板了！然而，在眾多主機板品牌裡面，要找出符合自己口味的史上最強旗艦級玩家主機板，那也不是一件容易的事情！既然要選擇史上最強主機板，不僅要系出名門用料紮實，供電要有20相以上數位電源，提供超頻功能，採用全覆蓋盔甲散熱，保護主機板上的重要元件，確保主機板不板彎，還具備強化散熱不掉速，記憶體要能至少上DDR5-8000，要有至少2組PCIe 5.0 x16擴充槽，具備1組PCIe 5.0 M.2 NVMe SSD，還要有M.2 SSD快速安裝卸載擴充槽，PCIe快速卸載按鍵，LCD螢幕顯示處理器與記憶體頻率、溫度資訊，並且要有10GbE有線網路與802.11AX的Wi-Fi 6E無線網路，還要有一鍵超頻功能。要找到這樣檔次的產品，選擇並不多！今天，就讓我們來看看，由技嘉科技為玩家打造的頂級主機板Z790 AORUS XTREME，讓我們一起來揭開它神祕的面紗吧！
+
+
+
+-----------------
+技嘉Z790 AORUS XTREME實測開箱，史上最強旗艦級玩家主機板！
+
+技嘉Z790 AORUS XTREME效能測試，史上最強旗艦級玩家主機板！
+
+
+-----------------
+
+技嘉科技，近日針對旗下Intel Z690、Z790主機板，推出了Instant 6GHz技術！這款技術，讓13900K/KF處理器，可以衝上6000MHz！這是什麼神技術黑科技呢？讓我們來試玩看看！
+
+這邊，採用的是技嘉科技最頂級的Z790 AORUS XTREME來做效能實測，讓我們來看看Instant 6GHz技術的實力吧！
+
+
+
+
+
+
+
+隨著Intel第13代處理器的推出，頂級版Core i9-13900K/KF處理器，威力非常強大！和過去第1代～第11代不同的是，第12、13代採用大小核設計，於是Intel把TurboBoost的動態超頻設計做了很大的變更，包括P效能核心與E節能核心都提供了動態超頻技術，可以將效能與功耗最佳化！
+
+這邊，我們先來簡單瞭解一下，Intel針對12、13代處理器的動態超頻技術，主要是分為P效能核心與E節能核心的不同作法。
+
+Total Cores：24
+＃Performance-cores：8
+＃of Efficient-coresl：16
+Total Threads：32
+Max Turbo Frequency：5.80 GHz
+Intel Thermal Velocity Boost Frequency：5.80 GHz
+Intel Turbo Boost Max Technology 3.0 Frequency：5.70 GHz
+Performance-core Max Turbo Frequency：5.40 GHz
+Efficient-core Max Turbo Frequency：4.30 GHz
+Performance-core Base Frequency：3.00 GHz
+Efficient-core Base Frequency：2.20 GHz
+Cache：36 MB Intel Smart Cache
+Total L2 Cache：32 MB
+Processor Base Power：125 W （PL1）
+Maximum Turbo Power：253 W （PL2）
+
+Intel定義了基礎P效能核心的基本頻率，叫做「Performance-core Base」。根據Intel官方介紹：「這功能中文命名叫做Performance-core 基礎頻率。」
+
+Intel定義了新的動態超頻技術，叫做「Intel Turbo Boost Max Technology 3.0」。根據Intel官方介紹：「這功能中文命名叫做Intel 渦輪加速 Max 技術 3.0，會辨識出處理器上表現最佳的一個或多個核心，利用功耗和散熱的餘裕範圍，透過在需要時增加核心的時脈，提供它（們）增強的效能。以這模式執行時，Intel 渦輪加速 Max 技術 3.0 頻率是 CPU 的時脈頻率。」
+
+Intel定義了另一個新的動態超頻技術，叫做「Intel Thermal Velocity Boost」。根據Intel官方介紹：「這功能中文命名叫做Intel 傅熱速度，Intel Thermal Velocity Boost (Intel TVB) 是一項功能，可機動和自動增加超過單核心和多核心 Intel 渦輪加速技術的時脈頻率，主要根據處理器在其最高溫度下運行的程度，以及是否有可用的加速電源預算。頻率的增益和持續時間取決於工作負載、處理器能力、以及處理器的冷卻解決方案。」
+
+Intel定義了另一個新的動態超頻技術，叫做「Performance-core Max Turbo」。根據Intel官方介紹：「這功能中文命名叫做Performance-core Max 渦輪加速，從 Intel 渦輪加速技術獲得的最大 P-core 渦輪頻率。」
+
+Intel定義了基礎E節能核心的基本頻率，叫做「Efficient-core Base」。根據Intel官方介紹：「這功能中文命名叫做Efficient-core 基礎頻率。」
+
+Intel定義了新的動態超頻技術，叫做「Efficient-core Max Turbo」。根據Intel官方介紹：「這功能中文命名叫做Efficient-core Max 渦輪加速，從Intel渦輪加速技術獲得的最大 E-core 渦輪頻率。」
+
+Intel近幾年來，除了所謂的標準TDP，還設計了所謂的功耗牆Power Limit。Power Limit簡稱：PL，一般有分成Power Limit 1（PL1），功耗上限值1，Power Limit 2（PL2），功耗上限值2。
+
+Intel還設計了Tau值（Turbo Time Parameter，動態超頻時間參數）。這個Tau值，針對不同的CPU有不一樣的時間設定。一般，非K處理器的PL1功耗牆的Tau值是28秒，K處理器的PL1功耗牆的Tau值是56秒，最大值微448秒。
+
+Intel設計PL1、PL2與Tau值，除了方面主機板、品牌電腦業者設計主機板與電腦的電源與散熱，也讓主機板業者可以設計出更強的超頻能力，畢竟要超更高的時脈，主機板就要提供更大的供電，相對的散熱也要夠力才行
+
+
+
+
+
+
+有了這些幾本的認識之後，我們就能來進一步認識技嘉科技的Instant 6GHz技術。
+
+技嘉科技推出了Instant 6GHz技術，其實是透過BIOS來便於玩家簡易超頻的一個作法。目前這個技術，是指能用來超Intel第13代Core i9-13900K/KF處理器超頻至6GHz。
+
+目前的Instant 6GHz技術，用的其實是溫和的超頻作法，可以適用於絕大多數體質好的Intel第13代Core i9-13900K/KF處理器。
+
+它設計的概念，是提升超頻的性能，超的是Intel Thermal Velocity Boost。把Intel第13代Core i9-13900K/KF處理器，的Intel Thermal Velocity Boost從5.8GHz，超頻至6.0GHz。
+
+原先Intel第13代Core i9-13900K/KF處理器，它的Intel Thermal Velocity Boost，是5.8GHz，亦即P效能核心可以在的1～2核心間提升到5.8GHz，3～8核心間最高提升到5.5GHz，P效能核心全核可以維5.5GHz以上的工作時脈。
+
+技嘉的Instant 6GHz技術，是直接在Tweaker選單的CPU Upgrade選項，多出了Instant 6GHz。玩家可以透過這簡單的設定，就能把Intel第13代Core i9-13900K/KF處理器超頻到6.0GHz，而且不用再操作其他的加電壓、調整頻率的設計，輕輕鬆鬆就能衝上6.0GHz
+
+事實上，Intel即將推出加強版的Core i9-13900KS處理器，它的特別之處，就是讓那1～2核心最高可以跑到6.0GHz。
+
+簡單單來說，技嘉的Instant 6GHz技術，讓Intel第13代Core i9-13900K/KF處理器，搖身一變成為Core i9-13900KS。
+
+Total Cores：24
+＃Performance-cores：8
+＃of Efficient-coresl：16
+Total Threads：32
+Max Turbo Frequency：6.00 GHz
+Intel Thermal Velocity Boost Frequency：6.00 GHz
+Intel Turbo Boost Max Technology 3.0 Frequency：5.80 GHz
+Performance-core Max Turbo Frequency：5.40 GHz
+Efficient-core Max Turbo Frequency：4.30 GHz
+Performance-core Base Frequency：3.20 GHz
+Efficient-core Base Frequency：2.20 GHz
+Cache：36 MB Intel Smart Cache
+Total L2 Cache：32 MB
+Processor Base Power：150 W （PL1）
+Maximum Turbo Power：253 W （PL2）
+
+目前，Instant 6GHz技術，已經支援了技嘉Z690、Z790主機板，玩家可以在搭配Intel第13代Core i9-13900K/KF處理器時透過BIOS啟用。
+
+看到這邊，我們可以得出一些結論。
+
+
+
+這邊，玩家要注意的是，技嘉的Instant 6GHz固然是很好的超頻作法。但原先Intel只標示Intel第13代Core i9-13900K/KF處理器只能動態超頻到5.8GHz，不排除體質爛的會跑不上去，或者需要更高的電壓才能穩跑的狀況發生。
+
+
+
+首先，可以確定的，Intel第13代Core i9-13900K/KF處理器，它在一般環境之下，1～2效能核心最高可以跑到6.0GHz，8各性能核心全核工作的話，最高可以運行在5.5GHz，此時若解除PL1、PL2功耗牆限制的話，CPU電源功耗一般在280～300W左右，最大可以上看350W。
+
+若是只有1～2效能核心跑6.0GHz，並不會增加此時的CPU功耗。由此可見，要讓CPU吃大電的話，只有全核跑5.5GHz，或更高才會出現。這時候，主機板的供電就非常重要了。中階與高階Z790主機板的差異就可以顯現出來。
+
+
+
+在搭配一般的360mm（120mmx3）一體式水冷散熱器之下，解熱的效率可以達到280～300W左右，比較好的則可以到350W，若要解更高的瓦數，那麼360mm（120mmx3）一體式水冷散熱器可能就不夠用了。這時候搭配的散熱膏也很重要，才能確保以最快的速度導熱。
+
+這邊，我們可以發現，當Intel第13代Core i9-13900K/KF處理器，運行全核5.5GHz，或者更高的時候，搭配360mm（120mmx3）一體式水冷散熱器，CPU溫度很快就飆升到100°C，當超過這個溫度的時候，馬上會出現過熱降速的狀況。因此，即便把PL1、PL2功耗牆限制關掉，散熱器的解熱效能則會是最後極限速度的關鍵。
+
+可預見的，未來更強大的一體式水冷散熱器將會推出，可能朝向480mm（120mmx4）、600mm（120mmx5）一體式水冷散熱器發展。然而，比起360mm（120mmx3）一體式水冷散熱器，更大的水冷排的話則可能是雙排的設計，否則一般機殼的散熱空間則無法安裝。
+
+
+
+技嘉Z790 AORUS XTREME，經過了完整的測試，以及使用長達1個月的時間，沒有出現不穩、當機、重新開機的狀況，穩定度相當高。使用Instant 6GHz技術，把Intel第13代Core i9-13900KF超上6GHz，當做13900KS來使用，足足跑了一個月時間，速度表現驚人，而且還相當穩定，爽度相當高！無論是超頻前，或用Instant 6GHz技術超頻後，效能表現令人滿意。
+
+技嘉Z790 AORUS XTREME主機板的話，目前已經在全球上市，台灣市場也已經開賣！最新的市場行情，技嘉Z790 AORUS XTREME，報價：34,990元。
+
+保固期的話，提供原廠3＋2年有限保固服務。
+
+若以價位來看的話，技嘉Z790 AORUS XTREME主機板無疑是Intel Z790主機板中最高貴的等級！價格上打敗了華碩ROG MAXIMUS Z790 EXTREME，僅有微星MEG Z790 GODLIKE能在價格上與其匹敵！
+
+
+
+
+
+這次，我們實測開箱了技嘉Z790 AORUS XTREME，可以看出技嘉對於這款Intel Z790主機板的用心與細心，用上了台灣人的軟實力與硬底子，選用了高檔用料，前衛的全覆蓋盔甲散熱設計，外觀質感也相當好，整個功能完整及擴充能力強大，實測效能與一鍵令人相當滿意。
+
+整體來說，這款技嘉Z790 AORUS XTREME，是史上最強旗艦級玩家主機板！
+
+廠商名稱：技嘉科技股份有限公司
+廠商電話：02-8912-4000
+廠商網址：
+
+→更多的【PCDIY! CPU／中央處理器】： 
+
+→更多的【PCDIY! MainBoard／主機板／電競主機板】： 
+
+→更多的【PCDIY! DRAM／記憶體／超頻記憶體模組】： 
+
+→更多的【PCDIY! SSD／固態硬碟】： 
+
+→更多的【PCDIY! HDD／機械硬碟／傳統硬碟】： 
+
+→更多的【PCDIY! 行動儲存／外接機械硬碟／外接固態硬碟／隨身碟／記憶卡】： 
+
+→更多的【PCDIY! NAS／網路儲存裝置】：
+ , /detail/25947

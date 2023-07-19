@@ -1,0 +1,75 @@
+2023-04-19 08:00:31 , tech , 下一代顯示器關鍵要素，康寧展現全新玻璃技術 , https://technews.tw/2023/04/19/corning-touch-taiwan-2023/
+2023-04-19 08:01:53 , tech , 印度公布 Bharat 6G 願景計畫，促進技術應用發展 , https://technews.tw/2023/04/19/india-bharat-6g/
+2023-04-19 08:03:25 , tech , 台積電法說會在即，景氣、擴產進度、資本支出將成關注焦點 , https://finance.technews.tw/2023/04/19/tsmc-says-it-will-observe-key-points/
+2023-04-19 08:09:21 , tech , 鋁合金船身翹楚，龍德造船將朝水下無人載具和大型艦艇邁進 , https://finance.technews.tw/2023/04/19/lungteh-shipbuilding-president-interview/
+2023-04-19 08:10:53 , tech , 群創搶攻沉浸式新經濟，首發無限拼接 AM mini LED 公眾顯示器 , https://technews.tw/2023/04/19/innolux-touch-taiwan-3/
+2023-04-19 08:12:14 , tech , Sony 與樹莓派擴大戰略合作，低功耗邊緣裝置也能高效運行機器學習應用 , https://technews.tw/2023/04/19/sony-invests-in-raspberry-pi-aims-to-add-its-aitrios-edge-ai-platform-to-the-ecosystem/
+2023-04-19 08:39:35 , tech , 龍德造船宜蘭六廠趕製五艘塔江艦！董座黃守真長期目標要到海外設廠 , https://finance.technews.tw/2023/04/19/pg-619/
+2023-04-19 08:41:07 , tech , 德國淘汰全部核電隔天，芬蘭啟用全歐洲最大核電廠 , https://technews.tw/2023/04/19/after-18-years-europes-largest-nuclear-reactor-starts-regular-output/
+2023-04-19 09:06:22 , tech , 上市櫃 2022 年海外投資利益 1.13 兆，創歷年次高 , https://finance.technews.tw/2023/04/19/overseas-investment-benefits-of-listed-overseas-companies-in-2022/
+2023-04-19 09:07:54 , tech , 見識一下地球八倍高的太陽電漿瀑布 , https://technews.tw/2023/04/19/the-62000-mile-high-plasma-waterfall-that-erupted-from-the-sun/
+2023-04-19 09:09:05 , tech , 阿拉斯加上空驚現神奇螺旋光，專家破解：其實是 SpaceX 火箭引擎廢氣 , https://technews.tw/2023/04/19/mysterious-glowing-spiral-in-the-sky-over-alaska-draws-questions-and-a-simple-explanation/
+2023-04-19 09:10:37 , tech , 租賃電動車更便利，格上與裕電俥電合作佈建百座充電站 , https://technews.tw/2023/04/19/ev-rental-taiwan-car-plus/
+2023-04-19 09:12:09 , tech , 新車全面進入 Nvidia 時代，Mobileye：誰來陪我玩？ , https://technews.tw/2023/04/19/nvidia-vs-mobileye/
+2023-04-19 09:12:33 , tech , ChatGPT 時代掀個資外洩隱憂，金管會金檢緊盯個資保護 , https://technews.tw/2023/04/19/chatgpt-personal-information-leakage-concerns/
+2023-04-19 09:13:41 , tech , 掛牌以來股價飆漲 345%！揭開低調軍工股龍德造船的神秘面紗 , https://finance.technews.tw/2023/04/19/pg-619/
+2023-04-19 09:14:05 , tech , Gororo 虛擬電廠今年上線，2,500 座換電站可回補當地電力需求 , https://technews.tw/2023/04/19/gororo-enelx-gostation-virtual-power-plant/
+2023-04-19 09:15:37 , tech , 2022 年上市櫃中國投資收益匯回 1,144 億，創統計以來新高 , https://finance.technews.tw/2023/04/19/2022-chinese-investment-income-of-listed-counter-companies/
+2023-04-19 09:57:39 , tech , 輝達盤中躍 1 年高，AI 晶片定價能力震撼唱衰投行 , https://technews.tw/2023/04/19/nvidia-pricing-power-on-ai/
+2023-04-19 10:00:22 , tech , 中國擬提振企業家信心，傳螞蟻集團罰款降至 7 億美元 , https://finance.technews.tw/2023/04/19/ant-group-fined-down/
+2023-04-19 10:00:56 , tech , 掛牌以來股價飆漲 345%！揭開低調軍工股龍德造船的神祕面紗 , https://technews.tw/2023/04/19/pg-619/
+2023-04-19 10:01:07 , tech , 交易降溫，高盛財報失色、獲利大減 18% , https://technews.tw/2023/04/19/goldman-sachs-q1-financial-reporting/
+2023-04-19 10:01:17 , tech , 輝達嗨抵銷高盛、嬌生財報利空，費半漲 , https://technews.tw/2023/04/19/us-stock-0418/
+2023-04-19 10:03:40 , tech , 受惠國內經濟重啟，中國晶片產能復甦 , https://technews.tw/2023/04/19/china-chip-production-recovery/
+2023-04-19 10:21:45 , tech , 洛克希德馬丁 Q1 獲大單、供應鏈改善，美軍工概念股嗨 , https://finance.technews.tw/2023/04/19/lockheed-beats-sales-and-earnings-estimates-on-supply-chain-improvements/
+2023-04-19 10:24:38 , tech , 輝達盤中躍一年高，AI 晶片定價能力震撼唱衰投行 , https://technews.tw/2023/04/19/nvidia-pricing-power-on-ai/
+2023-04-19 10:57:41 , tech , 鴻海投資 Lordstown 電動皮卡，恢復量產與交車 , https://finance.technews.tw/2023/04/19/lordstown-motors-endurance-comeback/
+2023-04-19 10:59:12 , tech , 麗彤生醫超額配發！全年發放現金股利 5.3 元、殖利率近 10% , https://finance.technews.tw/2023/04/19/over-allotment/
+2023-04-19 11:00:44 , tech , 虛擬貨幣退潮，英特爾挖礦晶片上市不到一年宣布停產 , https://technews.tw/2023/04/19/intel-ends-its-bitcoin-mining-chip-series/
+2023-04-19 11:02:16 , tech , Meta 進行新一輪裁員，傳本週先砍 4,000 人 , https://technews.tw/2023/04/19/meta-expected-to-announce-latest-round-of-layoffs/
+2023-04-19 11:15:44 , tech , 成熟市場 5G 支出降溫，愛立信股價挫 8% , https://finance.technews.tw/2023/04/19/ericsson-stock-falls-after-earnings-as-5g-spending-slows/
+2023-04-19 11:42:53 , tech , [ 專訪 ]掛牌以來股價飆漲 345%！揭開低調軍工股龍德造船的神秘面紗 , https://finance.technews.tw/2023/04/19/pg-619/
+2023-04-19 11:43:04 , tech , [ 專訪 ]鋁合金船身翹楚，龍德造船將朝水下無人載具和大型艦艇邁進 , https://finance.technews.tw/2023/04/19/lungteh-shipbuilding-president-interview/
+2023-04-19 12:00:50 , tech , 全台首創，浸沒式冷卻電池進駐台電彰濱儲能案場 , https://technews.tw/2023/04/19/xing-mobility-immersio/
+2023-04-19 12:02:22 , tech , 傳微軟開發自研 AI 晶片 Athena，降低機器學習成本 , https://technews.tw/2023/04/19/microsoft-developing-its-own-ai-chip/
+2023-04-19 12:28:19 , tech , [ 專訪 ]掛牌以來股價飆漲 345%！揭開低調軍工股龍德造船的神祕面紗 , https://finance.technews.tw/2023/04/19/pg-619/
+2023-04-19 12:36:54 , tech , 就業不再火，美銀將大裁 4 千多人，備抵呆帳激增 , https://finance.technews.tw/2023/04/19/bank-of-america-to-lay-off-more-than-4000-employees/
+2023-04-19 12:38:16 , tech , 鴻海關潤：促進電動車普及，目標推百萬日圓產品 , https://technews.tw/2023/04/19/ev-honhai-jun-seki/
+2023-04-19 12:45:51 , tech , Netflix 暫緩打擊共享帳號，9 月底關閉 DVD 出租業務 , https://finance.technews.tw/2023/04/19/netflix-q1-2023-earnings/
+2023-04-19 14:00:45 , tech , 缺糧！惠譽：20 年來最嚴重全球稻米短缺將現 , https://technews.tw/2023/04/19/global-rice-shortage-is-set-to-be-the-biggest-in-20-years/
+2023-04-19 14:33:47 , tech , 愛德萬測試：ChatGPT 熱潮帶動晶片、設備需求走 , https://technews.tw/2023/04/19/advantest-chatgpt/
+2023-04-19 14:35:19 , tech , ASML 第一季財報優於預期，全年仍將成長 25% 破除砍單傳聞 , https://finance.technews.tw/2023/04/19/asmls-first-quarter-earnings-beat-expectations/
+2023-04-19 14:36:51 , tech , 台灣手機 3 月銷量探低，業者曝消費遞延關鍵 , https://technews.tw/2023/04/19/smart-phone-sales-march-taiwan/
+2023-04-19 14:38:23 , tech , 「合併基準日」首日就可連上台灣大網路？遠傳：掛羊頭就要賣羊肉 , https://technews.tw/2023/04/19/taiwan-mobile-9/
+2023-04-19 14:48:31 , tech , 家更安全了，HomePod 和 HomePod mini 聲音識別功能啟用 , https://ccc.technews.tw/2023/04/19/homepod-voice-recognition/
+2023-04-19 14:54:43 , tech , 政府舉報投資詐騙廣告，Meta 下架逾四成 Google 為 0 , https://technews.tw/2023/04/19/investment-scam-ads-meta-google/
+2023-04-19 14:56:15 , tech , 加速細胞療法發展，科學家將嘗試在太空製造幹細胞 , https://technews.tw/2023/04/19/mission-ax-2-stem-cell-axiom-space-pluripotent/
+2023-04-19 14:57:44 , tech , 富邦 2 檔債券 ETF 公告收益分配！最晚 ４/20 前買進就能參與除息 , https://finance.technews.tw/2023/04/19/treasuries-bond/
+2023-04-19 14:57:47 , tech , 美股信心創新低，僅 24% 民眾稱現在是投資好時機 , https://finance.technews.tw/2023/04/19/only-24percent-of-americans-think-now-is-a-good-time-to-invest/
+2023-04-19 15:27:46 , tech , 歐美訓練多年，部分烏軍長官仍有蘇式思維與年輕官兵產生摩擦 , https://technews.tw/2023/04/19/some-ukrainian-army-officers-still-holding-russian-style-of-thinking/
+2023-04-19 15:29:17 , tech , 蘋果 AR/VR 頭盔內容準備好了？傳已搭載健身、遊戲、iPad 應用程式 , https://technews.tw/2023/04/19/apple-arvr-headset/
+2023-04-19 15:30:49 , tech , 先進製程材料分析有解方！國科會原子針尖斷層影像儀發表 , https://technews.tw/2023/04/19/national-science-council-atomic-needle-tip-tomography-released/
+2023-04-19 15:31:01 , tech , 犬貓關節炎新里程！全台首例以外泌體和間質幹細胞治療馬匹肌腱損傷 , https://technews.tw/2023/04/19/exosome-ckd/
+2023-04-19 16:01:32 , tech , 歐盟晶片法案拚在地製造，專家：兼具優勢與挑戰 , https://technews.tw/2023/04/19/eu-chips-act-made-locally/
+2023-04-19 16:04:15 , tech , 顧客死忠、分析師按讚，Spotify 今年股價飆 70% , https://technews.tw/2023/04/19/buy-spotify-stock-analyst-says-a-consumer-survey-shows-more-upside-ahead/
+2023-04-19 16:04:25 , tech , 財測保守、新冠疫苗營收成長將止步，嬌生挫 3% , https://technews.tw/2023/04/19/johnson-johnson-shares-fall-after-company-beats-on-earnings-and-revenue/
+2023-04-19 16:06:48 , tech , 全台首創線上綠電顧問！台泥旗下能元超商轉供宏碁千萬度綠電 , https://finance.technews.tw/2023/04/19/cppa/
+2023-04-19 16:08:20 , tech , AutoGPT 不需指令就能「自主行動」分析及執行任務 , https://technews.tw/2023/04/19/autogpt/
+2023-04-19 16:09:42 , tech , 跨島即時救護指導，遠傳攜北市、澎湖 「5G 跨海急救醫療聯防」上線 , https://technews.tw/2023/04/19/fetnet-5g-3/
+2023-04-19 16:11:13 , tech , Micro LED 量產元年！友達董座彭双浪：成本速度有望走「摩爾定律」 , https://technews.tw/2023/04/19/auo-micro-led/
+2023-04-19 16:39:42 , tech , 聚光太陽能新應用，以「人工光合作用」製綠色氫氣 , https://technews.tw/2023/04/19/solar-dish-reactor-hydrogen/
+2023-04-19 16:41:03 , tech , 世衛組織警告 COVID-19 疫情仍有波動 , https://technews.tw/2023/04/19/who-covid-19-pheic/
+2023-04-19 16:44:56 , tech , 科技人才 , https://technews.tw/the-challenge-between-talent-and-enterprise/
+2023-04-19 16:46:50 , tech , Micro LED 量產元年！友達董座彭双浪盼成本速度走向「摩爾定律」 , https://technews.tw/2023/04/19/auo-micro-led/
+2023-04-19 17:05:33 , tech , 義大利有條件解禁 ChatGPT，最快 4/30 重新開放 , https://technews.tw/2023/04/19/italy-to-allow-chatgpt-to-return-if-openai-takes-useful-steps/
+2023-04-19 17:17:36 , tech , 亞泥響應世界地球日祭減碳三支箭！獨家開發低碳墁砌水泥銷量創新高 , https://finance.technews.tw/2023/04/19/invest-in-our-planet-2023/
+2023-04-19 17:41:34 , tech , 擴大 SaaS 服務拚數位變現！欣新網客戶業績成長近４成 , https://finance.technews.tw/2023/04/19/digital-realization/
+2023-04-19 18:05:51 , tech , 蘋果 AR / VR 頭盔內容準備好了？傳已搭載健身、遊戲、iPad 應用程式 , https://technews.tw/2023/04/19/apple-arvr-headset/
+2023-04-19 18:38:28 , tech , 日本旅遊復甦帶來龐大商機！兆豐日本優勢多重資產基金 4/24 開募 , https://finance.technews.tw/2023/04/19/multiple-assets/
+2023-04-19 18:44:22 , tech , 鴻海新 Micro LED 採新型薄膜保護技術，藍光亮度達 20 萬 nits , https://technews.tw/2023/04/19/foxconn-touch-taiwan-2023/
+2023-04-19 18:45:54 , tech , 美國將提出史無前例限制在中國投資規定 , https://technews.tw/2023/04/19/u-s-to-propose-unprecedented-restrictions-on-investment-in-china/
+2023-04-19 19:50:14 , tech , Micro OLED 來勢洶洶，錼創董座樂觀看待：業界較青睞 Micro LED , https://technews.tw/2023/04/19/playnitride-micro-led-2/
+2023-04-19 19:51:35 , tech , 台積電反對美國晶片法案規定超額分潤等條件 , https://finance.technews.tw/2023/04/19/tsmc-opposes-the-excess-profit-sharing-conditions-stipulated-by-the-us-chip-act/
+2023-04-19 19:53:07 , tech , 矽品獲台灣首家 GSMA SAS-UP 認證，將擴展業務至 iSIM 產品 , https://finance.technews.tw/2023/04/19/spil-obtains-taiwans-first-gsma-sas-up-certification/
+2023-04-19 22:44:34 , tech , 1 萬輛 Ionex 到位，基隆兌現青年電動機車政見 , https://technews.tw/2023/04/19/keelung-ev-for-youth-with-kymco/
+2023-04-19 23:08:31 , tech , 群創 5.5 代廠瞄準利基市場，不排除生產低軌衛星、Micro LED , https://technews.tw/2023/04/19/innolux-factory/

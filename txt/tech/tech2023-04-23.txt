@@ -1,0 +1,11 @@
+2023-04-23 00:59:00 , tech , marginFi 推出直接嵌入加密錢包的 Omni 聊天機器人，即問即答加密貨幣市場資訊 , https://technews.tw/2023/04/23/finance-this-ai-chatbot-plugs-into-your-crypto-wallet/
+2023-04-23 01:09:31 , tech , 三星惡夢！南韓 Apple Pay 單月成長 243% 已串接 110 家商店 , https://technews.tw/2023/04/22/apple-pay-korea/
+2023-04-23 09:41:35 , tech , 軍工、AI 股飆一波，還有這些「營收高成長股」能撿！13 檔外資投信搶吃籌碼快跟上 , https://finance.technews.tw/2023/04/23/military-industry-and-ai-stocks-soared/
+2023-04-23 10:05:35 , tech , 信用卡、票證卡成長進入高原期，跨足加密貨幣；台灣銘板律師當家，從冷錢包找新利基 , https://finance.technews.tw/2023/04/23/story-of-tnp/
+2023-04-23 10:23:22 , tech , 花錢念大學卻賠錢！二成讀完大學反而賺更少……「一招」解套 , https://finance.technews.tw/2023/04/23/was-your-degree-really-worth-it/
+2023-04-23 11:44:34 , tech , 水泥大廠進軍零售業！七年級生領航，環泥如何打進元太供應鏈？ , https://finance.technews.tw/2023/04/23/uneotech/
+2023-04-23 11:46:07 , tech , Alphabet 執行長 Sundar Pichai 去年薪資破 2 億美元，公司仍大裁員 , https://finance.technews.tw/2023/04/23/google-alphabet-sundar-pichai/
+2023-04-23 11:47:40 , tech , Coast：「API 展示平台」怎麼獲得 YC、雅虎創辦人青睞？ , https://technews.tw/2023/04/23/apis-are-the-critical-building-blocks-for-business-innovation/
+2023-04-23 14:50:33 , tech , 避免孩童誤玩槍走火，結合臉部、指紋辨識的智慧手槍今年上市 , https://technews.tw/2023/04/23/biofire-tech-smart-gun/
+2023-04-23 17:35:36 , tech , 「去中化」成趨勢，台廠轉向東南亞印度建立新供應鏈 , https://technews.tw/2023/04/23/de-sinicization-taiwan-turn-to-southeast-asian-india/
+2023-04-23 17:36:58 , tech , 安妮雅疑惑！《間諜家家酒》作者突獲 Twitter 組織認證「金勾勾」 , https://technews.tw/2023/04/23/elon-musk-twitter-blue/

@@ -1,0 +1,73 @@
+2023-03-22 07:05:14 , tech , 3M 想「貼」出減碳大道，但客戶會買單嗎？ , https://technews.tw/2023/03/22/3m-road-to-carbon-zero/
+2023-03-22 07:06:46 , tech , 英飛凌攜手台達電深化長期合作，共同成立創新實驗室下半年成立 , https://finance.technews.tw/2023/03/22/infineon-and-delta-electronics-deepen-long-term-cooperation/
+2023-03-22 07:08:17 , tech , 美國將公布晶片法案資金補貼限制細節，28 奈米節點將成為門檻 , https://technews.tw/2023/03/22/u-s-to-release-details-on-chip-bill-funding-subsidy-limits/
+2023-03-22 07:53:49 , tech , Touch Taiwan 2023 4 月 19 日登場，搶占「智」造先機 , https://technews.tw/2023/03/22/touch-taiwan-2023/
+2023-03-22 08:05:50 , tech , 花了 100 多億美元建 AI 模型，微軟又豪擲數億美元投資專用硬體 , https://technews.tw/2023/03/22/microsoft-details-its-chatgpt-hardware-investments/
+2023-03-22 08:07:22 , tech , 全球車用 MCU 高速增長，中國廠商加速布局 , https://technews.tw/2023/03/22/rapid-growth-of-global-automotive-mcu/
+2023-03-22 08:14:42 , tech , Pornhub 母公司被收購，新東家欲徹底解決法律爭議 , https://technews.tw/2023/03/22/pornhub-owner-sold-to-canadian-private-equity-firm-ethical-capital/
+2023-03-22 08:23:48 , tech , OpenAI 創辦人：不會開源 AI 模型以免遭錯誤利用 , https://technews.tw/2023/03/22/open-source-ai-development-is-a-bad-decision/
+2023-03-22 08:47:43 , tech , 內燃機車最後一口氣？歐盟可能放行電子燃料 , https://technews.tw/2023/03/22/e-fuel/
+2023-03-22 08:48:54 , tech , 如果人造肉技術成熟，你會想吃自己的肉嗎？ , https://technews.tw/2023/03/22/would-you-like-to-eat-your-own-meat/
+2023-03-22 08:59:27 , tech , 台灣對瑞信曝險 2,173 億，境外基金踩雷 AT1 部位仍在查 , https://finance.technews.tw/2023/03/22/taiwan-exposure-to-credit-suisse/
+2023-03-22 09:00:48 , tech , 探索金星的最好方法，可能是一支高空氣球艦隊 , https://technews.tw/2023/03/22/venus-balloon-planet/
+2023-03-22 09:02:33 , tech , 水情會議 3/22 召開，高雄擬轉減量供水橙燈 , https://technews.tw/2023/03/22/kaohsiung-plans-to-reduce-water-supply/
+2023-03-22 09:17:22 , tech , 擺脫垃圾級、中國銷售讚 2 大亮點，特斯拉股價飆 7% , https://technews.tw/2023/03/22/tesla-baa3/
+2023-03-22 09:18:43 , tech , Adobe 生成式人工智慧模型集 Firefly 亮相 , https://technews.tw/2023/03/22/adobe-firefly/
+2023-03-22 09:20:15 , tech , 改善停電，台電今年啟動 334 億配電系統升級計畫 , https://finance.technews.tw/2023/03/22/distribution-system-upgrade-program/
+2023-03-22 09:26:24 , tech , 人人都是創作者世代！獨立樂團用  4 支 iPhone 14 Pro 拍 MV , https://technews.tw/2023/03/22/iphone-14-pro-mv/
+2023-03-22 09:27:55 , tech , 跟上 AI 應用潮流！認識三大 AI 與機器學習工具類型 , https://technews.tw/2023/03/22/cloud-ace-ai-machine-learning/
+2023-03-22 09:28:56 , tech , Cloud Ace , http://bit.ly/41nZ9gD
+2023-03-22 09:29:17 , tech , 輝達攜 3 大廠加快微影製程、劍指 2 奈米，台積 ADR 嗨 , https://technews.tw/2023/03/22/nvidia-eda-tsmc/
+2023-03-22 09:53:51 , tech , 葉倫承諾遏阻銀行危機、Tesla 飆，那指嗨 , https://technews.tw/2023/03/22/us-stock-0322/
+2023-03-22 10:08:34 , tech , 大西洋孤島發現塑膠合成地質新構造，專家嘆令人不安 , https://technews.tw/2023/03/22/rock-analogues-emerging-from-marine-pollution/
+2023-03-22 10:09:56 , tech , 流感進入高峰期！太景流感新藥授權健康元推進中國三期臨床 , https://finance.technews.tw/2023/03/22/tg-1000-drug/
+2023-03-22 10:11:27 , tech , 具抗藥及致命性，耳念珠菌病例在美激增 , https://technews.tw/2023/03/22/deadly-fungus-spread-rapidly-during-the-pandemic/
+2023-03-22 10:12:39 , tech , 人腦運作速度慢如蝸牛，比爾蓋茲：幾十年內超級 AI 將超越人腦 , https://technews.tw/2023/03/22/ai-will-as-good-as-human-brain/
+2023-03-22 10:38:45 , tech , ARK 抓住 ChatGPT 熱潮，首次主動敲進微軟 , https://finance.technews.tw/2023/03/22/cathie-wood-catches-up-with-the-chatgpt-craze-as-arks-internet-fund-snaps-up-microsoft-stock-for-the-1st-time/
+2023-03-22 10:40:16 , tech , 晶圓廠設備支出今年降明年可望回升，台灣稱冠全球 , https://technews.tw/2023/03/22/global-fab-equipment-spending-on-track-for-2024-recovery-after-2023-slowdown/
+2023-03-22 10:41:38 , tech , 預期 , https://www.semi.org/en/news-media-press-releases/semi-press-releases/global-fab-equipment-spending-on-track-for-2024-recovery-after-2023-slowdown-semi-reports
+2023-03-22 10:41:58 , tech , 雙福聯手！Ford 發表 Explorer EV 中型純電休旅車，售價低於 5 萬美元 , https://technews.tw/2023/03/22/ford-explorer-ev-50k-usd/
+2023-03-22 11:14:45 , tech , 輝達推中國出口專用晶片「H800」，數據傳輸速度砍半 , https://technews.tw/2023/03/22/nvidia-change-h100-chip-to-h800-for-export-to-china/
+2023-03-22 11:38:50 , tech , 美商務部主責晶片官員將訪台，強化合作與供應鏈 , https://technews.tw/2023/03/22/doc-will-visit-taiwan-to-strengthen-semiconductor-cooperation/
+2023-03-22 11:44:43 , tech , 雞蛋進口擴大，陳吉仲：4、5 月進口各 3 千萬顆 , https://technews.tw/2023/03/22/eggs-import-expand/
+2023-03-22 11:56:46 , tech , 蘋果獲 Apple Watch 錶帶新專利，搭 NFC 模組、裝上就換 Watch UI , https://ccc.technews.tw/2023/03/22/apple-watch-band-with-nfc-watch-ui/
+2023-03-22 11:58:18 , tech , Marvell 擬大砍 4% 員工，傳中國研發團隊全被裁「一個不留」 , https://finance.technews.tw/2023/03/22/marvell-layoffs-4-employees/
+2023-03-22 11:59:49 , tech , 最新 AI 生成文本技術 GPT-4 升級程度？專家：超級多語言的口譯員 , https://technews.tw/2023/03/22/gpt-4-ai/
+2023-03-22 12:05:46 , tech , AI「iPhone 時刻」後，NVIDIA 打開生成式模型「魔盒」 , https://technews.tw/2023/03/22/nvidia-dgx-cloud/
+2023-03-22 12:08:46 , tech , 搭輝達狂潮，Supermicro 推 AI 伺服器、股價飆天價 , https://technews.tw/2023/03/22/supermicro-nvidia-hgx-h100-8-gpu/
+2023-03-22 12:14:23 , tech , 輝達推出口中國專用晶片「H800」，數據傳輸速度砍半 , https://technews.tw/2023/03/22/nvidia-change-h100-chip-to-h800-for-export-to-china/
+2023-03-22 12:26:35 , tech , 補貼退場買氣驟減，中國電車龍頭比亞迪砍班減產 , https://technews.tw/2023/03/22/byd-reduces-work-and-production/
+2023-03-22 12:27:56 , tech , 越多生命來自外太空證據，近地小行星樣本發現維生素 B3、RNA 化合物 , https://technews.tw/2023/03/22/uracil-rna-vitamin-b3-hayabusa2-asteroid-ryugu/
+2023-03-22 12:29:18 , tech , 新版 Bing 加入 AI 繪圖，初步測試圖片品質略遜於 Midjourney , https://technews.tw/2023/03/22/bing-image-creator-comes-to-the-new-bing/
+2023-03-22 12:38:36 , tech , 元大寶華下修今年經濟成長至 1.91%！董座葉銀華：下半年看不到明顯復甦 , https://finance.technews.tw/2023/03/22/recovery-momentum/
+2023-03-22 12:41:38 , tech , 無懼不景氣，研調估大尺寸面板今年出貨面積增 3.5% , https://technews.tw/2023/03/22/omdia-shipments-of-large-size-display-panels-in-2023/
+2023-03-22 13:08:47 , tech , 台積電：前瞻研究不足、產學落差、人才短缺台灣半導體產業三大隱憂 , https://finance.technews.tw/2023/03/22/three-hidden-worries-of-taiwans-semiconductor-industry/
+2023-03-22 13:15:53 , tech , 新版 Bing 加入 AI 繪圖，初步測試圖片品質略遜 Midjourney , https://technews.tw/2023/03/22/bing-image-creator-comes-to-the-new-bing/
+2023-03-22 14:14:44 , tech , 國際自行車展盛大登場！貿協董座黃志芳：E-bike 逆勢成長破百萬台 , https://finance.technews.tw/2023/03/22/e-bike-growth/
+2023-03-22 14:23:50 , tech , 艾克曼、馬斯克、Fed 傳聲筒異口同聲：3 月別升息 , https://finance.technews.tw/2023/03/22/the-federal-reserve-should-pause-on-wednesday/
+2023-03-22 14:38:49 , tech , 決定虛擬貨幣是否為證券，SEC 官司將迎判決、瑞波幣飆 , https://technews.tw/2023/03/22/xrp-jumps-20-percent-with-crypto-world-hopeful-ripple-will-beat-sec-in-landmark-court-case/
+2023-03-22 14:50:46 , tech , Facebook 未盡力阻止兒童性剝削內容，Meta 祖克柏挨告 , https://technews.tw/2023/03/22/facebook-isnt-doing-enough-to-stop-child-sexual-exploitation/
+2023-03-22 14:53:46 , tech , AI 模型需耗用大量 GPU，推動載板長期需求 , https://technews.tw/2023/03/22/abf-board-need/
+2023-03-22 15:14:47 , tech , 既然難以回收，中國研發「生物分解」玻璃 , https://technews.tw/2023/03/22/experimental-biodegradable-glass-breaks-down-when-composted/
+2023-03-22 15:16:19 , tech , 時代眼淚！亞馬遜將關閉 25 年歷史、相機評測權威網站 DPReview , https://technews.tw/2023/03/22/amazon-shuts-down-dpreview/
+2023-03-22 15:17:50 , tech , 首位職籃人物躍信用卡面！霍華德曝用「永豐魔獸卡」走路賺點數 , https://finance.technews.tw/2023/03/22/dawho-dwight-howard/
+2023-03-22 15:19:22 , tech , 尹錫悅：日本將重返南韓貿易「白名單」 , https://technews.tw/2023/03/22/s-korea-japan-fast-track-white-list/
+2023-03-22 15:35:48 , tech , 研調：今年全球可穿戴裝置市場出貨量年增 6.3% , https://technews.tw/2023/03/22/global-shipments-of-wearable-devices-forecast-to-rebound-in-2023/
+2023-03-22 15:50:49 , tech , 亞太電成投資詐騙溫床？NCC：未落實用戶身分查核，裁處罰鍰 450 萬元 , https://technews.tw/2023/03/22/mobile-scarm/
+2023-03-22 15:52:21 , tech , 疑含惡意軟體，中國拼多多 App 遭 Google 下架 , https://technews.tw/2023/03/22/pinduoduo-app-google-play/
+2023-03-22 15:52:23 , tech , Touch Taiwan 2023 於 4/19 登場，搶占「智」造先機 , https://technews.tw/2023/03/22/touch-taiwan-2023/
+2023-03-22 15:56:47 , tech , 尖牙股讓位？美股迎雙箭頭，蘋果、微軟權重創高 , https://finance.technews.tw/2023/03/22/apple-microsoft-weight-hit-record-highs/
+2023-03-22 16:02:47 , tech , 電支阻詐，一卡通聯手 Gogolook 防範金融詐騙 , https://technews.tw/2023/03/22/ipass-gogolook/
+2023-03-22 16:32:47 , tech , 英特爾首席架構師 Raja Koduri 辭職創業，成立生成式 AI 公司 , https://technews.tw/2023/03/22/raja-koduri-intel-ai/
+2023-03-22 16:34:19 , tech , 英國將給烏克蘭衰變鈾穿甲彈，莫斯科揚言必將對等回應 , https://technews.tw/2023/03/22/uk-is-giving-depleted-uranium-ammunition-to-ukraine/
+2023-03-22 16:35:40 , tech , 選油車還是電車？調查：僅 1/3 美國人想買電動車 , https://technews.tw/2023/03/22/only-33percent-of-americans-want-to-buy-an-electric-car/
+2023-03-22 16:35:45 , tech , 追趕 ChatGPT，Google 終於開放英美用戶測試 Bard 聊天機器人 , https://technews.tw/2023/03/22/google-opening-early-access-to-ai-chatbot-bard/
+2023-03-22 17:29:44 , tech , 中國無人機源源不絕，美國制裁俄羅斯難以奏效 , https://technews.tw/2023/03/22/chinese-drones-flocked-into-russia-undermining-western-sanctions/
+2023-03-22 17:31:15 , tech , 首家金控動用公積配發股利！國泰金可用資金 2,890 億元 , https://finance.technews.tw/2023/03/22/reserve-dividend-distribution/
+2023-03-22 17:32:47 , tech , 三星代工業績拖累矽智財公司，難以抗衡台積電合作夥伴創意電子 , https://technews.tw/2023/03/22/samsungs-foundry-performance-drags-down-silicon-intellectual-property-companies/
+2023-03-22 17:59:38 , tech , 布局新世代半導體前瞻技術，國科會攜手產學研聚焦三領域 , https://finance.technews.tw/2023/03/22/layout-new-generation-semiconductor-forward-looking-technology/
+2023-03-22 18:01:10 , tech , 中國傳補貼特定業者，分析師：難突破美國半導體圍堵 , https://technews.tw/2023/03/22/china-may-struggle-to-meet-semiconductor-targets/
+2023-03-22 18:17:37 , tech , 蘋果 A17 Bionic  處理器性能提升有限，瓶頸在於台積電 3 奈米製程 , https://technews.tw/2023/03/22/apples-a17-bionic-processor-has-limited-performance-gains/
+2023-03-22 18:29:39 , tech , 台積電 4 奈米助攻，輝達 H100 NVL 運算加速卡訓練語言模型效率倍增 , https://technews.tw/2023/03/22/nvidia-h100-nvl/
+2023-03-22 18:31:10 , tech , 蘋果 A17 Bionic  處理器性能提升有限，瓶頸是台積電 3 奈米 , https://technews.tw/2023/03/22/apples-a17-bionic-processor-has-limited-performance-gains/
+2023-03-22 18:50:33 , tech , 國泰金：瑞信 AT1 註銷是特別案例，應向瑞士當局爭權利 , https://finance.technews.tw/2023/03/22/shutterstock-at1-is-special-case/

@@ -1,0 +1,538 @@
+2023-03-07 00:06:46 , pcdiy , 技嘉Z790 AORUS XTREME主機板一鍵超頻實戰，用Instant 6GHz技術讓Intel第13代Core i9-13900K/KF變身13900KS處理器！ , /detail/25947
+2023-03-07 00:15:45 , pcdiy , 
+
+技嘉Z790 AORUS XTREME主機板一鍵超頻實戰，用Instant 6GHz技術讓Intel第13代Core i9-13900K/KF變身13900KS處理器！
+現在要買桌機的話，要擁有最強的性能，以及最大的擴充能力，Intel第13代處理器無疑是最好的選擇！若要直上高階Core i9-13900K/KF處理器，安裝高階GeForce RTX 4080、4090顯示卡，還要能支援未來的PCIe 5.0 M.2 NVMe SSD，那麼肯定是要搭配頂級Intel Z790主機板了！然而，在眾多主機板品牌裡面，要找出符合自己口味的史上最強旗艦級玩家主機板，那也不是一件容易的事情！既然要選擇史上最強主機板，不僅要系出名門用料紮實，供電要有20相以上數位電源，提供超頻功能，採用全覆蓋盔甲散熱，保護主機板上的重要元件，確保主機板不板彎，還具備強化散熱不掉速，記憶體要能至少上DDR5-8000，要有至少2組PCIe 5.0 x16擴充槽，具備1組PCIe 5.0 M.2 NVMe SSD，還要有M.2 SSD快速安裝卸載擴充槽，PCIe快速卸載按鍵，LCD螢幕顯示處理器與記憶體頻率、溫度資訊，並且要有10GbE有線網路與802.11AX的Wi-Fi 6E無線網路，還要有一鍵超頻功能。要找到這樣檔次的產品，選擇並不多！今天，就讓我們來看看，由技嘉科技為玩家打造的頂級主機板Z790 AORUS XTREME，讓我們一起來揭開它神祕的面紗吧！
+
+
+
+-----------------
+技嘉Z790 AORUS XTREME實測開箱，史上最強旗艦級玩家主機板！
+
+技嘉Z790 AORUS XTREME效能測試，史上最強旗艦級玩家主機板！
+
+
+-----------------
+
+技嘉科技，近日針對旗下Intel Z690、Z790主機板，推出了Instant 6GHz技術！這款技術，讓13900K/KF處理器，可以衝上6000MHz！這是什麼神技術黑科技呢？讓我們來試玩看看！
+
+這邊，採用的是技嘉科技最頂級的Z790 AORUS XTREME來做效能實測，讓我們來看看Instant 6GHz技術的實力吧！
+
+
+
+
+
+
+
+隨著Intel第13代處理器的推出，頂級版Core i9-13900K/KF處理器，威力非常強大！和過去第1代～第11代不同的是，第12、13代採用大小核設計，於是Intel把TurboBoost的動態超頻設計做了很大的變更，包括P效能核心與E節能核心都提供了動態超頻技術，可以將效能與功耗最佳化！
+
+這邊，我們先來簡單瞭解一下，Intel針對12、13代處理器的動態超頻技術，主要是分為P效能核心與E節能核心的不同作法。
+
+Total Cores：24
+＃Performance-cores：8
+＃of Efficient-coresl：16
+Total Threads：32
+Max Turbo Frequency：5.80 GHz
+Intel Thermal Velocity Boost Frequency：5.80 GHz
+Intel Turbo Boost Max Technology 3.0 Frequency：5.70 GHz
+Performance-core Max Turbo Frequency：5.40 GHz
+Efficient-core Max Turbo Frequency：4.30 GHz
+Performance-core Base Frequency：3.00 GHz
+Efficient-core Base Frequency：2.20 GHz
+Cache：36 MB Intel Smart Cache
+Total L2 Cache：32 MB
+Processor Base Power：125 W （PL1）
+Maximum Turbo Power：253 W （PL2）
+
+Intel定義了基礎P效能核心的基本頻率，叫做「Performance-core Base」。根據Intel官方介紹：「這功能中文命名叫做Performance-core 基礎頻率。」
+
+Intel定義了新的動態超頻技術，叫做「Intel Turbo Boost Max Technology 3.0」。根據Intel官方介紹：「這功能中文命名叫做Intel 渦輪加速 Max 技術 3.0，會辨識出處理器上表現最佳的一個或多個核心，利用功耗和散熱的餘裕範圍，透過在需要時增加核心的時脈，提供它（們）增強的效能。以這模式執行時，Intel 渦輪加速 Max 技術 3.0 頻率是 CPU 的時脈頻率。」
+
+Intel定義了另一個新的動態超頻技術，叫做「Intel Thermal Velocity Boost」。根據Intel官方介紹：「這功能中文命名叫做Intel 傅熱速度，Intel Thermal Velocity Boost (Intel TVB) 是一項功能，可機動和自動增加超過單核心和多核心 Intel 渦輪加速技術的時脈頻率，主要根據處理器在其最高溫度下運行的程度，以及是否有可用的加速電源預算。頻率的增益和持續時間取決於工作負載、處理器能力、以及處理器的冷卻解決方案。」
+
+Intel定義了另一個新的動態超頻技術，叫做「Performance-core Max Turbo」。根據Intel官方介紹：「這功能中文命名叫做Performance-core Max 渦輪加速，從 Intel 渦輪加速技術獲得的最大 P-core 渦輪頻率。」
+
+Intel定義了基礎E節能核心的基本頻率，叫做「Efficient-core Base」。根據Intel官方介紹：「這功能中文命名叫做Efficient-core 基礎頻率。」
+
+Intel定義了新的動態超頻技術，叫做「Efficient-core Max Turbo」。根據Intel官方介紹：「這功能中文命名叫做Efficient-core Max 渦輪加速，從Intel渦輪加速技術獲得的最大 E-core 渦輪頻率。」
+
+Intel近幾年來，除了所謂的標準TDP，還設計了所謂的功耗牆Power Limit。Power Limit簡稱：PL，一般有分成Power Limit 1（PL1），功耗上限值1，Power Limit 2（PL2），功耗上限值2。
+
+Intel還設計了Tau值（Turbo Time Parameter，動態超頻時間參數）。這個Tau值，針對不同的CPU有不一樣的時間設定。一般，非K處理器的PL1功耗牆的Tau值是28秒，K處理器的PL1功耗牆的Tau值是56秒，最大值微448秒。
+
+Intel設計PL1、PL2與Tau值，除了方面主機板、品牌電腦業者設計主機板與電腦的電源與散熱，也讓主機板業者可以設計出更強的超頻能力，畢竟要超更高的時脈，主機板就要提供更大的供電，相對的散熱也要夠力才行
+
+
+
+
+
+
+有了這些幾本的認識之後，我們就能來進一步認識技嘉科技的Instant 6GHz技術。
+
+技嘉科技推出了Instant 6GHz技術，其實是透過BIOS來便於玩家簡易超頻的一個作法。目前這個技術，是指能用來超Intel第13代Core i9-13900K/KF處理器超頻至6GHz。
+
+目前的Instant 6GHz技術，用的其實是溫和的超頻作法，可以適用於絕大多數體質好的Intel第13代Core i9-13900K/KF處理器。
+
+它設計的概念，是提升超頻的性能，超的是Intel Thermal Velocity Boost。把Intel第13代Core i9-13900K/KF處理器，的Intel Thermal Velocity Boost從5.8GHz，超頻至6.0GHz。
+
+原先Intel第13代Core i9-13900K/KF處理器，它的Intel Thermal Velocity Boost，是5.8GHz，亦即P效能核心可以在的1～2核心間提升到5.8GHz，3～8核心間最高提升到5.5GHz，P效能核心全核可以維5.5GHz以上的工作時脈。
+
+技嘉的Instant 6GHz技術，是直接在Tweaker選單的CPU Upgrade選項，多出了Instant 6GHz。玩家可以透過這簡單的設定，就能把Intel第13代Core i9-13900K/KF處理器超頻到6.0GHz，而且不用再操作其他的加電壓、調整頻率的設計，輕輕鬆鬆就能衝上6.0GHz
+
+事實上，Intel即將推出加強版的Core i9-13900KS處理器，它的特別之處，就是讓那1～2核心最高可以跑到6.0GHz。
+
+簡單單來說，技嘉的Instant 6GHz技術，讓Intel第13代Core i9-13900K/KF處理器，搖身一變成為Core i9-13900KS。
+
+Total Cores：24
+＃Performance-cores：8
+＃of Efficient-coresl：16
+Total Threads：32
+Max Turbo Frequency：6.00 GHz
+Intel Thermal Velocity Boost Frequency：6.00 GHz
+Intel Turbo Boost Max Technology 3.0 Frequency：5.80 GHz
+Performance-core Max Turbo Frequency：5.40 GHz
+Efficient-core Max Turbo Frequency：4.30 GHz
+Performance-core Base Frequency：3.20 GHz
+Efficient-core Base Frequency：2.20 GHz
+Cache：36 MB Intel Smart Cache
+Total L2 Cache：32 MB
+Processor Base Power：150 W （PL1）
+Maximum Turbo Power：253 W （PL2）
+
+目前，Instant 6GHz技術，已經支援了技嘉Z690、Z790主機板，玩家可以在搭配Intel第13代Core i9-13900K/KF處理器時透過BIOS啟用。
+
+看到這邊，我們可以得出一些結論。
+
+
+
+這邊，玩家要注意的是，技嘉的Instant 6GHz固然是很好的超頻作法。但原先Intel只標示Intel第13代Core i9-13900K/KF處理器只能動態超頻到5.8GHz，不排除體質爛的會跑不上去，或者需要更高的電壓才能穩跑的狀況發生。
+
+
+
+首先，可以確定的，Intel第13代Core i9-13900K/KF處理器，它在一般環境之下，1～2效能核心最高可以跑到6.0GHz，8各性能核心全核工作的話，最高可以運行在5.5GHz，此時若解除PL1、PL2功耗牆限制的話，CPU電源功耗一般在280～300W左右，最大可以上看350W。
+
+若是只有1～2效能核心跑6.0GHz，並不會增加此時的CPU功耗。由此可見，要讓CPU吃大電的話，只有全核跑5.5GHz，或更高才會出現。這時候，主機板的供電就非常重要了。中階與高階Z790主機板的差異就可以顯現出來。
+
+
+
+在搭配一般的360mm（120mmx3）一體式水冷散熱器之下，解熱的效率可以達到280～300W左右，比較好的則可以到350W，若要解更高的瓦數，那麼360mm（120mmx3）一體式水冷散熱器可能就不夠用了。這時候搭配的散熱膏也很重要，才能確保以最快的速度導熱。
+
+這邊，我們可以發現，當Intel第13代Core i9-13900K/KF處理器，運行全核5.5GHz，或者更高的時候，搭配360mm（120mmx3）一體式水冷散熱器，CPU溫度很快就飆升到100°C，當超過這個溫度的時候，馬上會出現過熱降速的狀況。因此，即便把PL1、PL2功耗牆限制關掉，散熱器的解熱效能則會是最後極限速度的關鍵。
+
+可預見的，未來更強大的一體式水冷散熱器將會推出，可能朝向480mm（120mmx4）、600mm（120mmx5）一體式水冷散熱器發展。然而，比起360mm（120mmx3）一體式水冷散熱器，更大的水冷排的話則可能是雙排的設計，否則一般機殼的散熱空間則無法安裝。
+
+
+
+技嘉Z790 AORUS XTREME，經過了完整的測試，以及使用長達1個月的時間，沒有出現不穩、當機、重新開機的狀況，穩定度相當高。使用Instant 6GHz技術，把Intel第13代Core i9-13900KF超上6GHz，當做13900KS來使用，足足跑了一個月時間，速度表現驚人，而且還相當穩定，爽度相當高！無論是超頻前，或用Instant 6GHz技術超頻後，效能表現令人滿意。
+
+技嘉Z790 AORUS XTREME主機板的話，目前已經在全球上市，台灣市場也已經開賣！最新的市場行情，技嘉Z790 AORUS XTREME，報價：34,990元。
+
+保固期的話，提供原廠3＋2年有限保固服務。
+
+若以價位來看的話，技嘉Z790 AORUS XTREME主機板無疑是Intel Z790主機板中最高貴的等級！價格上打敗了華碩ROG MAXIMUS Z790 EXTREME，僅有微星MEG Z790 GODLIKE能在價格上與其匹敵！
+
+
+
+
+
+這次，我們實測開箱了技嘉Z790 AORUS XTREME，可以看出技嘉對於這款Intel Z790主機板的用心與細心，用上了台灣人的軟實力與硬底子，選用了高檔用料，前衛的全覆蓋盔甲散熱設計，外觀質感也相當好，整個功能完整及擴充能力強大，實測效能與一鍵令人相當滿意。
+
+整體來說，這款技嘉Z790 AORUS XTREME，是史上最強旗艦級玩家主機板！
+
+廠商名稱：技嘉科技股份有限公司
+廠商電話：02-8912-4000
+廠商網址：
+
+→更多的【PCDIY! CPU／中央處理器】： 
+
+→更多的【PCDIY! MainBoard／主機板／電競主機板】： 
+
+→更多的【PCDIY! DRAM／記憶體／超頻記憶體模組】： 
+
+→更多的【PCDIY! SSD／固態硬碟】： 
+
+→更多的【PCDIY! HDD／機械硬碟／傳統硬碟】： 
+
+→更多的【PCDIY! 行動儲存／外接機械硬碟／外接固態硬碟／隨身碟／記憶卡】： 
+
+→更多的【PCDIY! NAS／網路儲存裝置】：
+ , /detail/25947
+2023-03-07 10:54:17 , pcdiy , 跨混合雲及多雲平台 Red Hat 與 NVIDIA 擴大合作 AI 與 5G 解決方案 , /detail/25948
+2023-03-07 11:03:21 , pcdiy , 
+跨混合雲及多雲平台 Red Hat 與 NVIDIA 擴大合作 AI 與 5G 解決方案
+ , /detail/25948
+2023-03-07 11:03:21 , pcdiy , 
+
+跨混合雲及多雲平台 Red Hat 與 NVIDIA 擴大合作 AI 與 5G 解決方案
+世界領先開放原始碼軟體解決方案供應商 Red Hat 宣布與 NVIDIA 合作，為跨混合雲及多雲、符合產業標準的伺服器，提供無線接取網路（RAN）部署服務。無論在私有資料中心、多個公有雲，甚至網路邊緣支援 NVIDIA 聚合加速器和 NVIDIA Aerial SDK，都可透過業界領先企業級 Kubernetes 平台 Red Hat OpenShift，協助部署軟體定義 5G 虛擬無線接取網路（vRAN）及企業 AI 應用程式；客戶則可使用組合式基礎架構滿足邊緣運算、5G 專網、AI 等運算密集型應用程式的資料需求，同時獲得更高的靈活性和互通性、風控能力，快速取得投資報酬。
+
+
+Red Hat 電信、媒體、娛樂暨邊緣生態系副總裁 Honoré LaBourdette 表示：「從 AI/ML 到邊緣運算以及先進軟體定義架構，新興技術持續驅動 5G 革新，因此現代網路更需要強大的協作生態系，提供領先功能、加速業務轉型以成就未來。藉由 Red Hat OpenShift 平台對 NVIDIA GPUs 及 NVIDIA Aeria SDK 的支援，企業能在混合和多雲環境中充分發揮 5G 驅動應用情境的潛力、在邊緣實踐全新服務和應用程式，推動快速轉型；開源創新即為一切的原動力。」
+
+NVIDIA 電信資深副總裁 Ronnie Vashita 表示：「服務供應商必須採用雲端原生基礎架構，滿足 5G 和邊緣運算不斷增長的運算需求。整合 NVIDIA 聚合加速器的運算效能以及 Red Hat OpenShift，企業能在最佳解決方案中實現 5G RAN 和 AI 應用程式，應對現今與未來的應用情境。」
+
+組合式基礎架構可減少對占空間的硬體和專用軟體需求，進而簡化資源並將現有 IT 環境最佳化。NVIDIA GPU、DPU 以及聚合加速器將 NVIDIA Ampere GPU 和 NVIDIA BlueField-2 整合至單一且高效能的套件。分解運算、儲存和網路資源可減輕傳統 CPU 負載，從而更快地處理封包，並透過隔離基礎架構較為繁重的任務，提供更完善的安全措施。
+
+減少總體擁有成本（TCO）、降低與大規模部署和維護 RAN、AI 相關的整體系統成本
+大幅加速在混合雲和多雲環境的網路部署，為多租用戶服務和 RAN 即服務（RAN-as-a-service）奠定基礎
+組合式基礎架構可減少對專用硬體的需求，若與 Red Hat Enterprise Linux 搭配使用，還可提供低延遲性與增強一致性
+數十億台裝置的連網能力，將 AI 功能和應用程式的覆蓋範圍擴充到所有邊緣裝置
+在邊緣啟用 AI 和 ML，加速更多應用情境的開發，包括多接取邊緣運算（MEC）、自駕車、工業以及農業
+
+NVIDIA Aerial 是一種應用程式框架，用於大規模建置高效能、軟體定義、雲端原生 5G RAN 應用程式，滿足不斷成長的消費者需求。除了 Red Hat OpenShift 和 Red Hat Enterprise Linux 之外，Red Hat Advanced Cluster Management for Kubernetes 和 Red Hat Advanced Cluster Security 也能在不影響效能的情況下，更有效地管理和保護其多叢集應用程式。服務供應商能有效滿足運算密集型應用程式的資料需求，同時確保安全能力和管理。
+
+端對端網路軟體供應商 Mavenir 預計在未來一年透過 Red Hat 與 NVIDIA 技術實作其 AI-on-5G 解決方案。此預先封裝的網路解決方案旨在提供具分析功能的整合式單一虛擬管理平台（single pane of glass），促成 5G 專網無縫且具高成本效益的管理和營運。
+
+Mavenir 執行副總裁、技術暨策略長 Bejoy Pankajakshan 表示：「Mavenir 正致力於打造網路的未來與開創先進技術，透過採用 NVIDIA GPU 和 Red Hat  Kubernetes 驅動的開源技術建置我們的 AI on 5G 解決方案，Mavenir 整合式雲端原生 Open vRAN 解決方案將為各產業提供清晰的資料處理與分析、無縫且具高成本效益的管理，以及透過次世代、安全的 5G 專網統一檢視表（view）簡化營運。」
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/25948
+2023-03-07 11:48:50 , pcdiy ,  AMD在OFC 2023發表首款400G網路效能IPSec元件 , /detail/25949
+2023-03-07 11:51:47 , pcdiy , 
+ AMD在OFC 2023發表首款400G網路效能IPSec元件
+ , /detail/25949
+2023-03-07 11:51:47 , pcdiy , 
+
+ AMD在OFC 2023發表首款400G網路效能IPSec元件
+AMD在光纖通訊大會（OFC 2023）將公開展示首款400G在線（inline）網際網路安全協定（IPSec）處理功能，結合AMD Versal Premium系列元件，並整合高速加密引擎與硬化網路介面IP模塊，能與搭載AMD EPYC處理器的伺服器搭配運用。
+
+
+儘管現代乙太網路埠的傳輸速度已達到400G並逐漸邁向800G，但IPSec解決方案目前的網路傳輸速度仍受限在10G至200G。這款元件旨在應對現代網路基礎設施的高速埠要求，在符合領先業界的加密標準下，相較現今業內在線IPSec解決方案具有顯著的效能優勢。
+
+Versal Premium系列可擴充的100G-400G IPSec設計以及基於自行調適平台的硬化400G通道化高速加密引擎，不僅減少傳輸速度的落差，也提升企業與服務供應商網路所採用之安全路由器與新一代防火牆的效能。企業可藉由400G安全解決方案於高速網路上營運，且無須在安全、吞吐量或延遲間取捨。
+
+Versal Premium架構設計達成所有標準IPSec功能，像是通道建立、安全政策、資料庫查詢、通訊協定處理以及重放攻擊保護（replay protection）的400G傳輸速度加密與解密。
+
+●	100G-400G可擴充整合乙太網路MAC/PCS子系統（DCMAC）與高速加密（HSC）硬化模塊。
+●	運用AMD內容可定址記憶體（Content Addressable Memory，CAM）與半三進位內容可定址記憶體（Semi-Ternary CAM，STCAM）IP核心執行400G安全政策與安全資料庫查詢。
+●	利用高達32K的傳輸通道整合IPSec控制與資料平面功能，以搭載EPYC處理器與Versal Premium系列元件的AMD平台執行業界標準strongSwan應用程式介面（API）。
+
+AMD AECG資料中心與通訊事業群資深業務總監Gilles Garcia表示，儘管企業領導瞭解安全至關重要，網路節點的安全功能卻跟不上創新與網路基礎架構演進的節奏。AMD全新技術平台解決方案將釋出符合網路速度要求的安全功能。
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/25949
+2023-03-07 11:57:37 , pcdiy , Infortrend EonStor GS 儲存系統 HA Service 功能再進化，為關鍵工作負載提供無中斷服務 , /detail/25950
+2023-03-07 12:00:53 , pcdiy , 
+Infortrend EonStor GS 儲存系統 HA Service 功能再進化，為關鍵工作負載提供無中斷服務
+ , /detail/25950
+2023-03-07 12:00:53 , pcdiy , 
+
+Infortrend EonStor GS 儲存系統 HA Service 功能再進化，為關鍵工作負載提供無中斷服務
+普安科技（股票代碼：2495）為企業級資料儲存專家，旗下 EonStor GS 整合儲存系統推出新版高可用 HA Service 功能。新版 HA Service 除可支援區塊層級外，新增支援檔案層級服務，強化儲存系統持續運作能力，適合企業用於關鍵系統或儲存重要檔案。
+
+
+EonStor GS 為專為企業設計的整合儲存系統，具備雙冗餘控制器，可避免單一控制器故障而導致服務中斷。對於要求服務零停機的企業，可利用 HA Service 搭配兩台 GS 儲存設備部署於不同機房，並將資料同步寫入兩台設備。當其中一個設備因停電等事件停機時，另一機房的設備可立即接手提供服務，確保服務不中斷、資料無遺失，大幅提升儲存設備的高可用能力。
+
+EonStor GS 的區塊層級 HA Service 功能，適用於資料庫、虛擬化等應用。對於醫療、金融、電信、政府、高科技製造等行業，皆可利用 HA Service 及雙主動架構，確保持續服務能力，避免交易、產線等作業停擺造成的巨額損失或損及商譽。
+
+EonStor GS新增的檔案層級 HA Service 功能，同樣提供服務不中斷、資料無遺失的能力。由於現代企業多採協同作業模式，並將檔案放置於檔案伺服器，供不同部門存取利用。當檔案無法存取或遺失，即代表員工無法完整利用工作所需資料，進而降低生產力。檔案層級 HA Service 可將上述風險降到最低，確保企業資料隨時可用。
+
+普安科技產品企劃部資深經理李金溪表示：「我們專注於為企業提供穩定好用的儲存系統，在這個方向上，進而推出區塊及檔案層級HA Service功能，大幅增進高可用能力，協助企業實現近零恢復時間目標 ( RTO ) 及零恢復點目標 ( RPO ) 。」
+
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/25950
+2023-03-07 14:09:45 , pcdiy , 6色超進化！Epson全新架構高產能影像繪圖機，絕佳色彩層次表現媲美9色機 線圖海報、影像輸出E印俱全 , /detail/25951
+2023-03-07 14:18:42 , pcdiy , 
+6色超進化！Epson全新架構高產能影像繪圖機，絕佳色彩層次表現媲美9色機 線圖海報、影像輸出E印俱全
+ , /detail/25951
+2023-03-07 14:18:42 , pcdiy , 
+
+6色超進化！Epson全新架構高產能影像繪圖機，絕佳色彩層次表現媲美9色機 線圖海報、影像輸出E印俱全
+全球創新科技領導品牌Epson宣布13款大尺寸影像繪圖機正式上市，為企業帶來高效、高產能的跨世代列印解決方案，包含 SureColor P6530E／P6530DE／P6530D／P8530D／P8530DL以及T3730E／T3730DE／T3730D／T5730D／T5730DM／T7730D／T7730DM／T7730DL 等，不同機種分別針對影像輸出以及工程海報繪圖用戶量身打造。搭配Pigment顏料型墨水，具備抗光防水與不易褪色的特性，讓輸出作品在長時間下來依然保持優異的成色。P系列特殊色搭配灰色，輸出圖片時可帶來柔和的漸層感，色彩層次表現媲美9色機，同時能有效降低畫面中的顆粒感讓生命中的美好經典重現；T系列特殊色搭配紅色，一機二用，CAD線圖線條輸出精準，鮮紅色墨水讓宣傳海報更加吸睛。
+
+
+兼顧輕薄與堅固的全新架構 LFP New Architecture Run，對大尺寸繪圖機結構進行了大幅進化，簡約方正的外型設計，讓機器在安裝時能夠緊密貼合牆面，特別適合空間有限的店面像是相片沖印店面、攝影/藝術創作工作室、大賣場的行政辦公室等，使工作場域的每一吋空間都能得到極致運用。此種創新的框架結構，不僅減輕機體重量，堅固性更是值得信賴。通過這樣的領先結構設計，Epson將顯著提高可用性和質量，開創大尺寸噴墨繪圖機的新趨勢。
+
+
+此次新上市的機種配備2.64英吋PrecisionCore MicroTFP超高效能的壓電式噴頭，相較於熱氣泡加熱式噴頭，打點不僅精準細緻還非常省電，水平列印A1尺寸最快只需16秒註一，大幅提升印刷速度，提供用戶高品質、高產能又環保省電兼具的列印解決方案，並可選購領先業界採用的960G AES-256加密SSD硬碟註二，讓資料傳輸更加快速安全。支援識別卡驗證列印功能（選配功能），讓企業資安等級提升，也能精準計算支出，讓企業對於成本控管更加精確。值得一提的是全新架構的進紙設計，有自動進／退紙功能和符合人體工學的紙軸位置設計，有助於減少操作人員工作負擔。
+
+
+Epson新機種為各式各樣有大尺寸輸出需求的客戶設想周到，可滿足多重應用及對成本控管有需求的客戶: 除尺寸多樣化（24,36,44吋一應俱全）、紙捲單／雙捲配置外，還有內建LED雙光源掃描器的多功能複合影像繪圖機註三、高用量客戶適用的大供墨機種註四，有效降低輸出成本；進階型機種註五皆配備Adobe Embedded Print Engine及Adobe PostScript，可加快列印處理速度，並正確輸出多重圖層的檔案—即日起，大尺寸影像繪圖機新紀元將由Epson揭開嶄新序幕！
+ 
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/25951
+2023-03-07 14:21:35 , pcdiy , 
+Supermicro 和 Rakuten Symphony 擴大合作範圍，為雲端型 Open RAN 行動網路提供完整的 5G、電信和邊緣解決方案
+ , /detail/25952
+2023-03-07 14:21:35 , pcdiy , Supermicro 和 Rakuten Symphony 擴大合作範圍，為雲端型 Open RAN 行動網路提供完整的 5G、電信和邊緣解決方案 , /detail/25952
+2023-03-07 14:21:35 , pcdiy , 
+
+Supermicro 和 Rakuten Symphony 擴大合作範圍，為雲端型 Open RAN 行動網路提供完整的 5G、電信和邊緣解決方案
+Supermicro, Inc. (NASDAQ：SMCI) 為雲端、AI/ML、儲存和 5G/智慧邊緣應用的全方位 IT 解決方案供應商，宣佈加強與 Rakuten Symphony 的合作關係，提供適用於各種工作負載的新一代伺服器和儲存系統。Supermicro 為 Rakuten Symphony 的主要合作夥伴，兩家公司協力為電信業者提供以雲端為基礎的行動服務藍圖，運用最先進的伺服器和網路架構，為全球電信業者提供易於實作的解決方案。此外，Rakuten Symphony 能在最短的時間內提供 Open RAN 解決方案，加上及時的技術支援和諮詢服務。
+
+
+全球行動電信業者在採用 Open RAN 時皆面臨著眾多挑戰，包括需要從頭建構全新的高效能網路，需要投入資金和時間來熟悉的新型元件，需瞭解不同的擴充及強化網路的方式，還要權衡各種技術之間的優缺點。在 Rakuten Symphony 協助下，採用 Supermicro 經過預先定義及測試的伺服器，您將隨時有一套高效能、高成本效益、經過最佳化且安全的解決方案可投入部署，滿足網路邊緣日益成長的行動通訊和資料產生需求。將 Supermicro Building Block 方法套用到伺服器設計上，各種伺服器都能快速通過認證並適用於特定工作負載。
+
+Supermicro 總裁暨執行長 Charles Liang 表示：「Supermicro 很高興能成為產業領導者 Rakuten 的後援，為其提供最先進的伺服器和專業知識，打造可擴充且安全的解決方案，滿足當下的邊緣需求和未來幾年邊緣通訊可預期的高成長。此外，透過我們的應用最佳化伺服器系列，Rakuten Symphony 將能為全世界的客戶提供專屬的最佳化解決方案。Rakuten 擁有範圍廣泛的技術產品，而我們擁有率先將新技術推向市場的能力，因此 Supermicro 將成為 Rakuten 首選的供應商。」
+
+Rakuten Mobile 和 Rakuten Symphony 執行長 Tareq Amin 表示：「Rakuten Symphony 很高興與 Supermicro 合作，為全球行動電信業者帶來下一代高效能 Open RAN 技術。Rakuten Symphony 的軟體與整合專業知識，結合 Supermicros 最先進的伺服器，確保客戶的服務供應即時又準確。」
+
+Rakuten Symphony 為其分散式單元 (O-DU) 和集中式單元 (O-CU) 選擇的 Supermicro 邊緣和資料中心級伺服器包括：
+●	CU：SYS-220U-TNR，2U 2x E810 和 1x XXV710，雙 Intel Xeon Platinum 8358P CPU，具有高彈性和插槽數、NUMA 平衡架構、完整的軟體整合/管理功能支援。
+●	DU：SYS-210TP-HPTR，2U4N Intel Xeon Gold 6338N，含 32 核心、1x ACC100 和 1x XXV710 單插槽，具有高密度、超低封包處理延遲。
+●	DU：SYS-210P-FRDN6T，2U Intel Xeon Gold 6338N，含 32 核心、1x ACC100 和 1x XXV710 單插槽低矮型、超低封包處理延遲。
+
+ 
+
+Rakuten Symphony 將開始在下列相同尺寸的伺服器中提供搭載第 4 代 Intel Xeon 可擴充處理器的 Supermicro 伺服器：
+
+用於 CU 和 DU 的特定 Supermicro X13 產品：
+●	CU：SYS-221H-TNR
+●	CU：SYS-221HE-FTNRD
+●	DU：SYS-111E-FDWTR
+●	DU：SYS-211E-FRDN2T
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/25952
+2023-03-07 14:30:26 , pcdiy , 
+
+Supermicro 和 Rakuten Symphony 擴大合作範圍，為雲端型 Open RAN 行動網路提供完整的 5G、電信和邊緣解決方案
+Supermicro, Inc. (NASDAQ：SMCI) 為雲端、AI/ML、儲存和 5G/智慧邊緣應用的全方位 IT 解決方案供應商，宣佈加強與 Rakuten Symphony 的合作關係，提供適用於各種工作負載的新一代伺服器和儲存系統。Supermicro 為 Rakuten Symphony 的主要合作夥伴，兩家公司協力為電信業者提供以雲端為基礎的行動服務藍圖，運用最先進的伺服器和網路架構，為全球電信業者提供易於實作的解決方案。此外，Rakuten Symphony 能在最短的時間內提供 Open RAN 解決方案，加上及時的技術支援和諮詢服務。
+
+
+全球行動電信業者在採用 Open RAN 時皆面臨著眾多挑戰，包括需要從頭建構全新的高效能網路，需要投入資金和時間來熟悉的新型元件，需瞭解不同的擴充及強化網路的方式，還要權衡各種技術之間的優缺點。在 Rakuten Symphony 協助下，採用 Supermicro 經過預先定義及測試的伺服器，您將隨時有一套高效能、高成本效益、經過最佳化且安全的解決方案可投入部署，滿足網路邊緣日益成長的行動通訊和資料產生需求。將 Supermicro Building Block 方法套用到伺服器設計上，各種伺服器都能快速通過認證並適用於特定工作負載。
+
+Supermicro 總裁暨執行長 Charles Liang 表示：「Supermicro 很高興能成為產業領導者 Rakuten 的後援，為其提供最先進的伺服器和專業知識，打造可擴充且安全的解決方案，滿足當下的邊緣需求和未來幾年邊緣通訊可預期的高成長。此外，透過我們的應用最佳化伺服器系列，Rakuten Symphony 將能為全世界的客戶提供專屬的最佳化解決方案。Rakuten 擁有範圍廣泛的技術產品，而我們擁有率先將新技術推向市場的能力，因此 Supermicro 將成為 Rakuten 首選的供應商。」
+
+Rakuten Mobile 和 Rakuten Symphony 執行長 Tareq Amin 表示：「Rakuten Symphony 很高興與 Supermicro 合作，為全球行動電信業者帶來下一代高效能 Open RAN 技術。Rakuten Symphony 的軟體與整合專業知識，結合 Supermicros 最先進的伺服器，確保客戶的服務供應即時又準確。」
+
+Rakuten Symphony 為其分散式單元 (O-DU) 和集中式單元 (O-CU) 選擇的 Supermicro 邊緣和資料中心級伺服器包括：
+●	CU：SYS-220U-TNR，2U 2x E810 和 1x XXV710，雙 Intel Xeon Platinum 8358P CPU，具有高彈性和插槽數、NUMA 平衡架構、完整的軟體整合/管理功能支援。
+●	DU：SYS-210TP-HPTR，2U4N Intel Xeon Gold 6338N，含 32 核心、1x ACC100 和 1x XXV710 單插槽，具有高密度、超低封包處理延遲。
+●	DU：SYS-210P-FRDN6T，2U Intel Xeon Gold 6338N，含 32 核心、1x ACC100 和 1x XXV710 單插槽低矮型、超低封包處理延遲。
+
+ 
+
+●	CU：SYS-221H-TNR
+●	CU：SYS-221HE-FTNRD
+●	DU：SYS-111E-FDWTR
+●	DU：SYS-211E-FRDN2T
+→更多的【PCDIY!業界新聞】： 
+
+→更多的【PCDIY!賣場情報】： 
+
+→更多的【PCDIY!科技情報】： 
+
+→更多的【IT資訊新聞】： 
+
+→更多的【ITMan!資訊經理人】： 
+
+→更多的【PCDIY!八卦】：
+ , /detail/25952
+2023-03-07 23:51:59 , pcdiy , 
+
+技嘉Z790 AORUS XTREME主機板一鍵超頻實戰，用Instant 6GHz技術讓Intel第13代Core i9-13900K/KF變身13900KS處理器！
+現在要買桌機的話，要擁有最強的性能，以及最大的擴充能力，Intel第13代處理器無疑是最好的選擇！若要直上高階Core i9-13900K/KF處理器，安裝高階GeForce RTX 4080、4090顯示卡，還要能支援未來的PCIe 5.0 M.2 NVMe SSD，那麼肯定是要搭配頂級Intel Z790主機板了！
+
+然而，在眾多主機板品牌裡面，要找出符合自己口味的史上最強旗艦級玩家主機板，那也不是一件容易的事情！既然要選擇史上最強主機板，不僅要系出名門用料紮實，供電要有20相以上數位電源，提供超頻功能，採用全覆蓋盔甲散熱，保護主機板上的重要元件，確保主機板不板彎，還具備強化散熱不掉速，記憶體要能至少上DDR5-8000，要有至少2組PCIe 5.0 x16擴充槽，具備1組PCIe 5.0 M.2 NVMe SSD，還要有M.2 SSD快速安裝卸載擴充槽，PCIe快速卸載按鍵，LCD螢幕顯示處理器與記憶體頻率、溫度資訊，並且要有10GbE有線網路與802.11AX的Wi-Fi 6E無線網路，還要有一鍵超頻功能。要找到這樣檔次的產品，選擇並不多！
+
+今天，就讓我們來看看，由技嘉科技為玩家打造的頂級主機板Z790 AORUS XTREME，讓我們一起來揭開它神祕的面紗吧！
+
+
+
+-----------------
+技嘉Z790 AORUS XTREME實測開箱，史上最強旗艦級玩家主機板！
+
+技嘉Z790 AORUS XTREME效能測試，史上最強旗艦級玩家主機板！
+
+
+-----------------
+
+技嘉科技，近日針對旗下Intel Z690、Z790主機板，推出了Instant 6GHz技術！這款技術，讓13900K/KF處理器，可以衝上6000MHz！這是什麼神技術黑科技呢？讓我們來試玩看看！
+
+這邊，採用的是技嘉科技最頂級的Z790 AORUS XTREME來做效能實測，讓我們來看看Instant 6GHz技術的實力吧！
+
+
+
+
+
+隨著Intel第13代處理器的推出，頂級版Core i9-13900K/KF處理器，威力非常強大！和過去第1代～第11代不同的是，第12、13代採用大小核設計，於是Intel把TurboBoost的動態超頻設計做了很大的變更，包括P效能核心與E節能核心都提供了動態超頻技術，可以將效能與功耗最佳化！
+
+這邊，我們先來簡單瞭解一下，Intel針對12、13代處理器的動態超頻技術，主要是分為P效能核心與E節能核心的不同作法。
+
+Total Cores：24
+＃Performance-cores：8
+＃of Efficient-coresl：16
+Total Threads：32
+Max Turbo Frequency：5.80 GHz
+Intel Thermal Velocity Boost Frequency：5.80 GHz
+Intel Turbo Boost Max Technology 3.0 Frequency：5.70 GHz
+Performance-core Max Turbo Frequency：5.40 GHz
+Efficient-core Max Turbo Frequency：4.30 GHz
+Performance-core Base Frequency：3.00 GHz
+Efficient-core Base Frequency：2.20 GHz
+Cache：36 MB Intel Smart Cache
+Total L2 Cache：32 MB
+Processor Base Power：125 W （PL1）
+Maximum Turbo Power：253 W （PL2）
+
+
+
+Intel定義了基礎P效能核心的基本頻率，叫做「Performance-core Base」。根據Intel官方介紹：「這功能中文命名叫做Performance-core 基礎頻率。」
+
+Intel定義了新的動態超頻技術，叫做「Intel Turbo Boost Max Technology 3.0」。根據Intel官方介紹：「這功能中文命名叫做Intel 渦輪加速 Max 技術 3.0，會辨識出處理器上表現最佳的一個或多個核心，利用功耗和散熱的餘裕範圍，透過在需要時增加核心的時脈，提供它（們）增強的效能。以這模式執行時，Intel 渦輪加速 Max 技術 3.0 頻率是 CPU 的時脈頻率。」
+
+Intel定義了另一個新的動態超頻技術，叫做「Intel Thermal Velocity Boost」。根據Intel官方介紹：「這功能中文命名叫做Intel 傅熱速度，Intel Thermal Velocity Boost (Intel TVB) 是一項功能，可機動和自動增加超過單核心和多核心 Intel 渦輪加速技術的時脈頻率，主要根據處理器在其最高溫度下運行的程度，以及是否有可用的加速電源預算。頻率的增益和持續時間取決於工作負載、處理器能力、以及處理器的冷卻解決方案。」
+
+Intel定義了另一個新的動態超頻技術，叫做「Performance-core Max Turbo」。根據Intel官方介紹：「這功能中文命名叫做Performance-core Max 渦輪加速，從 Intel 渦輪加速技術獲得的最大 P-core 渦輪頻率。」
+
+Intel定義了基礎E節能核心的基本頻率，叫做「Efficient-core Base」。根據Intel官方介紹：「這功能中文命名叫做Efficient-core 基礎頻率。」
+
+Intel定義了新的動態超頻技術，叫做「Efficient-core Max Turbo」。根據Intel官方介紹：「這功能中文命名叫做Efficient-core Max 渦輪加速，從Intel渦輪加速技術獲得的最大 E-core 渦輪頻率。」
+
+Intel近幾年來，除了所謂的標準TDP，還設計了所謂的功耗牆Power Limit。Power Limit簡稱：PL，一般有分成Power Limit 1（PL1），功耗上限值1，Power Limit 2（PL2），功耗上限值2。
+
+Intel還設計了Tau值（Turbo Time Parameter，動態超頻時間參數）。這個Tau值，針對不同的CPU有不一樣的時間設定。一般，非K處理器的PL1功耗牆的Tau值是28秒，K處理器的PL1功耗牆的Tau值是56秒，最大值微448秒。
+
+Intel設計PL1、PL2與Tau值，除了方面主機板、品牌電腦業者設計主機板與電腦的電源與散熱，也讓主機板業者可以設計出更強的超頻能力，畢竟要超更高的時脈，主機板就要提供更大的供電，相對的散熱也要夠力才行
+
+
+
+
+
+有了這些幾本的認識之後，我們就能來進一步認識技嘉科技的Instant 6GHz技術。
+
+技嘉科技推出了Instant 6GHz技術，其實是透過BIOS來便於玩家簡易超頻的一個作法。目前這個技術，是指能用來超Intel第13代Core i9-13900K/KF處理器超頻至6GHz。
+
+目前的Instant 6GHz技術，用的其實是溫和的超頻作法，可以適用於絕大多數體質好的Intel第13代Core i9-13900K/KF處理器。
+
+它設計的概念，是提升超頻的性能，超的是Intel Thermal Velocity Boost。把Intel第13代Core i9-13900K/KF處理器，的Intel Thermal Velocity Boost從5.8GHz，超頻至6.0GHz。
+
+原先Intel第13代Core i9-13900K/KF處理器，它的Intel Thermal Velocity Boost，是5.8GHz，亦即P效能核心可以在的1～2核心間提升到5.8GHz，3～8核心間最高提升到5.5GHz，P效能核心全核可以維5.5GHz以上的工作時脈。
+
+技嘉的Instant 6GHz技術，是直接在Tweaker選單的CPU Upgrade選項，多出了Instant 6GHz。玩家可以透過這簡單的設定，就能把Intel第13代Core i9-13900K/KF處理器超頻到6.0GHz，而且不用再操作其他的加電壓、調整頻率的設計，輕輕鬆鬆就能衝上6.0GHz
+
+事實上，Intel即將推出加強版的Core i9-13900KS處理器，它的特別之處，就是讓那1～2核心最高可以跑到6.0GHz。
+
+簡單單來說，技嘉的Instant 6GHz技術，讓Intel第13代Core i9-13900K/KF處理器，搖身一變成為Core i9-13900KS。
+
+Total Cores：24
+＃Performance-cores：8
+＃of Efficient-coresl：16
+Total Threads：32
+Max Turbo Frequency：6.00 GHz
+Intel Thermal Velocity Boost Frequency：6.00 GHz
+Intel Turbo Boost Max Technology 3.0 Frequency：5.80 GHz
+Performance-core Max Turbo Frequency：5.40 GHz
+Efficient-core Max Turbo Frequency：4.30 GHz
+Performance-core Base Frequency：3.20 GHz
+Efficient-core Base Frequency：2.20 GHz
+Cache：36 MB Intel Smart Cache
+Total L2 Cache：32 MB
+Processor Base Power：150 W （PL1）
+Maximum Turbo Power：253 W （PL2）
+
+
+
+
+
+
+
+目前，Instant 6GHz技術，已經支援了技嘉Z690、Z790主機板，玩家可以在搭配Intel第13代Core i9-13900K/KF處理器時透過BIOS啟用。
+
+看到這邊，我們可以得出一些結論。
+
+這邊，玩家要注意的是，技嘉的Instant 6GHz固然是很好的超頻作法。但原先Intel只標示Intel第13代Core i9-13900K/KF處理器只能動態超頻到5.8GHz，不排除體質爛的會跑不上去，或者需要更高的電壓才能穩跑的狀況發生。
+
+
+
+首先，可以確定的，Intel第13代Core i9-13900K/KF處理器，它在一般環境之下，1～2效能核心最高可以跑到6.0GHz，8各性能核心全核工作的話，最高可以運行在5.5GHz，此時若解除PL1、PL2功耗牆限制的話，CPU電源功耗一般在280～300W左右，最大可以上看350W。
+
+若是只有1～2效能核心跑6.0GHz，並不會增加此時的CPU功耗。由此可見，要讓CPU吃大電的話，只有全核跑5.5GHz，或更高才會出現。這時候，主機板的供電就非常重要了。中階與高階Z790主機板的差異就可以顯現出來。
+
+
+
+在搭配一般的360mm（120mmx3）一體式水冷散熱器之下，解熱的效率可以達到280～300W左右，比較好的則可以到350W，若要解更高的瓦數，那麼360mm（120mmx3）一體式水冷散熱器可能就不夠用了。這時候搭配的散熱膏也很重要，才能確保以最快的速度導熱。
+
+這邊，我們可以發現，當Intel第13代Core i9-13900K/KF處理器，運行全核5.5GHz，或者更高的時候，搭配360mm（120mmx3）一體式水冷散熱器，CPU溫度很快就飆升到100°C，當超過這個溫度的時候，馬上會出現過熱降速的狀況。因此，即便把PL1、PL2功耗牆限制關掉，散熱器的解熱效能則會是最後極限速度的關鍵。
+
+可預見的，未來更強大的一體式水冷散熱器將會推出，可能朝向480mm（120mmx4）、600mm（120mmx5）一體式水冷散熱器發展。然而，比起360mm（120mmx3）一體式水冷散熱器，更大的水冷排的話則可能是雙排的設計，否則一般機殼的散熱空間則無法安裝。
+
+
+
+技嘉Z790 AORUS XTREME，經過了完整的測試，以及使用長達1個月的時間，沒有出現不穩、當機、重新開機的狀況，穩定度相當高。使用Instant 6GHz技術，把Intel第13代Core i9-13900KF超上6GHz，當做13900KS來使用，足足跑了一個月時間，速度表現驚人，而且還相當穩定，爽度相當高！無論是超頻前，或用Instant 6GHz技術超頻後，效能表現令人滿意。
+
+
+
+技嘉Z790 AORUS XTREME主機板的話，目前已經在全球上市，台灣市場也已經開賣！最新的市場行情，技嘉Z790 AORUS XTREME，報價：34,990元。
+
+保固期的話，提供原廠3＋2年有限保固服務。
+
+若以價位來看的話，技嘉Z790 AORUS XTREME主機板無疑是Intel Z790主機板中最高貴的等級！價格上打敗了華碩ROG MAXIMUS Z790 EXTREME，僅有微星MEG Z790 GODLIKE能在價格上與其匹敵！
+
+
+
+
+
+這次，我們實測開箱了技嘉Z790 AORUS XTREME，可以看出技嘉對於這款Intel Z790主機板的用心與細心，用上了台灣人的軟實力與硬底子，選用了高檔用料，前衛的全覆蓋盔甲散熱設計，外觀質感也相當好，整個功能完整及擴充能力強大，實測效能與一鍵令人相當滿意。
+
+整體來說，這款技嘉Z790 AORUS XTREME，是史上最強旗艦級玩家主機板！
+
+廠商名稱：技嘉科技股份有限公司
+廠商電話：02-8912-4000
+廠商網址：
+
+→更多的【PCDIY! CPU／中央處理器】： 
+
+→更多的【PCDIY! MainBoard／主機板／電競主機板】： 
+
+→更多的【PCDIY! DRAM／記憶體／超頻記憶體模組】： 
+
+→更多的【PCDIY! SSD／固態硬碟】： 
+
+→更多的【PCDIY! HDD／機械硬碟／傳統硬碟】： 
+
+→更多的【PCDIY! 行動儲存／外接機械硬碟／外接固態硬碟／隨身碟／記憶卡】： 
+
+→更多的【PCDIY! NAS／網路儲存裝置】：
+ , /detail/25947
+2023-03-07 23:58:00 , pcdiy , 華碩筆電市佔20連霸！Intel第13代處理器OLED新機搶市，提供消費者更好的視覺體驗！ , /detail/25944

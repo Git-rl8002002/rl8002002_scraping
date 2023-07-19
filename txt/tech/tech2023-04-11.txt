@@ -1,0 +1,98 @@
+2023-04-11 00:43:21 , tech , 科嘉-KY3月營收月增56.9% , https://finance.technews.tw/2023/04/10/ko-ja-5215-202303-financial-report/
+2023-04-11 07:50:57 , tech , Matter 驅使智慧家庭市場加速發展 , https://technews.tw/2023/04/11/matter-smart-home-market/
+2023-04-11 08:14:35 , tech , 韋伯望遠鏡發現四個最遙遠的星系 , https://technews.tw/2023/04/11/jwst-discovers-four-galaxies-from-320-million-years-ago/
+2023-04-11 08:38:46 , tech , 市況不佳客戶砍單導致第一季財測未達標，衝擊台積電 ADR 表現不佳 , https://finance.technews.tw/2023/04/11/tsmc-adr-underperforms/
+2023-04-11 08:40:18 , tech , 美中大賽局之決戰光纖海纜 , https://technews.tw/2023/04/11/u-s-and-china-wage-war-beneath-the-waves-over-internet-cables/
+2023-04-11 08:41:40 , tech , 擔憂洩漏關鍵商業機密，台積電正與美國討論晶片法案補貼細節 , https://technews.tw/2023/04/11/tsmc-is-discussing-with-the-united-states-the-details-of-the-chip-bill-subsidy/
+2023-04-11 08:43:12 , tech , 建置成本貴五倍，協鑫科技不考慮在美設廠 , https://technews.tw/2023/04/11/gcl-tech-solar/
+2023-04-11 08:44:34 , tech , 群創參展 Touch Taiwan 永續專區，首次公開自行研發碳足跡計算系統 , https://technews.tw/2023/04/11/innolux-touch-taiwan-esg/
+2023-04-11 08:46:05 , tech , 意外發現碳盤查對公司的三大好處 , https://technews.tw/2023/04/11/three-benefits-of-carbon-inventory-to-the-company/
+2023-04-11 08:53:56 , tech , 3 月外匯存底 5,602 億美元，續創歷史新高 , https://finance.technews.tw/2023/04/11/march-foreign-exchange-deposit/
+2023-04-11 08:55:17 , tech , 康乃爾大學團隊開發全新聲納眼鏡，無聲動動嘴形就能解鎖手機、播放音樂 , https://technews.tw/2023/04/11/researchers-built-sonar-glasses-that-track-facial-movements-for-silent-communication/
+2023-04-11 08:56:39 , tech , 中磊首季營收達 156.6 億元，創單季同期新高 , https://finance.technews.tw/2023/04/11/sercomm-march-revenue/
+2023-04-11 10:19:29 , tech , 三星減產非壞事！美光股價大噴 8%，創一年多來最大單日漲幅 , https://technews.tw/2023/04/11/samsung-cut-chip-production-is-not-bad-news/
+2023-04-11 10:21:31 , tech , 價格難轉嫁，日本通膨破產飆逾 2 倍破紀錄 , https://technews.tw/2023/04/11/japans-inflation-and-bankruptcy-more-than-triple/
+2023-04-11 10:21:41 , tech , 世銀上修 2023 經濟成長展望，葉倫敦促改革 , https://technews.tw/2023/04/11/world-bank-2023-economic-growth-outlook/
+2023-04-11 10:21:52 , tech , 經濟衰退疑慮求安穩，美貨幣市場基金連 4 週吸金 , https://technews.tw/2023/04/11/money-market-fund-us/
+2023-04-11 10:22:02 , tech , 升息、遠距工作效應，歐洲商用不動產釀危機 , https://technews.tw/2023/04/11/cre-crisis/
+2023-04-11 10:22:53 , tech , 中共環台軍演，外媒盤點軍火清單 , https://technews.tw/2023/04/11/china-military-exercise-ammunition/
+2023-04-11 10:24:15 , tech , TikTok 遭圍剿，拼多多跨境電商 Temu 在美逆勢竄起 , https://technews.tw/2023/04/11/temu-usa-popular/
+2023-04-11 10:25:46 , tech , 科學家首次發現黑洞在太空狂奔，運動過程誕生全新恆星 , https://technews.tw/2023/04/11/hubble-sees-possible-runaway-black-hole-creating-a-trail-of-stars/
+2023-04-11 10:26:58 , tech , 電動車新創 Canoo 搞定 LV 生產線，租下現有工廠準備開工 , https://finance.technews.tw/2023/04/11/canoo-lease-factory/
+2023-04-11 11:27:04 , tech , 傳蘋果提高 15 吋 MBA 面板產量，最快 6 月亮相 , https://technews.tw/2023/04/11/15-inch-mba-wwdc-2023/
+2023-04-11 11:28:36 , tech , 拉尼娜正式結束，科學家：今明兩年高溫恐刷新紀錄 , https://technews.tw/2023/04/11/higher-temperature-will-coming-this-year/
+2023-04-11 11:29:47 , tech , 全球晶片業颳逆風，南韓 4 月前 10 天出口額下滑 8.6% , https://finance.technews.tw/2023/04/11/south-korea-exports-fall-more-than-8-in-early-april/
+2023-04-11 11:31:08 , tech , 存貨總額減幅有限！CRIF：上市櫃公司去庫存緩慢 , https://finance.technews.tw/2023/04/11/destocking-is-slow/
+2023-04-11 11:32:40 , tech , 字節跳動 2022 年 EBITDA 增 79%，超越騰訊、阿里巴巴 , https://technews.tw/2023/04/11/bytedance-2022-ebitda/
+2023-04-11 11:34:02 , tech , 財報季將至，美企面臨疫情來最大獲利減幅 , https://finance.technews.tw/2023/04/11/us-companies-face-biggest-decline-in-profits-since-covid-shutdowns/
+2023-04-11 11:52:43 , tech , 反聖嬰現象結束，科學家：今明兩年高溫恐刷新紀錄 , https://technews.tw/2023/04/11/higher-temperature-will-coming-this-year/
+2023-04-11 12:03:13 , tech , 軒郁 2022 年每股賺 7.79 元！配發現金股利 5.58 元、股票股利 1.52 元 , https://finance.technews.tw/2023/04/11/beauty-and-health-care/
+2023-04-11 12:39:08 , tech , IMF：通膨若獲得控制，利率可能回到大流行前水準 , https://finance.technews.tw/2023/04/11/interest-rates-may-return-to-pre-pandemic-levels/
+2023-04-11 13:12:09 , tech , 柑橘果皮藏有回春秘密！陽明交大證實「橙皮素」能延緩老化 , https://technews.tw/2023/04/11/hesperetin/
+2023-04-11 13:13:41 , tech , 重量級交易來了？傳埃克森美孚求親頁岩油巨頭 , https://finance.technews.tw/2023/04/11/exxonmobil-in-talks-with-pxd-for-acquisition/
+2023-04-11 13:15:13 , tech , 集中火力生產？面板雙虎傳年底各關一廠，友達、群創強調彈性調整 , https://finance.technews.tw/2023/04/11/auo-innolux-close-the-factory/
+2023-04-11 13:18:16 , tech , 傳台積電擴產腳步放緩，法人：並非壞事 , https://technews.tw/2023/04/11/tsmc-expansion-slow/
+2023-04-11 13:29:51 , tech , 戰略資源爭奪戰，MIT：電動車電池將成為新的半導體 , https://technews.tw/2023/04/11/ev-battery-will-be-a-new-semiconductor/
+2023-04-11 13:31:13 , tech , 說好的小鳥自由呢？Twitter 現已併入馬斯克 X 公司，不復存在 , https://finance.technews.tw/2023/04/11/twitter-inc-no-longer-exists/
+2023-04-11 13:37:05 , tech , 胡連3月營收6.04 億元 , https://finance.technews.tw/2023/04/11/hu-lane-6279-202303-financial-report/
+2023-04-11 14:39:06 , tech , 打擊共享帳號、縮減成本有成，Netflix 獲利看增 , https://finance.technews.tw/2023/04/11/netflix-password-crackdown-new-ad-service-augur-improved-earnings-over-the-next-few-quarters/
+2023-04-11 14:40:27 , tech , 韋伯望遠鏡強大新照，揭開天王星數道清晰環 , https://technews.tw/2023/04/11/uranus-ring-webb-telescope-jwst/
+2023-04-11 14:41:49 , tech , 戰略資源爭奪戰，MIT：電動車電池將成為新半導體 , https://technews.tw/2023/04/11/ev-battery-will-be-a-new-semiconductor/
+2023-04-11 14:42:03 , tech , 多數主動選股者反被聰明誤，錯失 Q1 反彈 , https://finance.technews.tw/2023/04/11/t-active-stock-pickers-missed-the-q1-rebound/
+2023-04-11 14:43:21 , tech , 說好的小鳥自由呢？Twitter 已併入馬斯克 X 公司，不復存在 , https://finance.technews.tw/2023/04/11/twitter-inc-no-longer-exists/
+2023-04-11 15:15:12 , tech , 最新投組殖利率 5.42%！永豐首檔基礎建設主題債券基金 4/19 開募 , https://finance.technews.tw/2023/04/11/infrastructure-fund/
+2023-04-11 15:16:44 , tech , 日圓貶，日本黃金零售價創歷史新高，相關股樂 , https://finance.technews.tw/2023/04/11/japan-retail-gold-prices-hit-record-highs/
+2023-04-11 15:18:06 , tech , 銀行危機未解，末日博士預言美經濟將「硬著陸」 , https://finance.technews.tw/2023/04/11/roubini-warns-of-hard-landing-for-us-economy/
+2023-04-11 15:19:27 , tech , 公共充電站是你的沒電救星？FBI 建議最好不要 , https://technews.tw/2023/04/11/fbi-says-avoid-using-free-charging-stations/
+2023-04-11 15:40:07 , tech , 台勝科3月營收13.60 億元 , https://finance.technews.tw/2023/04/11/fst-3532-202303-financial-report/
+2023-04-11 15:45:13 , tech , 上課時間愈早學習成效愈差，新加坡研究：十點上課最適當 , https://technews.tw/2023/04/11/class-time-should-be-later-is-good-for-learning-performance/
+2023-04-11 15:57:04 , tech , 2025 年 OLED 材料產值上看 30 億美元，中國材料廠積極搶進供應鏈 , https://finance.technews.tw/2023/04/11/2025-oled-china/
+2023-04-11 15:58:25 , tech , AMOLED 技術及市場發展分析 , https://www.trendforce.com.tw/membership/WitsView
+2023-04-11 15:58:46 , tech , 比特幣重回三萬美元，寫下近 10 個月新高 , https://finance.technews.tw/2023/04/11/btc-30k-usd/
+2023-04-11 16:02:13 , tech , 柑橘果皮藏有回春祕密！陽明交大證實「橙皮素」能延緩老化 , https://technews.tw/2023/04/11/hesperetin/
+2023-04-11 16:07:13 , tech , 市況不佳客戶砍單影響第一季營運，衝擊台積電 ADR 表現 , https://technews.tw/2023/04/11/tsmc-adr-underperforms/
+2023-04-11 16:09:56 , tech , 頎邦3月營收月增26.0% , https://technews.tw/2023/04/11/chipbond-6147-202303-financial-report/
+2023-04-11 16:11:28 , tech , 上課時間愈早學習成效愈差，新加坡研究：10 點上課最適當 , https://technews.tw/2023/04/11/class-time-should-be-later-is-good-for-learning-performance/
+2023-04-11 16:21:08 , tech , 公共充電站是沒電時救星？FBI 建議最好不要 , https://technews.tw/2023/04/11/fbi-says-avoid-using-free-charging-stations/
+2023-04-11 16:30:10 , tech , Mini LED 滲透率不如預期！惠特看淡今年 LED 產業，加重雷射產品布局 , https://finance.technews.tw/2023/04/11/fittech-2022-financial-report/
+2023-04-11 16:31:42 , tech , 台達取得台電「區域型微電網」儲能建設計畫案，預計 2023 年底完工 , https://technews.tw/2023/04/11/grid-forming/
+2023-04-11 16:33:14 , tech , 金融時報專欄列歐美應為保台備戰 3 理由，防晶片廠落中國之手 , https://technews.tw/2023/04/11/3-reasons-why-europe-and-the-us-should-jointly-defend-taiwan/
+2023-04-11 16:39:07 , tech , 友達智慧座艙再升級！Touch Taiwan 2023 驚艷亮相 , https://technews.tw/2023/04/11/auo-touch-taiwan-2023/
+2023-04-11 16:39:30 , tech , 記憶體壓力大！南亞科 2023 年首季虧損 16.85 億元，每股虧損 0.54 元 , https://finance.technews.tw/2023/04/11/nanyas-q1-2023-loss/
+2023-04-11 16:50:51 , tech , 漢翔與 GE 簽訂 10 年發動機核心零組件長約，價值達台幣 350 億元 , https://technews.tw/2023/04/11/aidc-signed-a-10-year-contract-with-ge-for-engine-core-components/
+2023-04-11 16:59:34 , tech , 金居3月營收5.49 億元 , https://technews.tw/2023/04/11/co-tech-8358-202303-financial-report/
+2023-04-11 16:59:44 , tech , TechNews 財報助手 , https://technews.tw/author/financial-report/
+2023-04-11 17:26:53 , tech , 天然無毒黏土「海泡石」，鈣鈦礦太陽能有望大規模發展 , https://technews.tw/2023/04/11/natural-clay-additive-promises-gains-in-perovskite-solar-cell-efficiency-stability/
+2023-04-11 17:28:14 , tech , 日月光投控 3 月營收月增 14.5%，累計第一季營收季減 26.2% , https://finance.technews.tw/2023/04/11/ase-investment-holdings-march-revenue-up-14-5/
+2023-04-11 17:29:46 , tech , YouTube Premium 五大新功能：跨系統一起看影片、1080p 高畫質 , https://technews.tw/2023/04/11/youtube-premium-gets-five-new-features/
+2023-04-11 17:31:07 , tech , 新增 , https://blog.youtube/news-and-events/5-premium-features-to-up-your-youtube-game/
+2023-04-11 17:31:28 , tech , 3 月出口 352 億美元年減 19.1% 連 7 黑，首季衰退近 2 成 , https://finance.technews.tw/2023/04/11/taiwan-export-march-decline/
+2023-04-11 17:32:50 , tech , 蛤？市售養殖文蛤鑑定為新原生種正名「台灣文蛤」登國際期刊 , https://technews.tw/2023/04/11/meretrix-taiwanica/
+2023-04-11 17:34:21 , tech , 緊盯山東號，美軍五艘航空母艦於太平洋地區警戒 , https://technews.tw/2023/04/11/3-nimitz-class-carrier-currently-in-pacific-area/
+2023-04-11 17:35:43 , tech , 南韓新創半導體企業研發 AI 晶片效能領先輝達與高通 , https://technews.tw/2023/04/11/south-korean-start-up-semiconductor-company-develops-ai-chip/
+2023-04-11 17:37:15 , tech , 漢翔與 GE 簽訂 10 年發動機核心零組件長約，價值 350 億元 , https://technews.tw/2023/04/11/aidc-signed-a-10-year-contract-with-ge-for-engine-core-components/
+2023-04-11 17:47:59 , tech , 三星跟進記憶體晶片減產！統一亞洲半導體 ETN 來到半年新高 , https://finance.technews.tw/2023/04/11/production-cuts/
+2023-04-11 17:54:05 , tech , 3 月出口 352 億美元年減 19.1% 連七黑，首季衰退近二成 , https://finance.technews.tw/2023/04/11/taiwan-export-march-decline/
+2023-04-11 18:34:24 , tech , 友達智慧座艙再升級！Touch Taiwan 2023 驚豔亮相 , https://technews.tw/2023/04/11/auo-touch-taiwan-2023/
+2023-04-11 18:46:35 , tech , 日月光投控3月營收457.75 億元 , https://finance.technews.tw/2023/04/11/aseh-3711-202303-financial-report/
+2023-04-11 18:46:46 , tech , 敦泰3月營收月增34.3% , https://finance.technews.tw/2023/04/11/focaltech-3545-202303-financial-report/
+2023-04-11 18:46:56 , tech , 泰碩3月營收3.08 億元 , https://finance.technews.tw/2023/04/11/taisol-3338-202303-financial-report/
+2023-04-11 18:47:06 , tech , 日電貿3月營收8.78 億元 , https://finance.technews.tw/2023/04/11/ndb-3090-202303-financial-report/
+2023-04-11 18:47:17 , tech , 聯陽3月營收月增34.7% , https://finance.technews.tw/2023/04/11/ite-3014-202303-financial-report/
+2023-04-11 18:47:27 , tech , 金像電3月營收24.11 億元 , https://finance.technews.tw/2023/04/11/gce-2368-202303-financial-report/
+2023-04-11 18:52:35 , tech , 志超3月營收16.94 億元 , https://finance.technews.tw/2023/04/11/tpt-8213-202303-financial-report/
+2023-04-11 18:52:46 , tech , 榮群3月營收3,802.50 萬元 , https://finance.technews.tw/2023/04/11/opnet-8034-202303-financial-report/
+2023-04-11 19:03:00 , tech , 宏碁 3 月營收重返 200 億元，月增 64% 登半年高點 , https://finance.technews.tw/2023/04/11/acer-202303-fr/
+2023-04-11 19:04:32 , tech , 銀行證券期貨順利完成合併！富邦金改寫台灣金金併首例 , https://finance.technews.tw/2023/04/11/financial-merger/
+2023-04-11 19:06:04 , tech , 0056 規模突破 2,000 億元大關！最快 2 年實現零成本存股目標 , https://finance.technews.tw/2023/04/11/stock-deposit/
+2023-04-11 19:42:54 , tech , 合晶3月營收月增0.5% , https://finance.technews.tw/2023/04/11/wafer-works-6182-202303-financial-report/
+2023-04-11 19:43:04 , tech , 宇瞻3月營收8.06 億元 , https://finance.technews.tw/2023/04/11/apacer-8271-202303-financial-report/
+2023-04-11 19:43:15 , tech , 至上3月營收94.35 億元 , https://finance.technews.tw/2023/04/11/supreme-8112-202303-financial-report/
+2023-04-11 19:43:25 , tech , 嘉威3月營收月增8.7% , https://finance.technews.tw/2023/04/11/gamma-3557-202303-financial-report/
+2023-04-11 19:43:36 , tech , 嘉澤3月營收月增22.6% , https://finance.technews.tw/2023/04/11/lotes-3533-202303-financial-report/
+2023-04-11 20:51:09 , tech , 華為淡出台市場？代理商：調整通路策略 , https://ccc.technews.tw/2023/04/11/huawei-7/
+2023-04-11 21:24:58 , tech , 中華電3月營收185.13 億元 , https://finance.technews.tw/2023/04/11/cht-2412-202303-financial-report/
+2023-04-11 21:25:09 , tech , 宏碁3月營收241.47 億元 , https://finance.technews.tw/2023/04/11/acer-2353-202303-financial-report/
+2023-04-11 21:25:19 , tech , 金寶3月營收月增1.5% , https://finance.technews.tw/2023/04/11/kinpo-2312-202303-financial-report/
+2023-04-11 22:31:00 , tech , 勤誠3月營收6.89 億元 , https://finance.technews.tw/2023/04/11/chenbro-8210-202303-financial-report/
+2023-04-11 22:36:05 , tech , 巴菲特大砍台積電 ADR 持股，地緣政治因素是關鍵原因 , https://finance.technews.tw/2023/04/11/buffett-slashes-tsmc-adr-stake/

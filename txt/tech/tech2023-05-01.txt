@@ -1,0 +1,18 @@
+2023-05-01 08:21:01 , tech , 富邦金董事候選名單出爐，蔡明興獨子蔡承儒首度入列 , https://technews.tw/2023/04/30/fubon-financial-thrid-gen-chris-tsai-been-nominated-as-new-board-member/
+2023-05-01 08:21:12 , tech , 防疫雙險商機變危機，產險業近 3000 億的震撼教育 , https://technews.tw/2023/04/30/covid-costed-the-insurance-industry-300billion-ntd/
+2023-05-01 08:21:22 , tech , 新安東京海上三度減資，資本額僅剩 3,000 元！產險業苦吞 3,000 億教訓，力拚災後重建 , https://technews.tw/2023/04/30/the-future-profit-of-property-insurance-industry/
+2023-05-01 08:23:37 , tech , 曾比 TikTok 紅的「社死」App，和放鬆感一樣是偽命題 , https://technews.tw/2023/05/01/bereal-almost-dead/
+2023-05-01 08:25:09 , tech , 鈉離子電池正式裝車，寧德時代持續擴大產品線 , https://technews.tw/2023/05/01/catl-ener-q/
+2023-05-01 09:35:38 , tech , 7 坪街邊小店起家，uMeal 如何把健康餐盒賣進台積電、日月光，寫下年營收 2 億奇蹟？ , https://finance.technews.tw/2023/05/01/story-of-umeal/
+2023-05-01 10:23:50 , tech , 微軟將停止 Teams 與 Office 強制合併銷售，能否規避歐盟監管單位裁罰？ , https://technews.tw/2023/05/01/microsoft-teams-office/
+2023-05-01 10:24:00 , tech , Jie An Chen , https://technews.tw/author/rogerchen/
+2023-05-01 10:25:12 , tech , 停止 , https://www.irishtimes.com/business/2023/04/24/microsoft-agrees-to-stop-bundling-teams-with-office-to-avoid-eu-regulatory-investigation/
+2023-05-01 11:14:49 , tech , 阿布達比新創公司引進巴西技術，難回收垃圾再生成模板 , https://technews.tw/2023/05/01/abu-dhabi-company-to-turn-uaes-landfill-waste-into-plywood-replacement/
+2023-05-01 11:26:48 , tech , 馬斯克「炎上」連環爆！特斯拉股東開火、Twitter 惹怒媒體、SpaceX 火箭爆炸 , https://finance.technews.tw/2023/05/01/elon-musk-had-a-rough-week-across-tesla-twitter-and-spacex/
+2023-05-01 11:28:21 , tech , Google 搜尋釣魚攻擊暴增！「3 千人上鉤」逾 400 萬美元加密資產被盜 , https://technews.tw/2023/05/01/phishing-advertisement-crypto-assets/
+2023-05-01 11:29:42 , tech , 警告 , https://drops.scamsniffer.io/post/4-million-stolen-due-to-google-search-ad-phishing/
+2023-05-01 12:08:50 , tech , 三星將削減晶片產量，當地分析師估減產幅度達 25% , https://finance.technews.tw/2023/05/01/samsung-chip-production/
+2023-05-01 12:14:45 , tech , 科學家創造史上最重的「薛丁格貓」晶體 , https://technews.tw/2023/05/01/schrodingers-cat-superposition-state/
+2023-05-01 13:23:45 , tech , 台版晶片法將預告子法，經長：鼓勵研發、稅務平衡 , https://finance.technews.tw/2023/05/01/chips-act-taiwan/
+2023-05-01 15:32:47 , tech , 經部：台版晶片法研發費用門檻 60 億元，5/1 起預告 30 日 , https://finance.technews.tw/2023/05/01/chip-act-taiwan/
+2023-05-01 16:26:34 , tech , 祝融號閉上眼睛前，收集了火星低緯地區近期水活動證據 , https://technews.tw/2023/05/01/zhurong-mars-rover-water/
