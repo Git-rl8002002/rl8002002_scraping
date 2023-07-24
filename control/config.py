@@ -19,8 +19,8 @@ shelflife_sftp = {'host':'122.116.140.133','port':5906,'user':'rl8002002','pwd':
 ###################
 # tinfar - MySQL
 ###################
-tinfar_db = {'host':'61.220.205.143','port':3306,'user':'backup','pwd':'SLbackup#123','db':'scraping', 'db2':'database_system', 'charset':'utf8'}
-tinfar_VM = {'host':'61.220.205.143','port':5306,'user':'backup','pwd':'SLbackup#123','db':'scraping', 'db2':'database_system', 'charset':'utf8'}
+tinfar_db = {'host':'192.168.1.93','port':3306,'user':'otsuka','pwd':'OtsukatW168!','db':'scraping', 'db2':'database_system', 'charset':'utf8'}
+tinfar_VM = {'host':'192.168.1.93','port':5306,'user':'otsuka','pwd':'OtsukatW168!','db':'scraping', 'db2':'database_system', 'charset':'utf8'}
 
 ##################
 # tinfar - sftp
@@ -37,17 +37,17 @@ tinfar_smtp = {'host':'smtp.office365.com' , 'port':587 , 'tls':'true' , 'user':
 # tinfar - txt path
 ######################
 txt_path = {'path':'/var/www/html/scraping/txt/' , 
-            'et_news':'/var/www/html/scraping/txt/ET_news/',
-            'tech':'/var/www/html/scraping/txt/tech/',
-            'udn':'/var/www/html/scraping/txt/udn/',
-            'pc_diy':'/var/www/html/scraping/txt/pc_diy/',
-            'duck_film':'/var/www/html/scraping/txt/duck_film/',
-            'duck_teleplay':'/var/www/html/scraping/txt/duck_teleplay/',
-            'duck_comic':'/var/www/html/scraping/txt/duck_comic/',
-            'ck101_news':'/var/www/html/scraping/txt/ck101_news/',
-            'commercial_times_news':'/var/www/html/scraping/txt/commercial_times_news/',
-            'network_attack_linux':'/var/www/html/scraping/txt/network_attack/',
-            'network_attack_mac':'/Users/user/eclipse-workspace/tinfar/scraping/txt/network_attack/'}
+            'et_news':'F:/otsuka/Git/rl8002002_scraping/txt/ET_news',
+            'tech':'F:/otsuka/Git/rl8002002_scraping/txt/tech',
+            'udn':'F:/otsuka/Git/rl8002002_scraping/txt/udn',
+            'pc_diy':'F:/otsuka/Git/rl8002002_scraping/txt/pc_diy',
+            'duck_film':'F:/otsuka/Git/rl8002002_scraping/txt/duck_film',
+            'duck_teleplay':'F:/otsuka/Git/rl8002002_scraping/txt/duck_teleplay',
+            'duck_comic':'F:/otsuka/Git/rl8002002_scraping/txt/duck_comic',
+            'ck101_news':'F:/otsuka/Git/rl8002002_scraping/txt/ck101_news',
+            'commercial_times_news':'F:/otsuka/Git/rl8002002_scraping/txt/commercial_times_news',
+            'network_attack_linux':'F:/otsuka/Git/rl8002002_scraping/txt/network_attack',
+            'network_attack_mac':'F:/otsuka/Git/rl8002002_scraping/txt/network_attack'}
 
 
         
