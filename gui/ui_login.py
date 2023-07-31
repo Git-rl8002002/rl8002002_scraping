@@ -37,7 +37,7 @@ class Ui_Login(object):
         self.label = QtWidgets.QLabel(Login)
         self.label.setGeometry(QtCore.QRect(30, 30, 301, 521))
         font = QtGui.QFont()
-        font.setPointSize(33)
+        font.setPointSize(25)
         self.label.setFont(font)
         self.label.setAlignment(QtCore.Qt.AlignmentFlag.AlignCenter)
         self.label.setObjectName("label")

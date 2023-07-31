@@ -113,7 +113,8 @@ class main_content(QMainWindow):
         self.add_sell_order_record_kind()
         self.add_sell_trade_record_date()
         self.add_sell_trade_record_kind()
-        
+        self.add_sell_total_price()
+
         self.ui.btn_sell_submit.clicked.connect(self.submit_add_sell_record)
 
         #########
@@ -125,7 +126,7 @@ class main_content(QMainWindow):
         # welcome
         ############
         self.ui.stackedWidget.setCurrentWidget(self.ui.page_title)
-    
+
     ###########################
     # submit_add_sell_record
     ###########################
@@ -161,46 +162,46 @@ class main_content(QMainWindow):
             QMessageBox.information(self , 'Msg' , str('面交日期沒填 !'))
         elif len(trade_place) < 1 :
             QMessageBox.information(self , 'Msg' , str('面交地點沒填 !'))
+        else:
+            ####################
+            # add sell record
+            ####################
+            r_year  = time.strftime("%Y" , time.localtime())
+            r_month = time.strftime("%m" , time.localtime())
+            r_day   = time.strftime("%d" , time.localtime())  
+            r_time  = time.strftime("%H:%M:%S" , time.localtime())
+            
+            conn = pymysql.connect(host=tinfar_db['host'],port=tinfar_db['port'],user=tinfar_db['user'],passwd=tinfar_db['pwd'],database=tinfar_db['db2'],charset=tinfar_db['charset'])    
+            curr = conn.cursor()
+            
+            try:
+                sql = "insert into sell_record(name,phone,order_time,kind,amount,sell_price,total_price,trade_time,trade_place,comment,o_year,o_month,o_day) values('{0}','{1}','{2}','{3}','{4}','{5}','{6}','{7}','{8}','{9}','{10}','{11}','{12}')".format(order_name , order_phone , order_date , order_kind , order_amount , order_price , order_total_price , trade_date , trade_place , trade_comment , r_year , r_month , r_day)
+                res = curr.execute(sql)
 
-        ####################
-        # add sell record
-        ####################
-        r_year  = time.strftime("%Y" , time.localtime())
-        r_month = time.strftime("%m" , time.localtime())
-        r_day   = time.strftime("%d" , time.localtime())  
-        r_time  = time.strftime("%H:%M:%S" , time.localtime())
-        
-        conn = pymysql.connect(host=tinfar_db['host'],port=tinfar_db['port'],user=tinfar_db['user'],passwd=tinfar_db['pwd'],database=tinfar_db['db2'],charset=tinfar_db['charset'])    
-        curr = conn.cursor()
-        
-        try:
-            sql = "insert into sell_record(name,phone,order_time,kind,amount,sell_price,total_price,trade_time,trade_place,comment,o_year,o_month,o_day) values('{0}','{1}','{2}','{3}','{4}','{5}','{6}','{7}','{8}','{9}','{10}','{11}','{12}')".format(order_name , order_phone , order_date , order_kind , order_amount , order_price , order_total_price , trade_date , trade_place , trade_comment , r_year , r_month , r_day)
-            res = curr.execute(sql)
+                if res:
+                    logging.info('add sell record successful.')
+                    QMessageBox.information(self , 'Msg' , '新增網購紀錄成功.')
 
-            if res:
-                logging.info('add sell record successful.')
-                QMessageBox.information(self , 'Msg' , '新增網購紀錄成功.')
+                    ### clear all item
+                    self.ui.sell_name.clear()
+                    self.ui.sell_phone.clear()
+                    self.ui.sell_kind.clear()
+                    self.ui.sell_amount.clear()
+                    self.ui.sell_price.clear()
+                    self.ui.sell_total_price.clear()
+                    self.ui.sell_trade_time.clear()
+                    self.ui.sell_trade_place.clear()
+                    self.ui.sell_comment.clear()
 
-                ### clear all item
-                self.ui.sell_name.clear()
-                self.ui.sell_phone.clear()
-                self.ui.sell_kind.clear()
-                self.ui.sell_amount.clear()
-                self.ui.sell_price.clear()
-                self.ui.sell_total_price.clear()
-                self.ui.sell_trade_time.clear()
-                self.ui.sell_trade_place.clear()
-                self.ui.sell_comment.clear()
+                else:
+                    logging.info('add sell record failed.')
+                    QMessageBox.information(self , 'Msg' , '新增網購紀錄失敗.')
 
-            else:
-                logging.info('add sell record failed.')
-                QMessageBox.information(self , 'Msg' , '新增網購紀錄失敗.')
-
-        except Exception as e:
-            logging.info('< Error > submit_add_sell_record : ' + str(e))
-        finally:
-            conn.commit()
-            conn.close()
+            except Exception as e:
+                logging.info('< Error > submit_add_sell_record : ' + str(e))
+            finally:
+                conn.commit()
+                conn.close()
 
         ### reload sell record
         self.sell_record()
@@ -392,6 +393,27 @@ class main_content(QMainWindow):
         date_val = self.ui.sell_trade_time_selected.text()
         self.ui.sell_trade_time.setText(date_val)
     
+    #########################
+    # add_sell_total_price
+    #########################
+    def add_sell_total_price(self):
+        # Convert sell_amount and sell_price to numeric types
+        sell_amount_str = self.ui.sell_amount.text()
+        sell_price_str = self.ui.sell_price.text()
+
+        try:
+            sell_amount = int(sell_amount_str)  # Convert to int if it's an integer value
+            sell_price = float(sell_price_str)  # Convert to float to allow decimal values
+        except ValueError:
+            print("Invalid input. Please enter valid numeric values.")
+            return  # Return or handle the error gracefully
+
+        # Calculate the total_price
+        total_price = sell_amount * sell_price
+
+        # Update the total_price in the UI element
+        self.ui.sell_total_price.setText(str(total_price))
+
     ###############################
     # add_sell_order_record_date
     ###############################

@@ -687,7 +687,7 @@ class link_db:
                     ####################
                     # line notify one
                     ####################
-                    self.line_notify_one(title)
+                    #self.line_notify_one(title)
 
             ### record log
             # total counts
@@ -783,7 +783,7 @@ class link_db:
                     self.add.close()
 
                     ### line notify
-                    self.line_notify_one(title)
+                    #self.line_notify_one(title)
 
                 elif kind == 'udn':
                     ### variable
@@ -802,7 +802,7 @@ class link_db:
                     self.add.close()
 
                     ### line notify
-                    self.line_notify_one(title)
+                    #self.line_notify_one(title)
 
         except Exception as e:
             logging.info("< ERROR > add data db : " , str(e) , '\n')

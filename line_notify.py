@@ -173,7 +173,7 @@ class item_fun():
             pass
 
     ###############
-    # semd_email 
+    # send_email 
     ###############
     def send_email(self):
         
