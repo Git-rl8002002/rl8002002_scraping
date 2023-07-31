@@ -38,16 +38,16 @@ tinfar_smtp = {'host':'smtp.office365.com' , 'port':587 , 'tls':'true' , 'user':
 ######################
 txt_path = {'path':'/var/www/html/scraping/txt/' , 
             'et_news':'C:/Jason_python/rl8002002_scraping/txt/ET_news',
-            'tech':'C:/Jason_python/rl8002002_scraping/txt/txt/tech',
-            'udn':'C:/Jason_python/rl8002002_scraping/txt/txt/udn',
-            'pc_diy':'C:/Jason_python/rl8002002_scraping/txt/txt/pc_diy',
-            'duck_film':'C:/Jason_python/rl8002002_scraping/txt/txt/duck_film',
-            'duck_teleplay':'C:/Jason_python/rl8002002_scraping/txt/txt/duck_teleplay',
-            'duck_comic':'C:/Jason_python/rl8002002_scraping/txt/txt/duck_comic',
-            'ck101_news':'C:/Jason_python/rl8002002_scraping/txt/txt/ck101_news',
-            'commercial_times_news':'C:/Jason_python/rl8002002_scraping/txt/txt/commercial_times_news',
-            'network_attack_linux':'C:/Jason_python/rl8002002_scraping/txt/txt/network_attack',
-            'network_attack_mac':'C:/Jason_python/rl8002002_scraping/txt/txt/network_attack'}
+            'tech':'C:/Jason_python/rl8002002_scraping/txt/tech',
+            'udn':'C:/Jason_python/rl8002002_scraping/txt/udn',
+            'pc_diy':'C:/Jason_python/rl8002002_scraping/txt/pc_diy',
+            'duck_film':'C:/Jason_python/rl8002002_scraping/txt/duck_film',
+            'duck_teleplay':'C:/Jason_python/rl8002002_scraping/txt/duck_teleplay',
+            'duck_comic':'C:/Jason_python/rl8002002_scraping/txt/duck_comic',
+            'ck101_news':'C:/Jason_python/rl8002002_scraping/txt/ck101_news',
+            'commercial_times_news':'C:/Jason_python/rl8002002_scraping/txt/commercial_times_news',
+            'network_attack_linux':'C:/Jason_python/rl8002002_scraping/txt/network_attack',
+            'network_attack_mac':'C:/Jason_python/rl8002002_scraping/txt/network_attack'}
 
 
         
