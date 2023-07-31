@@ -777,7 +777,8 @@ class link_db:
                     self.r_day   = time.strftime("%Y-%m-%d" , time.localtime())
 
                     ### write txt file
-                    self.add = open(control.config.txt_path['tech'] + self.item + self.r_day + '.txt','a')
+                    #self.add = open(control.config.txt_path['tech'] + self.item + self.r_day + '.txt','a')
+                    self.add = open(control.config.txt_path['tech'] + self.r_day + '.txt','a')
                     self.add_content = str(self.r_time) + ' , ' + str(self.kind) + ' , ' + str(title) +  ' , '  + str(url) + '\n'
                     self.add.write(self.add_content)
                     self.add.close()
