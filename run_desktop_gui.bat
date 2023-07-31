@@ -1,3 +1,3 @@
 @echo off
 
-python scraping.py
+python main.py
