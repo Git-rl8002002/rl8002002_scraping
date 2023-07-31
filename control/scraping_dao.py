@@ -70,11 +70,11 @@ class link_db:
                     "Connection" : "keep-alive",
                     "Accept-Charset" : "GB2312,utf-8;q=0.7,*;q=0.7"}
 
-            self.url = url
-            html = requests.get(self.url , headers=headers , allow_redirects=False)
+            self.url      = url
+            html          = requests.get(self.url , headers=headers , allow_redirects=False)
             html.encoding = 'utf8'
-            soup = BeautifulSoup(html.text , 'html.parser')
-            content = soup.findAll('a')
+            soup          = BeautifulSoup(html.text , 'html.parser')
+            content       = soup.findAll('a')
         
             r_date = time.strftime("%Y-%m-%d %H:%M:%S" , time.localtime())
         
